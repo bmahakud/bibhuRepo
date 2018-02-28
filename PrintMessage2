@@ -1,0 +1,308 @@
+Begin processing the 1st record. Run 1, Event 2573115, LumiSection 1001 at 28-Feb-2018 18:14:27.930 CET
+Num L2 muons: 2
+Information of this muon :
+L2 pt, eta, phi: 44.6896 , -0.650336 , -1.25927
+Num of seeds for this l2 muon: 1 th:  7
+Information of this muon :
+L2 pt, eta, phi: 46.8275 , -0.179277 , 1.89398
+Num of seeds for this l2 muon: 1 th:  7
+Number of total seeds made in the event: 14
+Num of Track Candidates (hltIterL3OITrackCandidates): 2
+TrackProducer running ... with algo: iter10
+Num of Transient Tracks: 2
+Muon NTuple starts running ....
+Tight id and Isolated reco muon, pt,eta,phi:  49.8273 , -0.650131 , -1.26226
+Tight id and Isolated reco muon, pt,eta,phi:  41.3212 , -0.181423 , 1.88761
+Num of L3OI muon cands: 1
+L3 OI cand pt, eta, phi:  50.0188  :  -0.650219  : -1.26228
+
+
+
+
+
+Begin processing the 2nd record. Run 1, Event 20924903, LumiSection 8135 at 28-Feb-2018 18:15:05.223 CET
+Num L2 muons: 2
+Information of this muon :
+L2 pt, eta, phi: 37.7404 , -0.106398 , 0.321064
+Num of seeds for this l2 muon: 1 th:  6
+Information of this muon :
+L2 pt, eta, phi: 40.7806 , -1.07309 , -2.65576
+Num of seeds for this l2 muon: 1 th:  7
+Number of total seeds made in the event: 13
+Num of Track Candidates (hltIterL3OITrackCandidates): 3
+TrackProducer running ... with algo: iter10
+Num of Transient Tracks: 3
+Muon NTuple starts running ....
+Tight id and Isolated reco muon, pt,eta,phi:  41.9607 , -1.0687 , -2.65494
+Tight id and Isolated reco muon, pt,eta,phi:  39.3014 , -0.103212 , 0.322172
+Num of L3OI muon cands: 1
+L3 OI cand pt, eta, phi:  41.7783  :  -1.06873  : -2.65493
+
+
+Begin processing the 3rd record. Run 1, Event 20926171, LumiSection 8135 at 28-Feb-2018 18:15:08.494 CET
+Num L2 muons: 2
+Information of this muon :
+L2 pt, eta, phi: 28.1785 , 2.30002 , -0.00831748
+Num of seeds for this l2 muon: 1 th:  11
+Information of this muon :
+L2 pt, eta, phi: 69.6033 , 1.40791 , -2.99103
+Num of seeds for this l2 muon: 1 th:  1
+Number of total seeds made in the event: 12
+Num of Track Candidates (hltIterL3OITrackCandidates): 2
+TrackProducer running ... with algo: iter10
+Num of Transient Tracks: 2
+Muon NTuple starts running ....
+Tight id and Isolated reco muon, pt,eta,phi:  28.6025 , 2.29717 , -0.00934853
+Tight id and Isolated reco muon, pt,eta,phi:  60.6129 , 1.41308 , -2.99485
+Num of L3OI muon cands: 1
+L3 OI cand pt, eta, phi:  27.8691  :  2.29726  : -0.00905725
+
+
+Begin processing the 4th record. Run 1, Event 20926211, LumiSection 8135 at 28-Feb-2018 18:15:12.143 CET
+Num L2 muons: 2
+Information of this muon :
+L2 pt, eta, phi: 35.0101 , 2.0191 , 0.172131
+Num of seeds for this l2 muon: 1 th:  11
+Information of this muon :
+L2 pt, eta, phi: 142.422 , -0.279272 , 2.79445
+Num of seeds for this l2 muon: 1 th:  7
+Number of total seeds made in the event: 18
+Num of Track Candidates (hltIterL3OITrackCandidates): 1
+TrackProducer running ... with algo: iter10
+Num of Transient Tracks: 1
+Muon NTuple starts running ....
+Tight id and Isolated reco muon, pt,eta,phi:  32.7975 , 2.02143 , 0.17064
+Tight id and Isolated reco muon, pt,eta,phi:  21.4214 , -0.289945 , 2.88858
+Num of L3OI muon cands: 1
+L3 OI cand pt, eta, phi:  33.0475  :  2.0214  : 0.170774
+
+
+
+Begin processing the 5th record. Run 1, Event 21243854, LumiSection 8259 at 28-Feb-2018 18:15:39.656 CET
+Num L2 muons: 3
+Information of this muon :
+L2 pt, eta, phi: 43.4383 , 2.26326 , -0.0476083
+Num of seeds for this l2 muon: 1 th:  11
+Information of this muon :
+L2 pt, eta, phi: 38.4196 , 0.578342 , 1.46422
+Num of seeds for this l2 muon: 1 th:  7
+Information of this muon :
+L2 pt, eta, phi: 12.5913 , 1.0288 , -2.53824
+Num of seeds for this l2 muon: 1 th:  9
+Number of total seeds made in the event: 27
+Num of Track Candidates (hltIterL3OITrackCandidates): 6
+TrackProducer running ... with algo: iter10
+Num of Transient Tracks: 6
+Muon NTuple starts running ....
+Tight id and Isolated reco muon, pt,eta,phi:  47.0343 , 2.25375 , -0.0487461
+Tight id and Isolated reco muon, pt,eta,phi:  35.8944 , 0.588405 , 1.46119
+Num of L3OI muon cands: 3
+L3 OI cand pt, eta, phi:  46.3574  :  2.25258  : -0.048647
+L3 OI cand pt, eta, phi:  78.8853  :  0.492818  : 1.50831
+L3 OI cand pt, eta, phi:  12.6209  :  1.00795  : -2.54421
+
+
+
+Begin processing the 6th record. Run 1, Event 21244063, LumiSection 8259 at 28-Feb-2018 18:15:42.295 CET
+Num L2 muons: 2
+Information of this muon :
+L2 pt, eta, phi: 37.8276 , 0.970102 , -2.26012
+Num of seeds for this l2 muon: 1 th:  8
+Information of this muon :
+L2 pt, eta, phi: 23.1072 , -0.976814 , 0.334133
+Num of seeds for this l2 muon: 1 th:  7
+Number of total seeds made in the event: 15
+Num of Track Candidates (hltIterL3OITrackCandidates): 3
+TrackProducer running ... with algo: iter10
+Num of Transient Tracks: 2
+Muon NTuple starts running ....
+Tight id and Isolated reco muon, pt,eta,phi:  39.6174 , 0.976602 , -2.25759
+Tight id and Isolated reco muon, pt,eta,phi:  24.2399 , -0.974963 , 0.329467
+Num of L3OI muon cands: 1
+L3 OI cand pt, eta, phi:  39.3438  :  0.976652  : -2.25767
+
+
+
+
+Begin processing the 7th record. Run 1, Event 21244171, LumiSection 8259 at 28-Feb-2018 18:15:45.353 CET
+Num L2 muons: 2
+Information of this muon :
+L2 pt, eta, phi: 41.9283 , -0.427654 , 1.40012
+Num of seeds for this l2 muon: 1 th:  5
+Information of this muon :
+L2 pt, eta, phi: 41.4898 , 0.955182 , -2.24839
+Num of seeds for this l2 muon: 1 th:  7
+Number of total seeds made in the event: 12
+Num of Track Candidates (hltIterL3OITrackCandidates): 3
+TrackProducer running ... with algo: iter10
+Num of Transient Tracks: 3
+Muon NTuple starts running ....
+Tight id and Isolated reco muon, pt,eta,phi:  38.7354 , -0.428177 , 1.39746
+Tight id and Isolated reco muon, pt,eta,phi:  37.5795 , 0.969516 , -2.24399
+Num of L3OI muon cands: 1
+L3 OI cand pt, eta, phi:  38.58  :  -0.428139  : 1.39742
+
+
+
+Begin processing the 8th record. Run 1, Event 21244243, LumiSection 8259 at 28-Feb-2018 18:15:47.446 CET
+Num L2 muons: 2
+Information of this muon :
+L2 pt, eta, phi: 43.8431 , 1.82502 , -0.671179
+Num of seeds for this l2 muon: 1 th:  11
+Information of this muon :
+L2 pt, eta, phi: 38.8168 , 0.485686 , 2.12798
+Num of seeds for this l2 muon: 1 th:  6
+Number of total seeds made in the event: 17
+Num of Track Candidates (hltIterL3OITrackCandidates): 4
+TrackProducer running ... with algo: iter10
+Num of Transient Tracks: 4
+Muon NTuple starts running ....
+Tight id and Isolated reco muon, pt,eta,phi:  37.1362 , 1.82274 , -0.663155
+Tight id and Isolated reco muon, pt,eta,phi:  36.1517 , 0.488294 , 2.12659
+Num of L3OI muon cands: 1
+L3 OI cand pt, eta, phi:  37.3618  :  1.82267  : -0.663298
+
+
+
+Begin processing the 9th record. Run 1, Event 21244561, LumiSection 8259 at 28-Feb-2018 18:15:50.132 CET
+Num L2 muons: 2
+Information of this muon :
+L2 pt, eta, phi: 46.0822 , -0.829905 , -2.30503
+Num of seeds for this l2 muon: 1 th:  7
+Information of this muon :
+L2 pt, eta, phi: 39.8496 , 0.439906 , 0.522742
+Num of seeds for this l2 muon: 1 th:  6
+Number of total seeds made in the event: 13
+Num of Track Candidates (hltIterL3OITrackCandidates): 2
+TrackProducer running ... with algo: iter10
+Num of Transient Tracks: 2
+Muon NTuple starts running ....
+Tight id and Isolated reco muon, pt,eta,phi:  31.7271 , 0.439587 , 0.512666
+Tight id and Isolated reco muon, pt,eta,phi:  47.0113 , -0.824522 , -2.30458
+Num of L3OI muon cands: 1
+L3 OI cand pt, eta, phi:  31.8986  :  0.439602  : 0.512752
+
+
+
+Begin processing the 10th record. Run 1, Event 21247441, LumiSection 8260 at 28-Feb-2018 18:15:52.293 CET
+Num L2 muons: 2
+Information of this muon :
+L2 pt, eta, phi: 41.1597 , 1.6752 , -2.28248
+Num of seeds for this l2 muon: 1 th:  18
+Information of this muon :
+L2 pt, eta, phi: 44.6496 , 1.43474 , -0.398741
+Num of seeds for this l2 muon: 1 th:  1
+Number of total seeds made in the event: 19
+Num of Track Candidates (hltIterL3OITrackCandidates): 4
+TrackProducer running ... with algo: iter10
+Num of Transient Tracks: 4
+Muon NTuple starts running ....
+Tight id and Isolated reco muon, pt,eta,phi:  63.7734 , 1.67967 , -2.29017
+Tight id and Isolated reco muon, pt,eta,phi:  48.7179 , 1.43586 , -0.396119
+Num of L3OI muon cands: 1
+L3 OI cand pt, eta, phi:  64.2388  :  1.67966  : -2.29017
+
+
+
+Begin processing the 11th record. Run 1, Event 21247633, LumiSection 8260 at 28-Feb-2018 18:15:55.104 CET
+Num L2 muons: 2
+Information of this muon :
+L2 pt, eta, phi: 56.2626 , 1.48126 , 2.45737
+Num of seeds for this l2 muon: 1 th:  1
+Information of this muon :
+L2 pt, eta, phi: 73.3555 , 1.97512 , -0.411486
+Num of seeds for this l2 muon: 1 th:  11
+Number of total seeds made in the event: 12
+Num of Track Candidates (hltIterL3OITrackCandidates): 2
+TrackProducer running ... with algo: iter10
+Num of Transient Tracks: 2
+Muon NTuple starts running ....
+Tight id and Isolated reco muon, pt,eta,phi:  45.1368 , 1.97394 , -0.405212
+Tight id and Isolated reco muon, pt,eta,phi:  43.41 , 1.48288 , 2.44814
+Num of L3OI muon cands: 1
+L3 OI cand pt, eta, phi:  45.7075  :  1.97394  : -0.405198
+
+
+
+Begin processing the 12th record. Run 1, Event 23662308, LumiSection 9199 at 28-Feb-2018 18:16:23.869 CET
+Num L2 muons: 2
+Information of this muon :
+L2 pt, eta, phi: 59.4343 , -1.61295 , -2.29899
+Num of seeds for this l2 muon: 1 th:  12
+Information of this muon :
+L2 pt, eta, phi: 31.383 , -1.26704 , 1.05104
+Num of seeds for this l2 muon: 1 th:  7
+Number of total seeds made in the event: 19
+Num of Track Candidates (hltIterL3OITrackCandidates): 3
+TrackProducer running ... with algo: iter10
+Num of Transient Tracks: 3
+Muon NTuple starts running ....
+Tight id and Isolated reco muon, pt,eta,phi:  53.0403 , -1.63192 , -2.29686
+Tight id and Isolated reco muon, pt,eta,phi:  38.1877 , -1.26344 , 1.0578
+Num of L3OI muon cands: 1
+L3 OI cand pt, eta, phi:  52.0824  :  -1.6319  : -2.29679
+
+
+
+Begin processing the 13th record. Run 1, Event 23664315, LumiSection 9199 at 28-Feb-2018 18:16:25.676 CET
+Num L2 muons: 4
+Information of this muon :
+L2 pt, eta, phi: 56.0952 , 2.13991 , -2.80896
+Num of seeds for this l2 muon: 1 th:  11
+Information of this muon :
+L2 pt, eta, phi: 35.7892 , 1.65058 , 0.467986
+Num of seeds for this l2 muon: 1 th:  17
+Information of this muon :
+L2 pt, eta, phi: 4.05467 , 0.798328 , 1.0144
+Num of seeds for this l2 muon: 1 th:  15
+Information of this muon :
+L2 pt, eta, phi: 9.23746 , 3.85329 , -2.56118
+Num of seeds for this l2 muon: 1 th:  7
+Number of total seeds made in the event: 50
+Num of Track Candidates (hltIterL3OITrackCandidates): 9
+TrackProducer running ... with algo: iter10
+Num of Transient Tracks: 8
+Muon NTuple starts running ....
+Tight id and Isolated reco muon, pt,eta,phi:  58.7579 , 2.13538 , -2.80758
+Tight id and Isolated reco muon, pt,eta,phi:  35.0045 , 1.64096 , 0.468132
+Num of L3OI muon cands: 2
+L3 OI cand pt, eta, phi:  55.0258  :  2.13526  : -2.80773
+L3 OI cand pt, eta, phi:  35.0742  :  1.64095  : 0.468096
+
+
+Begin processing the 14th record. Run 1, Event 23664381, LumiSection 9199 at 28-Feb-2018 18:16:29.275 CET
+Num L2 muons: 2
+Information of this muon :
+L2 pt, eta, phi: 49.8484 , -1.67382 , 2.49726
+Num of seeds for this l2 muon: 1 th:  17
+Information of this muon :
+L2 pt, eta, phi: 44.8651 , -1.62194 , -0.65059
+Num of seeds for this l2 muon: 1 th:  17
+Number of total seeds made in the event: 34
+Num of Track Candidates (hltIterL3OITrackCandidates): 2
+TrackProducer running ... with algo: iter10
+Num of Transient Tracks: 2
+Muon NTuple starts running ....
+Tight id and Isolated reco muon, pt,eta,phi:  44.3381 , -1.67422 , 2.49557
+Tight id and Isolated reco muon, pt,eta,phi:  46.7552 , -1.62488 , -0.651346
+Num of L3OI muon cands: 1
+L3 OI cand pt, eta, phi:  45.4769  :  -1.67424  : 2.49564
+
+Begin processing the 15th record. Run 1, Event 23220049, LumiSection 9027 at 28-Feb-2018 18:16:56.945 CET
+Num L2 muons: 2
+Information of this muon :
+L2 pt, eta, phi: 81.1713 , 1.8872 , 1.23803
+Num of seeds for this l2 muon: 1 th:  11
+Information of this muon :
+L2 pt, eta, phi: 105.48 , 1.15114 , -1.82609
+Num of seeds for this l2 muon: 1 th:  8
+Number of total seeds made in the event: 19
+Num of Track Candidates (hltIterL3OITrackCandidates): 3
+TrackProducer running ... with algo: iter10
+Num of Transient Tracks: 3
+Muon NTuple starts running ....
+Tight id and Isolated reco muon, pt,eta,phi:  52.7612 , 1.89421 , 1.2326
+Tight id and Isolated reco muon, pt,eta,phi:  31.0903 , 1.14378 , -1.77035
+Num of L3OI muon cands: 1
+L3 OI cand pt, eta, phi:  52.6789  :  1.89416  : 1.23259
+
