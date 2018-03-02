@@ -1,0 +1,1022 @@
+02-Mar-2018 13:13:39 CST  Successfully opened file root://cmsxrootd.fnal.gov//store/mc/RunIISummer17DRStdmix/DYJetsToLL_M-50_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/GEN-SIM-RAW/NZSFlatPU28to62_92X_upgrade2017_realistic_v10_ext1-v1/20003/EE609BF1-ACC9-E711-A3F7-1866DA8797A4.root
+Begin processing the 1st record. Run 1, Event 2573115, LumiSection 1001 at 02-Mar-2018 13:14:00.586 CST
+Num L2 muons: 2
+Information of this muon :
+L2 pt, eta, phi: 44.6896 , -0.650336 , -1.25927
+L2 px, py, z: 13.6979 , -42.5386 , -31.1557
+Num of seeds for this l2 muon: 1 th:  7
+Information of this muon :
+L2 pt, eta, phi: 46.8275 , -0.179277 , 1.89398
+L2 px, py, z: -14.8718 , 44.4032 , -8.44011
+Num of seeds for this l2 muon: 2 th:  7
+Number of total seeds made in the event: 14
+Num of Track Candidates (hltIterL3OITrackCandidates): 2
+TrackProducer running ... with algo: iter10
+Num of Transient Tracks: 2
+gen muon found: pt: 49.6462 eta: -0.650003 phi: -1.26219
+gen muon found: pt: 41.4811 eta: -0.181474 phi: 1.88763
+RECO Muon - pT, eta, phi: 49.8273 , -0.650131 , -1.26226
+L2 Muon - pT, eta, phi, DR(recomu,L2): 44.6896 , -0.650336 , -1.25927 , 0.00300088
+RECO Muon - pT, eta, phi: 41.3212 , -0.181423 , 1.88761
+L2 Muon - pT, eta, phi, DR(recomu,L2): 46.8275 , -0.179277 , 1.89398 , 0.00671896
+---------------------------------------------
+# of hltL3TkTracksCandOI(Trackcandidates)  = 2
+# of hltL3TkTracksOINoHP(Transient Tracks)  = 2
+hltL3TkTracksOINoHP(Transient Tracks) -->      pt: 50.0188 eta: -0.650219 phi: -1.26228
+Pixel Hits(hitPattern().numberOfValidPixelHits()):    4
+dz Wrt beam spot position:        5.2385
+d0:  0.00102054
+d0 Error:    0.000728682
+num of Degrees of freedom: :    23
+Chi2 value(normalizedChi2()):                1.00703
+Hits:(numberOfValidHits()):      14
+TrkLayers with measurement:      14
+num3D Layers: 8
+Trk Layers without measurement:  0
+dxy:       0.00156416
+Number of lost hits: 0
+hltL3TkTracksOINoHP(Transient Tracks) -->      pt: 55.2324 eta: -0.540501 phi: -1.31582
+Pixel Hits(hitPattern().numberOfValidPixelHits()):    0
+dz Wrt beam spot position:        -13.2578
+d0:  -4.62879
+d0 Error:    0.0689154
+num of Degrees of freedom: :    5
+Chi2 value(normalizedChi2()):                1.24136
+Hits:(numberOfValidHits()):      5
+TrkLayers with measurement:      5
+num3D Layers: 1
+Trk Layers without measurement:  1
+dxy:       4.6353
+Number of lost hits: 1
+Num of L3OI muon cands: 1
+L3 OI cand pt, eta, phi:  50.0188  :  -0.650219  : -1.26228
+
+
+Begin processing the 2nd record. Run 1, Event 20924903, LumiSection 8135 at 02-Mar-2018 13:15:10.362 CST
+Num L2 muons: 2
+Information of this muon :
+L2 pt, eta, phi: 37.7404 , -0.106398 , 0.321064
+L2 px, py, z: 35.8119 , 11.91 , -4.02307
+Num of seeds for this l2 muon: 1 th:  6
+Information of this muon :
+L2 pt, eta, phi: 40.7806 , -1.07309 , -2.65576
+L2 px, py, z: -36.0616 , -19.0425 , -52.6572
+Num of seeds for this l2 muon: 2 th:  7
+Number of total seeds made in the event: 13
+Num of Track Candidates (hltIterL3OITrackCandidates): 3
+TrackProducer running ... with algo: iter10
+Num of Transient Tracks: 3
+gen muon found: pt: 42.401 eta: -1.06879 phi: -2.655
+gen muon found: pt: 39.5244 eta: -0.102537 phi: 0.3223
+RECO Muon - pT, eta, phi: 41.9607 , -1.0687 , -2.65494
+L2 Muon - pT, eta, phi, DR(recomu,L2): 40.7806 , -1.07309 , -2.65576 , 0.00446755
+RECO Muon - pT, eta, phi: 39.3014 , -0.103212 , 0.322172
+L2 Muon - pT, eta, phi, DR(recomu,L2): 37.7405 , -0.106398 , 0.321064 , 0.00337332
+---------------------------------------------
+# of hltL3TkTracksCandOI(Trackcandidates)  = 3
+# of hltL3TkTracksOINoHP(Transient Tracks)  = 3
+hltL3TkTracksOINoHP(Transient Tracks) -->      pt: 48.4966 eta: -0.054212 phi: 0.326123
+Pixel Hits(hitPattern().numberOfValidPixelHits()):    0
+dz Wrt beam spot position:        -6.18597
+d0:  0.0514085
+d0 Error:    0.0226877
+num of Degrees of freedom: :    9
+Chi2 value(normalizedChi2()):                1.60457
+Hits:(numberOfValidHits()):      7
+TrkLayers with measurement:      7
+num3D Layers: 1
+Trk Layers without measurement:  1
+dxy:       -0.124986
+Number of lost hits: 1
+hltL3TkTracksOINoHP(Transient Tracks) -->      pt: 41.7783 eta: -1.06873 phi: -2.65493
+Pixel Hits(hitPattern().numberOfValidPixelHits()):    4
+dz Wrt beam spot position:        -3.28067
+d0:  0.0752534
+d0 Error:    0.000560697
+num of Degrees of freedom: :    17
+Chi2 value(normalizedChi2()):                0.465229
+Hits:(numberOfValidHits()):      11
+TrkLayers with measurement:      11
+num3D Layers: 8
+Trk Layers without measurement:  0
+dxy:       -0.00241606
+Number of lost hits: 0
+hltL3TkTracksOINoHP(Transient Tracks) -->      pt: 119.414 eta: -1.08979 phi: -2.65468
+Pixel Hits(hitPattern().numberOfValidPixelHits()):    0
+dz Wrt beam spot position:        -9.49011
+d0:  3.0963
+d0 Error:    0.0100738
+num of Degrees of freedom: :    5
+Chi2 value(normalizedChi2()):                4.32348
+Hits:(numberOfValidHits()):      5
+TrkLayers with measurement:      5
+num3D Layers: 3
+Trk Layers without measurement:  1
+dxy:       -3.02346
+Number of lost hits: 1
+Num of L3OI muon cands: 1
+L3 OI cand pt, eta, phi:  41.7783  :  -1.06873  : -2.65493
+Begin processing the 3rd record. Run 1, Event 20926171, LumiSection 8135 at 02-Mar-2018 13:15:14.240 CST
+Num L2 muons: 2
+Information of this muon :
+L2 pt, eta, phi: 28.1785 , 2.30002 , -0.00831748
+L2 px, py, z: 28.1775 , -0.234371 , 139.119
+Num of seeds for this l2 muon: 1 th:  11
+Information of this muon :
+L2 pt, eta, phi: 69.6033 , 1.40791 , -2.99103
+L2 px, py, z: -68.8159 , -10.44 , 133.734
+Num of seeds for this l2 muon: 2 th:  1
+Number of total seeds made in the event: 12
+Num of Track Candidates (hltIterL3OITrackCandidates): 2
+TrackProducer running ... with algo: iter10
+Num of Transient Tracks: 2
+gen muon found: pt: 27.9886 eta: 2.29689 phi: -0.00904878
+gen muon found: pt: 61.4402 eta: 1.41267 phi: -2.99479
+RECO Muon - pT, eta, phi: 28.6025 , 2.29717 , -0.00934853
+L2 Muon - pT, eta, phi, DR(recomu,L2): 28.1785 , 2.30002 , -0.00831748 , 0.00303038
+RECO Muon - pT, eta, phi: 60.6129 , 1.41308 , -2.99485
+L2 Muon - pT, eta, phi, DR(recomu,L2): 69.6033 , 1.40791 , -2.99103 , 0.00642734
+---------------------------------------------
+# of hltL3TkTracksCandOI(Trackcandidates)  = 2
+# of hltL3TkTracksOINoHP(Transient Tracks)  = 2
+hltL3TkTracksOINoHP(Transient Tracks) -->      pt: 27.8691 eta: 2.29726 phi: -0.00905725
+Pixel Hits(hitPattern().numberOfValidPixelHits()):    4
+dz Wrt beam spot position:        -0.0483575
+d0:  -0.0697812
+d0 Error:    0.00215439
+num of Degrees of freedom: :    21
+Chi2 value(normalizedChi2()):                0.98444
+Hits:(numberOfValidHits()):      13
+TrkLayers with measurement:      13
+num3D Layers: 9
+Trk Layers without measurement:  0
+dxy:       0.000722498
+Number of lost hits: 0
+hltL3TkTracksOINoHP(Transient Tracks) -->      pt: 9.31193 eta: 1.39166 phi: -2.89021
+Pixel Hits(hitPattern().numberOfValidPixelHits()):    0
+dz Wrt beam spot position:        8.71488
+d0:  3.96029
+d0 Error:    1.66377
+num of Degrees of freedom: :    3
+Chi2 value(normalizedChi2()):                1.06162
+Hits:(numberOfValidHits()):      4
+TrkLayers with measurement:      4
+num3D Layers: 0
+Trk Layers without measurement:  0
+dxy:       -3.88702
+Number of lost hits: 0
+Num of L3OI muon cands: 1
+L3 OI cand pt, eta, phi:  27.8691  :  2.29726  : -0.00905725
+Begin processing the 4th record. Run 1, Event 20926211, LumiSection 8135 at 02-Mar-2018 13:15:18.267 CST
+Num L2 muons: 2
+Information of this muon :
+L2 pt, eta, phi: 35.0101 , 2.0191 , 0.172131
+L2 px, py, z: 34.4927 , 5.9966 , 129.515
+Num of seeds for this l2 muon: 1 th:  11
+Information of this muon :
+L2 pt, eta, phi: 142.422 , -0.279272 , 2.79445
+L2 px, py, z: -133.926 , 48.4535 , -40.2934
+Num of seeds for this l2 muon: 2 th:  7
+Number of total seeds made in the event: 18
+Num of Track Candidates (hltIterL3OITrackCandidates): 1
+TrackProducer running ... with algo: iter10
+Num of Transient Tracks: 1
+gen muon found: pt: 33.1256 eta: 2.02135 phi: 0.170741
+gen muon found: pt: 21.9677 eta: -0.290164 phi: 2.88841
+RECO Muon - pT, eta, phi: 32.7975 , 2.02143 , 0.17064
+L2 Muon - pT, eta, phi, DR(recomu,L2): 35.0101 , 2.0191 , 0.172131 , 0.00276889
+RECO Muon - pT, eta, phi: 21.4214 , -0.289945 , 2.88858
+L2 Muon - pT, eta, phi, DR(recomu,L2): 142.422 , -0.279272 , 2.79445 , 0.0947278
+---------------------------------------------
+# of hltL3TkTracksCandOI(Trackcandidates)  = 1
+# of hltL3TkTracksOINoHP(Transient Tracks)  = 1
+hltL3TkTracksOINoHP(Transient Tracks) -->      pt: 33.0475 eta: 2.0214 phi: 0.170774
+Pixel Hits(hitPattern().numberOfValidPixelHits()):    5
+dz Wrt beam spot position:        -2.71944
+d0:  -0.070947
+d0 Error:    0.00102611
+num of Degrees of freedom: :    25
+Chi2 value(normalizedChi2()):                1.16172
+Hits:(numberOfValidHits()):      15
+TrkLayers with measurement:      15
+num3D Layers: 11
+Trk Layers without measurement:  0
+dxy:       -0.00154478
+Number of lost hits: 0
+Num of L3OI muon cands: 1
+L3 OI cand pt, eta, phi:  33.0475  :  2.0214  : 0.170774
+
+Begin processing the 5th record. Run 1, Event 21243854, LumiSection 8259 at 02-Mar-2018 13:15:50.033 CST
+Num L2 muons: 3
+Information of this muon :
+L2 pt, eta, phi: 43.4383 , 2.26326 , -0.0476083
+L2 px, py, z: 43.389 , -2.06724 , 206.557
+Num of seeds for this l2 muon: 1 th:  11
+Information of this muon :
+L2 pt, eta, phi: 38.4196 , 0.578342 , 1.46422
+L2 px, py, z: 4.08669 , 38.2016 , 23.4792
+Num of seeds for this l2 muon: 2 th:  7
+Information of this muon :
+L2 pt, eta, phi: 12.5913 , 1.0288 , -2.53824
+L2 px, py, z: -10.3682 , -7.1444 , 15.3632
+Num of seeds for this l2 muon: 3 th:  9
+Number of total seeds made in the event: 27
+Num of Track Candidates (hltIterL3OITrackCandidates): 6
+TrackProducer running ... with algo: iter10
+Num of Transient Tracks: 6
+gen muon found: pt: 43.2939 eta: 2.25396 phi: -0.0477909
+gen muon found: pt: 36.2296 eta: 0.588393 phi: 1.46103
+gen muon found: pt: 12.313 eta: 1.00837 phi: -2.54485
+RECO Muon - pT, eta, phi: 47.0343 , 2.25375 , -0.0487461
+L2 Muon - pT, eta, phi, DR(recomu,L2): 43.4383 , 2.26326 , -0.0476083 , 0.00957904
+RECO Muon - pT, eta, phi: 12.5808 , 1.00796 , -2.54433
+RECO Muon - pT, eta, phi: 35.8944 , 0.588405 , 1.46119
+L2 Muon - pT, eta, phi, DR(recomu,L2): 38.4196 , 0.578342 , 1.46422 , 0.0105093
+---------------------------------------------
+# of hltL3TkTracksCandOI(Trackcandidates)  = 6
+# of hltL3TkTracksOINoHP(Transient Tracks)  = 6
+hltL3TkTracksOINoHP(Transient Tracks) -->      pt: 46.3574 eta: 2.25258 phi: -0.048647
+Pixel Hits(hitPattern().numberOfValidPixelHits()):    3
+dz Wrt beam spot position:        6.09424
+d0:  -0.0723541
+d0 Error:    0.00116206
+num of Degrees of freedom: :    19
+Chi2 value(normalizedChi2()):                1.40854
+Hits:(numberOfValidHits()):      12
+TrkLayers with measurement:      12
+num3D Layers: 8
+Trk Layers without measurement:  1
+dxy:       0.00435558
+Number of lost hits: 1
+hltL3TkTracksOINoHP(Transient Tracks) -->      pt: 5.14113 eta: 2.24958 phi: 0.118023
+Pixel Hits(hitPattern().numberOfValidPixelHits()):    0
+dz Wrt beam spot position:        41.2381
+d0:  5.82865
+d0 Error:    0.0487222
+num of Degrees of freedom: :    3
+Chi2 value(normalizedChi2()):                3.29431
+Hits:(numberOfValidHits()):      4
+TrkLayers with measurement:      4
+num3D Layers: 2
+Trk Layers without measurement:  1
+dxy:       -5.90038
+Number of lost hits: 1
+hltL3TkTracksOINoHP(Transient Tracks) -->      pt: 35.4053 eta: 0.600738 phi: 1.46081
+Pixel Hits(hitPattern().numberOfValidPixelHits()):    0
+dz Wrt beam spot position:        4.98666
+d0:  -0.0429625
+d0 Error:    0.00914464
+num of Degrees of freedom: :    11
+Chi2 value(normalizedChi2()):                2.37984
+Hits:(numberOfValidHits()):      8
+TrkLayers with measurement:      8
+num3D Layers: 3
+Trk Layers without measurement:  1
+dxy:       0.0107136
+Number of lost hits: 1
+hltL3TkTracksOINoHP(Transient Tracks) -->      pt: 78.8853 eta: 0.492818 phi: 1.50831
+Pixel Hits(hitPattern().numberOfValidPixelHits()):    1
+dz Wrt beam spot position:        30.3257
+d0:  2.51318
+d0 Error:    0.00446205
+num of Degrees of freedom: :    7
+Chi2 value(normalizedChi2()):                1.77509
+Hits:(numberOfValidHits()):      6
+TrkLayers with measurement:      6
+num3D Layers: 2
+Trk Layers without measurement:  1
+dxy:       -2.54225
+Number of lost hits: 1
+hltL3TkTracksOINoHP(Transient Tracks) -->      pt: 23.3389 eta: 1.05493 phi: -2.42021
+Pixel Hits(hitPattern().numberOfValidPixelHits()):    0
+dz Wrt beam spot position:        -9.09443
+d0:  0.342755
+d0 Error:    0.0586696
+num of Degrees of freedom: :    5
+Chi2 value(normalizedChi2()):                1.70456
+Hits:(numberOfValidHits()):      5
+TrkLayers with measurement:      5
+num3D Layers: 1
+Trk Layers without measurement:  1
+dxy:       -0.274354
+Number of lost hits: 1
+hltL3TkTracksOINoHP(Transient Tracks) -->      pt: 12.6209 eta: 1.00795 phi: -2.54421
+Pixel Hits(hitPattern().numberOfValidPixelHits()):    4
+dz Wrt beam spot position:        6.05491
+d0:  0.0695103
+d0 Error:    0.00135853
+num of Degrees of freedom: :    17
+Chi2 value(normalizedChi2()):                1.26693
+Hits:(numberOfValidHits()):      11
+TrkLayers with measurement:      11
+num3D Layers: 8
+Trk Layers without measurement:  0
+dxy:       0.00172208
+Number of lost hits: 0
+Num of L3OI muon cands: 3
+L3 OI cand pt, eta, phi:  46.3574  :  2.25258  : -0.048647
+L3 OI cand pt, eta, phi:  78.8853  :  0.492818  : 1.50831
+L3 OI cand pt, eta, phi:  12.6209  :  1.00795  : -2.54421
+Begin processing the 6th record. Run 1, Event 21244063, LumiSection 8259 at 02-Mar-2018 13:15:53.241 CST
+Num L2 muons: 2
+Information of this muon :
+L2 pt, eta, phi: 37.8276 , 0.970102 , -2.26012
+L2 px, py, z: -24.0589 , -29.1907 , 42.7295
+Num of seeds for this l2 muon: 1 th:  8
+Information of this muon :
+L2 pt, eta, phi: 23.1072 , -0.976814 , 0.334133
+L2 px, py, z: 21.8293 , 7.57802 , -26.3362
+Num of seeds for this l2 muon: 2 th:  7
+Number of total seeds made in the event: 15
+Num of Track Candidates (hltIterL3OITrackCandidates): 3
+TrackProducer running ... with algo: iter10
+Num of Transient Tracks: 2
+gen muon found: pt: 23.8992 eta: -0.974824 phi: 0.329448
+gen muon found: pt: 39.0665 eta: 0.976618 phi: -2.25767
+RECO Muon - pT, eta, phi: 1.00249 , -1.66465 , 1.0106
+RECO Muon - pT, eta, phi: 1.33732 , 1.80639 , -2.60666
+RECO Muon - pT, eta, phi: 39.6174 , 0.976602 , -2.25759
+L2 Muon - pT, eta, phi, DR(recomu,L2): 37.8276 , 0.970102 , -2.26012 , 0.00697443
+RECO Muon - pT, eta, phi: 24.2399 , -0.974963 , 0.329467
+L2 Muon - pT, eta, phi, DR(recomu,L2): 23.1072 , -0.976814 , 0.334133 , 0.00501934
+---------------------------------------------
+# of hltL3TkTracksCandOI(Trackcandidates)  = 3
+# of hltL3TkTracksOINoHP(Transient Tracks)  = 2
+hltL3TkTracksOINoHP(Transient Tracks) -->      pt: 39.3438 eta: 0.976652 phi: -2.25767
+Pixel Hits(hitPattern().numberOfValidPixelHits()):    4
+dz Wrt beam spot position:        -3.13317
+d0:  0.0636961
+d0 Error:    0.000746512
+num of Degrees of freedom: :    19
+Chi2 value(normalizedChi2()):                1.1838
+Hits:(numberOfValidHits()):      12
+TrkLayers with measurement:      12
+num3D Layers: 8
+Trk Layers without measurement:  0
+dxy:       -0.000588997
+Number of lost hits: 0
+hltL3TkTracksOINoHP(Transient Tracks) -->      pt: 339.882 eta: 0.978202 phi: -2.24773
+Pixel Hits(hitPattern().numberOfValidPixelHits()):    1
+dz Wrt beam spot position:        9.55466
+d0:  -0.958296
+d0 Error:    0.00455479
+num of Degrees of freedom: :    5
+Chi2 value(normalizedChi2()):                2.55514
+Hits:(numberOfValidHits()):      5
+TrkLayers with measurement:      5
+num3D Layers: 3
+Trk Layers without measurement:  1
+dxy:       1.02102
+Number of lost hits: 1
+Num of L3OI muon cands: 1
+L3 OI cand pt, eta, phi:  39.3438  :  0.976652  : -2.25767
+Begin processing the 7th record. Run 1, Event 21244171, LumiSection 8259 at 02-Mar-2018 13:15:56.793 CST
+Num L2 muons: 2
+Information of this muon :
+L2 pt, eta, phi: 41.9283 , -0.427654 , 1.40012
+L2 px, py, z: 7.12138 , 41.3191 , -18.4824
+Num of seeds for this l2 muon: 1 th:  5
+Information of this muon :
+L2 pt, eta, phi: 41.4898 , 0.955182 , -2.24839
+L2 px, py, z: -26.0108 , -32.3239 , 45.9375
+Num of seeds for this l2 muon: 2 th:  7
+Number of total seeds made in the event: 12
+Num of Track Candidates (hltIterL3OITrackCandidates): 3
+TrackProducer running ... with algo: iter10
+Num of Transient Tracks: 3
+gen muon found: pt: 36.4779 eta: 0.96968 phi: -2.24373
+gen muon found: pt: 38.5084 eta: -0.42835 phi: 1.39754
+RECO Muon - pT, eta, phi: 1.13421 , -1.63208 , -0.0282161
+RECO Muon - pT, eta, phi: 38.7354 , -0.428177 , 1.39746
+L2 Muon - pT, eta, phi, DR(recomu,L2): 41.9283 , -0.427654 , 1.40012 , 0.00271306
+RECO Muon - pT, eta, phi: 37.5795 , 0.969516 , -2.24399
+L2 Muon - pT, eta, phi, DR(recomu,L2): 41.4898 , 0.955182 , -2.24839 , 0.0149958
+---------------------------------------------
+# of hltL3TkTracksCandOI(Trackcandidates)  = 3
+# of hltL3TkTracksOINoHP(Transient Tracks)  = 3
+hltL3TkTracksOINoHP(Transient Tracks) -->      pt: 38.58 eta: -0.428139 phi: 1.39742
+Pixel Hits(hitPattern().numberOfValidPixelHits()):    4
+dz Wrt beam spot position:        -3.87867
+d0:  -0.0371047
+d0 Error:    0.0010031
+num of Degrees of freedom: :    23
+Chi2 value(normalizedChi2()):                1.17092
+Hits:(numberOfValidHits()):      14
+TrkLayers with measurement:      14
+num3D Layers: 8
+Trk Layers without measurement:  0
+dxy:       0.00073031
+Number of lost hits: 0
+hltL3TkTracksOINoHP(Transient Tracks) -->      pt: 137.905 eta: 0.957671 phi: -2.25339
+Pixel Hits(hitPattern().numberOfValidPixelHits()):    0
+dz Wrt beam spot position:        -8.16024
+d0:  -0.135388
+d0 Error:    0.031935
+num of Degrees of freedom: :    7
+Chi2 value(normalizedChi2()):                1.52785
+Hits:(numberOfValidHits()):      6
+TrkLayers with measurement:      6
+num3D Layers: 2
+Trk Layers without measurement:  1
+dxy:       0.198333
+Number of lost hits: 1
+hltL3TkTracksOINoHP(Transient Tracks) -->      pt: 15.0129 eta: 1.02862 phi: -2.19076
+Pixel Hits(hitPattern().numberOfValidPixelHits()):    1
+dz Wrt beam spot position:        -1.96773
+d0:  0.0973216
+d0 Error:    0.00405246
+num of Degrees of freedom: :    5
+Chi2 value(normalizedChi2()):                2.42057
+Hits:(numberOfValidHits()):      5
+TrkLayers with measurement:      5
+num3D Layers: 3
+Trk Layers without measurement:  1
+dxy:       -0.0368866
+Number of lost hits: 1
+Num of L3OI muon cands: 1
+L3 OI cand pt, eta, phi:  38.58  :  -0.428139  : 1.39742
+Begin processing the 8th record. Run 1, Event 21244243, LumiSection 8259 at 02-Mar-2018 13:16:00.065 CST
+Num L2 muons: 2
+Information of this muon :
+L2 pt, eta, phi: 43.8431 , 1.82502 , -0.671179
+L2 px, py, z: 34.3331 , -27.2665 , 132.444
+Num of seeds for this l2 muon: 1 th:  11
+Information of this muon :
+L2 pt, eta, phi: 38.8168 , 0.485686 , 2.12798
+L2 px, py, z: -20.5261 , 32.9457 , 19.6028
+Num of seeds for this l2 muon: 2 th:  6
+Number of total seeds made in the event: 17
+Num of Track Candidates (hltIterL3OITrackCandidates): 4
+TrackProducer running ... with algo: iter10
+Num of Transient Tracks: 4
+gen muon found: pt: 35.7159 eta: 0.488357 phi: 2.12666
+gen muon found: pt: 38.2264 eta: 1.82266 phi: -0.663153
+RECO Muon - pT, eta, phi: 37.1362 , 1.82274 , -0.663155
+L2 Muon - pT, eta, phi, DR(recomu,L2): 43.8431 , 1.82502 , -0.671179 , 0.00834142
+RECO Muon - pT, eta, phi: 36.1517 , 0.488294 , 2.12659
+L2 Muon - pT, eta, phi, DR(recomu,L2): 38.8168 , 0.485686 , 2.12798 , 0.0029514
+---------------------------------------------
+# of hltL3TkTracksCandOI(Trackcandidates)  = 4
+# of hltL3TkTracksOINoHP(Transient Tracks)  = 4
+hltL3TkTracksOINoHP(Transient Tracks) -->      pt: 37.3618 eta: 1.82267 phi: -0.663298
+Pixel Hits(hitPattern().numberOfValidPixelHits()):    5
+dz Wrt beam spot position:        1.63049
+d0:  -0.0400079
+d0 Error:    0.00177179
+num of Degrees of freedom: :    29
+Chi2 value(normalizedChi2()):                0.88612
+Hits:(numberOfValidHits()):      17
+TrkLayers with measurement:      17
+num3D Layers: 9
+Trk Layers without measurement:  0
+dxy:       0.000678732
+Number of lost hits: 0
+hltL3TkTracksOINoHP(Transient Tracks) -->      pt: 3.02984 eta: 1.60066 phi: -0.513939
+Pixel Hits(hitPattern().numberOfValidPixelHits()):    0
+dz Wrt beam spot position:        67.1058
+d0:  3.97726
+d0 Error:    0.838469
+num of Degrees of freedom: :    3
+Chi2 value(normalizedChi2()):                7.55832
+Hits:(numberOfValidHits()):      4
+TrkLayers with measurement:      4
+num3D Layers: 0
+Trk Layers without measurement:  1
+dxy:       -4.02541
+Number of lost hits: 1
+hltL3TkTracksOINoHP(Transient Tracks) -->      pt: 3.1329 eta: 1.64669 phi: -0.78853
+Pixel Hits(hitPattern().numberOfValidPixelHits()):    0
+dz Wrt beam spot position:        69.2881
+d0:  1.88669
+d0 Error:    0.350392
+num of Degrees of freedom: :    7
+Chi2 value(normalizedChi2()):                2.59515
+Hits:(numberOfValidHits()):      6
+TrkLayers with measurement:      6
+num3D Layers: 0
+Trk Layers without measurement:  0
+dxy:       -1.91794
+Number of lost hits: 0
+hltL3TkTracksOINoHP(Transient Tracks) -->      pt: 36.441 eta: 0.488325 phi: 2.12668
+Pixel Hits(hitPattern().numberOfValidPixelHits()):    0
+dz Wrt beam spot position:        1.66188
+d0:  0.0179857
+d0 Error:    0.00896781
+num of Degrees of freedom: :    9
+Chi2 value(normalizedChi2()):                1.10517
+Hits:(numberOfValidHits()):      7
+TrkLayers with measurement:      7
+num3D Layers: 3
+Trk Layers without measurement:  0
+dxy:       -0.00248432
+Number of lost hits: 0
+Num of L3OI muon cands: 1
+L3 OI cand pt, eta, phi:  37.3618  :  1.82267  : -0.663298
+Begin processing the 9th record. Run 1, Event 21244561, LumiSection 8259 at 02-Mar-2018 13:16:02.628 CST
+Num L2 muons: 2
+Information of this muon :
+L2 pt, eta, phi: 46.0822 , -0.829905 , -2.30503
+L2 px, py, z: -30.8759 , -34.2089 , -42.7875
+Num of seeds for this l2 muon: 1 th:  7
+Information of this muon :
+L2 pt, eta, phi: 39.8496 , 0.439906 , 0.522742
+L2 px, py, z: 34.5278 , 19.8952 , 18.101
+Num of seeds for this l2 muon: 2 th:  6
+Number of total seeds made in the event: 13
+Num of Track Candidates (hltIterL3OITrackCandidates): 2
+TrackProducer running ... with algo: iter10
+Num of Transient Tracks: 2
+gen muon found: pt: 46.4985 eta: -0.824751 phi: -2.30422
+gen muon found: pt: 31.6331 eta: 0.439593 phi: 0.512784
+RECO Muon - pT, eta, phi: 1.088 , 2.08703 , 3.05187
+RECO Muon - pT, eta, phi: 31.7271 , 0.439587 , 0.512666
+L2 Muon - pT, eta, phi, DR(recomu,L2): 39.8496 , 0.439906 , 0.522742 , 0.0100808
+RECO Muon - pT, eta, phi: 47.0113 , -0.824522 , -2.30458
+L2 Muon - pT, eta, phi, DR(recomu,L2): 46.0822 , -0.829905 , -2.30503 , 0.00540133
+---------------------------------------------
+# of hltL3TkTracksCandOI(Trackcandidates)  = 2
+# of hltL3TkTracksOINoHP(Transient Tracks)  = 2
+hltL3TkTracksOINoHP(Transient Tracks) -->      pt: 47.9748 eta: -0.801121 phi: -2.30498
+Pixel Hits(hitPattern().numberOfValidPixelHits()):    0
+dz Wrt beam spot position:        -8.90203
+d0:  0.0521018
+d0 Error:    0.00573291
+num of Degrees of freedom: :    11
+Chi2 value(normalizedChi2()):                1.47231
+Hits:(numberOfValidHits()):      8
+TrkLayers with measurement:      8
+num3D Layers: 3
+Trk Layers without measurement:  1
+dxy:       0.012725
+Number of lost hits: 1
+hltL3TkTracksOINoHP(Transient Tracks) -->      pt: 31.8986 eta: 0.439602 phi: 0.512752
+Pixel Hits(hitPattern().numberOfValidPixelHits()):    4
+dz Wrt beam spot position:        -8.88082
+d0:  -0.0749201
+d0 Error:    0.00129855
+num of Degrees of freedom: :    19
+Chi2 value(normalizedChi2()):                0.987349
+Hits:(numberOfValidHits()):      12
+TrkLayers with measurement:      12
+num3D Layers: 7
+Trk Layers without measurement:  0
+dxy:       0.00238114
+Number of lost hits: 0
+Num of L3OI muon cands: 1
+L3 OI cand pt, eta, phi:  31.8986  :  0.439602  : 0.512752
+Begin processing the 10th record. Run 1, Event 21247441, LumiSection 8260 at 02-Mar-2018 13:16:05.651 CST
+Num L2 muons: 2
+Information of this muon :
+L2 pt, eta, phi: 41.1597 , 1.6752 , -2.28248
+L2 px, py, z: -26.8819 , -31.1686 , 106.04
+Num of seeds for this l2 muon: 1 th:  18
+Information of this muon :
+L2 pt, eta, phi: 44.6496 , 1.43474 , -0.398741
+L2 px, py, z: 41.1469 , -17.3356 , 88.4146
+Num of seeds for this l2 muon: 2 th:  1
+Number of total seeds made in the event: 19
+Num of Track Candidates (hltIterL3OITrackCandidates): 4
+TrackProducer running ... with algo: iter10
+Num of Transient Tracks: 4
+gen muon found: pt: 63.0461 eta: 1.67971 phi: -2.29009
+gen muon found: pt: 48.9822 eta: 1.43567 phi: -0.396062
+RECO Muon - pT, eta, phi: 63.7734 , 1.67967 , -2.29017
+L2 Muon - pT, eta, phi, DR(recomu,L2): 41.1597 , 1.6752 , -2.28248 , 0.00889379
+RECO Muon - pT, eta, phi: 1.35879 , 1.9756 , 1.23086
+RECO Muon - pT, eta, phi: 48.7179 , 1.43586 , -0.396119
+L2 Muon - pT, eta, phi, DR(recomu,L2): 44.6496 , 1.43474 , -0.398741 , 0.00285378
+---------------------------------------------
+# of hltL3TkTracksCandOI(Trackcandidates)  = 4
+# of hltL3TkTracksOINoHP(Transient Tracks)  = 4
+hltL3TkTracksOINoHP(Transient Tracks) -->      pt: 14.7147 eta: 1.77729 phi: -2.22347
+Pixel Hits(hitPattern().numberOfValidPixelHits()):    0
+dz Wrt beam spot position:        -65.0856
+d0:  3.71545
+d0 Error:    0.0476237
+num of Degrees of freedom: :    3
+Chi2 value(normalizedChi2()):                4.60881
+Hits:(numberOfValidHits()):      4
+TrkLayers with measurement:      4
+num3D Layers: 3
+Trk Layers without measurement:  1
+dxy:       -3.65367
+Number of lost hits: 1
+hltL3TkTracksOINoHP(Transient Tracks) -->      pt: 64.2388 eta: 1.67966 phi: -2.29017
+Pixel Hits(hitPattern().numberOfValidPixelHits()):    4
+dz Wrt beam spot position:        -4.28495
+d0:  0.0625219
+d0 Error:    0.000740039
+num of Degrees of freedom: :    29
+Chi2 value(normalizedChi2()):                1.38533
+Hits:(numberOfValidHits()):      17
+TrkLayers with measurement:      17
+num3D Layers: 10
+Trk Layers without measurement:  0
+dxy:       0.00178201
+Number of lost hits: 0
+hltL3TkTracksOINoHP(Transient Tracks) -->      pt: 6.74345 eta: 1.56228 phi: -2.21224
+Pixel Hits(hitPattern().numberOfValidPixelHits()):    0
+dz Wrt beam spot position:        27.609
+d0:  -1.99404
+d0 Error:    1.16927
+num of Degrees of freedom: :    5
+Chi2 value(normalizedChi2()):                2.09323
+Hits:(numberOfValidHits()):      5
+TrkLayers with measurement:      5
+num3D Layers: 1
+Trk Layers without measurement:  0
+dxy:       2.05536
+Number of lost hits: 0
+hltL3TkTracksOINoHP(Transient Tracks) -->      pt: 67.1533 eta: 1.40299 phi: -0.375565
+Pixel Hits(hitPattern().numberOfValidPixelHits()):    0
+dz Wrt beam spot position:        -0.0452767
+d0:  0.464271
+d0 Error:    0.16107
+num of Degrees of freedom: :    3
+Chi2 value(normalizedChi2()):                0.683166
+Hits:(numberOfValidHits()):      4
+TrkLayers with measurement:      4
+num3D Layers: 0
+Trk Layers without measurement:  1
+dxy:       -0.519633
+Number of lost hits: 1
+Num of L3OI muon cands: 1
+L3 OI cand pt, eta, phi:  64.2388  :  1.67966  : -2.29017
+Begin processing the 11th record. Run 1, Event 21247633, LumiSection 8260 at 02-Mar-2018 13:16:08.638 CST
+Num L2 muons: 2
+Information of this muon :
+L2 pt, eta, phi: 56.2626 , 1.48126 , 2.45737
+L2 px, py, z: -43.5987 , 35.5618 , 117.339
+Num of seeds for this l2 muon: 1 th:  1
+Information of this muon :
+L2 pt, eta, phi: 73.3555 , 1.97512 , -0.411486
+L2 px, py, z: 67.2324 , -29.3401 , 259.264
+Num of seeds for this l2 muon: 2 th:  11
+Number of total seeds made in the event: 12
+Num of Track Candidates (hltIterL3OITrackCandidates): 2
+TrackProducer running ... with algo: iter10
+Num of Transient Tracks: 2
+gen muon found: pt: 43.5746 eta: 1.48274 phi: 2.44818
+gen muon found: pt: 45.1604 eta: 1.97397 phi: -0.40509
+RECO Muon - pT, eta, phi: 45.1368 , 1.97394 , -0.405212
+L2 Muon - pT, eta, phi, DR(recomu,L2): 73.3555 , 1.97512 , -0.411486 , 0.00638383
+RECO Muon - pT, eta, phi: 43.41 , 1.48288 , 2.44814
+L2 Muon - pT, eta, phi, DR(recomu,L2): 56.2626 , 1.48126 , 2.45737 , 0.00937323
+RECO Muon - pT, eta, phi: 1.43546 , 2.16906 , 2.93188
+---------------------------------------------
+# of hltL3TkTracksCandOI(Trackcandidates)  = 2
+# of hltL3TkTracksOINoHP(Transient Tracks)  = 2
+hltL3TkTracksOINoHP(Transient Tracks) -->      pt: 1.55928 eta: 1.91105 phi: 2.03164
+Pixel Hits(hitPattern().numberOfValidPixelHits()):    0
+dz Wrt beam spot position:        -73.6935
+d0:  -13.1121
+d0 Error:    3.89047
+num of Degrees of freedom: :    5
+Chi2 value(normalizedChi2()):                2.05558
+Hits:(numberOfValidHits()):      5
+TrkLayers with measurement:      5
+num3D Layers: 1
+Trk Layers without measurement:  0
+dxy:       13.1207
+Number of lost hits: 0
+hltL3TkTracksOINoHP(Transient Tracks) -->      pt: 45.7075 eta: 1.97394 phi: -0.405198
+Pixel Hits(hitPattern().numberOfValidPixelHits()):    5
+dz Wrt beam spot position:        -3.56524
+d0:  -0.0536648
+d0 Error:    0.00153815
+num of Degrees of freedom: :    25
+Chi2 value(normalizedChi2()):                0.623951
+Hits:(numberOfValidHits()):      15
+TrkLayers with measurement:      15
+num3D Layers: 9
+Trk Layers without measurement:  0
+dxy:       -0.00023709
+Number of lost hits: 0
+Num of L3OI muon cands: 1
+L3 OI cand pt, eta, phi:  45.7075  :  1.97394  : -0.405198
+
+Begin processing the 12th record. Run 1, Event 23662308, LumiSection 9199 at 02-Mar-2018 13:16:45.070 CST
+Num L2 muons: 2
+Information of this muon :
+L2 pt, eta, phi: 59.4343 , -1.61295 , -2.29899
+L2 px, py, z: -39.5551 , -44.3603 , -143.185
+Num of seeds for this l2 muon: 1 th:  12
+Information of this muon :
+L2 pt, eta, phi: 31.383 , -1.26704 , 1.05104
+L2 px, py, z: 15.5869 , 27.2386 , -51.29
+Num of seeds for this l2 muon: 2 th:  7
+Number of total seeds made in the event: 19
+Num of Track Candidates (hltIterL3OITrackCandidates): 3
+TrackProducer running ... with algo: iter10
+Num of Transient Tracks: 3
+gen muon found: pt: 52.6596 eta: -1.632 phi: -2.29682
+gen muon found: pt: 38.554 eta: -1.26322 phi: 1.05757
+RECO Muon - pT, eta, phi: 53.0403 , -1.63192 , -2.29686
+L2 Muon - pT, eta, phi, DR(recomu,L2): 59.4343 , -1.61295 , -2.299 , 0.0190979
+RECO Muon - pT, eta, phi: 38.1877 , -1.26344 , 1.0578
+L2 Muon - pT, eta, phi, DR(recomu,L2): 31.383 , -1.26704 , 1.05104 , 0.0076533
+---------------------------------------------
+# of hltL3TkTracksCandOI(Trackcandidates)  = 3
+# of hltL3TkTracksOINoHP(Transient Tracks)  = 3
+hltL3TkTracksOINoHP(Transient Tracks) -->      pt: 52.0824 eta: -1.6319 phi: -2.29679
+Pixel Hits(hitPattern().numberOfValidPixelHits()):    4
+dz Wrt beam spot position:        -3.87146
+d0:  0.0639606
+d0 Error:    0.000752933
+num of Degrees of freedom: :    27
+Chi2 value(normalizedChi2()):                0.772576
+Hits:(numberOfValidHits()):      16
+TrkLayers with measurement:      16
+num3D Layers: 9
+Trk Layers without measurement:  0
+dxy:       0.000578566
+Number of lost hits: 0
+hltL3TkTracksOINoHP(Transient Tracks) -->      pt: 6.52759 eta: -2.50174 phi: -2.50887
+Pixel Hits(hitPattern().numberOfValidPixelHits()):    0
+dz Wrt beam spot position:        192.907
+d0:  -11.4802
+d0 Error:    2.98561
+num of Degrees of freedom: :    5
+Chi2 value(normalizedChi2()):                4.98921
+Hits:(numberOfValidHits()):      5
+TrkLayers with measurement:      5
+num3D Layers: 1
+Trk Layers without measurement:  1
+dxy:       11.5507
+Number of lost hits: 1
+hltL3TkTracksOINoHP(Transient Tracks) -->      pt: 6.49332 eta: -4.38439 phi: -2.58502
+Pixel Hits(hitPattern().numberOfValidPixelHits()):    0
+dz Wrt beam spot position:        -3625.92
+d0:  42.3903
+d0 Error:    458.113
+num of Degrees of freedom: :    1
+Chi2 value(normalizedChi2()):                0.251407
+Hits:(numberOfValidHits()):      3
+TrkLayers with measurement:      3
+num3D Layers: 0
+Trk Layers without measurement:  0
+dxy:       -42.3183
+Number of lost hits: 0
+Num of L3OI muon cands: 1
+L3 OI cand pt, eta, phi:  52.0824  :  -1.6319  : -2.29679
+Begin processing the 13th record. Run 1, Event 23664315, LumiSection 9199 at 02-Mar-2018 13:16:48.190 CST
+Num L2 muons: 4
+Information of this muon :
+L2 pt, eta, phi: 56.0952 , 2.13991 , -2.80896
+L2 px, py, z: -53.0204 , -18.3168 , 235.068
+Num of seeds for this l2 muon: 1 th:  11
+Information of this muon :
+L2 pt, eta, phi: 35.7892 , 1.65058 , 0.467986
+L2 px, py, z: 31.9411 , 16.1441 , 89.7962
+Num of seeds for this l2 muon: 2 th:  17
+Information of this muon :
+L2 pt, eta, phi: 4.05467 , 0.798328 , 1.0144
+L2 px, py, z: 2.14138 , 3.44309 , 3.59192
+Num of seeds for this l2 muon: 3 th:  15
+Information of this muon :
+L2 pt, eta, phi: 9.23746 , 3.85329 , -2.56118
+L2 px, py, z: -7.7247 , -5.06553 , 217.666
+Num of seeds for this l2 muon: 4 th:  7
+Number of total seeds made in the event: 50
+Num of Track Candidates (hltIterL3OITrackCandidates): 9
+TrackProducer running ... with algo: iter10
+Num of Transient Tracks: 8
+gen muon found: pt: 59.5497 eta: 2.13545 phi: -2.80742
+gen muon found: pt: 34.8327 eta: 1.64107 phi: 0.46824
+RECO Muon - pT, eta, phi: 1.06504 , -1.91466 , 1.97343
+RECO Muon - pT, eta, phi: 1.91743 , -1.94504 , 0.568768
+RECO Muon - pT, eta, phi: 58.7579 , 2.13538 , -2.80758
+L2 Muon - pT, eta, phi, DR(recomu,L2): 56.0952 , 2.13991 , -2.80896 , 0.00474181
+RECO Muon - pT, eta, phi: 1.93451 , 2.13399 , 2.85528
+RECO Muon - pT, eta, phi: 35.0045 , 1.64096 , 0.468132
+L2 Muon - pT, eta, phi, DR(recomu,L2): 35.7892 , 1.65058 , 0.467986 , 0.00962404
+RECO Muon - pT, eta, phi: 2.01014 , 2.29329 , -2.62131
+RECO Muon - pT, eta, phi: 1.10513 , 2.00438 , 0.482776
+---------------------------------------------
+# of hltL3TkTracksCandOI(Trackcandidates)  = 9
+# of hltL3TkTracksOINoHP(Transient Tracks)  = 8
+hltL3TkTracksOINoHP(Transient Tracks) -->      pt: 55.0258 eta: 2.13526 phi: -2.80773
+Pixel Hits(hitPattern().numberOfValidPixelHits()):    4
+dz Wrt beam spot position:        6.76466
+d0:  0.0727234
+d0 Error:    0.000780108
+num of Degrees of freedom: :    21
+Chi2 value(normalizedChi2()):                0.939874
+Hits:(numberOfValidHits()):      13
+TrkLayers with measurement:      13
+num3D Layers: 10
+Trk Layers without measurement:  0
+dxy:       0.000861714
+Number of lost hits: 0
+hltL3TkTracksOINoHP(Transient Tracks) -->      pt: 21.5047 eta: 1.80172 phi: 0.504512
+Pixel Hits(hitPattern().numberOfValidPixelHits()):    0
+dz Wrt beam spot position:        -118.576
+d0:  4.3474
+d0 Error:    0.0283458
+num of Degrees of freedom: :    7
+Chi2 value(normalizedChi2()):                1.74783
+Hits:(numberOfValidHits()):      6
+TrkLayers with measurement:      6
+num3D Layers: 3
+Trk Layers without measurement:  1
+dxy:       -4.42004
+Number of lost hits: 1
+hltL3TkTracksOINoHP(Transient Tracks) -->      pt: 25.7218 eta: 1.46438 phi: 0.435248
+Pixel Hits(hitPattern().numberOfValidPixelHits()):    0
+dz Wrt beam spot position:        61.3817
+d0:  -2.3382
+d0 Error:    0.0880454
+num of Degrees of freedom: :    9
+Chi2 value(normalizedChi2()):                2.69653
+Hits:(numberOfValidHits()):      7
+TrkLayers with measurement:      7
+num3D Layers: 2
+Trk Layers without measurement:  1
+dxy:       2.26492
+Number of lost hits: 1
+hltL3TkTracksOINoHP(Transient Tracks) -->      pt: 11.4006 eta: 1.3597 phi: 0.497426
+Pixel Hits(hitPattern().numberOfValidPixelHits()):    0
+dz Wrt beam spot position:        75.2162
+d0:  1.15633
+d0 Error:    0.0821332
+num of Degrees of freedom: :    9
+Chi2 value(normalizedChi2()):                3.72829
+Hits:(numberOfValidHits()):      7
+TrkLayers with measurement:      7
+num3D Layers: 1
+Trk Layers without measurement:  0
+dxy:       -1.22905
+Number of lost hits: 0
+hltL3TkTracksOINoHP(Transient Tracks) -->      pt: 7.73223 eta: 0.83745 phi: 0.919699
+Pixel Hits(hitPattern().numberOfValidPixelHits()):    4
+dz Wrt beam spot position:        6.76183
+d0:  -0.0610132
+d0 Error:    0.00119717
+num of Degrees of freedom: :    21
+Chi2 value(normalizedChi2()):                1.0948
+Hits:(numberOfValidHits()):      13
+TrkLayers with measurement:      13
+num3D Layers: 8
+Trk Layers without measurement:  0
+dxy:       -0.00069959
+Number of lost hits: 0
+hltL3TkTracksOINoHP(Transient Tracks) -->      pt: 0.997688 eta: 0.97667 phi: 1.23316
+Pixel Hits(hitPattern().numberOfValidPixelHits()):    0
+dz Wrt beam spot position:        73.178
+d0:  5.72634
+d0 Error:    1.95325
+num of Degrees of freedom: :    3
+Chi2 value(normalizedChi2()):                4.67206
+Hits:(numberOfValidHits()):      4
+TrkLayers with measurement:      4
+num3D Layers: 0
+Trk Layers without measurement:  0
+dxy:       -5.77268
+Number of lost hits: 0
+hltL3TkTracksOINoHP(Transient Tracks) -->      pt: 2.8843 eta: 1.04946 phi: 0.942496
+Pixel Hits(hitPattern().numberOfValidPixelHits()):    1
+dz Wrt beam spot position:        46.7338
+d0:  -3.3512
+d0 Error:    0.0305474
+num of Degrees of freedom: :    13
+Chi2 value(normalizedChi2()):                3.88496
+Hits:(numberOfValidHits()):      9
+TrkLayers with measurement:      9
+num3D Layers: 4
+Trk Layers without measurement:  2
+dxy:       3.29042
+Number of lost hits: 2
+hltL3TkTracksOINoHP(Transient Tracks) -->      pt: 4.2797 eta: 0.988508 phi: 0.944118
+Pixel Hits(hitPattern().numberOfValidPixelHits()):    1
+dz Wrt beam spot position:        34.1917
+d0:  5.17712
+d0 Error:    0.00411761
+num of Degrees of freedom: :    5
+Chi2 value(normalizedChi2()):                2.15472
+Hits:(numberOfValidHits()):      5
+TrkLayers with measurement:      5
+num3D Layers: 2
+Trk Layers without measurement:  1
+dxy:       -5.23783
+Number of lost hits: 1
+Num of L3OI muon cands: 2
+L3 OI cand pt, eta, phi:  55.0258  :  2.13526  : -2.80773
+L3 OI cand pt, eta, phi:  55.0258  :  2.13526  : -2.80773
+Begin processing the 14th record. Run 1, Event 23664381, LumiSection 9199 at 02-Mar-2018 13:16:51.525 CST
+Num L2 muons: 2
+Information of this muon :
+L2 pt, eta, phi: 49.8484 , -1.67382 , 2.49726
+L2 px, py, z: -39.8537 , 29.9423 , -128.234
+Num of seeds for this l2 muon: 1 th:  17
+Information of this muon :
+L2 pt, eta, phi: 44.8651 , -1.62194 , -0.65059
+L2 px, py, z: 35.7003 , -27.1728 , -109.143
+Num of seeds for this l2 muon: 2 th:  17
+Number of total seeds made in the event: 34
+Num of Track Candidates (hltIterL3OITrackCandidates): 2
+TrackProducer running ... with algo: iter10
+Num of Transient Tracks: 2
+gen muon found: pt: 44.5161 eta: -1.674 phi: 2.49567
+gen muon found: pt: 46.7814 eta: -1.62498 phi: -0.651547
+RECO Muon - pT, eta, phi: 44.3381 , -1.67422 , 2.49557
+L2 Muon - pT, eta, phi, DR(recomu,L2): 49.8484 , -1.67382 , 2.49726 , 0.00173601
+RECO Muon - pT, eta, phi: 46.7552 , -1.62488 , -0.651346
+L2 Muon - pT, eta, phi, DR(recomu,L2): 44.8651 , -1.62194 , -0.65059 , 0.00303586
+RECO Muon - pT, eta, phi: 1.72985 , 1.44749 , -1.89073
+---------------------------------------------
+# of hltL3TkTracksCandOI(Trackcandidates)  = 2
+# of hltL3TkTracksOINoHP(Transient Tracks)  = 2
+hltL3TkTracksOINoHP(Transient Tracks) -->      pt: 45.4769 eta: -1.67424 phi: 2.49564
+Pixel Hits(hitPattern().numberOfValidPixelHits()):    4
+dz Wrt beam spot position:        -0.226606
+d0:  0.0407189
+d0 Error:    0.000583938
+num of Degrees of freedom: :    27
+Chi2 value(normalizedChi2()):                0.744917
+Hits:(numberOfValidHits()):      16
+TrkLayers with measurement:      16
+num3D Layers: 8
+Trk Layers without measurement:  0
+dxy:       -0.000317099
+Number of lost hits: 0
+hltL3TkTracksOINoHP(Transient Tracks) -->      pt: 4.33897 eta: -1.63247 phi: -0.490328
+Pixel Hits(hitPattern().numberOfValidPixelHits()):    0
+dz Wrt beam spot position:        -0.410459
+d0:  5.51375
+d0 Error:    0.502069
+num of Degrees of freedom: :    9
+Chi2 value(normalizedChi2()):                1.00033
+Hits:(numberOfValidHits()):      7
+TrkLayers with measurement:      7
+num3D Layers: 2
+Trk Layers without measurement:  0
+dxy:       -5.5632
+Number of lost hits: 0
+Num of L3OI muon cands: 1
+L3 OI cand pt, eta, phi:  45.4769  :  -1.67424  : 2.49564
+Begin processing the 15th record. Run 1, Event 23220049, LumiSection 9027 at 02-Mar-2018 13:17:23.549 CST
+Num L2 muons: 2
+Information of this muon :
+L2 pt, eta, phi: 81.1713 , 1.8872 , 1.23803
+L2 px, py, z: 26.5153 , 76.7184 , 261.751
+Num of seeds for this l2 muon: 1 th:  11
+Information of this muon :
+L2 pt, eta, phi: 105.48 , 1.15114 , -1.82609
+L2 px, py, z: -26.6369 , -102.061 , 150.072
+Num of seeds for this l2 muon: 2 th:  8
+Number of total seeds made in the event: 19
+Num of Track Candidates (hltIterL3OITrackCandidates): 3
+TrackProducer running ... with algo: iter10
+Num of Transient Tracks: 3
+gen muon found: pt: 31.0525 eta: 1.14383 phi: -1.77076
+gen muon found: pt: 54.3113 eta: 1.89427 phi: 1.23285
+RECO Muon - pT, eta, phi: 1.03299 , -1.68193 , -2.0859
+RECO Muon - pT, eta, phi: 1.15352 , -1.50254 , -1.6566
+RECO Muon - pT, eta, phi: 52.7612 , 1.89421 , 1.2326
+L2 Muon - pT, eta, phi, DR(recomu,L2): 81.1713 , 1.8872 , 1.23803 , 0.00886911
+RECO Muon - pT, eta, phi: 31.0903 , 1.14378 , -1.77035
+L2 Muon - pT, eta, phi, DR(recomu,L2): 105.48 , 1.15114 , -1.82609 , 0.0562309
+---------------------------------------------
+# of hltL3TkTracksCandOI(Trackcandidates)  = 3
+# of hltL3TkTracksOINoHP(Transient Tracks)  = 3
+hltL3TkTracksOINoHP(Transient Tracks) -->      pt: 52.6789 eta: 1.89416 phi: 1.23259
+Pixel Hits(hitPattern().numberOfValidPixelHits()):    4
+dz Wrt beam spot position:        -3.81688
+d0:  -0.0475861
+d0 Error:    0.000884964
+num of Degrees of freedom: :    23
+Chi2 value(normalizedChi2()):                0.568417
+Hits:(numberOfValidHits()):      14
+TrkLayers with measurement:      14
+num3D Layers: 8
+Trk Layers without measurement:  0
+dxy:       0.00120822
+Number of lost hits: 0
+hltL3TkTracksOINoHP(Transient Tracks) -->      pt: 23.3707 eta: 1.8887 phi: 1.20643
+Pixel Hits(hitPattern().numberOfValidPixelHits()):    0
+dz Wrt beam spot position:        27.4602
+d0:  -2.12137
+d0 Error:    0.541006
+num of Degrees of freedom: :    3
+Chi2 value(normalizedChi2()):                1.53103
+Hits:(numberOfValidHits()):      4
+TrkLayers with measurement:      4
+num3D Layers: 2
+Trk Layers without measurement:  2
+dxy:       2.07352
+Number of lost hits: 2
+hltL3TkTracksOINoHP(Transient Tracks) -->      pt: 105.538 eta: 1.08729 phi: -1.86892
+Pixel Hits(hitPattern().numberOfValidPixelHits()):    1
+dz Wrt beam spot position:        -2.27993
+d0:  -4.39989
+d0 Error:    0.00275593
+num of Degrees of freedom: :    5
+Chi2 value(normalizedChi2()):                2.78746
+Hits:(numberOfValidHits()):      5
+TrkLayers with measurement:      5
+num3D Layers: 3
+Trk Layers without measurement:  1
+dxy:       4.44394
+Number of lost hits: 1
+Num of L3OI muon cands: 1
+L3 OI cand pt, eta, phi:  52.6789  :  1.89416  : 1.23259
