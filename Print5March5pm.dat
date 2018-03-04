@@ -1,0 +1,1968 @@
+Begin processing the 1st record. Run 1, Event 2573115, LumiSection 1001 at 04-Mar-2018 09:38:18.452 CST
+Number of  L2 muons for this Event################### 2
+Printing Information of the L2 muon number:       1
+L2muon ( pt, eta, phi ):    44.6896 , -0.650336 , -1.25927
+L2muon ( px, py, pz ):      13.6979 , -42.5386 , -31.1557
+R,Z position of OuterTrackerstate inside:
+             R position:  112
+             z porition: -72.6223
+  R,Z position of OuterTrackerstate Outside
+             R position:  112
+             z porition: -72.4535
+ Starting to produce seeds in TOB, TEC+ and TEC-  detector layers....
+Trying to produce seed with tsosAtIP in TOB.........................................
+           Running to produce seed over the TOB layer number: 1
+           Layer count before running the FindSeed: 0
+          Entering the FindSeedFunction .....
+         Trying to find hitless seed
+          Compatible detectors with TSOS(IP or MuSystem)(dets.size()):  1
+           detOnLayer:  0x7f91a1976980
+            TSOS onLayer Position: x,y,z: 32.0431, -104.502, -70.7425
+            TSOS onLayer Momentum: px,py,pz: 12.5028, -42.9037, -31.1548
+           Seed recHit container(beforepushback): 0
+           Seed recHit container size (after pushback)hitless: 0
+           found a hitless seed
+           Trying to find hitbased seed 
+          Compatible detectors onLayer(TSOS atIP orMuSystem)(dets.size()):  1
+          TSOS at the detector layer before updating position(x,y,z):  -0.0230758, 0.0686032,  5.5125
+          TSOS at the detector layer before updating momentum(px,py,pz):  13.6979, -42.5386,  -31.1557
+        Updated TSOS( x,y,z) : 31.8817, -104.556, -65.7479
+        Updated TSOS( Px,Py,Pz) : 12.6822, -43.6755, -32.792
+          recHitContainer of the seed size1
+           Layer count after running the FindSeed: 1
+           Number of seeds created on this TOB layer (Along, Opposite): 2
+           Running to produce seed over the TOB layer number: 2
+           Layer count before running the FindSeed: 1
+          Entering the FindSeedFunction .....
+           Trying to find hitbased seed 
+          Compatible detectors onLayer(TSOS atIP orMuSystem)(dets.size()):  1
+          TSOS at the detector layer before updating position(x,y,z):  -0.0230758, 0.0686032,  5.5125
+          TSOS at the detector layer before updating momentum(px,py,pz):  13.6979, -42.5386,  -31.1557
+        Updated TSOS( x,y,z) : 28.8284, -94.1112, -63.3399
+        Updated TSOS( Px,Py,Pz) : 12.7764, -43.582, -31.6184
+          recHitContainer of the seed size1
+        Updated TSOS( x,y,z) : 30.2393, -93.6901, -63.1329
+        Updated TSOS( Px,Py,Pz) : 11.5332, -37.867, -27.6341
+          recHitContainer of the seed size1
+           Layer count after running the FindSeed: 2
+           Number of seeds created on this TOB layer (Along, Opposite): 2
+           Running to produce seed over the TOB layer number: 3
+           Layer count before running the FindSeed: 2
+          Entering the FindSeedFunction .....
+           Trying to find hitbased seed 
+          Compatible detectors onLayer(TSOS atIP orMuSystem)(dets.size()):  2
+          TSOS at the detector layer before updating position(x,y,z):  -0.0230758, 0.0686032,  5.5125
+          TSOS at the detector layer before updating momentum(px,py,pz):  13.6979, -42.5386,  -31.1557
+        Updated TSOS( x,y,z) : 25.2019, -81.8098, -48.2321
+        Updated TSOS( Px,Py,Pz) : 13.0117, -43.7915, -33.1308
+          recHitContainer of the seed size1
+        Updated TSOS( x,y,z) : 26.5625, -81.3259, -48.005
+        Updated TSOS( Px,Py,Pz) : 11.4713, -37.1086, -28.2311
+          recHitContainer of the seed size1
+        Updated TSOS( x,y,z) : 26.5675, -80.6325, -60.553
+        Updated TSOS( Px,Py,Pz) : 11.2217, -36.1663, -25.2109
+          recHitContainer of the seed size1
+           Layer count after running the FindSeed: 3
+           Number of seeds created on this TOB layer (Along, Opposite): 3
+           Running to produce seed over the TOB layer number: 4
+           Layer count before running the FindSeed: 3
+          Entering the FindSeedFunction .....
+           Layer count after running the FindSeed: 3
+           Number of seeds created on this TOB layer (Along, Opposite): 0
+           Running to produce seed over the TOB layer number: 5
+           Layer count before running the FindSeed: 3
+          Entering the FindSeedFunction .....
+           Layer count after running the FindSeed: 3
+           Number of seeds created on this TOB layer (Along, Opposite): 0
+           Running to produce seed over the TOB layer number: 6
+           Layer count before running the FindSeed: 3
+          Entering the FindSeedFunction .....
+           Layer count after running the FindSeed: 3
+           Number of seeds created on this TOB layer (Along, Opposite): 0
+UseBoth true:  so Trying to produce seed with tsosMuonSystem in TOB.............................
+           Running to produce seed over the TOB layer number: 1
+           Layer count before running the FindSeed: 3
+          Entering the FindSeedFunction .....
+         Trying to find hitless seed
+          Compatible detectors with TSOS(IP or MuSystem)(dets.size()):  0
+           Layer count exceeded the number of layer to try i.e.=2  ..so not running to find hitbased seed 
+           Layer count after running the FindSeed: 3
+           Number of seeds created on this TOB layer (Opposite, Opposite): 0
+           Running to produce seed over the TOB layer number: 2
+           Layer count before running the FindSeed: 3
+          Entering the FindSeedFunction .....
+         Trying to find hitless seed
+          Compatible detectors with TSOS(IP or MuSystem)(dets.size()):  0
+           Layer count exceeded the number of layer to try i.e.=2  ..so not running to find hitbased seed 
+           Layer count after running the FindSeed: 3
+           Number of seeds created on this TOB layer (Opposite, Opposite): 0
+           Running to produce seed over the TOB layer number: 3
+           Layer count before running the FindSeed: 3
+          Entering the FindSeedFunction .....
+         Trying to find hitless seed
+          Compatible detectors with TSOS(IP or MuSystem)(dets.size()):  0
+           Layer count exceeded the number of layer to try i.e.=2  ..so not running to find hitbased seed 
+           Layer count after running the FindSeed: 3
+           Number of seeds created on this TOB layer (Opposite, Opposite): 0
+           Running to produce seed over the TOB layer number: 4
+           Layer count before running the FindSeed: 3
+          Entering the FindSeedFunction .....
+         Trying to find hitless seed
+          Compatible detectors with TSOS(IP or MuSystem)(dets.size()):  0
+           Layer count exceeded the number of layer to try i.e.=2  ..so not running to find hitbased seed 
+           Layer count after running the FindSeed: 3
+           Number of seeds created on this TOB layer (Opposite, Opposite): 0
+           Running to produce seed over the TOB layer number: 5
+           Layer count before running the FindSeed: 3
+          Entering the FindSeedFunction .....
+         Trying to find hitless seed
+          Compatible detectors with TSOS(IP or MuSystem)(dets.size()):  0
+           Layer count exceeded the number of layer to try i.e.=2  ..so not running to find hitbased seed 
+           Layer count after running the FindSeed: 3
+           Number of seeds created on this TOB layer (Opposite, Opposite): 0
+           Running to produce seed over the TOB layer number: 6
+           Layer count before running the FindSeed: 3
+          Entering the FindSeedFunction .....
+         Trying to find hitless seed
+          Compatible detectors with TSOS(IP or MuSystem)(dets.size()):  0
+           Layer count exceeded the number of layer to try i.e.=2  ..so not running to find hitbased seed 
+           Layer count after running the FindSeed: 3
+           Number of seeds created on this TOB layer (Opposite, Opposite): 0
+Num of seeds made  for this l2 muon number->  1 : 7
+Printing Information of the L2 muon number:       2
+L2muon ( pt, eta, phi ):    46.8275 , -0.179277 , 1.89398
+L2muon ( px, py, pz ):      -14.8718 , 44.4032 , -8.44011
+R,Z position of OuterTrackerstate inside:
+             R position:  112
+             z porition: -16.7498
+  R,Z position of OuterTrackerstate Outside
+             R position:  112
+             z porition: -16.0048
+ Starting to produce seeds in TOB, TEC+ and TEC-  detector layers....
+Trying to produce seed with tsosAtIP in TOB.........................................
+           Running to produce seed over the TOB layer number: 1
+           Layer count before running the FindSeed: 0
+          Entering the FindSeedFunction .....
+         Trying to find hitless seed
+          Compatible detectors with TSOS(IP or MuSystem)(dets.size()):  1
+           detOnLayer:  0x7f91a1967140
+            TSOS onLayer Position: x,y,z: -32.2181, 101.758, -15.8012
+            TSOS onLayer Momentum: px,py,pz: -13.7115, 44.7744, -8.44
+           Seed recHit container(beforepushback): 0
+           Seed recHit container size (after pushback)hitless: 0
+           found a hitless seed
+           Trying to find hitbased seed 
+          Compatible detectors onLayer(TSOS atIP orMuSystem)(dets.size()):  1
+          TSOS at the detector layer before updating position(x,y,z):  0.327341, 0.219265,  3.41775
+          TSOS at the detector layer before updating momentum(px,py,pz):  -14.8718, 44.4032,  -8.44011
+        Updated TSOS( x,y,z) : -34.7365, 100.92, -9.3587
+        Updated TSOS( Px,Py,Pz) : -16.6046, 51.6505, -9.20886
+          recHitContainer of the seed size1
+           Layer count after running the FindSeed: 1
+           Number of seeds created on this TOB layer (Along, Opposite): 2
+           Running to produce seed over the TOB layer number: 2
+           Layer count before running the FindSeed: 1
+          Entering the FindSeedFunction .....
+           Trying to find hitbased seed 
+          Compatible detectors onLayer(TSOS atIP orMuSystem)(dets.size()):  1
+          TSOS at the detector layer before updating position(x,y,z):  0.327341, 0.219265,  3.41775
+          TSOS at the detector layer before updating momentum(px,py,pz):  -14.8718, 44.4032,  -8.44011
+        Updated TSOS( x,y,z) : -30.66, 89.544, -9.31126
+        Updated TSOS( Px,Py,Pz) : -16.2107, 50.362, -9.15601
+          recHitContainer of the seed size1
+        Updated TSOS( x,y,z) : -30.804, 89.5011, -9.30663
+        Updated TSOS( Px,Py,Pz) : -16.4041, 50.8236, -9.24152
+          recHitContainer of the seed size1
+           Layer count after running the FindSeed: 2
+           Number of seeds created on this TOB layer (Along, Opposite): 2
+           Running to produce seed over the TOB layer number: 3
+           Layer count before running the FindSeed: 2
+          Entering the FindSeedFunction .....
+           Trying to find hitbased seed 
+          Compatible detectors onLayer(TSOS atIP orMuSystem)(dets.size()):  1
+          TSOS at the detector layer before updating position(x,y,z):  0.327341, 0.219265,  3.41775
+          TSOS at the detector layer before updating momentum(px,py,pz):  -14.8718, 44.4032,  -8.44011
+        Updated TSOS( x,y,z) : -27.4298, 81.0186, -9.27364
+        Updated TSOS( Px,Py,Pz) : -15.7075, 48.8981, -9.02136
+          recHitContainer of the seed size1
+        Updated TSOS( x,y,z) : -27.5999, 80.958, -9.26794
+        Updated TSOS( Px,Py,Pz) : -15.9362, 49.4432, -9.12402
+          recHitContainer of the seed size1
+        Updated TSOS( x,y,z) : -28.5762, 80.6107, -9.23528
+        Updated TSOS( Px,Py,Pz) : -17.3572, 52.8293, -9.76173
+          recHitContainer of the seed size1
+           Layer count after running the FindSeed: 3
+           Number of seeds created on this TOB layer (Along, Opposite): 3
+           Running to produce seed over the TOB layer number: 4
+           Layer count before running the FindSeed: 3
+          Entering the FindSeedFunction .....
+           Layer count after running the FindSeed: 3
+           Number of seeds created on this TOB layer (Along, Opposite): 0
+           Running to produce seed over the TOB layer number: 5
+           Layer count before running the FindSeed: 3
+          Entering the FindSeedFunction .....
+           Layer count after running the FindSeed: 3
+           Number of seeds created on this TOB layer (Along, Opposite): 0
+           Running to produce seed over the TOB layer number: 6
+           Layer count before running the FindSeed: 3
+          Entering the FindSeedFunction .....
+           Layer count after running the FindSeed: 3
+           Number of seeds created on this TOB layer (Along, Opposite): 0
+UseBoth true:  so Trying to produce seed with tsosMuonSystem in TOB.............................
+           Running to produce seed over the TOB layer number: 1
+           Layer count before running the FindSeed: 3
+          Entering the FindSeedFunction .....
+         Trying to find hitless seed
+          Compatible detectors with TSOS(IP or MuSystem)(dets.size()):  0
+           Layer count exceeded the number of layer to try i.e.=2  ..so not running to find hitbased seed 
+           Layer count after running the FindSeed: 3
+           Number of seeds created on this TOB layer (Opposite, Opposite): 0
+           Running to produce seed over the TOB layer number: 2
+           Layer count before running the FindSeed: 3
+          Entering the FindSeedFunction .....
+         Trying to find hitless seed
+          Compatible detectors with TSOS(IP or MuSystem)(dets.size()):  0
+           Layer count exceeded the number of layer to try i.e.=2  ..so not running to find hitbased seed 
+           Layer count after running the FindSeed: 3
+           Number of seeds created on this TOB layer (Opposite, Opposite): 0
+           Running to produce seed over the TOB layer number: 3
+           Layer count before running the FindSeed: 3
+          Entering the FindSeedFunction .....
+         Trying to find hitless seed
+          Compatible detectors with TSOS(IP or MuSystem)(dets.size()):  0
+           Layer count exceeded the number of layer to try i.e.=2  ..so not running to find hitbased seed 
+           Layer count after running the FindSeed: 3
+           Number of seeds created on this TOB layer (Opposite, Opposite): 0
+           Running to produce seed over the TOB layer number: 4
+           Layer count before running the FindSeed: 3
+          Entering the FindSeedFunction .....
+         Trying to find hitless seed
+          Compatible detectors with TSOS(IP or MuSystem)(dets.size()):  0
+           Layer count exceeded the number of layer to try i.e.=2  ..so not running to find hitbased seed 
+           Layer count after running the FindSeed: 3
+           Number of seeds created on this TOB layer (Opposite, Opposite): 0
+           Running to produce seed over the TOB layer number: 5
+           Layer count before running the FindSeed: 3
+          Entering the FindSeedFunction .....
+         Trying to find hitless seed
+          Compatible detectors with TSOS(IP or MuSystem)(dets.size()):  0
+           Layer count exceeded the number of layer to try i.e.=2  ..so not running to find hitbased seed 
+           Layer count after running the FindSeed: 3
+           Number of seeds created on this TOB layer (Opposite, Opposite): 0
+           Running to produce seed over the TOB layer number: 6
+           Layer count before running the FindSeed: 3
+          Entering the FindSeedFunction .....
+         Trying to find hitless seed
+          Compatible detectors with TSOS(IP or MuSystem)(dets.size()):  0
+           Layer count exceeded the number of layer to try i.e.=2  ..so not running to find hitbased seed 
+           Layer count after running the FindSeed: 3
+           Number of seeds created on this TOB layer (Opposite, Opposite): 0
+Num of seeds for this l2 muon number-> 2 : 7
+Number of total seeds made in the event: 14
+Num of Track Candidates (hltIterL3OITrackCandidates): 2
+TrackProducer running ... with algo: iter10
+Num of Transient Tracks: 2
+gen muon found: pt: 49.6462 eta: -0.650003 phi: -1.26219
+gen muon found: pt: 41.4811 eta: -0.181474 phi: 1.88763
+RECO Muon - pT, eta, phi: 49.8273 , -0.650131 , -1.26226
+L2 Muon - pT, eta, phi, DR(recomu,L2): 44.6896 , -0.650336 , -1.25927 , 0.00300088
+RECO Muon - pT, eta, phi: 41.3212 , -0.181423 , 1.88761
+L2 Muon - pT, eta, phi, DR(recomu,L2): 46.8275 , -0.179277 , 1.89398 , 0.00671896
+Seed TSOS position(x,y,z): 32.0431, -104.502, -70.7425
+Seed TSOS momentum:(px,py,pz) :   12.5028, -42.9037, -31.1548
+Seed TSOS position(x,y,z): 31.8817, -104.556, -65.7479
+Seed TSOS momentum:(px,py,pz) :   12.6822, -43.6755, -32.792
+ hits of hltL3TrajSeedOI -->  global position:  (31.8817,-104.556,-63.3833) 
+Subdet ID: 5:   rawID:   436311952
+Seed TSOS position(x,y,z): 28.8284, -94.1112, -63.3399
+Seed TSOS momentum:(px,py,pz) :   12.7764, -43.582, -31.6184
+ hits of hltL3TrajSeedOI -->  global position:  (28.8284,-94.1112,-63.3826) 
+Subdet ID: 5:   rawID:   436295344
+Seed TSOS position(x,y,z): 30.2393, -93.6901, -63.1329
+Seed TSOS momentum:(px,py,pz) :   11.5332, -37.867, -27.6341
+ hits of hltL3TrajSeedOI -->  global position:  (30.2393,-93.6901,-63.3826) 
+Subdet ID: 5:   rawID:   436295344
+Seed TSOS position(x,y,z): 25.2019, -81.8098, -48.2321
+Seed TSOS momentum:(px,py,pz) :   13.0117, -43.7915, -33.1308
+ hits of hltL3TrajSeedOI -->  global position:  (25.202,-81.8102,-45.9767) 
+Subdet ID: 5:   rawID:   436278828
+Seed TSOS position(x,y,z): 26.5625, -81.3259, -48.005
+Seed TSOS momentum:(px,py,pz) :   11.4713, -37.1086, -28.2311
+ hits of hltL3TrajSeedOI -->  global position:  (26.5625,-81.3262,-45.9766) 
+Subdet ID: 5:   rawID:   436278828
+Seed TSOS position(x,y,z): 26.5675, -80.6325, -60.553
+Seed TSOS momentum:(px,py,pz) :   11.2217, -36.1663, -25.2109
+ hits of hltL3TrajSeedOI -->  global position:  (26.5675,-80.6326,-63.385) 
+Subdet ID: 5:   rawID:   436278832
+Seed TSOS position(x,y,z): -32.2181, 101.758, -15.8012
+Seed TSOS momentum:(px,py,pz) :   -13.7115, 44.7744, -8.44
+Seed TSOS position(x,y,z): -34.7365, 100.92, -9.3587
+Seed TSOS momentum:(px,py,pz) :   -16.6046, 51.6505, -9.20886
+ hits of hltL3TrajSeedOI -->  global position:  (-34.7367,100.92,-9.23097) 
+Subdet ID: 5:   rawID:   436310756
+Seed TSOS position(x,y,z): -30.66, 89.544, -9.31126
+Seed TSOS momentum:(px,py,pz) :   -16.2107, 50.362, -9.15601
+ hits of hltL3TrajSeedOI -->  global position:  (-30.66,89.544,-9.23147) 
+Subdet ID: 5:   rawID:   436294276
+Seed TSOS position(x,y,z): -30.804, 89.5011, -9.30663
+Seed TSOS momentum:(px,py,pz) :   -16.4041, 50.8236, -9.24152
+ hits of hltL3TrajSeedOI -->  global position:  (-30.8053,89.5007,-9.23147) 
+Subdet ID: 5:   rawID:   436294276
+Seed TSOS position(x,y,z): -27.4298, 81.0186, -9.27364
+Seed TSOS momentum:(px,py,pz) :   -15.7075, 48.8981, -9.02136
+ hits of hltL3TrajSeedOI -->  global position:  (-27.4298,81.0186,-9.22877) 
+Subdet ID: 5:   rawID:   436277860
+Seed TSOS position(x,y,z): -27.5999, 80.958, -9.26794
+Seed TSOS momentum:(px,py,pz) :   -15.9362, 49.4432, -9.12402
+ hits of hltL3TrajSeedOI -->  global position:  (-27.5999,80.958,-9.22876) 
+Subdet ID: 5:   rawID:   436277860
+Seed TSOS position(x,y,z): -28.5762, 80.6107, -9.23528
+Seed TSOS momentum:(px,py,pz) :   -17.3572, 52.8293, -9.76173
+ hits of hltL3TrajSeedOI -->  global position:  (-28.5762,80.6107,-9.22875) 
+Subdet ID: 5:   rawID:   436277860
+---------------------------------------------
+# of hltL3TkTracksCandOI(Trackcandidates)  = 2
+# of hltL3TkTracksOINoHP(Transient Tracks)  = 2
+hltL3TkTracksOINoHP(Transient Tracks) -->      pt: 50.0188 eta: -0.650219 phi: -1.26228
+Pixel Hits(hitPattern().numberOfValidPixelHits()):    4
+dz Wrt beam spot position:        5.2385
+d0:  0.00102054
+d0 Error:    0.000728682
+num of Degrees of freedom: :    23
+Chi2 value(normalizedChi2()):                1.00703
+Hits:(numberOfValidHits()):      14
+TrkLayers with measurement:      14
+num3D Layers: 8
+Trk Layers without measurement:  0
+dxy:       0.00156416
+Number of lost hits: 0
+hltL3TkTracksOINoHP(Transient Tracks) -->      pt: 55.2324 eta: -0.540501 phi: -1.31582
+Pixel Hits(hitPattern().numberOfValidPixelHits()):    0
+dz Wrt beam spot position:        -13.2578
+d0:  -4.62879
+d0 Error:    0.0689154
+num of Degrees of freedom: :    5
+Chi2 value(normalizedChi2()):                1.24136
+Hits:(numberOfValidHits()):      5
+TrkLayers with measurement:      5
+num3D Layers: 1
+Trk Layers without measurement:  1
+dxy:       4.6353
+Number of lost hits: 1
+Num of L3OI muon cands: 1
+L3 OI cand pt, eta, phi:  50.0188  :  -0.650219  : -1.26228
+04-Mar-2018 09:38:21 CST  Closed file root://cmsxrootd.fnal.gov//store/mc/RunIISummer17DRStdmix/DYJetsToLL_M-50_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/GEN-SIM-RAW/NZSFlatPU28to62_92X_upgrade2017_realistic_v10_ext1-v1/20003/EE609BF1-ACC9-E711-A3F7-1866DA8797A4.root
+04-Mar-2018 09:38:21 CST  Initiating request to open file root://cmsxrootd.fnal.gov//store/mc/RunIISummer17DRStdmix/DYJetsToLL_M-50_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/GEN-SIM-RAW/NZSFlatPU28to62_92X_upgrade2017_realistic_v10_ext1-v1/20003/48A8AC2B-11C9-E711-B0C3-1866DA87D585.root
+%MSG-w XrdAdaptor:  source 04-Mar-2018 09:38:29 CST PostGlobalEndLumi
+Data is served from T2_FR_CCIN2P3 instead of original site T2_US_Nebraska
+%MSG
+04-Mar-2018 09:38:29 CST  Successfully opened file root://cmsxrootd.fnal.gov//store/mc/RunIISummer17DRStdmix/DYJetsToLL_M-50_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/GEN-SIM-RAW/NZSFlatPU28to62_92X_upgrade2017_realistic_v10_ext1-v1/20003/48A8AC2B-11C9-E711-B0C3-1866DA87D585.root
+04-Mar-2018 09:38:48 CST  Closed file root://cmsxrootd.fnal.gov//store/mc/RunIISummer17DRStdmix/DYJetsToLL_M-50_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/GEN-SIM-RAW/NZSFlatPU28to62_92X_upgrade2017_realistic_v10_ext1-v1/20003/48A8AC2B-11C9-E711-B0C3-1866DA87D585.root
+04-Mar-2018 09:38:48 CST  Initiating request to open file root://cmsxrootd.fnal.gov//store/mc/RunIISummer17DRStdmix/DYJetsToLL_M-50_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/GEN-SIM-RAW/NZSFlatPU28to62_92X_upgrade2017_realistic_v10_ext1-v1/20003/CE46E36D-73C9-E711-98DA-0CC47A7EEE1E.root
+%MSG-w XrdAdaptor:  source 04-Mar-2018 09:38:51 CST PostGlobalEndLumi
+Data is served from T2_FR_CCIN2P3 instead of original site T2_US_Nebraska
+%MSG
+04-Mar-2018 09:38:51 CST  Successfully opened file root://cmsxrootd.fnal.gov//store/mc/RunIISummer17DRStdmix/DYJetsToLL_M-50_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/GEN-SIM-RAW/NZSFlatPU28to62_92X_upgrade2017_realistic_v10_ext1-v1/20003/CE46E36D-73C9-E711-98DA-0CC47A7EEE1E.root
+Begin processing the 2nd record. Run 1, Event 20924903, LumiSection 8135 at 04-Mar-2018 09:39:10.794 CST
+Number of  L2 muons for this Event################### 2
+Printing Information of the L2 muon number:       1
+L2muon ( pt, eta, phi ):    37.7404 , -0.106398 , 0.321064
+L2muon ( px, py, pz ):      35.8119 , 11.91 , -4.02307
+R,Z position of OuterTrackerstate inside:
+             R position:  112
+             z porition: -13.9618
+  R,Z position of OuterTrackerstate Outside
+             R position:  112
+             z porition: -14.166
+ Starting to produce seeds in TOB, TEC+ and TEC-  detector layers....
+Trying to produce seed with tsosAtIP in TOB.........................................
+           Running to produce seed over the TOB layer number: 1
+           Layer count before running the FindSeed: 0
+          Entering the FindSeedFunction .....
+         Trying to find hitless seed
+          Compatible detectors with TSOS(IP or MuSystem)(dets.size()):  1
+           detOnLayer:  0x7f91a16f8640
+            TSOS onLayer Position: x,y,z: 100.721, 35.3961, -13.4031
+            TSOS onLayer Momentum: px,py,pz: 35.4077, 13.0609, -4.02301
+           Seed recHit container(beforepushback): 0
+           Seed recHit container size (after pushback)hitless: 0
+           found a hitless seed
+           Trying to find hitbased seed 
+          Compatible detectors onLayer(TSOS atIP orMuSystem)(dets.size()):  2
+          TSOS at the detector layer before updating position(x,y,z):  -0.025974, 0.0725669,  -2.02218
+          TSOS at the detector layer before updating momentum(px,py,pz):  35.8119, 11.91,  -4.02307
+        Updated TSOS( x,y,z) : 100.684, 35.4905, -9.92133
+        Updated TSOS( Px,Py,Pz) : 35.707, 13.2007, -4.49869
+          recHitContainer of the seed size1
+        Updated TSOS( x,y,z) : 99.7834, 37.8596, -9.96732
+        Updated TSOS( Px,Py,Pz) : 45.5317, 17.8001, -5.75834
+          recHitContainer of the seed size1
+        Updated TSOS( x,y,z) : 99.264, 39.2263, -9.99385
+        Updated TSOS( Px,Py,Pz) : 54.2271, 21.8713, -6.87322
+          recHitContainer of the seed size1
+           Layer count after running the FindSeed: 1
+           Number of seeds created on this TOB layer (Along, Opposite): 4
+           Running to produce seed over the TOB layer number: 2
+           Layer count before running the FindSeed: 1
+          Entering the FindSeedFunction .....
+           Trying to find hitbased seed 
+          Compatible detectors onLayer(TSOS atIP orMuSystem)(dets.size()):  1
+          TSOS at the detector layer before updating position(x,y,z):  -0.025974, 0.0725669,  -2.02218
+          TSOS at the detector layer before updating momentum(px,py,pz):  35.8119, 11.91,  -4.02307
+        Updated TSOS( x,y,z) : 89.2625, 31.2475, -9.67305
+        Updated TSOS( Px,Py,Pz) : 35.6315, 13.0105, -4.34932
+          recHitContainer of the seed size1
+        Updated TSOS( x,y,z) : 89.2134, 31.3873, -9.676
+        Updated TSOS( Px,Py,Pz) : 36.158, 13.2523, -4.41478
+          recHitContainer of the seed size1
+           Layer count after running the FindSeed: 2
+           Number of seeds created on this TOB layer (Along, Opposite): 2
+           Running to produce seed over the TOB layer number: 3
+           Layer count before running the FindSeed: 2
+          Entering the FindSeedFunction .....
+           Layer count after running the FindSeed: 2
+           Number of seeds created on this TOB layer (Along, Opposite): 0
+           Running to produce seed over the TOB layer number: 4
+           Layer count before running the FindSeed: 2
+          Entering the FindSeedFunction .....
+           Layer count after running the FindSeed: 2
+           Number of seeds created on this TOB layer (Along, Opposite): 0
+           Running to produce seed over the TOB layer number: 5
+           Layer count before running the FindSeed: 2
+          Entering the FindSeedFunction .....
+           Layer count after running the FindSeed: 2
+           Number of seeds created on this TOB layer (Along, Opposite): 0
+           Running to produce seed over the TOB layer number: 6
+           Layer count before running the FindSeed: 2
+          Entering the FindSeedFunction .....
+           Layer count after running the FindSeed: 2
+           Number of seeds created on this TOB layer (Along, Opposite): 0
+UseBoth true:  so Trying to produce seed with tsosMuonSystem in TOB.............................
+           Running to produce seed over the TOB layer number: 1
+           Layer count before running the FindSeed: 2
+          Entering the FindSeedFunction .....
+         Trying to find hitless seed
+          Compatible detectors with TSOS(IP or MuSystem)(dets.size()):  0
+           Trying to find hitbased seed 
+          Compatible detectors onLayer(TSOS atIP orMuSystem)(dets.size()):  0
+          TSOS at the detector layer before updating position(x,y,z):  387.802, 155.657,  -46.5203
+          TSOS at the detector layer before updating momentum(px,py,pz):  30.4518, 13.5479,  -3.52101
+           Layer count after running the FindSeed: 2
+           Number of seeds created on this TOB layer (Opposite, Opposite): 0
+           Running to produce seed over the TOB layer number: 2
+           Layer count before running the FindSeed: 2
+          Entering the FindSeedFunction .....
+         Trying to find hitless seed
+          Compatible detectors with TSOS(IP or MuSystem)(dets.size()):  0
+           Trying to find hitbased seed 
+          Compatible detectors onLayer(TSOS atIP orMuSystem)(dets.size()):  0
+          TSOS at the detector layer before updating position(x,y,z):  387.802, 155.657,  -46.5203
+          TSOS at the detector layer before updating momentum(px,py,pz):  30.4518, 13.5479,  -3.52101
+           Layer count after running the FindSeed: 2
+           Number of seeds created on this TOB layer (Opposite, Opposite): 0
+           Running to produce seed over the TOB layer number: 3
+           Layer count before running the FindSeed: 2
+          Entering the FindSeedFunction .....
+         Trying to find hitless seed
+          Compatible detectors with TSOS(IP or MuSystem)(dets.size()):  0
+           Trying to find hitbased seed 
+          Compatible detectors onLayer(TSOS atIP orMuSystem)(dets.size()):  0
+          TSOS at the detector layer before updating position(x,y,z):  387.802, 155.657,  -46.5203
+          TSOS at the detector layer before updating momentum(px,py,pz):  30.4518, 13.5479,  -3.52101
+           Layer count after running the FindSeed: 2
+           Number of seeds created on this TOB layer (Opposite, Opposite): 0
+           Running to produce seed over the TOB layer number: 4
+           Layer count before running the FindSeed: 2
+          Entering the FindSeedFunction .....
+         Trying to find hitless seed
+          Compatible detectors with TSOS(IP or MuSystem)(dets.size()):  0
+           Trying to find hitbased seed 
+          Compatible detectors onLayer(TSOS atIP orMuSystem)(dets.size()):  0
+          TSOS at the detector layer before updating position(x,y,z):  387.802, 155.657,  -46.5203
+          TSOS at the detector layer before updating momentum(px,py,pz):  30.4518, 13.5479,  -3.52101
+           Layer count after running the FindSeed: 2
+           Number of seeds created on this TOB layer (Opposite, Opposite): 0
+           Running to produce seed over the TOB layer number: 5
+           Layer count before running the FindSeed: 2
+          Entering the FindSeedFunction .....
+         Trying to find hitless seed
+          Compatible detectors with TSOS(IP or MuSystem)(dets.size()):  0
+           Trying to find hitbased seed 
+          Compatible detectors onLayer(TSOS atIP orMuSystem)(dets.size()):  0
+          TSOS at the detector layer before updating position(x,y,z):  387.802, 155.657,  -46.5203
+          TSOS at the detector layer before updating momentum(px,py,pz):  30.4518, 13.5479,  -3.52101
+           Layer count after running the FindSeed: 2
+           Number of seeds created on this TOB layer (Opposite, Opposite): 0
+           Running to produce seed over the TOB layer number: 6
+           Layer count before running the FindSeed: 2
+          Entering the FindSeedFunction .....
+         Trying to find hitless seed
+          Compatible detectors with TSOS(IP or MuSystem)(dets.size()):  0
+           Trying to find hitbased seed 
+          Compatible detectors onLayer(TSOS atIP orMuSystem)(dets.size()):  0
+          TSOS at the detector layer before updating position(x,y,z):  387.802, 155.657,  -46.5203
+          TSOS at the detector layer before updating momentum(px,py,pz):  30.4518, 13.5479,  -3.52101
+           Layer count after running the FindSeed: 2
+           Number of seeds created on this TOB layer (Opposite, Opposite): 0
+Num of seeds made  for this l2 muon number->  1 : 6
+Printing Information of the L2 muon number:       2
+L2muon ( pt, eta, phi ):    40.7806 , -1.07309 , -2.65576
+L2muon ( px, py, pz ):      -36.0616 , -19.0425 , -52.6572
+R,Z position of OuterTrackerstate inside:
+             R position:  112
+             z porition: -143.911
+  R,Z position of OuterTrackerstate Outside
+             R position:  112
+             z porition: -143.773
+ Starting to produce seeds in TOB, TEC+ and TEC-  detector layers....
+Trying to produce seed with tsosAtIP in TOB.........................................
+           Running to produce seed over the TOB layer number: 1
+           Layer count before running the FindSeed: 0
+          Entering the FindSeedFunction .....
+         Trying to find hitless seed
+          Compatible detectors with TSOS(IP or MuSystem)(dets.size()):  0
+           Trying to find hitbased seed 
+          Compatible detectors onLayer(TSOS atIP orMuSystem)(dets.size()):  0
+          TSOS at the detector layer before updating position(x,y,z):  -0.0229053, 0.0656499,  0.725379
+          TSOS at the detector layer before updating momentum(px,py,pz):  -36.0616, -19.0425,  -52.6572
+           Layer count after running the FindSeed: 0
+           Number of seeds created on this TOB layer (Along, Opposite): 0
+           Running to produce seed over the TOB layer number: 2
+           Layer count before running the FindSeed: 0
+          Entering the FindSeedFunction .....
+         Trying to find hitless seed
+          Compatible detectors with TSOS(IP or MuSystem)(dets.size()):  0
+           Trying to find hitbased seed 
+          Compatible detectors onLayer(TSOS atIP orMuSystem)(dets.size()):  0
+          TSOS at the detector layer before updating position(x,y,z):  -0.0229053, 0.0656499,  0.725379
+          TSOS at the detector layer before updating momentum(px,py,pz):  -36.0616, -19.0425,  -52.6572
+           Layer count after running the FindSeed: 0
+           Number of seeds created on this TOB layer (Along, Opposite): 0
+           Running to produce seed over the TOB layer number: 3
+           Layer count before running the FindSeed: 0
+          Entering the FindSeedFunction .....
+         Trying to find hitless seed
+          Compatible detectors with TSOS(IP or MuSystem)(dets.size()):  1
+           detOnLayer:  0x7f91a1903a40
+            TSOS onLayer Position: x,y,z: -75.5752, -38.6878, -108.918
+            TSOS onLayer Momentum: px,py,pz: -36.5021, -18.1781, -52.6539
+           Seed recHit container(beforepushback): 0
+           Seed recHit container size (after pushback)hitless: 0
+           found a hitless seed
+           Trying to find hitbased seed 
+          Compatible detectors onLayer(TSOS atIP orMuSystem)(dets.size()):  1
+          TSOS at the detector layer before updating position(x,y,z):  -0.0229053, 0.0656499,  0.725379
+          TSOS at the detector layer before updating momentum(px,py,pz):  -36.0616, -19.0425,  -52.6572
+        Updated TSOS( x,y,z) : -75.7956, -38.2289, -100.825
+        Updated TSOS( Px,Py,Pz) : -44.5914, -22.0437, -65.7583
+          recHitContainer of the seed size1
+        Updated TSOS( x,y,z) : -77.1454, -35.4089, -101.315
+        Updated TSOS( Px,Py,Pz) : -799.983, -374.18, -1162.29
+          recHitContainer of the seed size1
+           Layer count after running the FindSeed: 1
+           Number of seeds created on this TOB layer (Along, Opposite): 3
+           Running to produce seed over the TOB layer number: 4
+           Layer count before running the FindSeed: 1
+          Entering the FindSeedFunction .....
+           Trying to find hitbased seed 
+          Compatible detectors onLayer(TSOS atIP orMuSystem)(dets.size()):  1
+          TSOS at the detector layer before updating position(x,y,z):  -0.0229053, 0.0656499,  0.725379
+          TSOS at the detector layer before updating momentum(px,py,pz):  -36.0616, -19.0425,  -52.6572
+        Updated TSOS( x,y,z) : -71.0897, -36.5442, -99.5706
+        Updated TSOS( Px,Py,Pz) : -36.0638, -18.0596, -52.5361
+          recHitContainer of the seed size1
+        Updated TSOS( x,y,z) : -70.2863, -38.1658, -99.2815
+        Updated TSOS( Px,Py,Pz) : -23.6487, -12.2412, -34.7637
+          recHitContainer of the seed size1
+        Updated TSOS( x,y,z) : -72.1667, -34.3704, -99.9581
+        Updated TSOS( Px,Py,Pz) : -116.471, -55.7339, -167.634
+          recHitContainer of the seed size1
+           Layer count after running the FindSeed: 2
+           Number of seeds created on this TOB layer (Along, Opposite): 3
+           Running to produce seed over the TOB layer number: 5
+           Layer count before running the FindSeed: 2
+          Entering the FindSeedFunction .....
+           Layer count after running the FindSeed: 2
+           Number of seeds created on this TOB layer (Along, Opposite): 0
+           Running to produce seed over the TOB layer number: 6
+           Layer count before running the FindSeed: 2
+          Entering the FindSeedFunction .....
+           Layer count after running the FindSeed: 2
+           Number of seeds created on this TOB layer (Along, Opposite): 0
+UseBoth true:  so Trying to produce seed with tsosMuonSystem in TOB.............................
+           Running to produce seed over the TOB layer number: 1
+           Layer count before running the FindSeed: 2
+          Entering the FindSeedFunction .....
+         Trying to find hitless seed
+          Compatible detectors with TSOS(IP or MuSystem)(dets.size()):  0
+           Trying to find hitbased seed 
+          Compatible detectors onLayer(TSOS atIP orMuSystem)(dets.size()):  0
+          TSOS at the detector layer before updating position(x,y,z):  -377.45, -173.588,  -535.932
+          TSOS at the detector layer before updating momentum(px,py,pz):  -41.389, -17.522,  -58.0608
+           Layer count after running the FindSeed: 2
+           Number of seeds created on this TOB layer (Opposite, Opposite): 0
+           Running to produce seed over the TOB layer number: 2
+           Layer count before running the FindSeed: 2
+          Entering the FindSeedFunction .....
+         Trying to find hitless seed
+          Compatible detectors with TSOS(IP or MuSystem)(dets.size()):  0
+           Trying to find hitbased seed 
+          Compatible detectors onLayer(TSOS atIP orMuSystem)(dets.size()):  0
+          TSOS at the detector layer before updating position(x,y,z):  -377.45, -173.588,  -535.932
+          TSOS at the detector layer before updating momentum(px,py,pz):  -41.389, -17.522,  -58.0608
+           Layer count after running the FindSeed: 2
+           Number of seeds created on this TOB layer (Opposite, Opposite): 0
+           Running to produce seed over the TOB layer number: 3
+           Layer count before running the FindSeed: 2
+          Entering the FindSeedFunction .....
+         Trying to find hitless seed
+          Compatible detectors with TSOS(IP or MuSystem)(dets.size()):  0
+           Trying to find hitbased seed 
+          Compatible detectors onLayer(TSOS atIP orMuSystem)(dets.size()):  0
+          TSOS at the detector layer before updating position(x,y,z):  -377.45, -173.588,  -535.932
+          TSOS at the detector layer before updating momentum(px,py,pz):  -41.389, -17.522,  -58.0608
+           Layer count after running the FindSeed: 2
+           Number of seeds created on this TOB layer (Opposite, Opposite): 0
+           Running to produce seed over the TOB layer number: 4
+           Layer count before running the FindSeed: 2
+          Entering the FindSeedFunction .....
+         Trying to find hitless seed
+          Compatible detectors with TSOS(IP or MuSystem)(dets.size()):  0
+           Trying to find hitbased seed 
+          Compatible detectors onLayer(TSOS atIP orMuSystem)(dets.size()):  0
+          TSOS at the detector layer before updating position(x,y,z):  -377.45, -173.588,  -535.932
+          TSOS at the detector layer before updating momentum(px,py,pz):  -41.389, -17.522,  -58.0608
+           Layer count after running the FindSeed: 2
+           Number of seeds created on this TOB layer (Opposite, Opposite): 0
+           Running to produce seed over the TOB layer number: 5
+           Layer count before running the FindSeed: 2
+          Entering the FindSeedFunction .....
+         Trying to find hitless seed
+          Compatible detectors with TSOS(IP or MuSystem)(dets.size()):  0
+           Trying to find hitbased seed 
+          Compatible detectors onLayer(TSOS atIP orMuSystem)(dets.size()):  0
+          TSOS at the detector layer before updating position(x,y,z):  -377.45, -173.588,  -535.932
+          TSOS at the detector layer before updating momentum(px,py,pz):  -41.389, -17.522,  -58.0608
+           Layer count after running the FindSeed: 2
+           Number of seeds created on this TOB layer (Opposite, Opposite): 0
+           Running to produce seed over the TOB layer number: 6
+           Layer count before running the FindSeed: 2
+          Entering the FindSeedFunction .....
+         Trying to find hitless seed
+          Compatible detectors with TSOS(IP or MuSystem)(dets.size()):  0
+           Trying to find hitbased seed 
+          Compatible detectors onLayer(TSOS atIP orMuSystem)(dets.size()):  0
+          TSOS at the detector layer before updating position(x,y,z):  -377.45, -173.588,  -535.932
+          TSOS at the detector layer before updating momentum(px,py,pz):  -41.389, -17.522,  -58.0608
+           Layer count after running the FindSeed: 2
+           Number of seeds created on this TOB layer (Opposite, Opposite): 0
+Trying to produce seed with tsosAtIP in TEC- ..........................................
+           Running to produce seed over the TEC- layer number: 1
+           Layer count before running the FindSeed: 0
+          Entering the FindSeedFunction .....
+         Trying to find hitless seed
+          Compatible detectors with TSOS(IP or MuSystem)(dets.size()):  0
+           Trying to find hitbased seed 
+          Compatible detectors onLayer(TSOS atIP orMuSystem)(dets.size()):  0
+          TSOS at the detector layer before updating position(x,y,z):  -0.0229053, 0.0656499,  0.725379
+          TSOS at the detector layer before updating momentum(px,py,pz):  -36.0616, -19.0425,  -52.6572
+           Layer count after running the FindSeed: 0
+           Number of seeds created on this TOB layer (Opposite, Opposite): 0
+           Running to produce seed over the TEC- layer number: 2
+           Layer count before running the FindSeed: 0
+          Entering the FindSeedFunction .....
+         Trying to find hitless seed
+          Compatible detectors with TSOS(IP or MuSystem)(dets.size()):  0
+           Trying to find hitbased seed 
+          Compatible detectors onLayer(TSOS atIP orMuSystem)(dets.size()):  0
+          TSOS at the detector layer before updating position(x,y,z):  -0.0229053, 0.0656499,  0.725379
+          TSOS at the detector layer before updating momentum(px,py,pz):  -36.0616, -19.0425,  -52.6572
+           Layer count after running the FindSeed: 0
+           Number of seeds created on this TOB layer (Opposite, Opposite): 0
+           Running to produce seed over the TEC- layer number: 3
+           Layer count before running the FindSeed: 0
+          Entering the FindSeedFunction .....
+         Trying to find hitless seed
+          Compatible detectors with TSOS(IP or MuSystem)(dets.size()):  0
+           Trying to find hitbased seed 
+          Compatible detectors onLayer(TSOS atIP orMuSystem)(dets.size()):  0
+          TSOS at the detector layer before updating position(x,y,z):  -0.0229053, 0.0656499,  0.725379
+          TSOS at the detector layer before updating momentum(px,py,pz):  -36.0616, -19.0425,  -52.6572
+           Layer count after running the FindSeed: 0
+           Number of seeds created on this TOB layer (Opposite, Opposite): 0
+           Running to produce seed over the TEC- layer number: 4
+           Layer count before running the FindSeed: 0
+          Entering the FindSeedFunction .....
+         Trying to find hitless seed
+          Compatible detectors with TSOS(IP or MuSystem)(dets.size()):  0
+           Trying to find hitbased seed 
+          Compatible detectors onLayer(TSOS atIP orMuSystem)(dets.size()):  0
+          TSOS at the detector layer before updating position(x,y,z):  -0.0229053, 0.0656499,  0.725379
+          TSOS at the detector layer before updating momentum(px,py,pz):  -36.0616, -19.0425,  -52.6572
+           Layer count after running the FindSeed: 0
+           Number of seeds created on this TOB layer (Opposite, Opposite): 0
+           Running to produce seed over the TEC- layer number: 5
+           Layer count before running the FindSeed: 0
+          Entering the FindSeedFunction .....
+         Trying to find hitless seed
+          Compatible detectors with TSOS(IP or MuSystem)(dets.size()):  0
+           Trying to find hitbased seed 
+          Compatible detectors onLayer(TSOS atIP orMuSystem)(dets.size()):  0
+          TSOS at the detector layer before updating position(x,y,z):  -0.0229053, 0.0656499,  0.725379
+          TSOS at the detector layer before updating momentum(px,py,pz):  -36.0616, -19.0425,  -52.6572
+           Layer count after running the FindSeed: 0
+           Number of seeds created on this TOB layer (Opposite, Opposite): 0
+           Running to produce seed over the TEC- layer number: 6
+           Layer count before running the FindSeed: 0
+          Entering the FindSeedFunction .....
+         Trying to find hitless seed
+          Compatible detectors with TSOS(IP or MuSystem)(dets.size()):  0
+           Trying to find hitbased seed 
+          Compatible detectors onLayer(TSOS atIP orMuSystem)(dets.size()):  1
+          TSOS at the detector layer before updating position(x,y,z):  -0.0229053, 0.0656499,  0.725379
+          TSOS at the detector layer before updating momentum(px,py,pz):  -36.0616, -19.0425,  -52.6572
+        Updated TSOS( x,y,z) : -100.171, -54.028, -176.386
+        Updated TSOS( Px,Py,Pz) : -22.3869, -11.0746, -29.5672
+           Layer count after running the FindSeed: 0
+           Number of seeds created on this TOB layer (Opposite, Opposite): 0
+           Running to produce seed over the TEC- layer number: 7
+           Layer count before running the FindSeed: 0
+          Entering the FindSeedFunction .....
+         Trying to find hitless seed
+          Compatible detectors with TSOS(IP or MuSystem)(dets.size()):  0
+           Trying to find hitbased seed 
+          Compatible detectors onLayer(TSOS atIP orMuSystem)(dets.size()):  1
+          TSOS at the detector layer before updating position(x,y,z):  -0.0229053, 0.0656499,  0.725379
+          TSOS at the detector layer before updating momentum(px,py,pz):  -36.0616, -19.0425,  -52.6572
+        Updated TSOS( x,y,z) : -97.8486, -48.452, -162.377
+        Updated TSOS( Px,Py,Pz) : -40.1793, -19.3211, -53.7791
+           Layer count after running the FindSeed: 0
+           Number of seeds created on this TOB layer (Opposite, Opposite): 0
+           Running to produce seed over the TEC- layer number: 8
+           Layer count before running the FindSeed: 0
+          Entering the FindSeedFunction .....
+         Trying to find hitless seed
+          Compatible detectors with TSOS(IP or MuSystem)(dets.size()):  0
+           Trying to find hitbased seed 
+          Compatible detectors onLayer(TSOS atIP orMuSystem)(dets.size()):  0
+          TSOS at the detector layer before updating position(x,y,z):  -0.0229053, 0.0656499,  0.725379
+          TSOS at the detector layer before updating momentum(px,py,pz):  -36.0616, -19.0425,  -52.6572
+           Layer count after running the FindSeed: 0
+           Number of seeds created on this TOB layer (Opposite, Opposite): 0
+           Running to produce seed over the TEC- layer number: 9
+           Layer count before running the FindSeed: 0
+          Entering the FindSeedFunction .....
+         Trying to find hitless seed
+          Compatible detectors with TSOS(IP or MuSystem)(dets.size()):  1
+           detOnLayer:  0x7f91a1abd840
+            TSOS onLayer Position: x,y,z: -93.2556, -47.4318, -134.387
+            TSOS onLayer Momentum: px,py,pz: -36.5978, -17.974, -52.6477
+           Seed recHit container(beforepushback): 0
+           Seed recHit container size (after pushback)hitless: 0
+           found a hitless seed
+           Trying to find hitbased seed 
+          Compatible detectors onLayer(TSOS atIP orMuSystem)(dets.size()):  1
+          TSOS at the detector layer before updating position(x,y,z):  -0.0229053, 0.0656499,  0.725379
+          TSOS at the detector layer before updating momentum(px,py,pz):  -36.0616, -19.0425,  -52.6572
+        Updated TSOS( x,y,z) : -89.9076, -45.893, -134.384
+        Updated TSOS( Px,Py,Pz) : -34.9454, -17.2097, -49.5748
+           Layer count after running the FindSeed: 0
+           Number of seeds created on this TOB layer (Opposite, Opposite): 1
+UseBoth true:  so Trying to produce seed with tsosMuonSystem in TEC-.............................
+           Running to produce seed over the TEC- layer number: 1
+           Layer count before running the FindSeed: 0
+          Entering the FindSeedFunction .....
+         Trying to find hitless seed
+          Compatible detectors with TSOS(IP or MuSystem)(dets.size()):  0
+           Trying to find hitbased seed 
+          Compatible detectors onLayer(TSOS atIP orMuSystem)(dets.size()):  0
+          TSOS at the detector layer before updating position(x,y,z):  -377.45, -173.588,  -535.932
+          TSOS at the detector layer before updating momentum(px,py,pz):  -41.389, -17.522,  -58.0608
+           Layer count after running the FindSeed: 0
+           Number of seeds created on this TOB layer (Opposite, Opposite): 0
+           Running to produce seed over the TEC- layer number: 2
+           Layer count before running the FindSeed: 0
+          Entering the FindSeedFunction .....
+         Trying to find hitless seed
+          Compatible detectors with TSOS(IP or MuSystem)(dets.size()):  0
+           Trying to find hitbased seed 
+          Compatible detectors onLayer(TSOS atIP orMuSystem)(dets.size()):  0
+          TSOS at the detector layer before updating position(x,y,z):  -377.45, -173.588,  -535.932
+          TSOS at the detector layer before updating momentum(px,py,pz):  -41.389, -17.522,  -58.0608
+           Layer count after running the FindSeed: 0
+           Number of seeds created on this TOB layer (Opposite, Opposite): 0
+           Running to produce seed over the TEC- layer number: 3
+           Layer count before running the FindSeed: 0
+          Entering the FindSeedFunction .....
+         Trying to find hitless seed
+          Compatible detectors with TSOS(IP or MuSystem)(dets.size()):  0
+           Trying to find hitbased seed 
+          Compatible detectors onLayer(TSOS atIP orMuSystem)(dets.size()):  0
+          TSOS at the detector layer before updating position(x,y,z):  -377.45, -173.588,  -535.932
+          TSOS at the detector layer before updating momentum(px,py,pz):  -41.389, -17.522,  -58.0608
+           Layer count after running the FindSeed: 0
+           Number of seeds created on this TOB layer (Opposite, Opposite): 0
+           Running to produce seed over the TEC- layer number: 4
+           Layer count before running the FindSeed: 0
+          Entering the FindSeedFunction .....
+         Trying to find hitless seed
+          Compatible detectors with TSOS(IP or MuSystem)(dets.size()):  0
+           Trying to find hitbased seed 
+          Compatible detectors onLayer(TSOS atIP orMuSystem)(dets.size()):  0
+          TSOS at the detector layer before updating position(x,y,z):  -377.45, -173.588,  -535.932
+          TSOS at the detector layer before updating momentum(px,py,pz):  -41.389, -17.522,  -58.0608
+           Layer count after running the FindSeed: 0
+           Number of seeds created on this TOB layer (Opposite, Opposite): 0
+           Running to produce seed over the TEC- layer number: 5
+           Layer count before running the FindSeed: 0
+          Entering the FindSeedFunction .....
+         Trying to find hitless seed
+          Compatible detectors with TSOS(IP or MuSystem)(dets.size()):  0
+           Trying to find hitbased seed 
+          Compatible detectors onLayer(TSOS atIP orMuSystem)(dets.size()):  0
+          TSOS at the detector layer before updating position(x,y,z):  -377.45, -173.588,  -535.932
+          TSOS at the detector layer before updating momentum(px,py,pz):  -41.389, -17.522,  -58.0608
+           Layer count after running the FindSeed: 0
+           Number of seeds created on this TOB layer (Opposite, Opposite): 0
+           Running to produce seed over the TEC- layer number: 6
+           Layer count before running the FindSeed: 0
+          Entering the FindSeedFunction .....
+         Trying to find hitless seed
+          Compatible detectors with TSOS(IP or MuSystem)(dets.size()):  0
+           Trying to find hitbased seed 
+          Compatible detectors onLayer(TSOS atIP orMuSystem)(dets.size()):  0
+          TSOS at the detector layer before updating position(x,y,z):  -377.45, -173.588,  -535.932
+          TSOS at the detector layer before updating momentum(px,py,pz):  -41.389, -17.522,  -58.0608
+           Layer count after running the FindSeed: 0
+           Number of seeds created on this TOB layer (Opposite, Opposite): 0
+           Running to produce seed over the TEC- layer number: 7
+           Layer count before running the FindSeed: 0
+          Entering the FindSeedFunction .....
+         Trying to find hitless seed
+          Compatible detectors with TSOS(IP or MuSystem)(dets.size()):  0
+           Trying to find hitbased seed 
+          Compatible detectors onLayer(TSOS atIP orMuSystem)(dets.size()):  0
+          TSOS at the detector layer before updating position(x,y,z):  -377.45, -173.588,  -535.932
+          TSOS at the detector layer before updating momentum(px,py,pz):  -41.389, -17.522,  -58.0608
+           Layer count after running the FindSeed: 0
+           Number of seeds created on this TOB layer (Opposite, Opposite): 0
+           Running to produce seed over the TEC- layer number: 8
+           Layer count before running the FindSeed: 0
+          Entering the FindSeedFunction .....
+         Trying to find hitless seed
+          Compatible detectors with TSOS(IP or MuSystem)(dets.size()):  0
+           Trying to find hitbased seed 
+          Compatible detectors onLayer(TSOS atIP orMuSystem)(dets.size()):  0
+          TSOS at the detector layer before updating position(x,y,z):  -377.45, -173.588,  -535.932
+          TSOS at the detector layer before updating momentum(px,py,pz):  -41.389, -17.522,  -58.0608
+           Layer count after running the FindSeed: 0
+           Number of seeds created on this TOB layer (Opposite, Opposite): 0
+           Running to produce seed over the TEC- layer number: 9
+           Layer count before running the FindSeed: 0
+          Entering the FindSeedFunction .....
+         Trying to find hitless seed
+          Compatible detectors with TSOS(IP or MuSystem)(dets.size()):  0
+           Trying to find hitbased seed 
+          Compatible detectors onLayer(TSOS atIP orMuSystem)(dets.size()):  0
+          TSOS at the detector layer before updating position(x,y,z):  -377.45, -173.588,  -535.932
+          TSOS at the detector layer before updating momentum(px,py,pz):  -41.389, -17.522,  -58.0608
+           Layer count after running the FindSeed: 0
+           Number of seeds created on this TOB layer (Opposite, Opposite): 0
+Num of seeds for this l2 muon number-> 2 : 7
+Number of total seeds made in the event: 13
+Num of Track Candidates (hltIterL3OITrackCandidates): 3
+TrackProducer running ... with algo: iter10
+Num of Transient Tracks: 3
+gen muon found: pt: 42.401 eta: -1.06879 phi: -2.655
+gen muon found: pt: 39.5244 eta: -0.102537 phi: 0.3223
+RECO Muon - pT, eta, phi: 41.9607 , -1.0687 , -2.65494
+L2 Muon - pT, eta, phi, DR(recomu,L2): 40.7806 , -1.07309 , -2.65576 , 0.00446755
+RECO Muon - pT, eta, phi: 39.3014 , -0.103212 , 0.322172
+L2 Muon - pT, eta, phi, DR(recomu,L2): 37.7405 , -0.106398 , 0.321064 , 0.00337332
+Seed TSOS position(x,y,z): 100.721, 35.3961, -13.4031
+Seed TSOS momentum:(px,py,pz) :   35.4077, 13.0609, -4.02301
+Seed TSOS position(x,y,z): 100.684, 35.4905, -9.92133
+Seed TSOS momentum:(px,py,pz) :   35.707, 13.2007, -4.49869
+ hits of hltL3TrajSeedOI -->  global position:  (100.684,35.4904,-9.23175) 
+Subdet ID: 5:   rawID:   436310180
+Seed TSOS position(x,y,z): 99.7834, 37.8596, -9.96732
+Seed TSOS momentum:(px,py,pz) :   45.5317, 17.8001, -5.75834
+ hits of hltL3TrajSeedOI -->  global position:  (99.7833,37.8596,-9.23164) 
+Subdet ID: 5:   rawID:   436310180
+Seed TSOS position(x,y,z): 99.264, 39.2263, -9.99385
+Seed TSOS momentum:(px,py,pz) :   54.2271, 21.8713, -6.87322
+ hits of hltL3TrajSeedOI -->  global position:  (99.2639,39.2262,-9.23158) 
+Subdet ID: 5:   rawID:   436310180
+Seed TSOS position(x,y,z): 89.2625, 31.2475, -9.67305
+Seed TSOS momentum:(px,py,pz) :   35.6315, 13.0105, -4.34932
+ hits of hltL3TrajSeedOI -->  global position:  (89.2624,31.2475,-9.22925) 
+Subdet ID: 5:   rawID:   436293764
+Seed TSOS position(x,y,z): 89.2134, 31.3873, -9.676
+Seed TSOS momentum:(px,py,pz) :   36.158, 13.2523, -4.41478
+ hits of hltL3TrajSeedOI -->  global position:  (89.2134,31.3873,-9.22925) 
+Subdet ID: 5:   rawID:   436293764
+Seed TSOS position(x,y,z): -75.5752, -38.6878, -108.918
+Seed TSOS momentum:(px,py,pz) :   -36.5021, -18.1781, -52.6539
+Seed TSOS position(x,y,z): -75.7956, -38.2289, -100.825
+Seed TSOS momentum:(px,py,pz) :   -44.5914, -22.0437, -65.7583
+ hits of hltL3TrajSeedOI -->  global position:  (-75.7957,-38.229,-98.981) 
+Subdet ID: 5:   rawID:   436278392
+Seed TSOS position(x,y,z): -77.1454, -35.4089, -101.315
+Seed TSOS momentum:(px,py,pz) :   -799.983, -374.18, -1162.29
+ hits of hltL3TrajSeedOI -->  global position:  (-77.1455,-35.409,-98.9809) 
+Subdet ID: 5:   rawID:   436278392
+Seed TSOS position(x,y,z): -71.0897, -36.5442, -99.5706
+Seed TSOS momentum:(px,py,pz) :   -36.0638, -18.0596, -52.5361
+ hits of hltL3TrajSeedOI -->  global position:  (-71.0897,-36.5442,-98.9788) 
+Subdet ID: 5:   rawID:   436261880
+Seed TSOS position(x,y,z): -70.2863, -38.1658, -99.2815
+Seed TSOS momentum:(px,py,pz) :   -23.6487, -12.2412, -34.7637
+ hits of hltL3TrajSeedOI -->  global position:  (-70.2858,-38.1668,-98.9788) 
+Subdet ID: 5:   rawID:   436261880
+Seed TSOS position(x,y,z): -72.1667, -34.3704, -99.9581
+Seed TSOS momentum:(px,py,pz) :   -116.471, -55.7339, -167.634
+ hits of hltL3TrajSeedOI -->  global position:  (-72.1668,-34.3704,-98.9787) 
+Subdet ID: 5:   rawID:   436261880
+Seed TSOS position(x,y,z): -93.2556, -47.4318, -134.387
+Seed TSOS momentum:(px,py,pz) :   -36.5978, -17.974, -52.6477
+---------------------------------------------
+# of hltL3TkTracksCandOI(Trackcandidates)  = 3
+# of hltL3TkTracksOINoHP(Transient Tracks)  = 3
+hltL3TkTracksOINoHP(Transient Tracks) -->      pt: 48.4966 eta: -0.054212 phi: 0.326123
+Pixel Hits(hitPattern().numberOfValidPixelHits()):    0
+dz Wrt beam spot position:        -6.18597
+d0:  0.0514085
+d0 Error:    0.0226877
+num of Degrees of freedom: :    9
+Chi2 value(normalizedChi2()):                1.60457
+Hits:(numberOfValidHits()):      7
+TrkLayers with measurement:      7
+num3D Layers: 1
+Trk Layers without measurement:  1
+dxy:       -0.124986
+Number of lost hits: 1
+hltL3TkTracksOINoHP(Transient Tracks) -->      pt: 41.7783 eta: -1.06873 phi: -2.65493
+Pixel Hits(hitPattern().numberOfValidPixelHits()):    4
+dz Wrt beam spot position:        -3.28067
+d0:  0.0752534
+d0 Error:    0.000560697
+num of Degrees of freedom: :    17
+Chi2 value(normalizedChi2()):                0.465229
+Hits:(numberOfValidHits()):      11
+TrkLayers with measurement:      11
+num3D Layers: 8
+Trk Layers without measurement:  0
+dxy:       -0.00241606
+Number of lost hits: 0
+hltL3TkTracksOINoHP(Transient Tracks) -->      pt: 119.414 eta: -1.08979 phi: -2.65468
+Pixel Hits(hitPattern().numberOfValidPixelHits()):    0
+dz Wrt beam spot position:        -9.49011
+d0:  3.0963
+d0 Error:    0.0100738
+num of Degrees of freedom: :    5
+Chi2 value(normalizedChi2()):                4.32348
+Hits:(numberOfValidHits()):      5
+TrkLayers with measurement:      5
+num3D Layers: 3
+Trk Layers without measurement:  1
+dxy:       -3.02346
+Number of lost hits: 1
+Num of L3OI muon cands: 1
+L3 OI cand pt, eta, phi:  41.7783  :  -1.06873  : -2.65493
+Begin processing the 3rd record. Run 1, Event 20926171, LumiSection 8135 at 04-Mar-2018 09:39:13.344 CST
+Number of  L2 muons for this Event################### 2
+Printing Information of the L2 muon number:       1
+L2muon ( pt, eta, phi ):    28.1785 , 2.30002 , -0.00831748
+L2muon ( px, py, pz ):      28.1775 , -0.234371 , 139.119
+R,Z position of OuterTrackerstate inside:
+             R position:  55.5199
+             z porition: 273.5
+  R,Z position of OuterTrackerstate Outside
+             R position:  55.5199
+             z porition: 273.5
+ Starting to produce seeds in TOB, TEC+ and TEC-  detector layers....
+Trying to produce seed with tsosAtIP in TOB.........................................
+Trying to produce seed with tsosAtIP in TEC+ .......................................
+           Running to produce seed over the TEC+ layer number: 1
+           Layer count before running the FindSeed: 0
+          Entering the FindSeedFunction .....
+         Trying to find hitless seed
+          Compatible detectors with TSOS(IP or MuSystem)(dets.size()):  2
+           detOnLayer:  0x7f91a1a8d9c0
+            TSOS onLayer Position: x,y,z: 53.6213, -0.963935, 264.169
+            TSOS onLayer Momentum: px,py,pz: 28.1654, -0.847271, 139.117
+           Seed recHit container(beforepushback): 0
+           Seed recHit container size (after pushback)hitless: 0
+           found a hitless seed
+           Trying to find hitbased seed 
+          Compatible detectors onLayer(TSOS atIP orMuSystem)(dets.size()):  2
+          TSOS at the detector layer before updating position(x,y,z):  -0.0220244, 0.0658865,  -0.725004
+          TSOS at the detector layer before updating momentum(px,py,pz):  28.1775, -0.234371,  139.119
+        Updated TSOS( x,y,z) : 54.7833, -0.977985, 264.674
+        Updated TSOS( Px,Py,Pz) : 28.5766, -0.85589, 142.307
+          recHitContainer of the seed size1
+        Updated TSOS( x,y,z) : 54.7773, -1.01476, 264.674
+        Updated TSOS( Px,Py,Pz) : 29.9193, -0.901033, 148.985
+          recHitContainer of the seed size1
+        Updated TSOS( x,y,z) : 54.7425, -1.2107, 264.674
+        Updated TSOS( Px,Py,Pz) : 39.9062, -1.23683, 198.653
+          recHitContainer of the seed size1
+           Layer count after running the FindSeed: 1
+           Number of seeds created on this TOB layer (Opposite, Opposite): 4
+           Running to produce seed over the TEC+ layer number: 2
+           Layer count before running the FindSeed: 1
+          Entering the FindSeedFunction .....
+           Trying to find hitbased seed 
+          Compatible detectors onLayer(TSOS atIP orMuSystem)(dets.size()):  1
+          TSOS at the detector layer before updating position(x,y,z):  -0.0220244, 0.0658865,  -0.725004
+          TSOS at the detector layer before updating momentum(px,py,pz):  28.1775, -0.234371,  139.119
+        Updated TSOS( x,y,z) : 46.9382, -0.818854, 240.637
+        Updated TSOS( Px,Py,Pz) : 27.919, -0.796152, 135.746
+          recHitContainer of the seed size1
+        Updated TSOS( x,y,z) : 46.7639, -1.69958, 240.637
+        Updated TSOS( Px,Py,Pz) : 219.614, -7.39079, 1066.39
+          recHitContainer of the seed size1
+        Updated TSOS( x,y,z) : 46.9807, 0.221632, 240.637
+        Updated TSOS( Px,Py,Pz) : 11.9641, -0.268861, 58.184
+          recHitContainer of the seed size1
+           Layer count after running the FindSeed: 2
+           Number of seeds created on this TOB layer (Opposite, Opposite): 3
+           Running to produce seed over the TEC+ layer number: 3
+           Layer count before running the FindSeed: 2
+          Entering the FindSeedFunction .....
+           Layer count after running the FindSeed: 2
+           Number of seeds created on this TOB layer (Opposite, Opposite): 0
+           Running to produce seed over the TEC+ layer number: 4
+           Layer count before running the FindSeed: 2
+          Entering the FindSeedFunction .....
+           Layer count after running the FindSeed: 2
+           Number of seeds created on this TOB layer (Opposite, Opposite): 0
+           Running to produce seed over the TEC+ layer number: 5
+           Layer count before running the FindSeed: 2
+          Entering the FindSeedFunction .....
+           Layer count after running the FindSeed: 2
+           Number of seeds created on this TOB layer (Opposite, Opposite): 0
+           Running to produce seed over the TEC+ layer number: 6
+           Layer count before running the FindSeed: 2
+          Entering the FindSeedFunction .....
+           Layer count after running the FindSeed: 2
+           Number of seeds created on this TOB layer (Opposite, Opposite): 0
+           Running to produce seed over the TEC+ layer number: 7
+           Layer count before running the FindSeed: 2
+          Entering the FindSeedFunction .....
+           Layer count after running the FindSeed: 2
+           Number of seeds created on this TOB layer (Opposite, Opposite): 0
+           Running to produce seed over the TEC+ layer number: 8
+           Layer count before running the FindSeed: 2
+          Entering the FindSeedFunction .....
+           Layer count after running the FindSeed: 2
+           Number of seeds created on this TOB layer (Opposite, Opposite): 0
+           Running to produce seed over the TEC+ layer number: 9
+           Layer count before running the FindSeed: 2
+          Entering the FindSeedFunction .....
+           Layer count after running the FindSeed: 2
+           Number of seeds created on this TOB layer (Opposite, Opposite): 0
+UseBoth true:  so Trying to produce seed with tsosMuonSystem in TEC+.............................
+           Running to produce seed over the TEC+ layer number: 1
+           Layer count before running the FindSeed: 2
+          Entering the FindSeedFunction .....
+         Trying to find hitless seed
+          Compatible detectors with TSOS(IP or MuSystem)(dets.size()):  2
+           detOnLayer:  0x7f91a1a8d940
+            TSOS onLayer Position: x,y,z: 54.2564, -2.04677, 264.675
+            TSOS onLayer Momentum: px,py,pz: 16.3015, -0.0623175, 81.0563
+           Seed recHit container(beforepushback): 0
+           Seed recHit container size (after pushback)hitless: 0
+           found a hitless seed
+           Trying to find hitbased seed 
+          Compatible detectors onLayer(TSOS atIP orMuSystem)(dets.size()):  2
+          TSOS at the detector layer before updating position(x,y,z):  125.115, -3.73628,  617.126
+          TSOS at the detector layer before updating momentum(px,py,pz):  16.2856, -0.714669,  81.0544
+        Updated TSOS( x,y,z) : 55.4656, -2.22699, 264.674
+        Updated TSOS( Px,Py,Pz) : 14.5001, -0.0102392, 73.0081
+          recHitContainer of the seed size1
+        Updated TSOS( x,y,z) : 55.4555, -2.35888, 264.674
+        Updated TSOS( Px,Py,Pz) : 13.4022, 0.0268241, 67.4787
+          recHitContainer of the seed size1
+        Updated TSOS( x,y,z) : 55.5246, -1.22794, 264.674
+        Updated TSOS( Px,Py,Pz) : 38.211, -0.810367, 192.385
+          recHitContainer of the seed size1
+           Layer count after running the FindSeed: 3
+           Number of seeds created on this TOB layer (Opposite, Opposite): 4
+           Running to produce seed over the TEC+ layer number: 2
+           Layer count before running the FindSeed: 3
+          Entering the FindSeedFunction .....
+           Layer count exceeded the number of layer to try i.e.=2  ..so not running to find hitbased seed 
+           Layer count after running the FindSeed: 3
+           Number of seeds created on this TOB layer (Opposite, Opposite): 0
+           Running to produce seed over the TEC+ layer number: 3
+           Layer count before running the FindSeed: 3
+          Entering the FindSeedFunction .....
+           Layer count exceeded the number of layer to try i.e.=2  ..so not running to find hitbased seed 
+           Layer count after running the FindSeed: 3
+           Number of seeds created on this TOB layer (Opposite, Opposite): 0
+           Running to produce seed over the TEC+ layer number: 4
+           Layer count before running the FindSeed: 3
+          Entering the FindSeedFunction .....
+           Layer count exceeded the number of layer to try i.e.=2  ..so not running to find hitbased seed 
+           Layer count after running the FindSeed: 3
+           Number of seeds created on this TOB layer (Opposite, Opposite): 0
+           Running to produce seed over the TEC+ layer number: 5
+           Layer count before running the FindSeed: 3
+          Entering the FindSeedFunction .....
+           Layer count exceeded the number of layer to try i.e.=2  ..so not running to find hitbased seed 
+           Layer count after running the FindSeed: 3
+           Number of seeds created on this TOB layer (Opposite, Opposite): 0
+           Running to produce seed over the TEC+ layer number: 6
+           Layer count before running the FindSeed: 3
+          Entering the FindSeedFunction .....
+           Layer count exceeded the number of layer to try i.e.=2  ..so not running to find hitbased seed 
+           Layer count after running the FindSeed: 3
+           Number of seeds created on this TOB layer (Opposite, Opposite): 0
+           Running to produce seed over the TEC+ layer number: 7
+           Layer count before running the FindSeed: 3
+          Entering the FindSeedFunction .....
+           Layer count exceeded the number of layer to try i.e.=2  ..so not running to find hitbased seed 
+           Layer count after running the FindSeed: 3
+           Number of seeds created on this TOB layer (Opposite, Opposite): 0
+           Running to produce seed over the TEC+ layer number: 8
+           Layer count before running the FindSeed: 3
+          Entering the FindSeedFunction .....
+           Layer count exceeded the number of layer to try i.e.=2  ..so not running to find hitbased seed 
+           Layer count after running the FindSeed: 3
+           Number of seeds created on this TOB layer (Opposite, Opposite): 0
+           Running to produce seed over the TEC+ layer number: 9
+           Layer count before running the FindSeed: 3
+          Entering the FindSeedFunction .....
+           Layer count exceeded the number of layer to try i.e.=2  ..so not running to find hitbased seed 
+           Layer count after running the FindSeed: 3
+           Number of seeds created on this TOB layer (Opposite, Opposite): 0
+Num of seeds made  for this l2 muon number->  1 : 11
+Printing Information of the L2 muon number:       2
+L2muon ( pt, eta, phi ):    69.6033 , 1.40791 , -2.99103
+L2muon ( px, py, pz ):      -68.8159 , -10.44 , 133.734
+R,Z position of OuterTrackerstate inside:
+             R position:  112
+             z porition: 219.425
+  R,Z position of OuterTrackerstate Outside
+             R position:  112
+             z porition: 219.872
+ Starting to produce seeds in TOB, TEC+ and TEC-  detector layers....
+Trying to produce seed with tsosAtIP in TOB.........................................
+           Running to produce seed over the TOB layer number: 1
+           Layer count before running the FindSeed: 0
+          Entering the FindSeedFunction .....
+         Trying to find hitless seed
+          Compatible detectors with TSOS(IP or MuSystem)(dets.size()):  0
+           Trying to find hitbased seed 
+          Compatible detectors onLayer(TSOS atIP orMuSystem)(dets.size()):  0
+          TSOS at the detector layer before updating position(x,y,z):  -0.0271041, 0.098422,  4.24946
+          TSOS at the detector layer before updating momentum(px,py,pz):  -68.8159, -10.44,  133.734
+           Layer count after running the FindSeed: 0
+           Number of seeds created on this TOB layer (Along, Opposite): 0
+           Running to produce seed over the TOB layer number: 2
+           Layer count before running the FindSeed: 0
+          Entering the FindSeedFunction .....
+         Trying to find hitless seed
+          Compatible detectors with TSOS(IP or MuSystem)(dets.size()):  0
+           Trying to find hitbased seed 
+          Compatible detectors onLayer(TSOS atIP orMuSystem)(dets.size()):  0
+          TSOS at the detector layer before updating position(x,y,z):  -0.0271041, 0.098422,  4.24946
+          TSOS at the detector layer before updating momentum(px,py,pz):  -68.8159, -10.44,  133.734
+           Layer count after running the FindSeed: 0
+           Number of seeds created on this TOB layer (Along, Opposite): 0
+           Running to produce seed over the TOB layer number: 3
+           Layer count before running the FindSeed: 0
+          Entering the FindSeedFunction .....
+         Trying to find hitless seed
+          Compatible detectors with TSOS(IP or MuSystem)(dets.size()):  0
+           Trying to find hitbased seed 
+          Compatible detectors onLayer(TSOS atIP orMuSystem)(dets.size()):  0
+          TSOS at the detector layer before updating position(x,y,z):  -0.0271041, 0.098422,  4.24946
+          TSOS at the detector layer before updating momentum(px,py,pz):  -68.8159, -10.44,  133.734
+           Layer count after running the FindSeed: 0
+           Number of seeds created on this TOB layer (Along, Opposite): 0
+           Running to produce seed over the TOB layer number: 4
+           Layer count before running the FindSeed: 0
+          Entering the FindSeedFunction .....
+         Trying to find hitless seed
+          Compatible detectors with TSOS(IP or MuSystem)(dets.size()):  0
+           Trying to find hitbased seed 
+          Compatible detectors onLayer(TSOS atIP orMuSystem)(dets.size()):  0
+          TSOS at the detector layer before updating position(x,y,z):  -0.0271041, 0.098422,  4.24946
+          TSOS at the detector layer before updating momentum(px,py,pz):  -68.8159, -10.44,  133.734
+           Layer count after running the FindSeed: 0
+           Number of seeds created on this TOB layer (Along, Opposite): 0
+           Running to produce seed over the TOB layer number: 5
+           Layer count before running the FindSeed: 0
+          Entering the FindSeedFunction .....
+         Trying to find hitless seed
+          Compatible detectors with TSOS(IP or MuSystem)(dets.size()):  0
+           Trying to find hitbased seed 
+          Compatible detectors onLayer(TSOS atIP orMuSystem)(dets.size()):  0
+          TSOS at the detector layer before updating position(x,y,z):  -0.0271041, 0.098422,  4.24946
+          TSOS at the detector layer before updating momentum(px,py,pz):  -68.8159, -10.44,  133.734
+           Layer count after running the FindSeed: 0
+           Number of seeds created on this TOB layer (Along, Opposite): 0
+           Running to produce seed over the TOB layer number: 6
+           Layer count before running the FindSeed: 0
+          Entering the FindSeedFunction .....
+         Trying to find hitless seed
+          Compatible detectors with TSOS(IP or MuSystem)(dets.size()):  0
+           Trying to find hitbased seed 
+          Compatible detectors onLayer(TSOS atIP orMuSystem)(dets.size()):  0
+          TSOS at the detector layer before updating position(x,y,z):  -0.0271041, 0.098422,  4.24946
+          TSOS at the detector layer before updating momentum(px,py,pz):  -68.8159, -10.44,  133.734
+           Layer count after running the FindSeed: 0
+           Number of seeds created on this TOB layer (Along, Opposite): 0
+UseBoth true:  so Trying to produce seed with tsosMuonSystem in TOB.............................
+           Running to produce seed over the TOB layer number: 1
+           Layer count before running the FindSeed: 0
+          Entering the FindSeedFunction .....
+         Trying to find hitless seed
+          Compatible detectors with TSOS(IP or MuSystem)(dets.size()):  0
+           Trying to find hitbased seed 
+          Compatible detectors onLayer(TSOS atIP orMuSystem)(dets.size()):  0
+          TSOS at the detector layer before updating position(x,y,z):  -348.789, -62.5304,  685.148
+          TSOS at the detector layer before updating momentum(px,py,pz):  -79.5944, -15.648,  155.726
+           Layer count after running the FindSeed: 0
+           Number of seeds created on this TOB layer (Opposite, Opposite): 0
+           Running to produce seed over the TOB layer number: 2
+           Layer count before running the FindSeed: 0
+          Entering the FindSeedFunction .....
+         Trying to find hitless seed
+          Compatible detectors with TSOS(IP or MuSystem)(dets.size()):  0
+           Trying to find hitbased seed 
+          Compatible detectors onLayer(TSOS atIP orMuSystem)(dets.size()):  0
+          TSOS at the detector layer before updating position(x,y,z):  -348.789, -62.5304,  685.148
+          TSOS at the detector layer before updating momentum(px,py,pz):  -79.5944, -15.648,  155.726
+           Layer count after running the FindSeed: 0
+           Number of seeds created on this TOB layer (Opposite, Opposite): 0
+           Running to produce seed over the TOB layer number: 3
+           Layer count before running the FindSeed: 0
+          Entering the FindSeedFunction .....
+         Trying to find hitless seed
+          Compatible detectors with TSOS(IP or MuSystem)(dets.size()):  0
+           Trying to find hitbased seed 
+          Compatible detectors onLayer(TSOS atIP orMuSystem)(dets.size()):  0
+          TSOS at the detector layer before updating position(x,y,z):  -348.789, -62.5304,  685.148
+          TSOS at the detector layer before updating momentum(px,py,pz):  -79.5944, -15.648,  155.726
+           Layer count after running the FindSeed: 0
+           Number of seeds created on this TOB layer (Opposite, Opposite): 0
+           Running to produce seed over the TOB layer number: 4
+           Layer count before running the FindSeed: 0
+          Entering the FindSeedFunction .....
+         Trying to find hitless seed
+          Compatible detectors with TSOS(IP or MuSystem)(dets.size()):  0
+           Trying to find hitbased seed 
+          Compatible detectors onLayer(TSOS atIP orMuSystem)(dets.size()):  0
+          TSOS at the detector layer before updating position(x,y,z):  -348.789, -62.5304,  685.148
+          TSOS at the detector layer before updating momentum(px,py,pz):  -79.5944, -15.648,  155.726
+           Layer count after running the FindSeed: 0
+           Number of seeds created on this TOB layer (Opposite, Opposite): 0
+           Running to produce seed over the TOB layer number: 5
+           Layer count before running the FindSeed: 0
+          Entering the FindSeedFunction .....
+         Trying to find hitless seed
+          Compatible detectors with TSOS(IP or MuSystem)(dets.size()):  0
+           Trying to find hitbased seed 
+          Compatible detectors onLayer(TSOS atIP orMuSystem)(dets.size()):  0
+          TSOS at the detector layer before updating position(x,y,z):  -348.789, -62.5304,  685.148
+          TSOS at the detector layer before updating momentum(px,py,pz):  -79.5944, -15.648,  155.726
+           Layer count after running the FindSeed: 0
+           Number of seeds created on this TOB layer (Opposite, Opposite): 0
+           Running to produce seed over the TOB layer number: 6
+           Layer count before running the FindSeed: 0
+          Entering the FindSeedFunction .....
+         Trying to find hitless seed
+          Compatible detectors with TSOS(IP or MuSystem)(dets.size()):  0
+           Trying to find hitbased seed 
+          Compatible detectors onLayer(TSOS atIP orMuSystem)(dets.size()):  0
+          TSOS at the detector layer before updating position(x,y,z):  -348.789, -62.5304,  685.148
+          TSOS at the detector layer before updating momentum(px,py,pz):  -79.5944, -15.648,  155.726
+           Layer count after running the FindSeed: 0
+           Number of seeds created on this TOB layer (Opposite, Opposite): 0
+Trying to produce seed with tsosAtIP in TEC+ .......................................
+           Running to produce seed over the TEC+ layer number: 1
+           Layer count before running the FindSeed: 0
+          Entering the FindSeedFunction .....
+         Trying to find hitless seed
+          Compatible detectors with TSOS(IP or MuSystem)(dets.size()):  0
+           Trying to find hitbased seed 
+          Compatible detectors onLayer(TSOS atIP orMuSystem)(dets.size()):  0
+          TSOS at the detector layer before updating position(x,y,z):  -0.0271041, 0.098422,  4.24946
+          TSOS at the detector layer before updating momentum(px,py,pz):  -68.8159, -10.44,  133.734
+           Layer count after running the FindSeed: 0
+           Number of seeds created on this TOB layer (Opposite, Opposite): 0
+           Running to produce seed over the TEC+ layer number: 2
+           Layer count before running the FindSeed: 0
+          Entering the FindSeedFunction .....
+         Trying to find hitless seed
+          Compatible detectors with TSOS(IP or MuSystem)(dets.size()):  0
+           Trying to find hitbased seed 
+          Compatible detectors onLayer(TSOS atIP orMuSystem)(dets.size()):  0
+          TSOS at the detector layer before updating position(x,y,z):  -0.0271041, 0.098422,  4.24946
+          TSOS at the detector layer before updating momentum(px,py,pz):  -68.8159, -10.44,  133.734
+           Layer count after running the FindSeed: 0
+           Number of seeds created on this TOB layer (Opposite, Opposite): 0
+           Running to produce seed over the TEC+ layer number: 3
+           Layer count before running the FindSeed: 0
+          Entering the FindSeedFunction .....
+         Trying to find hitless seed
+          Compatible detectors with TSOS(IP or MuSystem)(dets.size()):  0
+           Trying to find hitbased seed 
+          Compatible detectors onLayer(TSOS atIP orMuSystem)(dets.size()):  0
+          TSOS at the detector layer before updating position(x,y,z):  -0.0271041, 0.098422,  4.24946
+          TSOS at the detector layer before updating momentum(px,py,pz):  -68.8159, -10.44,  133.734
+           Layer count after running the FindSeed: 0
+           Number of seeds created on this TOB layer (Opposite, Opposite): 0
+           Running to produce seed over the TEC+ layer number: 4
+           Layer count before running the FindSeed: 0
+          Entering the FindSeedFunction .....
+         Trying to find hitless seed
+          Compatible detectors with TSOS(IP or MuSystem)(dets.size()):  1
+           detOnLayer:  0x7f91a1a47840
+            TSOS onLayer Position: x,y,z: -101.247, -16.1301, 201.218
+            TSOS onLayer Momentum: px,py,pz: -68.6284, -11.5962, 133.73
+           Seed recHit container(beforepushback): 0
+           Seed recHit container size (after pushback)hitless: 0
+           found a hitless seed
+           Trying to find hitbased seed 
+          Compatible detectors onLayer(TSOS atIP orMuSystem)(dets.size()):  1
+          TSOS at the detector layer before updating position(x,y,z):  -0.0271041, 0.098422,  4.24946
+          TSOS at the detector layer before updating momentum(px,py,pz):  -68.8159, -10.44,  133.734
+        Updated TSOS( x,y,z) : -98.9525, -15.8633, 201.209
+        Updated TSOS( Px,Py,Pz) : -71.1012, -12.0426, 137.459
+           Layer count after running the FindSeed: 0
+           Number of seeds created on this TOB layer (Opposite, Opposite): 1
+           Running to produce seed over the TEC+ layer number: 5
+           Layer count before running the FindSeed: 0
+          Entering the FindSeedFunction .....
+           Trying to find hitbased seed 
+          Compatible detectors onLayer(TSOS atIP orMuSystem)(dets.size()):  1
+          TSOS at the detector layer before updating position(x,y,z):  -0.0271041, 0.098422,  4.24946
+          TSOS at the detector layer before updating momentum(px,py,pz):  -68.8159, -10.44,  133.734
+        Updated TSOS( x,y,z) : -96.1026, -14.9994, 183.724
+        Updated TSOS( Px,Py,Pz) : -62.7072, -10.43, 123.759
+           Layer count after running the FindSeed: 0
+           Number of seeds created on this TOB layer (Opposite, Opposite): 0
+           Running to produce seed over the TEC+ layer number: 6
+           Layer count before running the FindSeed: 0
+          Entering the FindSeedFunction .....
+           Trying to find hitbased seed 
+          Compatible detectors onLayer(TSOS atIP orMuSystem)(dets.size()):  1
+          TSOS at the detector layer before updating position(x,y,z):  -0.0271041, 0.098422,  4.24946
+          TSOS at the detector layer before updating momentum(px,py,pz):  -68.8159, -10.44,  133.734
+        Updated TSOS( x,y,z) : -82.4037, -12.8135, 172.099
+        Updated TSOS( Px,Py,Pz) : -62.0159, -10.2528, 119.18
+           Layer count after running the FindSeed: 0
+           Number of seeds created on this TOB layer (Opposite, Opposite): 0
+           Running to produce seed over the TEC+ layer number: 7
+           Layer count before running the FindSeed: 0
+          Entering the FindSeedFunction .....
+           Trying to find hitbased seed 
+          Compatible detectors onLayer(TSOS atIP orMuSystem)(dets.size()):  1
+          TSOS at the detector layer before updating position(x,y,z):  -0.0271041, 0.098422,  4.24946
+          TSOS at the detector layer before updating momentum(px,py,pz):  -68.8159, -10.44,  133.734
+        Updated TSOS( x,y,z) : -80.4447, -12.5852, 158.099
+        Updated TSOS( Px,Py,Pz) : -67.0327, -11.051, 131.114
+           Layer count after running the FindSeed: 0
+           Number of seeds created on this TOB layer (Opposite, Opposite): 0
+           Running to produce seed over the TEC+ layer number: 8
+           Layer count before running the FindSeed: 0
+          Entering the FindSeedFunction .....
+           Trying to find hitbased seed 
+          Compatible detectors onLayer(TSOS atIP orMuSystem)(dets.size()):  3
+          TSOS at the detector layer before updating position(x,y,z):  -0.0271041, 0.098422,  4.24946
+          TSOS at the detector layer before updating momentum(px,py,pz):  -68.8159, -10.44,  133.734
+        Updated TSOS( x,y,z) : -67.5703, -10.3788, 140.566
+        Updated TSOS( Px,Py,Pz) : -62.6858, -10.1835, 121.002
+           Layer count after running the FindSeed: 0
+           Number of seeds created on this TOB layer (Opposite, Opposite): 0
+           Running to produce seed over the TEC+ layer number: 9
+           Layer count before running the FindSeed: 0
+          Entering the FindSeedFunction .....
+           Trying to find hitbased seed 
+          Compatible detectors onLayer(TSOS atIP orMuSystem)(dets.size()):  2
+          TSOS at the detector layer before updating position(x,y,z):  -0.0271041, 0.098422,  4.24946
+          TSOS at the detector layer before updating momentum(px,py,pz):  -68.8159, -10.44,  133.734
+        Updated TSOS( x,y,z) : -65.138, -10.418, 133.734
+        Updated TSOS( Px,Py,Pz) : -79.5851, -13.1234, 154.27
+           Layer count after running the FindSeed: 0
+           Number of seeds created on this TOB layer (Opposite, Opposite): 0
+UseBoth true:  so Trying to produce seed with tsosMuonSystem in TEC+.............................
+           Running to produce seed over the TEC+ layer number: 1
+           Layer count before running the FindSeed: 0
+          Entering the FindSeedFunction .....
+         Trying to find hitless seed
+          Compatible detectors with TSOS(IP or MuSystem)(dets.size()):  0
+           Trying to find hitbased seed 
+          Compatible detectors onLayer(TSOS atIP orMuSystem)(dets.size()):  0
+          TSOS at the detector layer before updating position(x,y,z):  -348.789, -62.5304,  685.148
+          TSOS at the detector layer before updating momentum(px,py,pz):  -79.5944, -15.648,  155.726
+           Layer count after running the FindSeed: 0
+           Number of seeds created on this TOB layer (Opposite, Opposite): 0
+           Running to produce seed over the TEC+ layer number: 2
+           Layer count before running the FindSeed: 0
+          Entering the FindSeedFunction .....
+         Trying to find hitless seed
+          Compatible detectors with TSOS(IP or MuSystem)(dets.size()):  0
+           Trying to find hitbased seed 
+          Compatible detectors onLayer(TSOS atIP orMuSystem)(dets.size()):  0
+          TSOS at the detector layer before updating position(x,y,z):  -348.789, -62.5304,  685.148
+          TSOS at the detector layer before updating momentum(px,py,pz):  -79.5944, -15.648,  155.726
+           Layer count after running the FindSeed: 0
+           Number of seeds created on this TOB layer (Opposite, Opposite): 0
+           Running to produce seed over the TEC+ layer number: 3
+           Layer count before running the FindSeed: 0
+          Entering the FindSeedFunction .....
+         Trying to find hitless seed
+          Compatible detectors with TSOS(IP or MuSystem)(dets.size()):  0
+           Trying to find hitbased seed 
+          Compatible detectors onLayer(TSOS atIP orMuSystem)(dets.size()):  0
+          TSOS at the detector layer before updating position(x,y,z):  -348.789, -62.5304,  685.148
+          TSOS at the detector layer before updating momentum(px,py,pz):  -79.5944, -15.648,  155.726
+           Layer count after running the FindSeed: 0
+           Number of seeds created on this TOB layer (Opposite, Opposite): 0
+           Running to produce seed over the TEC+ layer number: 4
+           Layer count before running the FindSeed: 0
+          Entering the FindSeedFunction .....
+         Trying to find hitless seed
+          Compatible detectors with TSOS(IP or MuSystem)(dets.size()):  0
+           Trying to find hitbased seed 
+          Compatible detectors onLayer(TSOS atIP orMuSystem)(dets.size()):  0
+          TSOS at the detector layer before updating position(x,y,z):  -348.789, -62.5304,  685.148
+          TSOS at the detector layer before updating momentum(px,py,pz):  -79.5944, -15.648,  155.726
+           Layer count after running the FindSeed: 0
+           Number of seeds created on this TOB layer (Opposite, Opposite): 0
+           Running to produce seed over the TEC+ layer number: 5
+           Layer count before running the FindSeed: 0
+          Entering the FindSeedFunction .....
+         Trying to find hitless seed
+          Compatible detectors with TSOS(IP or MuSystem)(dets.size()):  0
+           Trying to find hitbased seed 
+          Compatible detectors onLayer(TSOS atIP orMuSystem)(dets.size()):  0
+          TSOS at the detector layer before updating position(x,y,z):  -348.789, -62.5304,  685.148
+          TSOS at the detector layer before updating momentum(px,py,pz):  -79.5944, -15.648,  155.726
+           Layer count after running the FindSeed: 0
+           Number of seeds created on this TOB layer (Opposite, Opposite): 0
+           Running to produce seed over the TEC+ layer number: 6
+           Layer count before running the FindSeed: 0
+          Entering the FindSeedFunction .....
+         Trying to find hitless seed
+          Compatible detectors with TSOS(IP or MuSystem)(dets.size()):  0
+           Trying to find hitbased seed 
+          Compatible detectors onLayer(TSOS atIP orMuSystem)(dets.size()):  0
+          TSOS at the detector layer before updating position(x,y,z):  -348.789, -62.5304,  685.148
+          TSOS at the detector layer before updating momentum(px,py,pz):  -79.5944, -15.648,  155.726
+           Layer count after running the FindSeed: 0
+           Number of seeds created on this TOB layer (Opposite, Opposite): 0
+           Running to produce seed over the TEC+ layer number: 7
+           Layer count before running the FindSeed: 0
+          Entering the FindSeedFunction .....
+         Trying to find hitless seed
+          Compatible detectors with TSOS(IP or MuSystem)(dets.size()):  0
+           Trying to find hitbased seed 
+          Compatible detectors onLayer(TSOS atIP orMuSystem)(dets.size()):  0
+          TSOS at the detector layer before updating position(x,y,z):  -348.789, -62.5304,  685.148
+          TSOS at the detector layer before updating momentum(px,py,pz):  -79.5944, -15.648,  155.726
+           Layer count after running the FindSeed: 0
+           Number of seeds created on this TOB layer (Opposite, Opposite): 0
+           Running to produce seed over the TEC+ layer number: 8
+           Layer count before running the FindSeed: 0
+          Entering the FindSeedFunction .....
+         Trying to find hitless seed
+          Compatible detectors with TSOS(IP or MuSystem)(dets.size()):  0
+           Trying to find hitbased seed 
+          Compatible detectors onLayer(TSOS atIP orMuSystem)(dets.size()):  0
+          TSOS at the detector layer before updating position(x,y,z):  -348.789, -62.5304,  685.148
+          TSOS at the detector layer before updating momentum(px,py,pz):  -79.5944, -15.648,  155.726
+           Layer count after running the FindSeed: 0
+           Number of seeds created on this TOB layer (Opposite, Opposite): 0
+           Running to produce seed over the TEC+ layer number: 9
+           Layer count before running the FindSeed: 0
+          Entering the FindSeedFunction .....
+         Trying to find hitless seed
+          Compatible detectors with TSOS(IP or MuSystem)(dets.size()):  0
+           Trying to find hitbased seed 
+          Compatible detectors onLayer(TSOS atIP orMuSystem)(dets.size()):  0
+          TSOS at the detector layer before updating position(x,y,z):  -348.789, -62.5304,  685.148
+          TSOS at the detector layer before updating momentum(px,py,pz):  -79.5944, -15.648,  155.726
+           Layer count after running the FindSeed: 0
+           Number of seeds created on this TOB layer (Opposite, Opposite): 0
+Num of seeds for this l2 muon number-> 2 : 1
+Number of total seeds made in the event: 12
+Num of Track Candidates (hltIterL3OITrackCandidates): 2
+TrackProducer running ... with algo: iter10
+Num of Transient Tracks: 2
+gen muon found: pt: 27.9886 eta: 2.29689 phi: -0.00904878
+gen muon found: pt: 61.4402 eta: 1.41267 phi: -2.99479
+RECO Muon - pT, eta, phi: 28.6025 , 2.29717 , -0.00934853
+L2 Muon - pT, eta, phi, DR(recomu,L2): 28.1785 , 2.30002 , -0.00831748 , 0.00303038
+RECO Muon - pT, eta, phi: 60.6129 , 1.41308 , -2.99485
+L2 Muon - pT, eta, phi, DR(recomu,L2): 69.6033 , 1.40791 , -2.99103 , 0.00642734
+Seed TSOS position(x,y,z): 53.6213, -0.963935, 264.169
+Seed TSOS momentum:(px,py,pz) :   28.1654, -0.847271, 139.117
+Seed TSOS position(x,y,z): 54.7833, -0.977985, 264.674
+Seed TSOS momentum:(px,py,pz) :   28.5766, -0.85589, 142.307
+ hits of hltL3TrajSeedOI -->  global position:  (56.2073,-1.00329,264.673) 
+Subdet ID: 6:   rawID:   470442376
+Seed TSOS position(x,y,z): 54.7773, -1.01476, 264.674
+Seed TSOS momentum:(px,py,pz) :   29.9193, -0.901033, 148.985
+ hits of hltL3TrajSeedOI -->  global position:  (56.2052,-1.0411,264.673) 
+Subdet ID: 6:   rawID:   470442376
+Seed TSOS position(x,y,z): 54.7425, -1.2107, 264.674
+Seed TSOS momentum:(px,py,pz) :   39.9062, -1.23683, 198.653
+ hits of hltL3TrajSeedOI -->  global position:  (56.1939,-1.24269,264.673) 
+Subdet ID: 6:   rawID:   470442376
+Seed TSOS position(x,y,z): 46.9382, -0.818854, 240.637
+Seed TSOS momentum:(px,py,pz) :   27.919, -0.796152, 135.746
+ hits of hltL3TrajSeedOI -->  global position:  (44.7432,-0.780598,240.637) 
+Subdet ID: 6:   rawID:   470425960
+Seed TSOS position(x,y,z): 46.7639, -1.69958, 240.637
+Seed TSOS momentum:(px,py,pz) :   219.614, -7.39079, 1066.39
+ hits of hltL3TrajSeedOI -->  global position:  (44.7432,-1.62619,240.637) 
+Subdet ID: 6:   rawID:   470425960
+Seed TSOS position(x,y,z): 46.9807, 0.221632, 240.637
+Seed TSOS momentum:(px,py,pz) :   11.9641, -0.268861, 58.184
+ hits of hltL3TrajSeedOI -->  global position:  (44.7432,0.211054,240.638) 
+Subdet ID: 6:   rawID:   470425960
+Seed TSOS position(x,y,z): 54.2564, -2.04677, 264.675
+Seed TSOS momentum:(px,py,pz) :   16.3015, -0.0623175, 81.0563
+Seed TSOS position(x,y,z): 55.4656, -2.22699, 264.674
+Seed TSOS momentum:(px,py,pz) :   14.5001, -0.0102392, 73.0081
+ hits of hltL3TrajSeedOI -->  global position:  (56.1371,-2.2539,264.673) 
+Subdet ID: 6:   rawID:   470442376
+Seed TSOS position(x,y,z): 55.4555, -2.35888, 264.674
+Seed TSOS momentum:(px,py,pz) :   13.4022, 0.0268241, 67.4787
+ hits of hltL3TrajSeedOI -->  global position:  (56.1296,-2.38751,264.673) 
+Subdet ID: 6:   rawID:   470442376
+Seed TSOS position(x,y,z): 55.5246, -1.22794, 264.674
+Seed TSOS momentum:(px,py,pz) :   38.211, -0.810367, 192.385
+ hits of hltL3TrajSeedOI -->  global position:  (56.1938,-1.24268,264.673) 
+Subdet ID: 6:   rawID:   470442376
+Seed TSOS position(x,y,z): -101.247, -16.1301, 201.218
+Seed TSOS momentum:(px,py,pz) :   -68.6284, -11.5962, 133.73
+---------------------------------------------
+# of hltL3TkTracksCandOI(Trackcandidates)  = 2
+# of hltL3TkTracksOINoHP(Transient Tracks)  = 2
+hltL3TkTracksOINoHP(Transient Tracks) -->      pt: 27.8691 eta: 2.29726 phi: -0.00905725
+Pixel Hits(hitPattern().numberOfValidPixelHits()):    4
+dz Wrt beam spot position:        -0.0483575
+d0:  -0.0697812
+d0 Error:    0.00215439
+num of Degrees of freedom: :    21
+Chi2 value(normalizedChi2()):                0.98444
+Hits:(numberOfValidHits()):      13
+TrkLayers with measurement:      13
+num3D Layers: 9
+Trk Layers without measurement:  0
+dxy:       0.000722498
+Number of lost hits: 0
+hltL3TkTracksOINoHP(Transient Tracks) -->      pt: 9.31193 eta: 1.39166 phi: -2.89021
+Pixel Hits(hitPattern().numberOfValidPixelHits()):    0
+dz Wrt beam spot position:        8.71488
+d0:  3.96029
+d0 Error:    1.66377
+num of Degrees of freedom: :    3
+Chi2 value(normalizedChi2()):                1.06162
+Hits:(numberOfValidHits()):      4
+TrkLayers with measurement:      4
+num3D Layers: 0
+Trk Layers without measurement:  0
+dxy:       -3.88702
+Number of lost hits: 0
+Num of L3OI muon cands: 1
+L3 OI cand pt, eta, phi:  27.8691  :  2.29726  : -0.00905725
+Begin processing the 4th record. Run 1, Event 20926211, LumiSection 8135 at 04-Mar-2018 09:39:16.573 CST
+Number of  L2 muons for this Event################### 2
+Printing Information of the L2 muon number:       1
+L2muon ( pt, eta, phi ):    35.0101 , 2.0191 , 0.172131
+L2muon ( px, py, pz ):      34.4927 , 5.9966 , 129.515
+R,Z position of OuterTrackerstate inside:
+             R position:  73.9904
+             z porition: 273.5
+  R,Z position of OuterTrackerstate Outside
+             R position:  73.9904
+             z porition: 273.5
+ Starting to produce seeds in TOB, TEC+ and TEC-  detector layers....
+Trying to produce seed with tsosAtIP in TOB.........................................
+Trying to produce seed with tsosAtIP in TEC+ .......................................
+           Running to produce seed over the TEC+ layer number: 1
+           Layer count before running the FindSeed: 0
+          Entering the FindSeedFunction .....
+         Trying to find hitless seed
+          Compatible detectors with TSOS(IP or MuSystem)(dets.size()):  1
+           detOnLayer:  0x7f91a1dab3b0
+            TSOS onLayer Position: x,y,z: 71.3302, 13.3258, 268.224
+            TSOS onLayer Momentum: px,py,pz: 34.3405, 6.81172, 129.513
+           Seed recHit container(beforepushback): 0
+           Seed recHit container size (after pushback)hitless: 0
+           found a hitless seed
+           Trying to find hitbased seed 
+          Compatible detectors onLayer(TSOS atIP orMuSystem)(dets.size()):  2
+          TSOS at the detector layer before updating position(x,y,z):  -0.0195828, 0.0492045,  -0.262601
+          TSOS at the detector layer before updating momentum(px,py,pz):  34.4927, 5.9966,  129.515
+        Updated TSOS( x,y,z) : 71.3872, 13.3254, 268.224
+        Updated TSOS( Px,Py,Pz) : 34.2233, 6.78629, 129.124
+          recHitContainer of the seed size1
+        Updated TSOS( x,y,z) : 68.0108, 12.6946, 268.226
+        Updated TSOS( Px,Py,Pz) : 33.4625, 6.64173, 123.216
+          recHitContainer of the seed size1
+        Updated TSOS( x,y,z) : 70.9943, 11.8642, 268.226
+        Updated TSOS( Px,Py,Pz) : 23.1605, 4.41956, 87.0558
+          recHitContainer of the seed size1
+           Layer count after running the FindSeed: 1
+           Number of seeds created on this TOB layer (Opposite, Opposite): 4
+           Running to produce seed over the TEC+ layer number: 2
+           Layer count before running the FindSeed: 1
+          Entering the FindSeedFunction .....
+           Trying to find hitbased seed 
+          Compatible detectors onLayer(TSOS atIP orMuSystem)(dets.size()):  2
+          TSOS at the detector layer before updating position(x,y,z):  -0.0195828, 0.0492045,  -0.262601
+          TSOS at the detector layer before updating momentum(px,py,pz):  34.4927, 5.9966,  129.515
+        Updated TSOS( x,y,z) : 66.0494, 12.2473, 246.72
+        Updated TSOS( Px,Py,Pz) : 34.0323, 6.67694, 128.696
+          recHitContainer of the seed size1
+        Updated TSOS( x,y,z) : 66.9176, 12.3191, 246.72
+        Updated TSOS( Px,Py,Pz) : 33.0616, 6.46904, 125.814
+          recHitContainer of the seed size1
+        Updated TSOS( x,y,z) : 68.8334, 12.7637, 246.719
+        Updated TSOS( Px,Py,Pz) : 34.7496, 6.80919, 134.144
+          recHitContainer of the seed size1
+           Layer count after running the FindSeed: 2
+           Number of seeds created on this TOB layer (Opposite, Opposite): 3
+           Running to produce seed over the TEC+ layer number: 3
+           Layer count before running the FindSeed: 2
+          Entering the FindSeedFunction .....
+           Layer count after running the FindSeed: 2
+           Number of seeds created on this TOB layer (Opposite, Opposite): 0
+           Running to produce seed over the TEC+ layer number: 4
+           Layer count before running the FindSeed: 2
+          Entering the FindSeedFunction .....
+           Layer count after running the FindSeed: 2
+           Number of seeds created on this TOB layer (Opposite, Opposite): 0
+           Running to produce seed over the TEC+ layer number: 5
+           Layer count before running the FindSeed: 2
+          Entering the FindSeedFunction .....
+           Layer count after running the FindSeed: 2
+           Number of seeds created on this TOB layer (Opposite, Opposite): 0
+           Running to produce seed over the TEC+ layer number: 6
+           Layer count before running the FindSeed: 2
+          Entering the FindSeedFunction .....
+           Layer count after running the FindSeed: 2
+           Number of seeds created on this TOB layer (Opposite, Opposite): 0
+           Running to produce seed over the TEC+ layer number: 7
+           Layer count before running the FindSeed: 2
+          Entering the FindSeedFunction .....
+           Layer count after running the FindSeed: 2
+           Number of seeds created on this TOB layer (Opposite, Opposite): 0
+           Running to produce seed over the TEC+ layer number: 8
+           Layer count before running the FindSeed: 2
+          Entering the FindSeedFunction .....
+           Layer count after running the FindSeed: 2
+           Number of seeds created on this TOB layer (Opposite, Opposite): 0
+           Running to produce seed over the TEC+ layer number: 9
+           Layer count before running the FindSeed: 2
+          Entering the FindSeedFunction .....
+           Layer count after running the FindSeed: 2
+           Number of seeds created on this TOB layer (Opposite, Opposite): 0
+UseBoth true:  so Trying to produce seed with tsosMuonSystem in TEC+.............................
+           Running to produce seed over the TEC+ layer number: 1
+           Layer count before running the FindSeed: 2
+          Entering the FindSeedFunction .....
+         Trying to find hitless seed
+          Compatible detectors with TSOS(IP or MuSystem)(dets.size()):  2
+           detOnLayer:  0x7f91a1dab3b0
+            TSOS onLayer Position: x,y,z: 71.5531, 12.9829, 268.224
+            TSOS onLayer Momentum: px,py,pz: 40.6416, 8.42511, 153.715
+           Seed recHit container(beforepushback): 0
+           Seed recHit container size (after pushback)hitless: 0
+           found a hitless seed
+           Trying to find hitbased seed 
+          Compatible detectors onLayer(TSOS atIP orMuSystem)(dets.size()):  2
+          TSOS at the detector layer before updating position(x,y,z):  155.837, 31.3004,  587.659
+          TSOS at the detector layer before updating momentum(px,py,pz):  40.472, 9.20332,  153.713
+        Updated TSOS( x,y,z) : 71.3952, 13.3264, 268.224
+        Updated TSOS( Px,Py,Pz) : 34.1079, 6.87428, 128.788
+          recHitContainer of the seed size1
+        Updated TSOS( x,y,z) : 71.0019, 11.8651, 268.226
+        Updated TSOS( Px,Py,Pz) : 85.8822, 19.1226, 324.054
+          recHitContainer of the seed size1
+        Updated TSOS( x,y,z) : 68.0164, 12.6954, 268.226
+        Updated TSOS( Px,Py,Pz) : 34.8115, 6.98673, 128.392
+          recHitContainer of the seed size1
+           Layer count after running the FindSeed: 3
+           Number of seeds created on this TOB layer (Opposite, Opposite): 4
+           Running to produce seed over the TEC+ layer number: 2
+           Layer count before running the FindSeed: 3
+          Entering the FindSeedFunction .....
+           Layer count exceeded the number of layer to try i.e.=2  ..so not running to find hitbased seed 
+           Layer count after running the FindSeed: 3
+           Number of seeds created on this TOB layer (Opposite, Opposite): 0
+           Running to produce seed over the TEC+ layer number: 3
+           Layer count before running the FindSeed: 3
+          Entering the FindSeedFunction .....
+           Layer count exceeded the number of layer to try i.e.=2  ..so not running to find hitbased seed 
+           Layer count after running the FindSeed: 3
+           Number of seeds created on this TOB layer (Opposite, Opposite): 0
+           Running to produce seed over the TEC+ layer number: 4
+           Layer count before running the FindSeed: 3
+          Entering the FindSeedFunction .....
+           Layer count exceeded the number of layer to try i.e.=2  ..so not running to find hitbased seed 
+           Layer count after running the FindSeed: 3
+           Number of seeds created on this TOB layer (Opposite, Opposite): 0
+           Running to produce seed over the TEC+ layer number: 5
+           Layer count before running the FindSeed: 3
+          Entering the FindSeedFunction .....
+           Layer count exceeded the number of layer to try i.e.=2  ..so not running to find hitbased seed 
+           Layer count after running the FindSeed: 3
+           Number of seeds created on this TOB layer (Opposite, Opposite): 0
+           Running to produce seed over the TEC+ layer number: 6
+           Layer count before running the FindSeed: 3
+          Entering the FindSeedFunction .....
+           Layer count exceeded the number of layer to try i.e.=2  ..so not running to find hitbased seed 
+           Layer count after running the FindSeed: 3
+           Number of seeds created on this TOB layer (Opposite, Opposite): 0
+           Running to produce seed over the TEC+ layer number: 7
+           Layer count before running the FindSeed: 3
+          Entering the FindSeedFunction .....
+           Layer count exceeded the number of layer to try i.e.=2  ..so not running to find hitbased seed 
+           Layer count after running the FindSeed: 3
+           Number of seeds created on this TOB layer (Opposite, Opposite): 0
+           Running to produce seed over the TEC+ layer number: 8
+           Layer count before running the FindSeed: 3
+          Entering the FindSeedFunction .....
+           Layer count exceeded the number of layer to try i.e.=2  ..so not running to find hitbased seed 
+           Layer count after running the FindSeed: 3
+           Number of seeds created on this TOB layer (Opposite, Opposite): 0
+           Running to produce seed over the TEC+ layer number: 9
+           Layer count before running the FindSeed: 3
+          Entering the FindSeedFunction .....
+           Layer count exceeded the number of layer to try i.e.=2  ..so not running to find hitbased seed 
+           Layer count after running the FindSeed: 3
+           Number of seeds created on this TOB layer (Opposite, Opposite): 0
+Num of seeds made  for this l2 muon number->  1 : 11
+Printing Information of the L2 muon number:       2
+L2muon ( pt, eta, phi ):    142.422 , -0.279272 , 2.79445
+L2muon ( px, py, pz ):      -133.926 , 48.4535 , -40.2934
+R,Z position of OuterTrackerstate inside:
+             R position:  112
+             z porition: -33.6065
+  R,Z position of OuterTrackerstate Outside
+             R position:  112
+             z porition: -31.813
+ Starting to produce seeds in TOB, TEC+ and TEC-  detector layers....
+Trying to produce seed with tsosAtIP in TOB.........................................
+           Running to produce seed over the TOB layer number: 1
+           Layer count before running the FindSeed: 0
+          Entering the FindSeedFunction .....
+         Trying to find hitless seed
+          Compatible detectors with TSOS(IP or MuSystem)(dets.size()):  1
+           detOnLayer:  0x7f91a196a200
+            TSOS onLayer Position: x,y,z: -103.054, 36.4348, -32.8442
+            TSOS onLayer Momentum: px,py,pz: -134.344, 47.2776, -40.2931
+           Seed recHit container(beforepushback): 0
+           Seed recHit container size (after pushback)hitless: 0
+           found a hitless seed
+           Trying to find hitbased seed 
+          Compatible detectors onLayer(TSOS atIP orMuSystem)(dets.size()):  1
+          TSOS at the detector layer before updating position(x,y,z):  -0.177778, -0.276258,  -1.94096
+          TSOS at the detector layer before updating momentum(px,py,pz):  -133.926, 48.4535,  -40.2934
+        Updated TSOS( x,y,z) : -104.17, 33.0196, -27.4305
+        Updated TSOS( Px,Py,Pz) : -63.3567, 19.9625, -18.2964
+          recHitContainer of the seed size1
+        Updated TSOS( x,y,z) : -104.993, 30.4984, -27.4408
+        Updated TSOS( Px,Py,Pz) : -45.8236, 13.2153, -13.1285
+          recHitContainer of the seed size1
+           Layer count after running the FindSeed: 1
+           Number of seeds created on this TOB layer (Along, Opposite): 3
+           Running to produce seed over the TOB layer number: 2
+           Layer count before running the FindSeed: 1
+          Entering the FindSeedFunction .....
+           Trying to find hitbased seed 
+          Compatible detectors onLayer(TSOS atIP orMuSystem)(dets.size()):  1
+          TSOS at the detector layer before updating position(x,y,z):  -0.177778, -0.276258,  -1.94096
+          TSOS at the detector layer before updating momentum(px,py,pz):  -133.926, 48.4535,  -40.2934
+        Updated TSOS( x,y,z) : -89.4143, 32.8275, -27.3371
+        Updated TSOS( Px,Py,Pz) : -223.812, 81.9025, -66.8932
+          recHitContainer of the seed size1
+           Layer count after running the FindSeed: 2
+           Number of seeds created on this TOB layer (Along, Opposite): 1
+           Running to produce seed over the TOB layer number: 3
+           Layer count before running the FindSeed: 2
+          Entering the FindSeedFunction .....
+           Trying to find hitbased seed 
+          Compatible detectors onLayer(TSOS atIP orMuSystem)(dets.size()):  2
+          TSOS at the detector layer before updating position(x,y,z):  -0.177778, -0.276258,  -1.94096
+          TSOS at the detector layer before updating momentum(px,py,pz):  -133.926, 48.4535,  -40.2934
+        Updated TSOS( x,y,z) : -84.7167, 24.0926, -27.3318
+        Updated TSOS( Px,Py,Pz) : -44.3181, 12.8661, -13.0844
+          recHitContainer of the seed size1
+        Updated TSOS( x,y,z) : -77.819, 33.9164, -27.2559
+        Updated TSOS( Px,Py,Pz) : -98.3436, 42.0575, -30.3743
+          recHitContainer of the seed size1
+        Updated TSOS( x,y,z) : -85.0133, 23.0856, -27.3369
+        Updated TSOS( Px,Py,Pz) : -39.4124, 10.9776, -11.5957
+          recHitContainer of the seed size1
+           Layer count after running the FindSeed: 3
+           Number of seeds created on this TOB layer (Along, Opposite): 3
+           Running to produce seed over the TOB layer number: 4
+           Layer count before running the FindSeed: 3
+          Entering the FindSeedFunction .....
+           Layer count after running the FindSeed: 3
+           Number of seeds created on this TOB layer (Along, Opposite): 0
+           Running to produce seed over the TOB layer number: 5
+           Layer count before running the FindSeed: 3
+          Entering the FindSeedFunction .....
+           Layer count after running the FindSeed: 3
+           Number of seeds created on this TOB layer (Along, Opposite): 0
+           Running to produce seed over the TOB layer number: 6
+           Layer count before running the FindSeed: 3
+          Entering the FindSeedFunction .....
+           Layer count after running the FindSeed: 3
+           Number of seeds created on this TOB layer (Along, Opposite): 0
+UseBoth true:  so Trying to produce seed with tsosMuonSystem in TOB.............................
+           Running to produce seed over the TOB layer number: 1
+           Layer count before running the FindSeed: 3
+          Entering the FindSeedFunction .....
+         Trying to find hitless seed
+          Compatible detectors with TSOS(IP or MuSystem)(dets.size()):  0
+           Layer count exceeded the number of layer to try i.e.=2  ..so not running to find hitbased seed 
+           Layer count after running the FindSeed: 3
+           Number of seeds created on this TOB layer (Opposite, Opposite): 0
+           Running to produce seed over the TOB layer number: 2
+           Layer count before running the FindSeed: 3
+          Entering the FindSeedFunction .....
+         Trying to find hitless seed
+          Compatible detectors with TSOS(IP or MuSystem)(dets.size()):  0
+           Layer count exceeded the number of layer to try i.e.=2  ..so not running to find hitbased seed 
+           Layer count after running the FindSeed: 3
+           Number of seeds created on this TOB layer (Opposite, Opposite): 0
+           Running to produce seed over the TOB layer number: 3
+           Layer count before running the FindSeed: 3
+          Entering the FindSeedFunction .....
+         Trying to find hitless seed
+          Compatible detectors with TSOS(IP or MuSystem)(dets.size()):  0
+           Layer count exceeded the number of layer to try i.e.=2  ..so not running to find hitbased seed 
+           Layer count after running the FindSeed: 3
+           Number of seeds created on this TOB layer (Opposite, Opposite): 0
+           Running to produce seed over the TOB layer number: 4
+           Layer count before running the FindSeed: 3
+          Entering the FindSeedFunction .....
+         Trying to find hitless seed
+          Compatible detectors with TSOS(IP or MuSystem)(dets.size()):  0
+           Layer count exceeded the number of layer to try i.e.=2  ..so not running to find hitbased seed 
+           Layer count after running the FindSeed: 3
+           Number of seeds created on this TOB layer (Opposite, Opposite): 0
+           Running to produce seed over the TOB layer number: 5
+           Layer count before running the FindSeed: 3
+          Entering the FindSeedFunction .....
+         Trying to find hitless seed
+          Compatible detectors with TSOS(IP or MuSystem)(dets.size()):  0
+           Layer count exceeded the number of layer to try i.e.=2  ..so not running to find hitbased seed 
+           Layer count after running the FindSeed: 3
+           Number of seeds created on this TOB layer (Opposite, Opposite): 0
+           Running to produce seed over the TOB layer number: 6
+           Layer count before running the FindSeed: 3
+          Entering the FindSeedFunction .....
+         Trying to find hitless seed
+          Compatible detectors with TSOS(IP or MuSystem)(dets.size()):  0
+           Layer count exceeded the number of layer to try i.e.=2  ..so not running to find hitbased seed 
+           Layer count after running the FindSeed: 3
+           Number of seeds created on this TOB layer (Opposite, Opposite): 0
+Num of seeds for this l2 muon number-> 2 : 7
+Number of total seeds made in the event: 18
+Num of Track Candidates (hltIterL3OITrackCandidates): 1
+TrackProducer running ... with algo: iter10
+Num of Transient Tracks: 1
+gen muon found: pt: 33.1256 eta: 2.02135 phi: 0.170741
+gen muon found: pt: 21.9677 eta: -0.290164 phi: 2.88841
+RECO Muon - pT, eta, phi: 32.7975 , 2.02143 , 0.17064
+L2 Muon - pT, eta, phi, DR(recomu,L2): 35.0101 , 2.0191 , 0.172131 , 0.00276889
+RECO Muon - pT, eta, phi: 21.4214 , -0.289945 , 2.88858
+L2 Muon - pT, eta, phi, DR(recomu,L2): 142.422 , -0.279272 , 2.79445 , 0.0947278
+Seed TSOS position(x,y,z): 71.3302, 13.3258, 268.224
+Seed TSOS momentum:(px,py,pz) :   34.3405, 6.81172, 129.513
+Seed TSOS position(x,y,z): 71.3872, 13.3254, 268.224
+Seed TSOS momentum:(px,py,pz) :   34.2233, 6.78629, 129.124
+ hits of hltL3TrajSeedOI -->  global position:  (71.3873,13.3254,268.224) 
+Subdet ID: 6:   rawID:   470438308
+Seed TSOS position(x,y,z): 68.0108, 12.6946, 268.226
+Seed TSOS momentum:(px,py,pz) :   33.4625, 6.64173, 123.216
+ hits of hltL3TrajSeedOI -->  global position:  (68.0024,12.6936,268.226) 
+Subdet ID: 6:   rawID:   470438308
+Seed TSOS position(x,y,z): 70.9943, 11.8642, 268.226
+Seed TSOS momentum:(px,py,pz) :   23.1605, 4.41956, 87.0558
+ hits of hltL3TrajSeedOI -->  global position:  (70.9944,11.8642,268.226) 
+Subdet ID: 6:   rawID:   470438308
+Seed TSOS position(x,y,z): 66.0494, 12.2473, 246.72
+Seed TSOS momentum:(px,py,pz) :   34.0323, 6.67694, 128.696
+ hits of hltL3TrajSeedOI -->  global position:  (66.0495,12.2473,246.72) 
+Subdet ID: 6:   rawID:   470421924
+Seed TSOS position(x,y,z): 66.9176, 12.3191, 246.72
+Seed TSOS momentum:(px,py,pz) :   33.0616, 6.46904, 125.814
+ hits of hltL3TrajSeedOI -->  global position:  (66.9178,12.3191,246.72) 
+Subdet ID: 6:   rawID:   470421924
+Seed TSOS position(x,y,z): 68.8334, 12.7637, 246.719
+Seed TSOS momentum:(px,py,pz) :   34.7496, 6.80919, 134.144
+ hits of hltL3TrajSeedOI -->  global position:  (68.8338,12.7638,246.719) 
+Subdet ID: 6:   rawID:   470421924
+Seed TSOS position(x,y,z): 71.5531, 12.9829, 268.224
+Seed TSOS momentum:(px,py,pz) :   40.6416, 8.42511, 153.715
+Seed TSOS position(x,y,z): 71.3952, 13.3264, 268.224
+Seed TSOS momentum:(px,py,pz) :   34.1079, 6.87428, 128.788
+ hits of hltL3TrajSeedOI -->  global position:  (71.3948,13.3264,268.224) 
+Subdet ID: 6:   rawID:   470438308
+Seed TSOS position(x,y,z): 71.0019, 11.8651, 268.226
+Seed TSOS momentum:(px,py,pz) :   85.8822, 19.1226, 324.054
+ hits of hltL3TrajSeedOI -->  global position:  (71.0018,11.8651,268.226) 
+Subdet ID: 6:   rawID:   470438308
+Seed TSOS position(x,y,z): 68.0164, 12.6954, 268.226
+Seed TSOS momentum:(px,py,pz) :   34.8115, 6.98673, 128.392
+ hits of hltL3TrajSeedOI -->  global position:  (68.0096,12.6945,268.226) 
+Subdet ID: 6:   rawID:   470438308
+Seed TSOS position(x,y,z): -103.054, 36.4348, -32.8442
+Seed TSOS momentum:(px,py,pz) :   -134.344, 47.2776, -40.2931
+Seed TSOS position(x,y,z): -104.17, 33.0196, -27.4305
+Seed TSOS momentum:(px,py,pz) :   -63.3567, 19.9625, -18.2964
+ hits of hltL3TrajSeedOI -->  global position:  (-104.17,33.0196,-27.3159) 
+Subdet ID: 5:   rawID:   436311112
+Seed TSOS position(x,y,z): -104.993, 30.4984, -27.4408
+Seed TSOS momentum:(px,py,pz) :   -45.8236, 13.2153, -13.1285
+ hits of hltL3TrajSeedOI -->  global position:  (-104.993,30.4984,-27.3158) 
+Subdet ID: 5:   rawID:   436311112
+Seed TSOS position(x,y,z): -89.4143, 32.8275, -27.3371
+Seed TSOS momentum:(px,py,pz) :   -223.812, 81.9025, -66.8932
+ hits of hltL3TrajSeedOI -->  global position:  (-89.4143,32.8275,-27.3134) 
+Subdet ID: 5:   rawID:   436294600
+Seed TSOS position(x,y,z): -84.7167, 24.0926, -27.3318
+Seed TSOS momentum:(px,py,pz) :   -44.3181, 12.8661, -13.0844
+ hits of hltL3TrajSeedOI -->  global position:  (-84.7167,24.0925,-27.3131) 
+Subdet ID: 5:   rawID:   436278152
+Seed TSOS position(x,y,z): -77.819, 33.9164, -27.2559
+Seed TSOS momentum:(px,py,pz) :   -98.3436, 42.0575, -30.3743
+ hits of hltL3TrajSeedOI -->  global position:  (-77.819,33.9164,-27.3152) 
+Subdet ID: 5:   rawID:   436278120
+Seed TSOS position(x,y,z): -85.0133, 23.0856, -27.3369
+Seed TSOS momentum:(px,py,pz) :   -39.4124, 10.9776, -11.5957
+ hits of hltL3TrajSeedOI -->  global position:  (-85.0133,23.0855,-27.3131) 
+Subdet ID: 5:   rawID:   436278152
+---------------------------------------------
+# of hltL3TkTracksCandOI(Trackcandidates)  = 1
+# of hltL3TkTracksOINoHP(Transient Tracks)  = 1
+hltL3TkTracksOINoHP(Transient Tracks) -->      pt: 33.0475 eta: 2.0214 phi: 0.170774
+Pixel Hits(hitPattern().numberOfValidPixelHits()):    5
+dz Wrt beam spot position:        -2.71944
+d0:  -0.070947
+d0 Error:    0.00102611
+num of Degrees of freedom: :    25
+Chi2 value(normalizedChi2()):                1.16172
+Hits:(numberOfValidHits()):      15
+TrkLayers with measurement:      15
+num3D Layers: 11
+Trk Layers without measurement:  0
+dxy:       -0.00154478
+Number of lost hits: 0
+Num of L3OI muon cands: 1
+L3 OI cand pt, eta, phi:  33.0475  :  2.0214  : 0.170774
