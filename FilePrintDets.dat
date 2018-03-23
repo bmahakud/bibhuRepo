@@ -1,0 +1,585 @@
+Begin processing the 1st record. Run 1, Event 134042994, LumiSection 52107 at 23-Mar-2018 08:26:09.535 CDT
+total number of seeds in this event: 0
+L2 Muon pt,eta, phi:   35.5869 , 1.81431 , 0.4409
+L2 Muon px,py, pz:   32.1837 , 15.1869 , 106.296
+TSOS IP:position->  (-0.0240161,0.0660037,1.46141) 
+TSOS IP:momentum->  (32.1837,15.1869,106.296) 
+TSOS mu Station:position->  (188.819,82.3019,616.762) 
+TSOS mu station :momentum->  (30.3051,12.3336,97.6488) 
+starting findhitbased seed .................................
+det size: 4
+size my meas:  3
+size my meas:  7
+size my meas:  5
+size my meas:  13
+starting findhitbased seed .................................
+det size: 2
+size my meas:  7
+size my meas:  12
+starting findhitbased seed .................................
+det size: 4
+size my meas:  13
+size my meas:  5
+size my meas:  7
+size my meas:  3
+     not going to find hitbased seed in this layer
+     not going to find hitbased seed in this layer
+      Number of hitless seeds: 5
+      Number of hitbased seeds: 9
+total num of seeds made:  14
+L2 Muon pt,eta, phi:   33.7096 , 0.207533 , -2.83676
+L2 Muon px,py, pz:   -32.1554 , -10.1175 , 7.04619
+TSOS IP:position->  (-0.0236976,0.0663959,3.60711) 
+TSOS IP:momentum->  (-32.1554,-10.1175,7.04619) 
+TSOS mu Station:position->  (-389.785,-152.223,91.1617) 
+TSOS mu station :momentum->  (-26.4179,-11.6082,5.95147) 
+starting findhitbased seed .................................
+det size: 2
+size my meas:  1
+size my meas:  1
+starting findhitbased seed .................................
+det size: 2
+size my meas:  3
+size my meas:  1
+starting findhitbased seed .................................
+det size: 0
+starting findhitbased seed .................................
+det size: 0
+starting findhitbased seed .................................
+det size: 0
+starting findhitbased seed .................................
+det size: 0
+starting findhitbased seed .................................
+det size: 0
+starting findhitbased seed .................................
+det size: 0
+      Number of hitless seeds: 2
+      Number of hitbased seeds: 5
+total num of seeds made:  7
+total number of seeds in this event: 21
+gen muon found: pt: 33.7763 eta: 1.80997 phi: 0.441026
+gen muon found: pt: 36.0266 eta: 0.206213 phi: -2.83414
+rec::Track muon   (recoMatched, pt,eta, phi)33.9591, 1.80984, 0.44089
+number of valid hits: 43
+number of  recHits : 28
+number of tracker hits:  24
+number of muon system hits: 4
+number of TOBTEC hits:  12
+number of TOB hits:  0
+number of TEC hits:  12
+rec::Track muon   (recoMatched, pt,eta, phi)36.4728, 0.206058, -2.83407
+number of valid hits: 40
+number of  recHits : 23
+number of tracker hits:  16
+number of muon system hits: 7
+number of TOBTEC hits:  6
+number of TOB hits:  6
+number of TEC hits:  0
+Tight id and Isolated reco muon, pt,eta,phi:  33.8827, 1.80984, 0.440896
+Tight id and Isolated reco muon, px,py,pz:  30.6425, 14.4595, 100.729
+Tight id and Isolated reco muon, pt,eta,phi:  36.5128, 0.206052, -2.83406
+Tight id and Isolated reco muon, px,py,pz:  -34.7998, -11.0526, 7.57689
+Num of L3OI muon cands: 1
+L3 OI cand pt, eta, phi:  34.143  :  1.80982  : 0.440819
+Begin processing the 2nd record. Run 1, Event 134043601, LumiSection 52107 at 23-Mar-2018 08:26:11.077 CDT
+total number of seeds in this event: 0
+L2 Muon pt,eta, phi:   39.3407 , 1.00051 , 2.13317
+L2 Muon px,py, pz:   -20.9764 , 33.2819 , 46.2643
+TSOS IP:position->  (-0.015748,0.0759549,-0.311223) 
+TSOS IP:momentum->  (-20.9764,33.2819,46.2643) 
+TSOS mu Station:position->  (-202.357,360.84,486.242) 
+TSOS mu station :momentum->  (-13.672,25.9843,34.5898) 
+starting findhitbased seed .................................
+det size: 0
+starting findhitbased seed .................................
+det size: 0
+starting findhitbased seed .................................
+det size: 1
+size my meas:  1
+starting findhitbased seed .................................
+det size: 2
+size my meas:  4
+size my meas:  5
+starting findhitbased seed .................................
+det size: 1
+size my meas:  134
+starting findhitbased seed .................................
+det size: 0
+starting findhitbased seed .................................
+det size: 0
+starting findhitbased seed .................................
+det size: 0
+starting findhitbased seed .................................
+det size: 0
+starting findhitbased seed .................................
+det size: 0
+starting findhitbased seed .................................
+det size: 0
+starting findhitbased seed .................................
+det size: 0
+starting findhitbased seed .................................
+det size: 0
+starting findhitbased seed .................................
+det size: 0
+starting findhitbased seed .................................
+det size: 0
+starting findhitbased seed .................................
+det size: 0
+starting findhitbased seed .................................
+det size: 0
+starting findhitbased seed .................................
+det size: 2
+size my meas:  1
+size my meas:  3
+starting findhitbased seed .................................
+det size: 2
+size my meas:  4
+size my meas:  1
+starting findhitbased seed .................................
+det size: 0
+starting findhitbased seed .................................
+det size: 0
+starting findhitbased seed .................................
+det size: 0
+starting findhitbased seed .................................
+det size: 0
+starting findhitbased seed .................................
+det size: 0
+starting findhitbased seed .................................
+det size: 0
+starting findhitbased seed .................................
+det size: 0
+starting findhitbased seed .................................
+det size: 0
+starting findhitbased seed .................................
+det size: 0
+starting findhitbased seed .................................
+det size: 0
+      Number of hitless seeds: 3
+      Number of hitbased seeds: 6
+total num of seeds made:  9
+L2 Muon pt,eta, phi:   34.4983 , 1.46519 , -0.959757
+L2 Muon px,py, pz:   19.7923 , -28.2559 , 70.6753
+TSOS IP:position->  (-0.0223674,0.0723092,2.30452) 
+TSOS IP:momentum->  (19.7923,-28.2559,70.6753) 
+TSOS mu Station:position->  (204.458,-263.328,685.615) 
+TSOS mu station :momentum->  (20.2244,-24.5662,65.1408) 
+starting findhitbased seed .................................
+det size: 0
+starting findhitbased seed .................................
+det size: 0
+starting findhitbased seed .................................
+det size: 0
+starting findhitbased seed .................................
+det size: 0
+starting findhitbased seed .................................
+det size: 0
+starting findhitbased seed .................................
+det size: 0
+starting findhitbased seed .................................
+det size: 0
+starting findhitbased seed .................................
+det size: 0
+starting findhitbased seed .................................
+det size: 0
+starting findhitbased seed .................................
+det size: 0
+starting findhitbased seed .................................
+det size: 0
+starting findhitbased seed .................................
+det size: 0
+starting findhitbased seed .................................
+det size: 2
+size my meas:  2
+size my meas:  1
+starting findhitbased seed .................................
+det size: 2
+size my meas:  3
+size my meas:  2
+starting findhitbased seed .................................
+det size: 2
+size my meas:  5
+size my meas:  1
+starting findhitbased seed .................................
+det size: 1
+size my meas:  1
+starting findhitbased seed .................................
+det size: 2
+size my meas:  2
+size my meas:  2
+starting findhitbased seed .................................
+det size: 1
+size my meas:  4
+starting findhitbased seed .................................
+det size: 2
+size my meas:  5
+size my meas:  3
+starting findhitbased seed .................................
+det size: 2
+size my meas:  5
+size my meas:  15
+starting findhitbased seed .................................
+det size: 0
+starting findhitbased seed .................................
+det size: 0
+starting findhitbased seed .................................
+det size: 0
+starting findhitbased seed .................................
+det size: 0
+starting findhitbased seed .................................
+det size: 0
+starting findhitbased seed .................................
+det size: 0
+starting findhitbased seed .................................
+det size: 0
+starting findhitbased seed .................................
+det size: 0
+starting findhitbased seed .................................
+det size: 0
+      Number of hitless seeds: 6
+      Number of hitbased seeds: 0
+total num of seeds made:  6
+total number of seeds in this event: 15
+gen muon found: pt: 40.1962 eta: 1.46623 phi: -0.953469
+gen muon found: pt: 48.7702 eta: 0.995409 phi: 2.12677
+rec::Track muon   (recoMatched, pt,eta, phi)40.5011, 1.46604, -0.953435
+number of valid hits: 40
+number of  recHits : 28
+number of tracker hits:  21
+number of muon system hits: 7
+number of TOBTEC hits:  11
+number of TOB hits:  0
+number of TEC hits:  11
+rec::Track muon   (recoMatched, pt,eta, phi)49.3529, 0.994967, 2.12678
+number of valid hits: 50
+number of  recHits : 24
+number of tracker hits:  16
+number of muon system hits: 8
+number of TOBTEC hits:  6
+number of TOB hits:  6
+number of TEC hits:  0
+Tight id and Isolated reco muon, pt,eta,phi:  40.5495, 1.46604, -0.953431
+Tight id and Isolated reco muon, px,py,pz:  23.4736, -33.0643, 83.1512
+Tight id and Isolated reco muon, pt,eta,phi:  49.2869, 0.994964, 2.12679
+Tight id and Isolated reco muon, px,py,pz:  -26.0129, 41.8632, 57.5397
+Num of L3OI muon cands: 1
+L3 OI cand pt, eta, phi:  38.9916  :  1.46612  : -0.953613
+Begin processing the 3rd record. Run 1, Event 134045214, LumiSection 52107 at 23-Mar-2018 08:26:11.475 CDT
+total number of seeds in this event: 0
+L2 Muon pt,eta, phi:   53.5209 , -0.611625 , 0.170251
+L2 Muon px,py, pz:   52.7471 , 9.06803 , -34.8142
+TSOS IP:position->  (-0.0262184,0.0867887,6.17591) 
+TSOS IP:momentum->  (52.7471,9.06803,-34.8142) 
+TSOS mu Station:position->  (431.166,54.3895,-276.638) 
+TSOS mu station :momentum->  (64.9401,6.38489,-42.4861) 
+starting findhitbased seed .................................
+det size: 1
+size my meas:  1
+starting findhitbased seed .................................
+det size: 1
+size my meas:  1
+starting findhitbased seed .................................
+det size: 1
+size my meas:  8
+     not going to find hitbased seed in this layer
+     not going to find hitbased seed in this layer
+     not going to find hitbased seed in this layer
+     not going to find hitbased seed in this layer
+     not going to find hitbased seed in this layer
+     not going to find hitbased seed in this layer
+      Number of hitless seeds: 3
+      Number of hitbased seeds: 5
+total num of seeds made:  8
+L2 Muon pt,eta, phi:   38.9875 , -1.15811 , 2.53739
+L2 Muon px,py, pz:   -32.0849 , 22.1492 , -55.9438
+TSOS IP:position->  (-0.0284783,0.067203,4.34145) 
+TSOS IP:momentum->  (-32.0849,22.1492,-55.9438) 
+TSOS mu Station:position->  (-367.899,225.18,-615.445) 
+TSOS mu station :momentum->  (-29.6028,17.1393,-49.2496) 
+starting findhitbased seed .................................
+det size: 0
+starting findhitbased seed .................................
+det size: 0
+starting findhitbased seed .................................
+det size: 0
+starting findhitbased seed .................................
+det size: 1
+size my meas:  9
+starting findhitbased seed .................................
+det size: 1
+size my meas:  40
+starting findhitbased seed .................................
+det size: 0
+starting findhitbased seed .................................
+det size: 0
+starting findhitbased seed .................................
+det size: 0
+starting findhitbased seed .................................
+det size: 0
+starting findhitbased seed .................................
+det size: 0
+starting findhitbased seed .................................
+det size: 0
+starting findhitbased seed .................................
+det size: 0
+starting findhitbased seed .................................
+det size: 0
+starting findhitbased seed .................................
+det size: 0
+starting findhitbased seed .................................
+det size: 0
+starting findhitbased seed .................................
+det size: 2
+size my meas:  3
+size my meas:  1
+starting findhitbased seed .................................
+det size: 2
+size my meas:  1
+size my meas:  2
+starting findhitbased seed .................................
+det size: 1
+size my meas:  1
+starting findhitbased seed .................................
+det size: 2
+size my meas:  2
+size my meas:  3
+starting findhitbased seed .................................
+det size: 1
+size my meas:  5
+starting findhitbased seed .................................
+det size: 0
+starting findhitbased seed .................................
+det size: 0
+starting findhitbased seed .................................
+det size: 0
+starting findhitbased seed .................................
+det size: 0
+starting findhitbased seed .................................
+det size: 0
+starting findhitbased seed .................................
+det size: 0
+starting findhitbased seed .................................
+det size: 0
+starting findhitbased seed .................................
+det size: 0
+starting findhitbased seed .................................
+det size: 0
+      Number of hitless seeds: 4
+      Number of hitbased seeds: 6
+total num of seeds made:  10
+total number of seeds in this event: 18
+gen muon found: pt: 44.1739 eta: -1.16381 phi: 2.54185
+gen muon found: pt: 50.554 eta: -0.612354 phi: 0.172647
+rec::Track muon   (recoMatched, pt,eta, phi)44.4243, -1.16385, 2.54176
+number of valid hits: 43
+number of  recHits : 23
+number of tracker hits:  18
+number of muon system hits: 5
+number of TOBTEC hits:  8
+number of TOB hits:  5
+number of TEC hits:  3
+rec::Track muon   (recoMatched, pt,eta, phi)48.8737, -0.612189, 0.172835
+number of valid hits: 56
+number of  recHits : 27
+number of tracker hits:  19
+number of muon system hits: 8
+number of TOBTEC hits:  7
+number of TOB hits:  7
+number of TEC hits:  0
+Tight id and Isolated reco muon, pt,eta,phi:  44.46, -1.16385, 2.54177
+Tight id and Isolated reco muon, px,py,pz:  -36.6988, 25.0976, -64.244
+Tight id and Isolated reco muon, pt,eta,phi:  48.8308, -0.612185, 0.172838
+Tight id and Isolated reco muon, px,py,pz:  48.1032, 8.39788, -31.796
+Num of L3OI muon cands: 1
+L3 OI cand pt, eta, phi:  43.9801  :  -1.16389  : 2.54172
+23-Mar-2018 08:26:11 CDT  Closed file file:/uscms_data/d3/bmahakud/PostDocWork/DYFiles/RAWDY2.root
+23-Mar-2018 08:26:11 CDT  Initiating request to open file file:/uscms_data/d3/bmahakud/PostDocWork/DYFiles/RAWDY1.root
+23-Mar-2018 08:26:11 CDT  Successfully opened file file:/uscms_data/d3/bmahakud/PostDocWork/DYFiles/RAWDY1.root
+Begin processing the 4th record. Run 1, Event 133572783, LumiSection 51924 at 23-Mar-2018 08:26:12.338 CDT
+total number of seeds in this event: 0
+L2 Muon pt,eta, phi:   62.7421 , 1.42412 , 0.742498
+L2 Muon px,py, pz:   46.2273 , 42.4219 , 122.77
+TSOS IP:position->  (-0.0328533,0.078738,1.31416) 
+TSOS IP:momentum->  (46.2273,42.4219,122.77) 
+TSOS mu Station:position->  (275.453,237.524,712.808) 
+TSOS mu station :momentum->  (60.2025,51.8567,154.757) 
+starting findhitbased seed .................................
+det size: 0
+starting findhitbased seed .................................
+det size: 0
+starting findhitbased seed .................................
+det size: 0
+starting findhitbased seed .................................
+det size: 0
+starting findhitbased seed .................................
+det size: 0
+starting findhitbased seed .................................
+det size: 0
+starting findhitbased seed .................................
+det size: 0
+starting findhitbased seed .................................
+det size: 0
+starting findhitbased seed .................................
+det size: 0
+starting findhitbased seed .................................
+det size: 0
+starting findhitbased seed .................................
+det size: 0
+starting findhitbased seed .................................
+det size: 0
+starting findhitbased seed .................................
+det size: 0
+starting findhitbased seed .................................
+det size: 0
+starting findhitbased seed .................................
+det size: 0
+starting findhitbased seed .................................
+det size: 2
+size my meas:  5
+size my meas:  7
+starting findhitbased seed .................................
+det size: 2
+size my meas:  2
+size my meas:  6
+starting findhitbased seed .................................
+det size: 1
+size my meas:  5
+starting findhitbased seed .................................
+det size: 1
+size my meas:  1
+starting findhitbased seed .................................
+det size: 2
+size my meas:  6
+size my meas:  10
+starting findhitbased seed .................................
+det size: 1
+size my meas:  6
+starting findhitbased seed .................................
+det size: 0
+starting findhitbased seed .................................
+det size: 0
+starting findhitbased seed .................................
+det size: 0
+starting findhitbased seed .................................
+det size: 0
+starting findhitbased seed .................................
+det size: 0
+starting findhitbased seed .................................
+det size: 0
+starting findhitbased seed .................................
+det size: 0
+starting findhitbased seed .................................
+det size: 0
+starting findhitbased seed .................................
+det size: 0
+      Number of hitless seeds: 6
+      Number of hitbased seeds: 0
+total num of seeds made:  6
+L2 Muon pt,eta, phi:   28.1832 , 1.42895 , -2.73759
+L2 Muon px,py, pz:   -25.9143 , -11.0789 , 55.4467
+TSOS IP:position->  (-0.022215,0.0589837,-1.41564) 
+TSOS IP:momentum->  (-25.9143,-11.0789,55.4467) 
+TSOS mu Station:position->  (-311.746,-156.067,685.228) 
+TSOS mu station :momentum->  (-22.9907,-12.384,51.6262) 
+starting findhitbased seed .................................
+det size: 0
+starting findhitbased seed .................................
+det size: 0
+starting findhitbased seed .................................
+det size: 0
+starting findhitbased seed .................................
+det size: 0
+starting findhitbased seed .................................
+det size: 0
+starting findhitbased seed .................................
+det size: 0
+starting findhitbased seed .................................
+det size: 0
+starting findhitbased seed .................................
+det size: 0
+starting findhitbased seed .................................
+det size: 0
+starting findhitbased seed .................................
+det size: 0
+starting findhitbased seed .................................
+det size: 0
+starting findhitbased seed .................................
+det size: 0
+starting findhitbased seed .................................
+det size: 0
+starting findhitbased seed .................................
+det size: 2
+size my meas:  4
+size my meas:  3
+starting findhitbased seed .................................
+det size: 2
+size my meas:  4
+size my meas:  3
+starting findhitbased seed .................................
+det size: 2
+size my meas:  1
+size my meas:  2
+starting findhitbased seed .................................
+det size: 1
+size my meas:  3
+starting findhitbased seed .................................
+det size: 2
+size my meas:  4
+size my meas:  7
+starting findhitbased seed .................................
+det size: 1
+size my meas:  6
+starting findhitbased seed .................................
+det size: 2
+size my meas:  28
+size my meas:  12
+starting findhitbased seed .................................
+det size: 1
+size my meas:  25
+starting findhitbased seed .................................
+det size: 0
+starting findhitbased seed .................................
+det size: 0
+starting findhitbased seed .................................
+det size: 0
+starting findhitbased seed .................................
+det size: 0
+starting findhitbased seed .................................
+det size: 0
+starting findhitbased seed .................................
+det size: 0
+starting findhitbased seed .................................
+det size: 0
+starting findhitbased seed .................................
+det size: 0
+starting findhitbased seed .................................
+det size: 0
+      Number of hitless seeds: 6
+      Number of hitbased seeds: 0
+total num of seeds made:  6
+total number of seeds in this event: 12
+gen muon found: pt: 58.7621 eta: 1.42038 phi: 0.743072
+gen muon found: pt: 37.7224 eta: 1.4243 phi: -2.72608
+rec::Track muon   (recoMatched, pt,eta, phi)36.7425, 1.42425, -2.72613
+number of valid hits: 41
+number of  recHits : 22
+number of tracker hits:  16
+number of muon system hits: 6
+number of TOBTEC hits:  8
+number of TOB hits:  0
+number of TEC hits:  8
+rec::Track muon   (recoMatched, pt,eta, phi)58.5357, 1.42025, 0.743194
+number of valid hits: 36
+number of  recHits : 21
+number of tracker hits:  15
+number of muon system hits: 6
+number of TOBTEC hits:  7
+number of TOB hits:  0
+number of TEC hits:  7
+Tight id and Isolated reco muon, pt,eta,phi:  36.7111, 1.42425, -2.72614
+Tight id and Isolated reco muon, px,py,pz:  -33.5882, -14.8169, 71.8449
+Tight id and Isolated reco muon, pt,eta,phi:  58.2288, 1.42025, 0.74321
+Tight id and Isolated reco muon, px,py,pz:  42.8739, 39.4008, 113.445
+Num of L3OI muon cands: 1
+L3 OI cand pt, eta, phi:  36.7614  :  1.42419  : -2.72609
+Begin proce
