@@ -1,0 +1,720 @@
+Begin processing the 1st record. Run 1, Event 134042994, LumiSection 52107 at 24-Mar-2018 08:47:54.900 CDT
+total number of seeds in this event: 0
+L2 Muon pt,eta, phi:   35.5869 , 1.81431 , 0.4409
+L2 Muon px,py, pz:   32.1837 , 15.1869 , 106.296
+TSOS IP:position->  (-0.0240161,0.0660037,1.46141) 
+TSOS IP:momentum->  (32.1837,15.1869,106.296) 
+TSOS mu Station:position->  (188.819,82.3019,616.762) 
+TSOS mu station :momentum->  (30.3051,12.3336,97.6488) 
+	Number of Compatible hits TEC(TSOSIP):   6
+	Number of Compatible hits TEC (TSOSmuS): 3
+	Number of Compatible hits TEB (TSOSIP): 0
+	Number of Compatible hits TEB (TSOSMuS): 0
+      Number of hitless seeds: 5
+      Number of hitbased seeds: 9
+total num of seeds made:  14
+L2 Muon pt,eta, phi:   33.7096 , 0.207533 , -2.83676
+L2 Muon px,py, pz:   -32.1554 , -10.1175 , 7.04619
+TSOS IP:position->  (-0.0236976,0.0663959,3.60711) 
+TSOS IP:momentum->  (-32.1554,-10.1175,7.04619) 
+TSOS mu Station:position->  (-389.785,-152.223,91.1617) 
+TSOS mu station :momentum->  (-26.4179,-11.6082,5.95147) 
+	Number of Compatible hits TEC(TSOSIP):   0
+	Number of Compatible hits TEC (TSOSmuS): 0
+	Number of Compatible hits TEB (TSOSIP): 5
+	Number of Compatible hits TEB (TSOSMuS): 0
+      Number of hitless seeds: 2
+      Number of hitbased seeds: 5
+total num of seeds made:  7
+total number of seeds in this event: 21
+gen muon found: pt: 33.7763 eta: 1.80997 phi: 0.441026
+gen muon found: pt: 36.0266 eta: 0.206213 phi: -2.83414
+rec::Track muon   (recoMatched, pt,eta, phi)33.9591, 1.80984, 0.44089
+number of valid hits: 43
+number of  recHits : 28
+number of tracker hits:  24
+number of muon system hits: 4
+number of TOBTEC hits:  12
+number of TOB hits:  0
+number of TEC hits:  12
+rec::Track muon   (recoMatched, pt,eta, phi)36.4728, 0.206058, -2.83407
+number of valid hits: 40
+number of  recHits : 23
+number of tracker hits:  16
+number of muon system hits: 7
+number of TOBTEC hits:  6
+number of TOB hits:  6
+number of TEC hits:  0
+Tight id and Isolated reco muon, pt,eta,phi:  33.8827, 1.80984, 0.440896
+Tight id and Isolated reco muon, px,py,pz:  30.6425, 14.4595, 100.729
+Tight id and Isolated reco muon, pt,eta,phi:  36.5128, 0.206052, -2.83406
+Tight id and Isolated reco muon, px,py,pz:  -34.7998, -11.0526, 7.57689
+Num of L3OI muon cands: 1
+L3 OI cand pt, eta, phi:  34.143  :  1.80982  : 0.440819
+Begin processing the 2nd record. Run 1, Event 134043601, LumiSection 52107 at 24-Mar-2018 08:47:56.272 CDT
+total number of seeds in this event: 0
+L2 Muon pt,eta, phi:   39.3407 , 1.00051 , 2.13317
+L2 Muon px,py, pz:   -20.9764 , 33.2819 , 46.2643
+TSOS IP:position->  (-0.015748,0.0759549,-0.311223) 
+TSOS IP:momentum->  (-20.9764,33.2819,46.2643) 
+TSOS mu Station:position->  (-202.357,360.84,486.242) 
+TSOS mu station :momentum->  (-13.672,25.9843,34.5898) 
+	Number of Compatible hits TEC(TSOSIP):   2
+	Number of Compatible hits TEC (TSOSmuS): 0
+	Number of Compatible hits TEB (TSOSIP): 6
+	Number of Compatible hits TEB (TSOSMuS): 0
+      Number of hitless seeds: 3
+      Number of hitbased seeds: 6
+total num of seeds made:  9
+L2 Muon pt,eta, phi:   34.4983 , 1.46519 , -0.959757
+L2 Muon px,py, pz:   19.7923 , -28.2559 , 70.6753
+TSOS IP:position->  (-0.0223674,0.0723092,2.30452) 
+TSOS IP:momentum->  (19.7923,-28.2559,70.6753) 
+TSOS mu Station:position->  (204.458,-263.328,685.615) 
+TSOS mu station :momentum->  (20.2244,-24.5662,65.1408) 
+	Number of Compatible hits TEC(TSOSIP):   7
+	Number of Compatible hits TEC (TSOSmuS): 0
+	Number of Compatible hits TEB (TSOSIP): 0
+	Number of Compatible hits TEB (TSOSMuS): 0
+      Number of hitless seeds: 6
+      Number of hitbased seeds: 0
+total num of seeds made:  6
+total number of seeds in this event: 15
+gen muon found: pt: 40.1962 eta: 1.46623 phi: -0.953469
+gen muon found: pt: 48.7702 eta: 0.995409 phi: 2.12677
+rec::Track muon   (recoMatched, pt,eta, phi)40.5011, 1.46604, -0.953435
+number of valid hits: 40
+number of  recHits : 28
+number of tracker hits:  21
+number of muon system hits: 7
+number of TOBTEC hits:  11
+number of TOB hits:  0
+number of TEC hits:  11
+rec::Track muon   (recoMatched, pt,eta, phi)49.3529, 0.994967, 2.12678
+number of valid hits: 50
+number of  recHits : 24
+number of tracker hits:  16
+number of muon system hits: 8
+number of TOBTEC hits:  6
+number of TOB hits:  6
+number of TEC hits:  0
+Tight id and Isolated reco muon, pt,eta,phi:  40.5495, 1.46604, -0.953431
+Tight id and Isolated reco muon, px,py,pz:  23.4736, -33.0643, 83.1512
+Tight id and Isolated reco muon, pt,eta,phi:  49.2869, 0.994964, 2.12679
+Tight id and Isolated reco muon, px,py,pz:  -26.0129, 41.8632, 57.5397
+Num of L3OI muon cands: 1
+L3 OI cand pt, eta, phi:  38.9916  :  1.46612  : -0.953613
+Begin processing the 3rd record. Run 1, Event 134045214, LumiSection 52107 at 24-Mar-2018 08:47:56.666 CDT
+total number of seeds in this event: 0
+L2 Muon pt,eta, phi:   53.5209 , -0.611625 , 0.170251
+L2 Muon px,py, pz:   52.7471 , 9.06803 , -34.8142
+TSOS IP:position->  (-0.0262184,0.0867887,6.17591) 
+TSOS IP:momentum->  (52.7471,9.06803,-34.8142) 
+TSOS mu Station:position->  (431.166,54.3895,-276.638) 
+TSOS mu station :momentum->  (64.9401,6.38489,-42.4861) 
+	Number of Compatible hits TEC(TSOSIP):   0
+	Number of Compatible hits TEC (TSOSmuS): 0
+	Number of Compatible hits TEB (TSOSIP): 5
+	Number of Compatible hits TEB (TSOSMuS): 0
+      Number of hitless seeds: 3
+      Number of hitbased seeds: 5
+total num of seeds made:  8
+L2 Muon pt,eta, phi:   38.9875 , -1.15811 , 2.53739
+L2 Muon px,py, pz:   -32.0849 , 22.1492 , -55.9438
+TSOS IP:position->  (-0.0284783,0.067203,4.34145) 
+TSOS IP:momentum->  (-32.0849,22.1492,-55.9438) 
+TSOS mu Station:position->  (-367.899,225.18,-615.445) 
+TSOS mu station :momentum->  (-29.6028,17.1393,-49.2496) 
+	Number of Compatible hits TEC(TSOSIP):   4
+	Number of Compatible hits TEC (TSOSmuS): 0
+	Number of Compatible hits TEB (TSOSIP): 6
+	Number of Compatible hits TEB (TSOSMuS): 0
+      Number of hitless seeds: 4
+      Number of hitbased seeds: 6
+total num of seeds made:  10
+total number of seeds in this event: 18
+gen muon found: pt: 44.1739 eta: -1.16381 phi: 2.54185
+gen muon found: pt: 50.554 eta: -0.612354 phi: 0.172647
+rec::Track muon   (recoMatched, pt,eta, phi)44.4243, -1.16385, 2.54176
+number of valid hits: 43
+number of  recHits : 23
+number of tracker hits:  18
+number of muon system hits: 5
+number of TOBTEC hits:  8
+number of TOB hits:  5
+number of TEC hits:  3
+rec::Track muon   (recoMatched, pt,eta, phi)48.8737, -0.612189, 0.172835
+number of valid hits: 56
+number of  recHits : 27
+number of tracker hits:  19
+number of muon system hits: 8
+number of TOBTEC hits:  7
+number of TOB hits:  7
+number of TEC hits:  0
+Tight id and Isolated reco muon, pt,eta,phi:  44.46, -1.16385, 2.54177
+Tight id and Isolated reco muon, px,py,pz:  -36.6988, 25.0976, -64.244
+Tight id and Isolated reco muon, pt,eta,phi:  48.8308, -0.612185, 0.172838
+Tight id and Isolated reco muon, px,py,pz:  48.1032, 8.39788, -31.796
+Num of L3OI muon cands: 1
+L3 OI cand pt, eta, phi:  43.9801  :  -1.16389  : 2.54172
+24-Mar-2018 08:47:57 CDT  Closed file file:/uscms_data/d3/bmahakud/PostDocWork/DYFiles/RAWDY2.root
+24-Mar-2018 08:47:57 CDT  Initiating request to open file file:/uscms_data/d3/bmahakud/PostDocWork/DYFiles/RAWDY1.root
+24-Mar-2018 08:47:57 CDT  Successfully opened file file:/uscms_data/d3/bmahakud/PostDocWork/DYFiles/RAWDY1.root
+Begin processing the 4th record. Run 1, Event 133572783, LumiSection 51924 at 24-Mar-2018 08:47:57.521 CDT
+total number of seeds in this event: 0
+L2 Muon pt,eta, phi:   62.7421 , 1.42412 , 0.742498
+L2 Muon px,py, pz:   46.2273 , 42.4219 , 122.77
+TSOS IP:position->  (-0.0328533,0.078738,1.31416) 
+TSOS IP:momentum->  (46.2273,42.4219,122.77) 
+TSOS mu Station:position->  (275.453,237.524,712.808) 
+TSOS mu station :momentum->  (60.2025,51.8567,154.757) 
+	Number of Compatible hits TEC(TSOSIP):   5
+	Number of Compatible hits TEC (TSOSmuS): 0
+	Number of Compatible hits TEB (TSOSIP): 0
+	Number of Compatible hits TEB (TSOSMuS): 0
+      Number of hitless seeds: 6
+      Number of hitbased seeds: 0
+total num of seeds made:  6
+L2 Muon pt,eta, phi:   28.1832 , 1.42895 , -2.73759
+L2 Muon px,py, pz:   -25.9143 , -11.0789 , 55.4467
+TSOS IP:position->  (-0.022215,0.0589837,-1.41564) 
+TSOS IP:momentum->  (-25.9143,-11.0789,55.4467) 
+TSOS mu Station:position->  (-311.746,-156.067,685.228) 
+TSOS mu station :momentum->  (-22.9907,-12.384,51.6262) 
+	Number of Compatible hits TEC(TSOSIP):   8
+	Number of Compatible hits TEC (TSOSmuS): 0
+	Number of Compatible hits TEB (TSOSIP): 0
+	Number of Compatible hits TEB (TSOSMuS): 0
+      Number of hitless seeds: 6
+      Number of hitbased seeds: 0
+total num of seeds made:  6
+total number of seeds in this event: 12
+gen muon found: pt: 58.7621 eta: 1.42038 phi: 0.743072
+gen muon found: pt: 37.7224 eta: 1.4243 phi: -2.72608
+rec::Track muon   (recoMatched, pt,eta, phi)36.7425, 1.42425, -2.72613
+number of valid hits: 41
+number of  recHits : 22
+number of tracker hits:  16
+number of muon system hits: 6
+number of TOBTEC hits:  8
+number of TOB hits:  0
+number of TEC hits:  8
+rec::Track muon   (recoMatched, pt,eta, phi)58.5357, 1.42025, 0.743194
+number of valid hits: 36
+number of  recHits : 21
+number of tracker hits:  15
+number of muon system hits: 6
+number of TOBTEC hits:  7
+number of TOB hits:  0
+number of TEC hits:  7
+Tight id and Isolated reco muon, pt,eta,phi:  36.7111, 1.42425, -2.72614
+Tight id and Isolated reco muon, px,py,pz:  -33.5882, -14.8169, 71.8449
+Tight id and Isolated reco muon, pt,eta,phi:  58.2288, 1.42025, 0.74321
+Tight id and Isolated reco muon, px,py,pz:  42.8739, 39.4008, 113.445
+Num of L3OI muon cands: 1
+L3 OI cand pt, eta, phi:  36.7614  :  1.42419  : -2.72609
+Begin processing the 5th record. Run 1, Event 133573355, LumiSection 51924 at 24-Mar-2018 08:47:58.110 CDT
+total number of seeds in this event: 0
+L2 Muon pt,eta, phi:   40.5509 , -1.33159 , -0.791369
+L2 Muon px,py, pz:   28.5021 , -28.8445 , -71.4307
+TSOS IP:position->  (-0.0204498,0.0684325,6.57463) 
+TSOS IP:momentum->  (28.5021,-28.8445,-71.4307) 
+TSOS mu Station:position->  (300.561,-275.41,-712.577) 
+TSOS mu station :momentum->  (28.0965,-24.6751,-66.3394) 
+	Number of Compatible hits TEC(TSOSIP):   7
+	Number of Compatible hits TEC (TSOSmuS): 0
+	Number of Compatible hits TEB (TSOSIP): 0
+	Number of Compatible hits TEB (TSOSMuS): 0
+      Number of hitless seeds: 6
+      Number of hitbased seeds: 0
+total num of seeds made:  6
+L2 Muon pt,eta, phi:   51.8888 , -1.58352 , 2.1554
+L2 Muon px,py, pz:   -28.6357 , 43.2718 , -121.078
+TSOS IP:position->  (-0.034629,0.0639698,1.89292) 
+TSOS IP:momentum->  (-28.6357,43.2718,-121.078) 
+TSOS mu Station:position->  (-161.035,260.628,-712.935) 
+TSOS mu station :momentum->  (-27.8301,47.2301,-128.035) 
+	Number of Compatible hits TEC(TSOSIP):   6
+	Number of Compatible hits TEC (TSOSmuS): 0
+	Number of Compatible hits TEB (TSOSIP): 0
+	Number of Compatible hits TEB (TSOSMuS): 0
+      Number of hitless seeds: 6
+      Number of hitbased seeds: 0
+total num of seeds made:  6
+total number of seeds in this event: 12
+gen muon found: pt: 49.2151 eta: -1.58417 phi: 2.15812
+gen muon found: pt: 42.4595 eta: -1.32654 phi: -0.785874
+rec::Track muon   (recoMatched, pt,eta, phi)42.8146, -1.32648, -0.785828
+number of valid hits: 45
+number of  recHits : 27
+number of tracker hits:  19
+number of muon system hits: 8
+number of TOBTEC hits:  8
+number of TOB hits:  0
+number of TEC hits:  8
+rec::Track muon   (recoMatched, pt,eta, phi)48.8842, -1.58423, 2.15794
+number of valid hits: 42
+number of  recHits : 27
+number of tracker hits:  20
+number of muon system hits: 7
+number of TOBTEC hits:  12
+number of TOB hits:  0
+number of TEC hits:  12
+Tight id and Isolated reco muon, pt,eta,phi:  42.6201, -1.32648, -0.785842
+Tight id and Isolated reco muon, px,py,pz:  30.1236, -30.1504, -74.635
+Tight id and Isolated reco muon, pt,eta,phi:  49.0446, -1.58423, 2.15795
+Tight id and Isolated reco muon, px,py,pz:  -27.1702, 40.8308, -114.53
+Num of L3OI muon cands: 1
+L3 OI cand pt, eta, phi:  42.4562  :  -1.32649  : -0.785848
+Begin processing the 6th record. Run 1, Event 133573511, LumiSection 51924 at 24-Mar-2018 08:47:58.690 CDT
+total number of seeds in this event: 0
+L2 Muon pt,eta, phi:   115.79 , 1.20551 , 3.05759
+L2 Muon px,py, pz:   -115.382 , 9.71491 , 175.939
+TSOS IP:position->  (-0.0232888,0.0780056,2.49284) 
+TSOS IP:momentum->  (-115.382,9.71491,175.939) 
+TSOS mu Station:position->  (-413.675,26.961,632.913) 
+TSOS mu station :momentum->  (-554.412,34.0118,842.244) 
+	Number of Compatible hits TEC(TSOSIP):   4
+	Number of Compatible hits TEC (TSOSmuS): 0
+	Number of Compatible hits TEB (TSOSIP): 3
+	Number of Compatible hits TEB (TSOSMuS): 0
+      Number of hitless seeds: 5
+      Number of hitbased seeds: 3
+total num of seeds made:  8
+L2 Muon pt,eta, phi:   36.1628 , 1.39172 , -0.773811
+L2 Muon px,py, pz:   25.8655 , -25.273 , 68.2229
+TSOS IP:position->  (-0.023311,0.0728747,2.98754) 
+TSOS IP:momentum->  (25.8655,-25.273,68.2229) 
+TSOS mu Station:position->  (245.242,-265.812,685.615) 
+TSOS mu station :momentum->  (24.3816,-28.0067,69.9741) 
+	Number of Compatible hits TEC(TSOSIP):   9
+	Number of Compatible hits TEC (TSOSmuS): 0
+	Number of Compatible hits TEB (TSOSIP): 0
+	Number of Compatible hits TEB (TSOSMuS): 0
+      Number of hitless seeds: 6
+      Number of hitbased seeds: 0
+total num of seeds made:  6
+total number of seeds in this event: 14
+gen muon found: pt: 60.3572 eta: 1.20977 phi: 3.03644
+gen muon found: pt: 38.5464 eta: 1.39406 phi: -0.776979
+rec::Track muon   (recoMatched, pt,eta, phi)37.4717, 1.39409, -0.776938
+number of valid hits: 38
+number of  recHits : 23
+number of tracker hits:  16
+number of muon system hits: 7
+number of TOBTEC hits:  8
+number of TOB hits:  0
+number of TEC hits:  8
+rec::Track muon   (recoMatched, pt,eta, phi)60.7995, 1.20971, 3.03656
+number of valid hits: 33
+number of  recHits : 18
+number of tracker hits:  13
+number of muon system hits: 5
+number of TOBTEC hits:  5
+number of TOB hits:  2
+number of TEC hits:  3
+Tight id and Isolated reco muon, pt,eta,phi:  37.3779, 1.39409, -0.77693
+Tight id and Isolated reco muon, px,py,pz:  26.653, -26.2054, 70.7049
+Tight id and Isolated reco muon, pt,eta,phi:  61.3566, 1.20971, 3.03658
+Tight id and Isolated reco muon, px,py,pz:  -61.0186, 6.4314, 93.6988
+Num of L3OI muon cands: 1
+L3 OI cand pt, eta, phi:  41.1305  :  1.39427  : -0.777312
+Begin processing the 7th record. Run 1, Event 133573954, LumiSection 51924 at 24-Mar-2018 08:47:59.026 CDT
+total number of seeds in this event: 0
+L2 Muon pt,eta, phi:   95.771 , 0.540809 , 0.783989
+L2 Muon px,py, pz:   67.8157 , 67.6248 , 54.3557
+TSOS IP:position->  (-0.0148149,0.0604743,1.52115) 
+TSOS IP:momentum->  (67.8157,67.6248,54.3557) 
+TSOS mu Station:position->  (307.261,295.158,242.634) 
+TSOS mu station :momentum->  (23.8751,22.3543,18.5708) 
+	Number of Compatible hits TEC(TSOSIP):   0
+	Number of Compatible hits TEC (TSOSmuS): 0
+	Number of Compatible hits TEB (TSOSIP): 4
+	Number of Compatible hits TEB (TSOSMuS): 0
+      Number of hitless seeds: 2
+      Number of hitbased seeds: 4
+total num of seeds made:  6
+L2 Muon pt,eta, phi:   47.6001 , 0.734897 , -2.95007
+L2 Muon px,py, pz:   -46.7298 , -9.06089 , 38.216
+TSOS IP:position->  (-0.019556,0.0426877,3.6213) 
+TSOS IP:momentum->  (-46.7298,-9.06089,38.216) 
+TSOS mu Station:position->  (-413.675,-58.9631,339.029) 
+TSOS mu station :momentum->  (-63.4335,-6.98387,51.2189) 
+	Number of Compatible hits TEC(TSOSIP):   0
+	Number of Compatible hits TEC (TSOSmuS): 0
+	Number of Compatible hits TEB (TSOSIP): 6
+	Number of Compatible hits TEB (TSOSMuS): 0
+      Number of hitless seeds: 2
+      Number of hitbased seeds: 6
+total num of seeds made:  8
+L2 Muon pt,eta, phi:   2.65141 , 1.87534 , -0.926875
+L2 Muon px,py, pz:   1.59174 , -2.12046 , 8.44435
+TSOS IP:position->  (-0.0276651,0.0677513,2.03607) 
+TSOS IP:momentum->  (1.59174,-2.12046,8.44435) 
+TSOS mu Station:position->  (68.8564,-185.919,587.572) 
+TSOS mu station :momentum->  (0.277366,-1.7847,4.94826) 
+	Number of Compatible hits TEC(TSOSIP):   6
+	Number of Compatible hits TEC (TSOSmuS): 3
+	Number of Compatible hits TEB (TSOSIP): 0
+	Number of Compatible hits TEB (TSOSMuS): 0
+      Number of hitless seeds: 5
+      Number of hitbased seeds: 9
+total num of seeds made:  14
+total number of seeds in this event: 28
+gen muon found: pt: 49.8473 eta: 0.537208 phi: 0.710805
+gen muon found: pt: 43.7318 eta: 0.731189 phi: -2.94573
+rec::Track muon   (recoMatched, pt,eta, phi)43.6683, 0.730935, -2.94578
+number of valid hits: 63
+number of  recHits : 27
+number of tracker hits:  19
+number of muon system hits: 8
+number of TOBTEC hits:  9
+number of TOB hits:  9
+number of TEC hits:  0
+rec::Track muon   (recoMatched, pt,eta, phi)49.3246, 0.5373, 0.710764
+number of valid hits: 43
+number of  recHits : 22
+number of tracker hits:  15
+number of muon system hits: 7
+number of TOBTEC hits:  8
+number of TOB hits:  8
+number of TEC hits:  0
+Tight id and Isolated reco muon, pt,eta,phi:  43.7641, 0.730938, -2.94579
+Tight id and Isolated reco muon, px,py,pz:  -42.9278, -8.51456, 34.9144
+Tight id and Isolated reco muon, pt,eta,phi:  49.3354, 0.537327, 0.710766
+Tight id and Isolated reco muon, px,py,pz:  37.3894, 32.1871, 27.8034
+Num of L3OI muon cands: 1
+L3 OI cand pt, eta, phi:  43.6693  :  0.730926  : -2.94578
+Begin processing the 8th record. Run 1, Event 133574362, LumiSection 51924 at 24-Mar-2018 08:47:59.636 CDT
+total number of seeds in this event: 0
+L2 Muon pt,eta, phi:   80.7397 , -1.57612 , 0.0208511
+L2 Muon px,py, pz:   80.7222 , 1.68339 , -186.888
+TSOS IP:position->  (-0.0112805,-0.424434,-12.781) 
+TSOS IP:momentum->  (80.7222,1.68339,-186.888) 
+TSOS mu Station:position->  (302.277,11.661,-712.95) 
+TSOS mu station :momentum->  (1605.06,77.5561,-3691.45) 
+	Number of Compatible hits TEC(TSOSIP):   5
+	Number of Compatible hits TEC (TSOSmuS): 0
+	Number of Compatible hits TEB (TSOSIP): 0
+	Number of Compatible hits TEB (TSOSMuS): 0
+      Number of hitless seeds: 6
+      Number of hitbased seeds: 0
+total num of seeds made:  6
+L2 Muon pt,eta, phi:   33.558 , -1.9356 , 3.01388
+L2 Muon px,py, pz:   -33.2847 , 4.27423 , -113.826
+TSOS IP:position->  (-0.023726,0.078361,0.424883) 
+TSOS IP:momentum->  (-33.2847,4.27423,-113.826) 
+TSOS mu Station:position->  (-171.424,29.6654,-587.795) 
+TSOS mu station :momentum->  (-23.2692,3.24721,-79.4224) 
+	Number of Compatible hits TEC(TSOSIP):   6
+	Number of Compatible hits TEC (TSOSmuS): 3
+	Number of Compatible hits TEB (TSOSIP): 0
+	Number of Compatible hits TEB (TSOSMuS): 0
+      Number of hitless seeds: 5
+      Number of hitbased seeds: 9
+total num of seeds made:  14
+total number of seeds in this event: 20
+gen muon found: pt: 31.3412 eta: -1.93222 phi: 3.02633
+gen muon found: pt: 66.2844 eta: -1.59706 phi: 0.0134591
+rec::Track muon   (recoMatched, pt,eta, phi)31.8526, -1.93232, 3.02616
+number of valid hits: 40
+number of  recHits : 25
+number of tracker hits:  22
+number of muon system hits: 3
+number of TOBTEC hits:  14
+number of TOB hits:  0
+number of TEC hits:  14
+rec::Track muon   (recoMatched, pt,eta, phi)67.0981, -1.59714, 0.0134642
+number of valid hits: 45
+number of  recHits : 30
+number of tracker hits:  23
+number of muon system hits: 7
+number of TOBTEC hits:  12
+number of TOB hits:  0
+number of TEC hits:  12
+Tight id and Isolated reco muon, pt,eta,phi:  31.9973, -1.93232, 3.02615
+Tight id and Isolated reco muon, px,py,pz:  -31.7843, 3.68562, -108.162
+Tight id and Isolated reco muon, pt,eta,phi:  67.8516, -1.59714, 0.0134947
+Tight id and Isolated reco muon, px,py,pz:  67.8454, 0.915611, -160.687
+Num of L3OI muon cands: 1
+L3 OI cand pt, eta, phi:  31.6809  :  -1.93228  : 3.0262
+24-Mar-2018 08:48:00 CDT  Closed file file:/uscms_data/d3/bmahakud/PostDocWork/DYFiles/RAWDY1.root
+24-Mar-2018 08:48:00 CDT  Initiating request to open file file:/uscms_data/d3/bmahakud/PostDocWork/DYFiles/RAWDY3.root
+24-Mar-2018 08:48:00 CDT  Successfully opened file file:/uscms_data/d3/bmahakud/PostDocWork/DYFiles/RAWDY3.root
+Begin processing the 9th record. Run 1, Event 134455063, LumiSection 52267 at 24-Mar-2018 08:48:00.452 CDT
+total number of seeds in this event: 0
+L2 Muon pt,eta, phi:   30.5007 , 1.84509 , -3.11915
+L2 Muon px,py, pz:   -30.493 , -0.684342 , 94.1048
+TSOS IP:position->  (-0.0217812,0.0711277,3.59208) 
+TSOS IP:momentum->  (-30.493,-0.684342,94.1048) 
+TSOS mu Station:position->  (-198.938,2.42032,617.297) 
+TSOS mu station :momentum->  (-27.1887,1.08375,83.5825) 
+	Number of Compatible hits TEC(TSOSIP):   6
+	Number of Compatible hits TEC (TSOSmuS): 3
+	Number of Compatible hits TEB (TSOSIP): 0
+	Number of Compatible hits TEB (TSOSMuS): 0
+      Number of hitless seeds: 5
+      Number of hitbased seeds: 9
+total num of seeds made:  14
+L2 Muon pt,eta, phi:   54.5538 , 1.36371 , 0.25757
+L2 Muon px,py, pz:   52.7541 , 13.8966 , 99.6957
+TSOS IP:position->  (-0.0217545,0.0551758,2.03721) 
+TSOS IP:momentum->  (52.7541,13.8966,99.6957) 
+TSOS mu Station:position->  (372.168,112.918,712.913) 
+TSOS mu station :momentum->  (58.8806,19.0726,113.09) 
+	Number of Compatible hits TEC(TSOSIP):   5
+	Number of Compatible hits TEC (TSOSmuS): 0
+	Number of Compatible hits TEB (TSOSIP): 0
+	Number of Compatible hits TEB (TSOSMuS): 0
+      Number of hitless seeds: 5
+      Number of hitbased seeds: 0
+total num of seeds made:  5
+total number of seeds in this event: 19
+gen muon found: pt: 42.5561 eta: 1.83944 phi: -3.12923
+gen muon found: pt: 48.7501 eta: 1.36036 phi: 0.254225
+rec::Track muon   (recoMatched, pt,eta, phi)43.451, 1.83931, -3.12896
+number of valid hits: 37
+number of  recHits : 27
+number of tracker hits:  24
+number of muon system hits: 3
+number of TOBTEC hits:  9
+number of TOB hits:  0
+number of TEC hits:  9
+rec::Track muon   (recoMatched, pt,eta, phi)49.4762, 1.36024, 0.254165
+number of valid hits: 40
+number of  recHits : 21
+number of tracker hits:  14
+number of muon system hits: 7
+number of TOBTEC hits:  7
+number of TOB hits:  0
+number of TEC hits:  7
+Tight id and Isolated reco muon, pt,eta,phi:  43.4636, 1.83931, -3.12896
+Tight id and Isolated reco muon, px,py,pz:  -43.4601, -0.549237, 133.286
+Tight id and Isolated reco muon, pt,eta,phi:  49.3985, 1.36024, 0.25416
+Tight id and Isolated reco muon, px,py,pz:  47.8116, 12.4204, 89.9183
+Num of L3OI muon cands: 1
+L3 OI cand pt, eta, phi:  43.4818  :  1.83932  : -3.12894
+Begin processing the 10th record. Run 1, Event 134455476, LumiSection 52267 at 24-Mar-2018 08:48:00.967 CDT
+total number of seeds in this event: 0
+L2 Muon pt,eta, phi:   41.3797 , 1.25859 , -0.480714
+L2 Muon px,py, pz:   36.69 , -19.1345 , 66.9604
+TSOS IP:position->  (-0.0266904,0.0641736,-0.303727) 
+TSOS IP:momentum->  (36.69,-19.1345,66.9604) 
+TSOS mu Station:position->  (400.776,-182.477,712.812) 
+TSOS mu station :momentum->  (39.2135,-16.8164,69.174) 
+	Number of Compatible hits TEC(TSOSIP):   6
+	Number of Compatible hits TEC (TSOSmuS): 0
+	Number of Compatible hits TEB (TSOSIP): 3
+	Number of Compatible hits TEB (TSOSMuS): 0
+      Number of hitless seeds: 5
+      Number of hitbased seeds: 3
+total num of seeds made:  8
+L2 Muon pt,eta, phi:   41.3203 , 0.979214 , 2.66664
+L2 Muon px,py, pz:   -36.7467 , 18.8956 , 47.2447
+TSOS IP:position->  (-0.0229121,0.0686916,5.58139) 
+TSOS IP:momentum->  (-36.7467,18.8956,47.2447) 
+TSOS mu Station:position->  (-357.236,208.599,478.352) 
+TSOS mu station :momentum->  (-32.326,20.2749,43.5331) 
+	Number of Compatible hits TEC(TSOSIP):   2
+	Number of Compatible hits TEC (TSOSmuS): 0
+	Number of Compatible hits TEB (TSOSIP): 6
+	Number of Compatible hits TEB (TSOSMuS): 0
+      Number of hitless seeds: 2
+      Number of hitbased seeds: 6
+total num of seeds made:  8
+total number of seeds in this event: 16
+gen muon found: pt: 45.3105 eta: 0.982051 phi: 2.66209
+gen muon found: pt: 42.611 eta: 1.25282 phi: -0.479914
+rec::Track muon   (recoMatched, pt,eta, phi)43.2601, 1.2528, -0.479976
+number of valid hits: 38
+number of  recHits : 20
+number of tracker hits:  12
+number of muon system hits: 8
+number of TOBTEC hits:  6
+number of TOB hits:  2
+number of TEC hits:  4
+rec::Track muon   (recoMatched, pt,eta, phi)44.7662, 0.982047, 2.66205
+number of valid hits: 40
+number of  recHits : 24
+number of tracker hits:  16
+number of muon system hits: 8
+number of TOBTEC hits:  4
+number of TOB hits:  4
+number of TEC hits:  0
+Tight id and Isolated reco muon, pt,eta,phi:  43.3716, 1.2528, -0.479947
+Tight id and Isolated reco muon, px,py,pz:  38.4715, -20.0261, 69.7076
+Tight id and Isolated reco muon, pt,eta,phi:  44.7406, 0.982049, 2.66206
+Tight id and Isolated reco muon, px,py,pz:  -39.6943, 20.6418, 51.3483
+Num of L3OI muon cands: 1
+L3 OI cand pt, eta, phi:  43.1992  :  1.25296  : -0.480057
+Begin processing the 11th record. Run 1, Event 134456021, LumiSection 52267 at 24-Mar-2018 08:48:01.566 CDT
+total number of seeds in this event: 0
+%MSG-w Muon:  L3MuonProducer:hltL3NoFiltersNoVtxMuonsOIHit  24-Mar-2018 08:48:01 CDT Run: 1 Event: 134456021
+     Failed to load tracker track trajectory
+%MSG
+%MSG-w RecoMuon:  L3MuonProducer:hltL3NoFiltersNoVtxMuonsOIHit  24-Mar-2018 08:48:01 CDT Run: 1 Event: 134456021
+     Failed to load tracker track trajectory
+%MSG
+%MSG-w GlobalMuon:  L3MuonProducer:hltL3NoFiltersNoVtxMuonsOIHit  24-Mar-2018 08:48:01 CDT Run: 1 Event: 134456021
+     Failed to load tracker track trajectory
+%MSG
+%MSG-w GlobalTrajectoryBuilderBase:   L3MuonProducer:hltL3NoFiltersNoVtxMuonsOIHit 24-Mar-2018 08:48:01 CDT  Run: 1 Event: 134456021
+     Failed to load tracker track trajectory
+%MSG
+L2 Muon pt,eta, phi:   37.0279 , -0.568266 , -1.57917
+L2 Muon px,py, pz:   -0.309965 , -37.0266 , -22.1926
+TSOS IP:position->  (-0.0231075,0.0692422,0.904889) 
+TSOS IP:momentum->  (-0.309965,-37.0266,-22.1926) 
+TSOS mu Station:position->  (21.7969,-413.675,-247.569) 
+TSOS mu station :momentum->  (3.09144,-33.4747,-20.1537) 
+	Number of Compatible hits TEC(TSOSIP):   0
+	Number of Compatible hits TEC (TSOSmuS): 0
+	Number of Compatible hits TEB (TSOSIP): 5
+	Number of Compatible hits TEB (TSOSMuS): 0
+      Number of hitless seeds: 2
+      Number of hitbased seeds: 5
+total num of seeds made:  7
+L2 Muon pt,eta, phi:   27.0821 , -2.0319 , 1.58102
+L2 Muon px,py, pz:   -0.276828 , 27.0806 , -101.524
+TSOS IP:position->  (-0.0232645,0.146337,41.0377) 
+TSOS IP:momentum->  (-0.276828,27.0806,-101.524) 
+TSOS mu Station:position->  (7.97456,197.818,-587.579) 
+TSOS mu station :momentum->  (1.44061,15.7759,-85.1655) 
+	Number of Compatible hits TEC(TSOSIP):   6
+	Number of Compatible hits TEC (TSOSmuS): 3
+	Number of Compatible hits TEB (TSOSIP): 0
+	Number of Compatible hits TEB (TSOSMuS): 0
+      Number of hitless seeds: 3
+      Number of hitbased seeds: 9
+total num of seeds made:  12
+total number of seeds in this event: 19
+gen muon found: pt: 36.2396 eta: -1.98463 phi: 1.55515
+gen muon found: pt: 35.9171 eta: -0.575303 phi: -1.57979
+rec::Track muon   (recoMatched, pt,eta, phi)34.8211, -1.98475, 1.55537
+number of valid hits: 43
+number of  recHits : 28
+number of tracker hits:  25
+number of muon system hits: 3
+number of TOBTEC hits:  16
+number of TOB hits:  0
+number of TEC hits:  16
+rec::Track muon   (recoMatched, pt,eta, phi)36.4324, -0.576292, -1.57961
+number of valid hits: 62
+number of  recHits : 26
+number of tracker hits:  16
+number of muon system hits: 10
+number of TOBTEC hits:  7
+number of TOB hits:  7
+number of TEC hits:  0
+Tight id and Isolated reco muon, pt,eta,phi:  34.96, -1.98475, 1.55536
+Tight id and Isolated reco muon, px,py,pz:  0.539467, 34.9558, -124.804
+Tight id and Isolated reco muon, pt,eta,phi:  36.4201, -0.576259, -1.57961
+Tight id and Isolated reco muon, px,py,pz:  -0.320943, -36.4187, -22.1684
+Num of L3OI muon cands: 1
+L3 OI cand pt, eta, phi:  35.9785  :  -1.9845  : 1.55512
+Begin processing the 12th record. Run 1, Event 134456864, LumiSection 52267 at 24-Mar-2018 08:48:02.090 CDT
+total number of seeds in this event: 0
+L2 Muon pt,eta, phi:   68.286 , -2.07347 , 2.4369
+L2 Muon px,py, pz:   -52.0212 , 44.2355 , -267.224
+TSOS IP:position->  (-0.0314252,0.0575525,-1.08665) 
+TSOS IP:momentum->  (-52.0212,44.2355,-267.224) 
+TSOS mu Station:position->  (-121.097,100.589,-616.968) 
+TSOS mu station :momentum->  (-46.6547,38.1036,-235.507) 
+	Number of Compatible hits TEC(TSOSIP):   6
+	Number of Compatible hits TEC (TSOSmuS): 3
+	Number of Compatible hits TEB (TSOSIP): 0
+	Number of Compatible hits TEB (TSOSMuS): 0
+      Number of hitless seeds: 5
+      Number of hitbased seeds: 9
+total num of seeds made:  14
+L2 Muon pt,eta, phi:   47.6313 , -1.15003 , -0.761782
+L2 Muon px,py, pz:   34.4664 , -32.8757 , -67.6759
+TSOS IP:position->  (-0.03143,0.0616692,1.38037) 
+TSOS IP:momentum->  (34.4664,-32.8757,-67.6759) 
+TSOS mu Station:position->  (295.401,-307.121,-604.367) 
+TSOS mu station :momentum->  (26.7501,-28.8618,-55.976) 
+	Number of Compatible hits TEC(TSOSIP):   4
+	Number of Compatible hits TEC (TSOSmuS): 0
+	Number of Compatible hits TEB (TSOSIP): 5
+	Number of Compatible hits TEB (TSOSMuS): 0
+      Number of hitless seeds: 5
+      Number of hitbased seeds: 5
+total num of seeds made:  10
+total number of seeds in this event: 24
+gen muon found: pt: 40.4079 eta: -1.15179 phi: -0.75457
+gen muon found: pt: 41.1634 eta: -2.08259 phi: 2.42957
+rec::Track muon   (recoMatched, pt,eta, phi)42.2121, -2.08272, 2.42957
+number of valid hits: 51
+number of  recHits : 31
+number of tracker hits:  27
+number of muon system hits: 4
+number of TOBTEC hits:  18
+number of TOB hits:  0
+number of TEC hits:  18
+rec::Track muon   (recoMatched, pt,eta, phi)40.0574, -1.15182, -0.754436
+number of valid hits: 32
+number of  recHits : 17
+number of tracker hits:  12
+number of muon system hits: 5
+number of TOBTEC hits:  6
+number of TOB hits:  4
+number of TEC hits:  2
+Tight id and Isolated reco muon, pt,eta,phi:  41.9565, -2.08273, 2.42956
+Tight id and Isolated reco muon, px,py,pz:  -31.7625, 27.4133, -165.765
+Tight id and Isolated reco muon, pt,eta,phi:  40.0628, -1.15179, -0.754439
+Tight id and Isolated reco muon, px,py,pz:  29.192, -27.4382, -57.045
+Num of L3OI muon cands: 1
+L3 OI cand pt, eta, phi:  42.5055  :  -2.08268  : 2.42959
+Begin processing the 13th record. Run 1, Event 134459216, LumiSection 52268 at 24-Mar-2018 08:48:02.499 CDT
+total number of seeds in this event: 0
+L2 Muon pt,eta, phi:   40.9269 , -0.078347 , -0.505179
+L2 Muon px,py, pz:   35.8146 , -19.8072 , -3.20978
+TSOS IP:position->  (-0.0251798,0.0687192,-1.52736) 
+TSOS IP:momentum->  (35.8146,-19.8072,-3.20978) 
+TSOS mu Station:position->  (350.5,-220.266,-33.9501) 
+TSOS mu station :momentum->  (31.1228,-21.1372,-2.93494) 
+	Number of Compatible hits TEC(TSOSIP):   0
+	Number of Compatible hits TEC (TSOSmuS): 0
+	Number of Compatible hits TEB (TSOSIP): 6
+	Number of Compatible hits TEB (TSOSMuS): 0
+      Number of hitless seeds: 3
+      Number of hitbased seeds: 6
+total num of seeds made:  9
+L2 Muon pt,eta, phi:   43.2695 , 0.732244 , 2.91512
+L2 Muon px,py, pz:   -42.1646 , 9.71562 , 34.5921
+TSOS IP:position->  (0.00512078,0.264453,3.29937) 
+TSOS IP:momentum->  (-42.1646,9.71562,34.5921) 
+TSOS mu Station:position->  (-512.385,87.4817,418.143) 
+TSOS mu station :momentum->  (-5805.98,871.818,4697.43) 
+	Number of Compatible hits TEC(TSOSIP):   3
+	Number of Compatible hits TEC (TSOSmuS): 0
+	Number of Compatible hits TEB (TSOSIP): 5
+	Number of Compatible hits TEB (TSOSMuS): 0
+      Number of hitless seeds: 2
+      Number of hitbased seeds: 8
+total num of seeds made:  10
+total number of seeds in this event: 19
+gen muon found: pt: 40.6323 eta: -0.0812285 phi: -0.505741
+gen muon found: pt: 42.6099 eta: 0.739397 phi: 2.91418
+rec::Track muon   (recoMatched, pt,eta, phi)40.4392, -0.0805288, -0.505741
+number of valid hits: 64
+number of  recHits : 26
+number of tracker hits:  17
+number of muon system hits: 9
+number of TOBTEC hits:  7
+number of TOB hits:  7
+number of TEC hits:  0
+rec::Track muon   (recoMatched, pt,eta, phi)42.0193, 0.74017, 2.91407
+number of valid hits: 34
+number of  recHits : 20
+number of tracker hits:  16
+number of muon system hits: 4
+number of TOBTEC hits:  8
+number of TOB hits:  8
+number of TEC hits:  0
+Tight id and Isolated reco muon, pt,eta,phi:  40.3947, -0.0805899, -0.505733
+Tight id and Isolated reco muon, px,py,pz:  35.3381, -19.5692, -3.25893
+Tight id and Isolated reco muon, pt,eta,phi:  41.9666, 0.740202, 2.91406
+Tight id and Isolated reco muon, px,py,pz:  -40.8849, 9.46657, 33.9791
+Num of L3OI muon cands: 1
+L3 OI cand pt, eta, phi:  40.341  :  -0.0805777  : -0.505703
