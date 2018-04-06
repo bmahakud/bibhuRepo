@@ -1,0 +1,486 @@
+	Begin processing the 1st record. Run 1, Event 4307443, LumiSection 1675 at 06-Apr-2018 11:32:54.158 CDT
+L2 Muon pt,eta, phi:   2299.14 , 1.20792 , -1.78967
+L2 Muon px,py, pz:   -499.224 , -2244.29 , 3503.56
+TSOS IP:position->  (-0.0283939,0.0677327,-3.38932) 
+TSOS IP:momentum->  (-499.224,-2244.29,3503.56) 
+TSOS mu Station:position->  (-113.205,-511.118,793.2) 
+TSOS mu station :momentum->  (-504.661,-2281.3,3608.68) 
+      Number of hitless seeds: 10
+      Number of hitbased seeds: 13
+Total num of seeds made:  23
+L2 Muon pt,eta, phi:   27.3351 , -1.03673 , 0.849959
+L2 Muon px,py, pz:   18.0416 , 20.5356 , -33.6955
+TSOS IP:position->  (-0.0252803,0.0691701,-0.142921) 
+TSOS IP:momentum->  (18.0416,20.5356,-33.6955) 
+TSOS mu Station:position->  (248.647,334.115,-513.831) 
+TSOS mu station :momentum->  (13.6814,20.2677,-30.126) 
+      Number of hitless seeds: 6
+      Number of hitbased seeds: 14
+Total num of seeds made:  20
+gen muon found: pt: 26.7195 eta: 1.20419 phi: -1.70326
+gen muon found: pt: 27.7093 eta: -1.04093 phi: 0.854749
+reco::Track muon pt,eta,phi28.4927, -1.04066, 0.855028
+Offline RecHit RawID:   436228310
+Offline RecHit LayerNumber:   1
+Offline RecHit GP:   (41.074,45.9615,-80.4705) 
+Offline RecHit RawID:   436228309
+Offline RecHit LayerNumber:   1
+Offline RecHit GP:   (41.3624,46.2843,-80.4704) 
+Offline RecHit RawID:   436244725
+Offline RecHit LayerNumber:   2
+Offline RecHit GP:   (46.1862,49.8068,-82.2417) 
+Offline RecHit RawID:   436244726
+Offline RecHit LayerNumber:   2
+Offline RecHit GP:   (46.4802,50.124,-82.2411) 
+Offline RecHit RawID:   436261144
+Offline RecHit LayerNumber:   3
+Offline RecHit GP:   (46.1411,61.2999,-98.9811) 
+Offline RecHit RawID:   436277560
+Offline RecHit LayerNumber:   4
+Offline RecHit GP:   (55.0304,64.6145,-98.9819) 
+reco::Track muon pt,eta,phi26.5475, 1.20423, -1.70322
+Offline RecHit RawID:   436233206
+Offline RecHit LayerNumber:   1
+Offline RecHit GP:   (-7.76918,-59.0158,82.2426) 
+Offline RecHit RawID:   470312900
+Offline RecHit WheelNumber:   1
+Offline RecHit GP:   (-13.7154,-80.7262,129.604) 
+Offline RecHit RawID:   470329316
+Offline RecHit WheelNumber:   2
+Offline RecHit GP:   (-15.4969,-97.8494,141.719) 
+Offline RecHit RawID:   470345700
+Offline RecHit WheelNumber:   3
+Offline RecHit GP:   (-15.4972,-97.8504,155.716) 
+Tight id and Isolated reco muon, pt,eta,phi:  28.1962, -1.04066, 0.854977
+Tight id and Isolated reco muon, px,py,pz:  18.5034, 21.2756, -34.9333
+Tight id and Isolated reco muon, pt,eta,phi:  26.5394, 1.20423, -1.70322
+Tight id and Isolated reco muon, px,py,pz:  -3.50425, -26.307, 40.2637
+Num of L3OI muon cands: 1
+L3 OI cand pt, eta, phi:  28.2286  :  -1.04059  : 0.855021
+06-Apr-2018 11:32:58 CDT  Closed file root://cmsxrootd.fnal.gov//store/mc/RunIISummer17DRStdmix/DYJetsToLL_M-50_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/GEN-SIM-RAW/NZSFlatPU28to62_92X_upgrade2017_realistic_v10_ext1-v1/20003/60D28D77-88C9-E711-BD81-1866DA87F44A.root
+06-Apr-2018 11:32:58 CDT  Initiating request to open file root://cmsxrootd.fnal.gov//store/mc/RunIISummer17DRStdmix/DYJetsToLL_M-50_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/GEN-SIM-RAW/NZSFlatPU28to62_92X_upgrade2017_realistic_v10_ext1-v1/20003/B2845755-C3C9-E711-8907-1866DA852F52.root
+%MSG-w XrdAdaptor:  source 06-Apr-2018 11:33:32 CDT PostGlobalEndLumi
+Data is served from T2_FR_CCIN2P3 instead of original site T1_US_FNAL
+%MSG
+06-Apr-2018 11:33:32 CDT  Successfully opened file root://cmsxrootd.fnal.gov//store/mc/RunIISummer17DRStdmix/DYJetsToLL_M-50_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/GEN-SIM-RAW/NZSFlatPU28to62_92X_upgrade2017_realistic_v10_ext1-v1/20003/B2845755-C3C9-E711-8907-1866DA852F52.root
+Begin processing the 2nd record. Run 1, Event 4296721, LumiSection 1671 at 06-Apr-2018 11:33:55.387 CDT
+L2 Muon pt,eta, phi:   39.1419 , -1.33234 , 1.35612
+L2 Muon px,py, pz:   8.33835 , 38.2434 , -69.0081
+TSOS IP:position->  (-0.0240417,0.0703035,2.62354) 
+TSOS IP:momentum->  (8.33835,38.2434,-69.0081) 
+TSOS mu Station:position->  (65.7712,400.272,-712.887) 
+TSOS mu station :momentum->  (5.27109,37.4816,-66.9333) 
+      Number of hitless seeds: 12
+      Number of hitbased seeds: 6
+Total num of seeds made:  18
+L2 Muon pt,eta, phi:   37.8932 , -1.23251 , -1.38938
+L2 Muon px,py, pz:   6.83685 , -37.2714 , -59.4598
+TSOS IP:position->  (-0.0254412,0.0715267,-3.38453) 
+TSOS IP:momentum->  (6.83685,-37.2714,-59.4598) 
+TSOS mu Station:position->  (55.8034,-448.819,-712.962) 
+TSOS mu station :momentum->  (3.61665,-35.2313,-55.3369) 
+      Number of hitless seeds: 10
+      Number of hitbased seeds: 6
+Total num of seeds made:  16
+gen muon found: pt: 46.3133 eta: -1.23708 phi: -1.39665
+gen muon found: pt: 46.0708 eta: -1.32798 phi: 1.36627
+reco::Track muon pt,eta,phi46.251, -1.23708, -1.39683
+Offline RecHit RawID:   436229178
+Offline RecHit LayerNumber:   1
+Offline RecHit GP:   (9.97115,-58.6837,-98.9821) 
+Offline RecHit RawID:   436229177
+Offline RecHit LayerNumber:   1
+Offline RecHit GP:   (10.0434,-59.1104,-98.9806) 
+Offline RecHit RawID:   470067172
+Offline RecHit WheelNumber:   2
+Offline RecHit GP:   (15.495,-97.8343,-141.721) 
+Offline RecHit RawID:   470083556
+Offline RecHit WheelNumber:   3
+Offline RecHit GP:   (15.4976,-97.8483,-155.72) 
+Offline RecHit RawID:   470099940
+Offline RecHit WheelNumber:   4
+Offline RecHit GP:   (15.4967,-97.8426,-169.714) 
+reco::Track muon pt,eta,phi46.8307, -1.32802, 1.3664
+Offline RecHit RawID:   470049744
+Offline RecHit WheelNumber:   1
+Offline RecHit GP:   (13.7147,80.718,-130.105) 
+Offline RecHit RawID:   470082548
+Offline RecHit WheelNumber:   3
+Offline RecHit GP:   (15.498,97.849,-155.716) 
+Offline RecHit RawID:   470082512
+Offline RecHit WheelNumber:   3
+Offline RecHit GP:   (13.7155,80.7221,-158.101) 
+Offline RecHit RawID:   470098932
+Offline RecHit WheelNumber:   4
+Offline RecHit GP:   (15.4964,97.8375,-169.718) 
+Offline RecHit RawID:   470115316
+Offline RecHit WheelNumber:   5
+Offline RecHit GP:   (15.4966,97.8393,-183.716) 
+Tight id and Isolated reco muon, pt,eta,phi:  46.4128, -1.23708, -1.39684
+Tight id and Isolated reco muon, px,py,pz:  8.03307, -45.7123, -73.2237
+Tight id and Isolated reco muon, pt,eta,phi:  46.6521, -1.32801, 1.36639
+Tight id and Isolated reco muon, px,py,pz:  9.46975, 45.6809, -81.84
+Num of L3OI muon cands: 1
+L3 OI cand pt, eta, phi:  46.0055  :  -1.23705  : -1.39681
+Begin processing the 3rd record. Run 1, Event 4297645, LumiSection 1671 at 06-Apr-2018 11:33:58.201 CDT
+L2 Muon pt,eta, phi:   16.4013 , -1.65416 , 1.94534
+L2 Muon px,py, pz:   -6.00044 , 15.2643 , -41.3101
+TSOS IP:position->  (-0.0332523,0.0885501,20.8543) 
+TSOS IP:momentum->  (-6.00044,15.2643,-41.3101) 
+TSOS mu Station:position->  (-130.824,258.757,-712.958) 
+TSOS mu station :momentum->  (-6.99035,11.9557,-40.8341) 
+      Number of hitless seeds: 15
+      Number of hitbased seeds: 40
+Total num of seeds made:  55
+L2 Muon pt,eta, phi:   428.394 , -2.05549 , 2.73153
+L2 Muon px,py, pz:   -392.877 , 170.788 , -1645.6
+TSOS IP:position->  (-0.0290106,0.0668153,2.87255) 
+TSOS IP:momentum->  (-392.877,170.788,-1645.6) 
+TSOS mu Station:position->  (-201.4,88.186,-840.93) 
+TSOS mu station :momentum->  (-1872.04,821.016,-7919.3) 
+      Number of hitless seeds: 18
+      Number of hitbased seeds: 54
+Total num of seeds made:  72
+gen muon found: pt: 125.952 eta: -1.68275 phi: 2.05863
+gen muon found: pt: 116.511 eta: -2.05651 phi: 2.721
+reco::Track muon pt,eta,phi120.194, -2.05674, 2.72106
+Offline RecHit RawID:   470045766
+Offline RecHit WheelNumber:   1
+Offline RecHit GP:   (-33.9137,14.0477,-137.039) 
+Offline RecHit RawID:   470045765
+Offline RecHit WheelNumber:   1
+Offline RecHit GP:   (-33.9214,14.0319,-137.369) 
+Offline RecHit RawID:   470062184
+Offline RecHit WheelNumber:   2
+Offline RecHit GP:   (-39.8643,20.3119,-148.812) 
+Offline RecHit RawID:   470062150
+Offline RecHit WheelNumber:   2
+Offline RecHit GP:   (-33.9143,14.048,-151.039) 
+Offline RecHit RawID:   470062149
+Offline RecHit WheelNumber:   2
+Offline RecHit GP:   (-33.9212,14.032,-151.367) 
+Offline RecHit RawID:   470078568
+Offline RecHit WheelNumber:   3
+Offline RecHit GP:   (-39.8652,20.3124,-162.811) 
+Offline RecHit RawID:   470094952
+Offline RecHit WheelNumber:   4
+Offline RecHit GP:   (-39.8666,20.3132,-176.81) 
+Offline RecHit RawID:   470111368
+Offline RecHit WheelNumber:   5
+Offline RecHit GP:   (-51.9031,21.499,-192.838) 
+Offline RecHit RawID:   470127752
+Offline RecHit WheelNumber:   6
+Offline RecHit GP:   (-51.9016,21.4984,-210.335) 
+Offline RecHit RawID:   470144136
+Offline RecHit WheelNumber:   7
+Offline RecHit GP:   (-51.9057,21.5,-229.335) 
+Offline RecHit RawID:   470160553
+Offline RecHit WheelNumber:   8
+Offline RecHit GP:   (-62.529,25.9278,-247.307) 
+Offline RecHit RawID:   470160554
+Offline RecHit WheelNumber:   8
+Offline RecHit GP:   (-62.5356,25.9032,-247.62) 
+Offline RecHit RawID:   470176937
+Offline RecHit WheelNumber:   9
+Offline RecHit GP:   (-62.5298,25.9279,-268.804) 
+Offline RecHit RawID:   470176938
+Offline RecHit WheelNumber:   9
+Offline RecHit GP:   (-62.5362,25.9035,-269.113) 
+reco::Track muon pt,eta,phi150.881, -1.68269, 2.05833
+Offline RecHit RawID:   470045572
+Offline RecHit WheelNumber:   1
+Offline RecHit GP:   (-27.1736,49.1672,-137.343) 
+Offline RecHit RawID:   470061956
+Offline RecHit WheelNumber:   2
+Offline RecHit GP:   (-27.1737,49.1668,-151.341) 
+Offline RecHit RawID:   470078373
+Offline RecHit WheelNumber:   3
+Offline RecHit GP:   (-35.3467,57.7294,-161.578) 
+Offline RecHit RawID:   470078374
+Offline RecHit WheelNumber:   3
+Offline RecHit GP:   (-35.3666,57.7134,-161.891) 
+Offline RecHit RawID:   470094757
+Offline RecHit WheelNumber:   4
+Offline RecHit GP:   (-35.3458,57.7283,-175.577) 
+Offline RecHit RawID:   470094758
+Offline RecHit WheelNumber:   4
+Offline RecHit GP:   (-35.3675,57.7147,-175.889) 
+Offline RecHit RawID:   470111141
+Offline RecHit WheelNumber:   5
+Offline RecHit GP:   (-35.3469,57.7296,-189.575) 
+Offline RecHit RawID:   470111142
+Offline RecHit WheelNumber:   5
+Offline RecHit GP:   (-35.3683,57.716,-189.887) 
+Offline RecHit RawID:   470111172
+Offline RecHit WheelNumber:   5
+Offline RecHit GP:   (-39.6087,71.667,-193.263) 
+Offline RecHit RawID:   470127556
+Offline RecHit WheelNumber:   6
+Offline RecHit GP:   (-39.6083,71.666,-210.76) 
+Offline RecHit RawID:   470143940
+Offline RecHit WheelNumber:   7
+Offline RecHit GP:   (-39.6065,71.6623,-229.758) 
+Offline RecHit RawID:   470160360
+Offline RecHit WheelNumber:   8
+Offline RecHit GP:   (-44.9794,88.2769,-247.37) 
+Offline RecHit RawID:   470176744
+Offline RecHit WheelNumber:   9
+Offline RecHit GP:   (-44.9845,88.2868,-268.871) 
+Tight id and Isolated reco muon, pt,eta,phi:  119.699, -2.05674, 2.72106
+Tight id and Isolated reco muon, px,py,pz:  -109.269, 48.8672, -460.395
+Tight id and Isolated reco muon, pt,eta,phi:  127.466, -1.68266, 2.05863
+Tight id and Isolated reco muon, px,py,pz:  -59.745, 112.597, -331.028
+Num of L3OI muon cands: 1
+L3 OI cand pt, eta, phi:  122.979  :  -2.05667  : 2.72115
+Begin processing the 4th record. Run 1, Event 4297819, LumiSection 1671 at 06-Apr-2018 11:34:02.317 CDT
+L2 Muon pt,eta, phi:   41.6916 , -1.40766 , -2.21594
+L2 Muon px,py, pz:   -25.0697 , -33.3122 , -80.0825
+TSOS IP:position->  (-0.0301533,0.0754039,-1.79699) 
+TSOS IP:momentum->  (-25.0697,-33.3122,-80.0825) 
+TSOS mu Station:position->  (-225.8,-274.909,-685.23) 
+TSOS mu station :momentum->  (-23.055,-26.8662,-67.883) 
+      Number of hitless seeds: 12
+      Number of hitbased seeds: 0
+Total num of seeds made:  12
+L2 Muon pt,eta, phi:   35.1664 , -1.50411 , 0.834696
+L2 Muon px,py, pz:   23.6108 , 26.0616 , -75.2199
+TSOS IP:position->  (-0.0126313,0.0577108,-0.173938) 
+TSOS IP:momentum->  (23.6108,26.0616,-75.2199) 
+TSOS mu Station:position->  (203.106,247.72,-685.402) 
+TSOS mu station :momentum->  (24.7791,32.3883,-87.2224) 
+      Number of hitless seeds: 15
+      Number of hitbased seeds: 0
+Total num of seeds made:  15
+gen muon found: pt: 50.0855 eta: -1.40633 phi: -2.22144
+gen muon found: pt: 39.0231 eta: -1.49958 phi: 0.840053
+reco::Track muon pt,eta,phi50.1605, -1.40654, -2.22143
+Offline RecHit RawID:   470050469
+Offline RecHit WheelNumber:   1
+Offline RecHit GP:   (-43.9796,-51.4537,-127.15) 
+Offline RecHit RawID:   470050470
+Offline RecHit WheelNumber:   1
+Offline RecHit GP:   (-43.96,-51.4705,-127.463) 
+Offline RecHit RawID:   470066853
+Offline RecHit WheelNumber:   2
+Offline RecHit GP:   (-43.9792,-51.4531,-141.149) 
+Offline RecHit RawID:   470066854
+Offline RecHit WheelNumber:   2
+Offline RecHit GP:   (-43.9594,-51.4698,-141.461) 
+Offline RecHit RawID:   470083268
+Offline RecHit WheelNumber:   3
+Offline RecHit GP:   (-47.3851,-66.7826,-157.601) 
+Offline RecHit RawID:   470099684
+Offline RecHit WheelNumber:   4
+Offline RecHit GP:   (-58.2285,-80.1439,-169.713) 
+Offline RecHit RawID:   470099652
+Offline RecHit WheelNumber:   4
+Offline RecHit GP:   (-47.3841,-66.7815,-171.599) 
+Offline RecHit RawID:   470116068
+Offline RecHit WheelNumber:   5
+Offline RecHit GP:   (-58.2299,-80.1464,-183.709) 
+Offline RecHit RawID:   470116036
+Offline RecHit WheelNumber:   5
+Offline RecHit GP:   (-47.3823,-66.7786,-185.596) 
+Offline RecHit RawID:   470132452
+Offline RecHit WheelNumber:   6
+Offline RecHit GP:   (-58.2293,-80.1456,-201.207) 
+reco::Track muon pt,eta,phi39.15, -1.49967, 0.840364
+Offline RecHit RawID:   470049416
+Offline RecHit WheelNumber:   1
+Offline RecHit GP:   (37.4353,41.89,-130.177) 
+Offline RecHit RawID:   470065829
+Offline RecHit WheelNumber:   2
+Offline RecHit GP:   (43.9791,51.453,-141.15) 
+Offline RecHit RawID:   470065830
+Offline RecHit WheelNumber:   2
+Offline RecHit GP:   (43.9601,51.4707,-141.463) 
+Offline RecHit RawID:   470082213
+Offline RecHit WheelNumber:   3
+Offline RecHit GP:   (43.9803,51.4549,-155.148) 
+Offline RecHit RawID:   470082214
+Offline RecHit WheelNumber:   3
+Offline RecHit GP:   (43.961,51.4715,-155.461) 
+Offline RecHit RawID:   470082248
+Offline RecHit WheelNumber:   3
+Offline RecHit GP:   (54.5564,61.0482,-158.102) 
+Offline RecHit RawID:   470098632
+Offline RecHit WheelNumber:   4
+Offline RecHit GP:   (54.5589,61.0511,-172.099) 
+Offline RecHit RawID:   470115016
+Offline RecHit WheelNumber:   5
+Offline RecHit GP:   (54.5629,61.0558,-186.099) 
+Offline RecHit RawID:   470131432
+Offline RecHit WheelNumber:   6
+Offline RecHit GP:   (64.3386,75.3306,-200.713) 
+Offline RecHit RawID:   470147816
+Offline RecHit WheelNumber:   7
+Offline RecHit GP:   (64.3425,75.3349,-219.713) 
+Tight id and Isolated reco muon, pt,eta,phi:  50.116, -1.40655, -2.22143
+Tight id and Isolated reco muon, px,py,pz:  -30.3547, -39.8774, -96.1443
+Tight id and Isolated reco muon, pt,eta,phi:  39.023, -1.49968, 0.840347
+Tight id and Isolated reco muon, px,py,pz:  26.0363, 29.0673, -83.0619
+Num of L3OI muon cands: 1
+L3 OI cand pt, eta, phi:  50.3134  :  -1.40652  : -2.2215
+Begin processing the 5th record. Run 1, Event 4298320, LumiSection 1671 at 06-Apr-2018 11:34:06.175 CDT
+L2 Muon pt,eta, phi:   40.2333 , -1.25913 , 1.85964
+L2 Muon px,py, pz:   -11.4603 , 38.5666 , -65.1465
+TSOS IP:position->  (-0.0322273,0.0695546,4.68361) 
+TSOS IP:momentum->  (-11.4603,38.5666,-65.1465) 
+TSOS mu Station:position->  (-141.462,401.384,-685.172) 
+TSOS mu station :momentum->  (-11.6089,31.1539,-54.1574) 
+      Number of hitless seeds: 10
+      Number of hitbased seeds: 12
+Total num of seeds made:  22
+L2 Muon pt,eta, phi:   28.2215 , -2.16646 , -1.29067
+L2 Muon px,py, pz:   7.80273 , -27.1215 , -121.532
+TSOS IP:position->  (-0.0224228,0.0648771,3.95506) 
+TSOS IP:momentum->  (7.80273,-27.1215,-121.532) 
+TSOS mu Station:position->  (36.0913,-139.579,-616.692) 
+TSOS mu station :momentum->  (10.2063,-43.3403,-192.538) 
+      Number of hitless seeds: 18
+      Number of hitbased seeds: 54
+Total num of seeds made:  72
+gen muon found: pt: 38.5774 eta: -2.16589 phi: -1.29894
+gen muon found: pt: 40.9205 eta: -1.26145 phi: 1.8603
+reco::Track muon pt,eta,phi40.5738, -1.26128, 1.86038
+Offline RecHit RawID:   436228538
+Offline RecHit LayerNumber:   1
+Offline RecHit GP:   (-18.6065,56.5426,-98.98) 
+Offline RecHit RawID:   436228537
+Offline RecHit LayerNumber:   1
+Offline RecHit GP:   (-18.7418,56.9536,-98.9827) 
+Offline RecHit RawID:   436244985
+Offline RecHit LayerNumber:   2
+Offline RecHit GP:   (-19.7203,63.8647,-98.9815) 
+Offline RecHit RawID:   436244986
+Offline RecHit LayerNumber:   2
+Offline RecHit GP:   (-19.8479,64.2784,-98.9814) 
+Offline RecHit RawID:   470045644
+Offline RecHit WheelNumber:   1
+Offline RecHit GP:   (-22.6674,78.6797,-137.269) 
+Offline RecHit RawID:   470062064
+Offline RecHit WheelNumber:   2
+Offline RecHit GP:   (-30.6115,94.212,-148.387) 
+Offline RecHit RawID:   470078448
+Offline RecHit WheelNumber:   3
+Offline RecHit GP:   (-30.6098,94.2062,-162.383) 
+reco::Track muon pt,eta,phi40.1696, -2.16573, -1.2992
+Offline RecHit RawID:   470062918
+Offline RecHit WheelNumber:   2
+Offline RecHit GP:   (13.8276,-33.2325,-150.995) 
+Offline RecHit RawID:   470062917
+Offline RecHit WheelNumber:   2
+Offline RecHit GP:   (14.0556,-33.8649,-151.38) 
+Offline RecHit RawID:   470079302
+Offline RecHit WheelNumber:   3
+Offline RecHit GP:   (14.0471,-33.9127,-165.036) 
+Offline RecHit RawID:   470079301
+Offline RecHit WheelNumber:   3
+Offline RecHit GP:   (14.0634,-33.9061,-165.366) 
+Offline RecHit RawID:   470095720
+Offline RecHit WheelNumber:   4
+Offline RecHit GP:   (13.8267,-42.5543,-176.809) 
+Offline RecHit RawID:   470112104
+Offline RecHit WheelNumber:   5
+Offline RecHit GP:   (13.8257,-42.551,-190.808) 
+Offline RecHit RawID:   470128488
+Offline RecHit WheelNumber:   6
+Offline RecHit GP:   (13.825,-42.5492,-208.305) 
+Offline RecHit RawID:   470144908
+Offline RecHit WheelNumber:   7
+Offline RecHit GP:   (15.5533,-53.9874,-229.831) 
+Offline RecHit RawID:   470161292
+Offline RecHit WheelNumber:   8
+Offline RecHit GP:   (15.5518,-53.9819,-250.327) 
+Offline RecHit RawID:   470177709
+Offline RecHit WheelNumber:   9
+Offline RecHit GP:   (15.7786,-65.8292,-268.061) 
+Offline RecHit RawID:   470177710
+Offline RecHit WheelNumber:   9
+Offline RecHit GP:   (15.8016,-65.8193,-268.374) 
+Tight id and Isolated reco muon, pt,eta,phi:  40.4797, -1.26128, 1.86037
+Tight id and Isolated reco muon, px,py,pz:  -11.5587, 38.7944, -65.7117
+Tight id and Isolated reco muon, pt,eta,phi:  39.6467, -2.16573, -1.29916
+Tight id and Isolated reco muon, px,py,pz:  10.6374, -38.1931, -170.605
+Num of L3OI muon cands: 1
+L3 OI cand pt, eta, phi:  40.7882  :  -1.26135  : 1.86044
+Begin processing the 6th record. Run 1, Event 4301079, LumiSection 1672 at 06-Apr-2018 11:34:09.772 CDT
+L2 Muon pt,eta, phi:   51.2282 , 1.18419 , 3.00407
+L2 Muon px,py, pz:   -50.7445 , 7.02285 , 75.8703
+TSOS IP:position->  (-0.0240688,0.0675473,2.61519) 
+TSOS IP:momentum->  (-50.7445,7.02285,75.8703) 
+TSOS mu Station:position->  (-413.675,39.9238,618.588) 
+TSOS mu station :momentum->  (-46.9898,3.57376,69.6486) 
+      Number of hitless seeds: 9
+      Number of hitbased seeds: 9
+Total num of seeds made:  18
+L2 Muon pt,eta, phi:   22.7682 , 1.98964 , 0.106276
+L2 Muon px,py, pz:   22.6398 , 2.41516 , 81.6943
+TSOS IP:position->  (-0.0269475,0.066254,2.74675) 
+TSOS IP:momentum->  (22.6398,2.41516,81.6943) 
+TSOS mu Station:position->  (170.717,11.5053,617.098) 
+TSOS mu station :momentum->  (21.3492,0.829343,76.1449) 
+      Number of hitless seeds: 18
+      Number of hitbased seeds: 51
+Total num of seeds made:  69
+gen muon found: pt: 55.1388 eta: 1.18114 phi: 3.00614
+gen muon found: pt: 34.1914 eta: 1.99005 phi: 0.0933022
+reco::Track muon pt,eta,phi33.4059, 1.99032, 0.0935618
+Offline RecHit RawID:   470311242
+Offline RecHit WheelNumber:   1
+Offline RecHit GP:   (36.3941,4.79168,129.873) 
+Offline RecHit RawID:   470311241
+Offline RecHit WheelNumber:   1
+Offline RecHit GP:   (36.3973,4.77455,130.202) 
+Offline RecHit RawID:   470327626
+Offline RecHit WheelNumber:   2
+Offline RecHit GP:   (36.3953,4.79187,143.872) 
+Offline RecHit RawID:   470327625
+Offline RecHit WheelNumber:   2
+Offline RecHit GP:   (36.3959,4.77428,144.201) 
+Offline RecHit RawID:   470360428
+Offline RecHit WheelNumber:   4
+Offline RecHit GP:   (44.1956,7.00043,169.143) 
+Offline RecHit RawID:   470376812
+Offline RecHit WheelNumber:   5
+Offline RecHit GP:   (44.1889,6.99941,183.141) 
+Offline RecHit RawID:   470376844
+Offline RecHit WheelNumber:   5
+Offline RecHit GP:   (56.0866,3.15025,185.67) 
+Offline RecHit RawID:   470393228
+Offline RecHit WheelNumber:   6
+Offline RecHit GP:   (56.0928,3.15065,203.168) 
+Offline RecHit RawID:   470409612
+Offline RecHit WheelNumber:   7
+Offline RecHit GP:   (56.0891,3.15059,222.166) 
+Offline RecHit RawID:   470426025
+Offline RecHit WheelNumber:   8
+Offline RecHit GP:   (67.4741,5.33688,239.402) 
+Offline RecHit RawID:   470426026
+Offline RecHit WheelNumber:   8
+Offline RecHit GP:   (67.4795,5.3115,239.714) 
+Offline RecHit RawID:   470442409
+Offline RecHit WheelNumber:   9
+Offline RecHit GP:   (67.4777,5.33701,260.904) 
+Offline RecHit RawID:   470442410
+Offline RecHit WheelNumber:   9
+Offline RecHit GP:   (67.4788,5.31138,261.218) 
+reco::Track muon pt,eta,phi54.0042, 1.18131, 3.00615
+Offline RecHit RawID:   436232890
+Offline RecHit LayerNumber:   1
+Offline RecHit GP:   (-58.3483,3.27588,98.9811) 
+Offline RecHit RawID:   470312388
+Offline RecHit WheelNumber:   1
+Offline RecHit GP:   (-80.7281,13.7157,129.601) 
+Offline RecHit RawID:   470328804
+Offline RecHit WheelNumber:   2
+Offline RecHit GP:   (-97.8404,15.4962,141.717) 
+Offline RecHit RawID:   470345188
+Offline RecHit WheelNumber:   3
+Offline RecHit GP:   (-97.8398,15.4957,155.716) 
+Tight id and Isolated reco muon, pt,eta,phi:  33.2699, 1.99032, 0.0935745
+Tight id and Isolated reco muon, px,py,pz:  33.1243, 3.10867, 119.459
+Tight id and Isolated reco muon, pt,eta,phi:  54.0042, 1.18131, 3.00615
+Tight id and Isolated reco muon, px,py,pz:  -53.5096, 7.29203, 79.7037
+Num of L3OI muon cands: 1
+L3 OI cand pt, eta, phi:  33.1716  :  1.99027  : 0.0935553
