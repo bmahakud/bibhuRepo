@@ -1,0 +1,1193 @@
+Begin processing the 6th record. Run 1, Event 4301079, LumiSection 1672 at 06-Apr-2018 11:07:55.936 CDT
+L2 Muon pt,eta, phi:   51.2282 , 1.18419 , 3.00407
+L2 Muon px,py, pz:   -50.7445 , 7.02285 , 75.8703
+TSOS IP:position->  (-0.0240688,0.0675473,2.61519) 
+TSOS IP:momentum->  (-50.7445,7.02285,75.8703) 
+TSOS mu Station:position->  (-413.675,39.9238,618.588) 
+TSOS mu station :momentum->  (-46.9898,3.57376,69.6486) 
+FindingHitbasedSeed---------------------------------------------------------------------with: TEBip
+Det size on this layer: --------  0
+FindingHitbasedSeed---------------------------------------------------------------------with: TEBip
+Det size on this layer: --------  0
+FindingHitbasedSeed---------------------------------------------------------------------with: TEBip
+Det size on this layer: --------  0
+FindingHitbasedSeed---------------------------------------------------------------------with: TEBip
+Det size on this layer: --------  0
+FindingHitbasedSeed---------------------------------------------------------------------with: TEBip
+Det size on this layer: --------  2
+RawID of this det: ------  436249336
+LayerNumber of this det: ----  2
+Propagated TSOS global position: ------   (-67.8518,8.92787,103.924) 
+------RecHit globalposition:  (-65.8709,17.6215,105.746) 
+------Estimate: 35.4129
+------RecHit globalposition:  (-66.6584,14.1732,90.8924) 
+------Estimate: 12.9247
+------RecHit globalposition:  (-65.8723,17.6222,93.7528) 
+------Estimate: 35.2029
+------RecHit globalposition:  (-67.1376,12.0659,97.8774) 
+------Estimate: 4.60104
+------RecHit globalposition:  (-67.1384,12.0663,91.0442) 
+------Estimate: 4.76656
+------RecHit globalposition:  (-67.1366,12.0654,107.022) 
+------Estimate: 4.65996
+------RecHit globalposition:  (-66.3913,15.3421,97.5157) 
+------Estimate: 19.1586
+RawID of this det: ------  436249368
+LayerNumber of this det: ----  2
+Propagated TSOS global position: ------   (-70.7822,9.28698,108.297) 
+------RecHit globalposition:  (-71.4038,2.65124,101.82) 
+------Estimate: 19.0335
+------RecHit globalposition:  (-71.2081,4.74765,97.1101) 
+------Estimate: 9.2069
+------RecHit globalposition:  (-71.2403,4.40965,92.2001) 
+------Estimate: 10.9134
+------RecHit globalposition:  (-71.063,6.29562,99.5629) 
+------Estimate: 4.05347
+------RecHit globalposition:  (-71.2079,4.74762,99.6071) 
+------Estimate: 9.07546
+------RecHit globalposition:  (-71.2394,4.40955,100.493) 
+------Estimate: 10.4034
+------RecHit globalposition:  (-70.6488,10.7182,103.125) 
+------Estimate: 0.90451
+------RecHit globalposition:  (-70.6882,10.3024,98.515) 
+------Estimate: 0.595859
+------RecHit globalposition:  (-70.6497,10.7183,94.3543) 
+------Estimate: 1.19154
+------RecHit globalposition:  (-71.0638,6.29571,91.6377) 
+------Estimate: 4.51774
+------RecHit globalposition:  (-71.2077,4.7476,100.806) 
+------Estimate: 9.02096
+------RecHit globalposition:  (-70.6493,10.7183,97.9542) 
+------Estimate: 1.03755
+------RecHit globalposition:  (-71.2392,4.40952,102.99) 
+------Estimate: 10.3022
+------RecHit globalposition:  (-70.7226,9.9265,105.875) 
+------Estimate: 0.181324
+------RecHit globalposition:  (-70.7043,10.1385,90.4745) 
+------Estimate: 0.880162
+------RecHit globalposition:  (-70.7432,9.70755,104.466) 
+------Estimate: 0.099117
+------RecHit globalposition:  (-70.7442,9.70766,94.7851) 
+------Estimate: 0.412808
+------RecHit globalposition:  (-70.703,10.1384,103.756) 
+------Estimate: 0.337898
+------RecHit globalposition:  (-70.6486,10.7182,104.844) 
+------Estimate: 0.8833
+------RecHit globalposition:  (-70.7229,9.92654,102.275) 
+------Estimate: 0.233247
+------RecHit globalposition:  (-70.6878,10.3024,102.115) 
+------Estimate: 0.495469
+------RecHit globalposition:  (-70.7033,10.1384,100.156) 
+------Estimate: 0.417156
+------RecHit globalposition:  (-71.2071,4.74753,107.126) 
+------Estimate: 8.82601
+------RecHit globalposition:  (-70.7428,9.7075,108.066) 
+------Estimate: 0.0753823
+------RecHit globalposition:  (-70.7239,9.92666,92.5941) 
+------Estimate: 0.622714
+------RecHit globalposition:  (-70.6872,10.3023,107.286) 
+------Estimate: 0.439403
+------RecHit globalposition:  (-71.239,4.4095,104.189) 
+------Estimate: 10.2622
+FindingHitbasedSeed---------------------------------------------------------------------with: TEBip
+Det size on this layer: --------  3
+RawID of this det: ------  436232888
+LayerNumber of this det: ----  1
+Propagated TSOS global position: ------   (-58.3151,7.74563,89.692) 
+------RecHit globalposition:  (-58.7726,-0.413507,102.204) 
+------Estimate: 36.4457
+------RecHit globalposition:  (-58.4564,5.21761,99.3016) 
+------Estimate: 3.59406
+------RecHit globalposition:  (-58.6563,1.65561,101.879) 
+------Estimate: 20.3675
+------RecHit globalposition:  (-58.3195,7.64406,107.305) 
+------Estimate: 0.572554
+------RecHit globalposition:  (-58.4111,6.03423,91.2292) 
+------Estimate: 1.60051
+------RecHit globalposition:  (-58.3761,6.64913,97.3697) 
+------Estimate: 0.742692
+RawID of this det: ------  436232884
+LayerNumber of this det: ----  1
+Propagated TSOS global position: ------   (-59.3935,7.88037,91.3016) 
+------RecHit globalposition:  (-59.8293,0.11474,85.1781) 
+------Estimate: 32.4365
+------RecHit globalposition:  (-59.7205,2.05642,84.6656) 
+------Estimate: 18.2903
+------RecHit globalposition:  (-59.6488,3.35037,73.3879) 
+------Estimate: 11.7961
+------RecHit globalposition:  (-59.6483,3.35031,79.9783) 
+------Estimate: 11.3533
+RawID of this det: ------  436232856
+LayerNumber of this det: ----  1
+Propagated TSOS global position: ------   (-61.4903,8.14156,94.4311) 
+------RecHit globalposition:  (-59.7982,16.2511,99.3029) 
+------Estimate: 35.0697
+------RecHit globalposition:  (-60.9804,10.5855,97.9491) 
+------Estimate: 3.22471
+------RecHit globalposition:  (-60.6102,12.3595,99.8479) 
+------Estimate: 9.58013
+------RecHit globalposition:  (-61.5047,8.07246,96.0581) 
+------Estimate: 0.00705442
+------RecHit globalposition:  (-60.9803,10.5856,95.3458) 
+------Estimate: 3.17957
+------RecHit globalposition:  (-61.168,9.68613,88.788) 
+------Estimate: 1.29141
+FindingHitbasedSeed---------------------------------------------------------------------with: TEBmus
+Det size on this layer: --------  0
+FindingHitbasedSeed---------------------------------------------------------------------with: TEBmus
+Det size on this layer: --------  0
+FindingHitbasedSeed---------------------------------------------------------------------with: TEBmus
+Det size on this layer: --------  0
+FindingHitbasedSeed---------------------------------------------------------------------with: TEBmus
+Det size on this layer: --------  0
+FindingHitbasedSeed---------------------------------------------------------------------with: TEBmus
+Det size on this layer: --------  0
+FindingHitbasedSeed---------------------------------------------------------------------with: TEBmus
+Det size on this layer: --------  2
+RawID of this det: ------  436232856
+LayerNumber of this det: ----  1
+Propagated TSOS global position: ------   (-61.533,7.9371,96.0157) 
+------RecHit globalposition:  (-59.7981,16.2515,99.3022) 
+------Estimate: 1.27073
+------RecHit globalposition:  (-60.9803,10.5859,97.9585) 
+------Estimate: 0.130907
+------RecHit globalposition:  (-60.6101,12.3599,99.8573) 
+------Estimate: 0.36827
+------RecHit globalposition:  (-61.5046,8.07286,96.0675) 
+------Estimate: 0.000338701
+------RecHit globalposition:  (-60.9802,10.586,95.3552) 
+------Estimate: 0.129384
+------RecHit globalposition:  (-61.1679,9.68653,88.7974) 
+------Estimate: 0.106466
+RawID of this det: ------  436232888
+LayerNumber of this det: ----  1
+Propagated TSOS global position: ------   (-58.327,7.53072,91.2409) 
+------RecHit globalposition:  (-58.8052,-0.986953,96.4823) 
+------Estimate: 1.28333
+------RecHit globalposition:  (-58.6563,1.65609,101.889) 
+------Estimate: 0.725544
+------RecHit globalposition:  (-58.7725,-0.413027,102.214) 
+------Estimate: 1.23206
+------RecHit globalposition:  (-58.4111,6.03471,91.2388) 
+------Estimate: 0.0379997
+------RecHit globalposition:  (-58.4564,5.21809,99.3014) 
+------Estimate: 0.15872
+------RecHit globalposition:  (-58.3761,6.64961,97.3794) 
+------Estimate: 0.0503695
+------RecHit globalposition:  (-58.3195,7.64454,107.315) 
+------Estimate: 0.231962
+FindingHitbasedSeed---------------------------------------------------------------------with: TECip
+Det size on this layer: --------  0
+FindingHitbasedSeed---------------------------------------------------------------------with: TECip
+Det size on this layer: --------  0
+FindingHitbasedSeed---------------------------------------------------------------------with: TECip
+Det size on this layer: --------  2
+RawID of this det: ------  470410728
+WheelNumber of this det: ----  7
+Propagated TSOS global position: ------   (-145.528,17.7859,219.712) 
+------RecHit globalposition:  (-98.447,11.6122,219.717) 
+------Estimate: 10.8991
+RawID of this det: ------  470410724
+WheelNumber of this det: ----  7
+Propagated TSOS global position: ------   (-145.845,17.8193,220.184) 
+------RecHit globalposition:  (-98.2685,12.7416,220.205) 
+------Estimate: 11.1495
+FindingHitbasedSeed---------------------------------------------------------------------with: TECip
+Det size on this layer: --------  1
+RawID of this det: ------  470394340
+WheelNumber of this det: ----  6
+Propagated TSOS global position: ------   (-133.058,16.4563,201.139) 
+------RecHit globalposition:  (-97.9831,14.6115,201.198) 
+------Estimate: 6.98701
+------RecHit globalposition:  (-98.1943,13.2775,201.19) 
+------Estimate: 5.92398
+FindingHitbasedSeed---------------------------------------------------------------------with: TECip
+Det size on this layer: --------  0
+FindingHitbasedSeed---------------------------------------------------------------------with: TECip
+Det size on this layer: --------  0
+FindingHitbasedSeed---------------------------------------------------------------------with: TECip
+Det size on this layer: --------  1
+RawID of this det: ------  470345188
+WheelNumber of this det: ----  3
+Propagated TSOS global position: ------   (-102.573,13.057,155.71) 
+------RecHit globalposition:  (-98.3326,12.3801,155.72) 
+------Estimate: 0.0822371
+FindingHitbasedSeed---------------------------------------------------------------------with: TECip
+Det size on this layer: --------  1
+RawID of this det: ------  470328804
+WheelNumber of this det: ----  2
+Propagated TSOS global position: ------   (-93.1773,11.9667,141.701) 
+------RecHit globalposition:  (-97.3034,18.9028,141.718) 
+------Estimate: 11.5011
+------RecHit globalposition:  (-97.9586,14.7706,141.716) 
+------Estimate: 1.49177
+------RecHit globalposition:  (-97.8959,15.1661,141.717) 
+------Estimate: 2.04313
+------RecHit globalposition:  (-98.3202,12.4908,141.716) 
+------Estimate: 0.111159
+------RecHit globalposition:  (-98.4315,11.7885,141.715) 
+------Estimate: 0.310845
+FindingHitbasedSeed---------------------------------------------------------------------with: TECip
+Det size on this layer: --------  1
+RawID of this det: ------  470312388
+WheelNumber of this det: ----  1
+Propagated TSOS global position: ------   (-85.0603,11.0087,129.596) 
+------RecHit globalposition:  (-80.0935,17.4507,129.604) 
+------Estimate: 15.6321
+------RecHit globalposition:  (-80.6188,14.3587,129.602) 
+------Estimate: 5.03573
+------RecHit globalposition:  (-81.2924,10.3937,129.599) 
+------Estimate: 0.0645101
+------RecHit globalposition:  (-81.4715,9.3397,129.598) 
+------Estimate: 0.544832
+FindingHitbasedSeed---------------------------------------------------------------------with: TECmus
+Det size on this layer: --------  0
+FindingHitbasedSeed---------------------------------------------------------------------with: TECmus
+Det size on this layer: --------  0
+FindingHitbasedSeed---------------------------------------------------------------------with: TECmus
+Det size on this layer: --------  0
+FindingHitbasedSeed---------------------------------------------------------------------with: TECmus
+Det size on this layer: --------  0
+FindingHitbasedSeed---------------------------------------------------------------------with: TECmus
+Det size on this layer: --------  0
+FindingHitbasedSeed---------------------------------------------------------------------with: TECmus
+Det size on this layer: --------  0
+FindingHitbasedSeed---------------------------------------------------------------------with: TECmus
+Det size on this layer: --------  1
+RawID of this det: ------  470345188
+WheelNumber of this det: ----  3
+Propagated TSOS global position: ------   (-101.639,12.8194,155.712) 
+------RecHit globalposition:  (-98.3327,12.3802,155.72) 
+------Estimate: 0.0248989
+FindingHitbasedSeed---------------------------------------------------------------------with: TECmus
+Det size on this layer: --------  1
+RawID of this det: ------  470328804
+WheelNumber of this det: ----  2
+Propagated TSOS global position: ------   (-92.2198,11.7062,141.698) 
+------RecHit globalposition:  (-97.3036,18.9029,141.718) 
+------Estimate: 1.25983
+------RecHit globalposition:  (-97.8962,15.1662,141.717) 
+------Estimate: 0.298751
+------RecHit globalposition:  (-97.9589,14.7706,141.716) 
+------Estimate: 0.24162
+------RecHit globalposition:  (-98.3204,12.4909,141.716) 
+------Estimate: 0.0803515
+------RecHit globalposition:  (-98.4318,11.7885,141.715) 
+------Estimate: 0.0885338
+FindingHitbasedSeed---------------------------------------------------------------------with: TECmus
+Det size on this layer: --------  1
+RawID of this det: ------  470312388
+WheelNumber of this det: ----  1
+Propagated TSOS global position: ------   (-84.0883,10.7287,129.597) 
+------RecHit globalposition:  (-80.0934,17.4507,129.604) 
+------Estimate: 1.24068
+------RecHit globalposition:  (-81.4714,9.33972,129.598) 
+------Estimate: 0.045965
+------RecHit globalposition:  (-80.6187,14.3587,129.602) 
+------Estimate: 0.401808
+------RecHit globalposition:  (-81.2924,10.3937,129.599) 
+------Estimate: 0.016479
+      Number of hitless seeds: 9
+      Number of hitbased seeds: 9
+Total num of seeds made:  18
+L2 Muon pt,eta, phi:   22.7682 , 1.98964 , 0.106276
+L2 Muon px,py, pz:   22.6398 , 2.41516 , 81.6943
+TSOS IP:position->  (-0.0269475,0.066254,2.74675) 
+TSOS IP:momentum->  (22.6398,2.41516,81.6943) 
+TSOS mu Station:position->  (170.717,11.5053,617.098) 
+TSOS mu station :momentum->  (21.3492,0.829343,76.1449) 
+FindingHitbasedSeed---------------------------------------------------------------------with: TECip
+Det size on this layer: --------  3
+RawID of this det: ------  470442408
+WheelNumber of this det: ----  9
+Propagated TSOS global position: ------   (71.6778,6.40799,261.048) 
+------RecHit globalposition:  (59.2478,8.13719,261.068) 
+------Estimate: 11.1015
+------RecHit globalposition:  (60.2714,3.36563,261.068) 
+------Estimate: 8.59241
+------RecHit globalposition:  (59.4668,4.42622,261.069) 
+------Estimate: 9.22465
+------RecHit globalposition:  (60.6896,3.34196,261.067) 
+------Estimate: 8.06453
+------RecHit globalposition:  (61.5352,8.18924,261.064) 
+------Estimate: 7.74564
+------RecHit globalposition:  (63.1487,7.69882,261.062) 
+------Estimate: 5.30714
+------RecHit globalposition:  (62.8976,6.44124,261.062) 
+------Estimate: 4.88143
+------RecHit globalposition:  (66.9311,8.65362,261.055) 
+------Estimate: 2.72591
+------RecHit globalposition:  (63.7227,8.23902,261.061) 
+------Estimate: 5.14553
+------RecHit globalposition:  (72,0.0283713,261.049) 
+------Estimate: 7.41896
+------RecHit globalposition:  (62.0124,8.51664,261.063) 
+------Estimate: 7.44847
+------RecHit globalposition:  (67.3672,3.7095,261.056) 
+------Estimate: 2.05224
+------RecHit globalposition:  (72.1857,8.79995,261.046) 
+------Estimate: 1.00212
+------RecHit globalposition:  (71.638,3.94457,261.049) 
+------Estimate: 1.09025
+------RecHit globalposition:  (68.4685,8.34701,261.053) 
+------Estimate: 1.56074
+------RecHit globalposition:  (71.1102,5.87821,261.049) 
+------Estimate: 0.0597125
+------RecHit globalposition:  (70.5801,9.12515,261.049) 
+------Estimate: 1.51825
+------RecHit globalposition:  (70.6177,2.78004,261.051) 
+------Estimate: 2.29982
+------RecHit globalposition:  (67.9071,9.03673,261.053) 
+------Estimate: 2.51404
+------RecHit globalposition:  (66.8525,3.73295,261.057) 
+------Estimate: 2.27903
+------RecHit globalposition:  (64.5223,8.58654,261.059) 
+------Estimate: 4.66326
+------RecHit globalposition:  (65.1329,8.94497,261.058) 
+------Estimate: 4.48614
+------RecHit globalposition:  (69.4154,0.0273275,261.054) 
+------Estimate: 7.12277
+------RecHit globalposition:  (71.0563,3.96759,261.05) 
+------Estimate: 1.04125
+RawID of this det: ------  470442444
+WheelNumber of this det: ----  9
+Propagated TSOS global position: ------   (72.5215,6.46709,264.082) 
+------RecHit globalposition:  (81.9488,0.94865,264.093) 
+------Estimate: 8.18574
+------RecHit globalposition:  (81.8356,2.96257,264.09) 
+------Estimate: 4.87645
+------RecHit globalposition:  (81.7905,3.76347,264.089) 
+------Estimate: 3.89027
+------RecHit globalposition:  (81.7785,3.97738,264.088) 
+------Estimate: 3.65928
+------RecHit globalposition:  (81.8198,3.24383,264.089) 
+------Estimate: 4.50843
+RawID of this det: ------  470442448
+WheelNumber of this det: ----  9
+Propagated TSOS global position: ------   (72.6355,6.47505,264.492) 
+------RecHit globalposition:  (80.6354,14.2472,264.565) 
+------Estimate: 9.07476
+------RecHit globalposition:  (80.8162,13.1833,264.568) 
+------Estimate: 6.97514
+------RecHit globalposition:  (81.2103,10.8647,264.574) 
+------Estimate: 3.6462
+------RecHit globalposition:  (81.2637,10.5505,264.574) 
+------Estimate: 3.32779
+FindingHitbasedSeed---------------------------------------------------------------------with: TECip
+Det size on this layer: --------  1
+RawID of this det: ------  470426024
+WheelNumber of this det: ----  8
+Propagated TSOS global position: ------   (65.7027,5.97912,239.553) 
+------RecHit globalposition:  (67.8343,0.230732,239.555) 
+------Estimate: 6.85256
+------RecHit globalposition:  (72.9604,5.5192,239.557) 
+------Estimate: 3.30683
+------RecHit globalposition:  (74.6604,5.8738,239.558) 
+------Estimate: 4.76265
+------RecHit globalposition:  (72.5217,6.84884,239.557) 
+------Estimate: 2.66992
+------RecHit globalposition:  (60.4863,6.83924,239.551) 
+------Estimate: 1.94661
+------RecHit globalposition:  (71.9938,10.1449,239.556) 
+------Estimate: 4.71416
+------RecHit globalposition:  (68.5692,5.39471,239.555) 
+------Estimate: 0.626762
+------RecHit globalposition:  (60.6175,5.55626,239.551) 
+------Estimate: 1.48183
+------RecHit globalposition:  (59.5997,4.68922,239.551) 
+------Estimate: 2.21959
+------RecHit globalposition:  (60.6973,5.7325,239.551) 
+------Estimate: 1.44873
+------RecHit globalposition:  (70.733,5.35074,239.556) 
+------Estimate: 1.71584
+------RecHit globalposition:  (74.7436,6.85061,239.558) 
+------Estimate: 4.67275
+------RecHit globalposition:  (62.0072,9.10297,239.551) 
+------Estimate: 3.23863
+------RecHit globalposition:  (66.2954,6.07652,239.554) 
+------Estimate: 0.0203422
+------RecHit globalposition:  (65.3311,5.98816,239.553) 
+------Estimate: 0.00828386
+------RecHit globalposition:  (65.1669,5.46383,239.553) 
+------Estimate: 0.0584792
+------RecHit globalposition:  (62.2468,5.70555,239.552) 
+------Estimate: 0.683463
+------RecHit globalposition:  (71.774,6.01762,239.556) 
+------Estimate: 2.1773
+------RecHit globalposition:  (64.5409,6.09538,239.553) 
+------Estimate: 0.0886115
+------RecHit globalposition:  (63.6266,6.00906,239.552) 
+------Estimate: 0.257178
+------RecHit globalposition:  (70.6453,5.92302,239.556) 
+------Estimate: 1.44756
+------RecHit globalposition:  (67.1494,7.59233,239.554) 
+------Estimate: 0.54527
+------RecHit globalposition:  (61.2283,4.63193,239.551) 
+------Estimate: 1.30161
+------RecHit globalposition:  (67.0533,5.62195,239.554) 
+------Estimate: 0.153502
+------RecHit globalposition:  (65.5264,9.23388,239.553) 
+------Estimate: 2.13711
+------RecHit globalposition:  (70.6606,5.5592,239.556) 
+------Estimate: 1.58076
+------RecHit globalposition:  (67.7691,9.94845,239.554) 
+------Estimate: 3.05144
+FindingHitbasedSeed---------------------------------------------------------------------with: TECip
+Det size on this layer: --------  3
+RawID of this det: ------  470409640
+WheelNumber of this det: ----  7
+Propagated TSOS global position: ------   (60.0063,5.55343,219.057) 
+------RecHit globalposition:  (71.5422,0.655996,219.054) 
+------Estimate: 15.4722
+------RecHit globalposition:  (72.0802,2.00078,219.055) 
+------Estimate: 13.0184
+------RecHit globalposition:  (70.0198,2.13736,219.055) 
+------Estimate: 9.84084
+------RecHit globalposition:  (59.8094,1.65966,219.055) 
+------Estimate: 3.34343
+------RecHit globalposition:  (69.1863,4.00304,219.056) 
+------Estimate: 5.94031
+------RecHit globalposition:  (63.058,6.92384,219.058) 
+------Estimate: 0.743278
+------RecHit globalposition:  (63.1601,9.92119,219.059) 
+------Estimate: 4.15914
+RawID of this det: ------  470409612
+WheelNumber of this det: ----  7
+Propagated TSOS global position: ------   (60.8699,5.61902,222.165) 
+------RecHit globalposition:  (56.1871,1.40726,222.167) 
+------Estimate: 3.9723
+------RecHit globalposition:  (56.1807,1.51966,222.167) 
+------Estimate: 3.78401
+------RecHit globalposition:  (56.0352,4.11037,222.166) 
+------Estimate: 1.03884
+------RecHit globalposition:  (56.0004,4.729,222.166) 
+------Estimate: 0.844216
+------RecHit globalposition:  (56.175,1.62099,222.167) 
+------Estimate: 3.61873
+RawID of this det: ------  470409616
+WheelNumber of this det: ----  7
+Propagated TSOS global position: ------   (61.0093,5.62958,222.666) 
+------RecHit globalposition:  (55.012,11.6062,222.666) 
+------Estimate: 11.2812
+------RecHit globalposition:  (55.2145,10.4147,222.666) 
+------Estimate: 7.86087
+------RecHit globalposition:  (55.6691,7.73925,222.667) 
+------Estimate: 2.60862
+------RecHit globalposition:  (55.7356,7.3481,222.667) 
+------Estimate: 2.12856
+------RecHit globalposition:  (55.5303,8.55644,222.667) 
+------Estimate: 3.84974
+FindingHitbasedSeed---------------------------------------------------------------------with: TECip
+Det size on this layer: --------  2
+RawID of this det: ------  470393228
+WheelNumber of this det: ----  6
+Propagated TSOS global position: ------   (55.5909,5.21218,203.167) 
+------RecHit globalposition:  (55.9283,6.08131,203.167) 
+------Estimate: 0.174274
+------RecHit globalposition:  (55.9922,4.94318,203.167) 
+------Estimate: 0.0287088
+------RecHit globalposition:  (56.0012,4.78177,203.167) 
+------Estimate: 0.0599419
+RawID of this det: ------  470393232
+WheelNumber of this det: ----  6
+Propagated TSOS global position: ------   (55.7295,5.22304,203.666) 
+------RecHit globalposition:  (55.1032,11.0697,203.669) 
+------Estimate: 8.50838
+------RecHit globalposition:  (55.1319,10.9012,203.668) 
+------Estimate: 8.02636
+FindingHitbasedSeed---------------------------------------------------------------------with: TECip
+Det size on this layer: --------  3
+RawID of this det: ------  470376812
+WheelNumber of this det: ----  5
+Propagated TSOS global position: ------   (50.0274,4.76814,183.141) 
+------RecHit globalposition:  (43.7031,10.0673,183.141) 
+------Estimate: 11.9489
+------RecHit globalposition:  (43.774,9.61986,183.141) 
+------Estimate: 10.3859
+------RecHit globalposition:  (43.8026,9.43873,183.141) 
+------Estimate: 9.78473
+------RecHit globalposition:  (44.1364,7.33117,183.141) 
+------Estimate: 4.19065
+------RecHit globalposition:  (44.2071,6.8848,183.141) 
+------Estimate: 3.35011
+------RecHit globalposition:  (44.4102,5.60265,183.141) 
+------Estimate: 1.62784
+------RecHit globalposition:  (44.014,8.10443,183.141) 
+------Estimate: 5.93674
+------RecHit globalposition:  (44.4625,5.27227,183.141) 
+------Estimate: 1.35244
+------RecHit globalposition:  (44.6852,3.8658,183.141) 
+------Estimate: 0.95593
+RawID of this det: ------  470376844
+WheelNumber of this det: ----  5
+Propagated TSOS global position: ------   (50.7302,4.82509,185.671) 
+------RecHit globalposition:  (56.2653,-0.0303981,185.669) 
+------Estimate: 8.41054
+------RecHit globalposition:  (56.2446,0.337358,185.669) 
+------Estimate: 7.44146
+------RecHit globalposition:  (56.2625,0.0200937,185.669) 
+------Estimate: 8.27379
+------RecHit globalposition:  (55.9922,4.82962,185.67) 
+------Estimate: 0.947225
+------RecHit globalposition:  (56.188,1.34527,185.669) 
+------Estimate: 5.11167
+------RecHit globalposition:  (56.1722,1.62605,185.669) 
+------Estimate: 4.54966
+RawID of this det: ------  470376848
+WheelNumber of this det: ----  5
+Propagated TSOS global position: ------   (50.869,4.83632,186.171) 
+------RecHit globalposition:  (54.9735,11.8546,186.169) 
+------Estimate: 11.7185
+------RecHit globalposition:  (55.5342,8.5551,186.169) 
+------Estimate: 3.41658
+------RecHit globalposition:  (55.2966,9.95298,186.169) 
+------Estimate: 6.2538
+FindingHitbasedSeed---------------------------------------------------------------------with: TECip
+Det size on this layer: --------  1
+RawID of this det: ------  470360428
+WheelNumber of this det: ----  4
+Propagated TSOS global position: ------   (46.1389,4.44847,169.142) 
+------RecHit globalposition:  (43.8866,8.95122,169.142) 
+------Estimate: 7.34133
+------RecHit globalposition:  (43.9796,8.36368,169.142) 
+------Estimate: 5.6529
+------RecHit globalposition:  (44.1793,7.10326,169.143) 
+------Estimate: 2.76075
+------RecHit globalposition:  (44.4088,5.6544,169.143) 
+------Estimate: 0.715011
+------RecHit globalposition:  (44.6688,4.01282,169.143) 
+------Estimate: 0.0933554
+------RecHit globalposition:  (44.6879,3.89267,169.143) 
+------Estimate: 0.118787
+FindingHitbasedSeed---------------------------------------------------------------------with: TECip
+Det size on this layer: --------  1
+RawID of this det: ------  470344044
+WheelNumber of this det: ----  3
+Propagated TSOS global position: ------   (42.2511,4.12119,155.143) 
+FindingHitbasedSeed---------------------------------------------------------------------with: TECip
+Det size on this layer: --------  1
+RawID of this det: ------  470327624
+WheelNumber of this det: ----  2
+Propagated TSOS global position: ------   (39.167,3.85611,144.036) 
+------RecHit globalposition:  (39.8336,8.13258,144.036) 
+------Estimate: 7.09751
+------RecHit globalposition:  (38.1669,7.79207,144.036) 
+------Estimate: 6.58533
+------RecHit globalposition:  (33.5893,6.85688,144.036) 
+------Estimate: 6.48602
+------RecHit globalposition:  (37.4457,7.57271,144.036) 
+------Estimate: 6.2157
+------RecHit globalposition:  (39.0482,7.897,144.036) 
+------Estimate: 6.57863
+------RecHit globalposition:  (33.5109,-0.0264482,144.036) 
+------Estimate: 5.64053
+------RecHit globalposition:  (32.4929,-0.0255136,144.036) 
+------Estimate: 5.88313
+------RecHit globalposition:  (42.2825,2.46012,144.036) 
+------Estimate: 1.60379
+------RecHit globalposition:  (34.2551,6.45944,144.036) 
+------Estimate: 4.93107
+------RecHit globalposition:  (33.6627,6.28177,144.036) 
+------Estimate: 4.90868
+------RecHit globalposition:  (33.0308,6.67926,144.036) 
+------Estimate: 6.42636
+------RecHit globalposition:  (33.9904,0.143806,144.036) 
+------Estimate: 5.11432
+------RecHit globalposition:  (32.4682,6.05871,144.036) 
+------Estimate: 5.29292
+------RecHit globalposition:  (33.0185,6.22609,144.036) 
+------Estimate: 5.25503
+------RecHit globalposition:  (34.6281,2.67342,144.036) 
+------Estimate: 1.05793
+------RecHit globalposition:  (37.052,4.58187,144.036) 
+------Estimate: 0.550422
+------RecHit globalposition:  (36.324,2.11365,144.036) 
+------Estimate: 1.1661
+------RecHit globalposition:  (32.797,1.90856,144.036) 
+------Estimate: 2.3399
+------RecHit globalposition:  (40.8529,2.25117,144.036) 
+------Estimate: 1.39525
+------RecHit globalposition:  (35.2666,1.94357,144.036) 
+------Estimate: 1.53248
+------RecHit globalposition:  (31.9342,1.76008,144.036) 
+------Estimate: 2.89227
+------RecHit globalposition:  (41.374,1.46996,144.036) 
+------Estimate: 2.95696
+------RecHit globalposition:  (33.6283,1.19525,144.036) 
+------Estimate: 2.9961
+------RecHit globalposition:  (38.392,5.88783,144.036) 
+------Estimate: 1.8154
+------RecHit globalposition:  (35.1071,0.148396,144.036) 
+------Estimate: 4.97866
+------RecHit globalposition:  (38.7611,3.43935,144.036) 
+------Estimate: 0.0626969
+------RecHit globalposition:  (33.2608,0.140806,144.036) 
+------Estimate: 5.26509
+------RecHit globalposition:  (39.3665,3.03916,144.036) 
+------Estimate: 0.283007
+FindingHitbasedSeed---------------------------------------------------------------------with: TECip
+Det size on this layer: --------  1
+RawID of this det: ------  470311240
+WheelNumber of this det: ----  1
+Propagated TSOS global position: ------   (35.2805,3.5152,130.038) 
+------RecHit globalposition:  (41.0823,6.92146,130.038) 
+------Estimate: 4.95196
+------RecHit globalposition:  (37.3782,6.81129,130.038) 
+------Estimate: 4.5771
+------RecHit globalposition:  (31.1919,5.25421,130.038) 
+------Estimate: 2.88048
+------RecHit globalposition:  (31.6927,5.39972,130.038) 
+------Estimate: 2.91728
+------RecHit globalposition:  (36.3073,6.61601,130.038) 
+------Estimate: 4.21569
+------RecHit globalposition:  (34.3125,1.08182,130.038) 
+------Estimate: 2.56983
+------RecHit globalposition:  (32.0924,5.40601,130.038) 
+------Estimate: 2.73209
+------RecHit globalposition:  (38.5503,4.71441,130.038) 
+------Estimate: 0.763599
+------RecHit globalposition:  (32.6231,5.55836,130.038) 
+------Estimate: 2.81127
+------RecHit globalposition:  (35.1562,6.40612,130.038) 
+------Estimate: 3.93624
+------RecHit globalposition:  (38.864,3.91101,130.038) 
+------Estimate: 0.513099
+------RecHit globalposition:  (36.4895,5.72387,130.038) 
+------Estimate: 2.07505
+------RecHit globalposition:  (33.5916,3.38031,130.038) 
+------Estimate: 0.11499
+------RecHit globalposition:  (33.9974,3.46659,130.038) 
+------Estimate: 0.0695238
+------RecHit globalposition:  (32.9242,5.54622,130.038) 
+------Estimate: 2.65512
+------RecHit globalposition:  (35.9543,3.61813,130.038) 
+------Estimate: 0.0185802
+------RecHit globalposition:  (31.5525,3.17507,130.038) 
+------Estimate: 0.557121
+------RecHit globalposition:  (31.9098,3.25367,130.038) 
+------Estimate: 0.458986
+------RecHit globalposition:  (33.4833,5.70502,130.038) 
+------Estimate: 2.77773
+------RecHit globalposition:  (35.0345,4.2843,130.038) 
+------Estimate: 0.297677
+------RecHit globalposition:  (39.4098,4.01861,130.038) 
+------Estimate: 0.683528
+------RecHit globalposition:  (34.925,3.13438,130.038) 
+------Estimate: 0.0598584
+------RecHit globalposition:  (32.5616,2.92225,130.038) 
+------Estimate: 0.338024
+------RecHit globalposition:  (36.4203,3.71371,130.038) 
+------Estimate: 0.0546647
+------RecHit globalposition:  (37.6845,2.27529,130.038) 
+------Estimate: 1.27761
+FindingHitbasedSeed---------------------------------------------------------------------with: TECmus
+Det size on this layer: --------  1
+RawID of this det: ------  470442408
+WheelNumber of this det: ----  9
+Propagated TSOS global position: ------   (70.9674,5.86326,261.049) 
+------RecHit globalposition:  (59.2534,8.13765,261.068) 
+------Estimate: 2.89243
+------RecHit globalposition:  (60.2775,3.36564,261.068) 
+------Estimate: 2.37255
+------RecHit globalposition:  (59.4727,4.42634,261.069) 
+------Estimate: 2.60144
+------RecHit globalposition:  (60.6958,3.34196,261.067) 
+------Estimate: 2.20783
+------RecHit globalposition:  (61.541,8.18971,261.064) 
+------Estimate: 1.95135
+------RecHit globalposition:  (63.1548,7.69924,261.062) 
+------Estimate: 1.32738
+------RecHit globalposition:  (62.9037,6.44155,261.062) 
+------Estimate: 1.28385
+------RecHit globalposition:  (66.9375,8.65413,261.055) 
+------Estimate: 0.597563
+------RecHit globalposition:  (63.7287,8.23949,261.061) 
+------Estimate: 1.24113
+------RecHit globalposition:  (72.0076,0.0280313,261.049) 
+------Estimate: 1.16667
+------RecHit globalposition:  (62.0182,8.51714,261.063) 
+------Estimate: 1.83773
+------RecHit globalposition:  (67.374,3.70954,261.056) 
+------Estimate: 0.389288
+------RecHit globalposition:  (72.1926,8.80048,261.046) 
+------Estimate: 0.308803
+------RecHit globalposition:  (71.6452,3.94463,261.049) 
+------Estimate: 0.134108
+------RecHit globalposition:  (68.475,8.3475,261.053) 
+------Estimate: 0.338795
+------RecHit globalposition:  (71.1172,5.87847,261.049) 
+------Estimate: 0.000439157
+------RecHit globalposition:  (70.5867,9.1257,261.049) 
+------Estimate: 0.359584
+------RecHit globalposition:  (70.6248,2.77999,261.051) 
+------Estimate: 0.316484
+------RecHit globalposition:  (67.9135,9.03728,261.053) 
+------Estimate: 0.53639
+------RecHit globalposition:  (66.8592,3.733,261.057) 
+------Estimate: 0.460885
+------RecHit globalposition:  (64.5284,8.58705,261.059) 
+------Estimate: 1.08772
+------RecHit globalposition:  (65.1391,8.9455,261.058) 
+------Estimate: 1.013
+------RecHit globalposition:  (69.4227,0.0269866,261.054) 
+------Estimate: 1.16139
+------RecHit globalposition:  (71.0634,3.96766,261.05) 
+------Estimate: 0.120139
+FindingHitbasedSeed---------------------------------------------------------------------with: TECmus
+Det size on this layer: --------  1
+RawID of this det: ------  470426024
+WheelNumber of this det: ----  8
+Propagated TSOS global position: ------   (64.9536,5.38643,239.553) 
+------RecHit globalposition:  (74.7511,6.85097,239.558) 
+------Estimate: 1.73029
+------RecHit globalposition:  (72.9678,5.51943,239.557) 
+------Estimate: 1.13154
+------RecHit globalposition:  (74.6679,5.87407,239.558) 
+------Estimate: 1.65843
+------RecHit globalposition:  (72.5289,6.8492,239.557) 
+------Estimate: 1.05619
+------RecHit globalposition:  (70.6678,5.55944,239.556) 
+------Estimate: 0.575057
+------RecHit globalposition:  (72.0006,10.1455,239.556) 
+------Estimate: 1.49075
+------RecHit globalposition:  (61.2346,4.63208,239.551) 
+------Estimate: 0.255922
+------RecHit globalposition:  (59.6057,4.68937,239.551) 
+------Estimate: 0.51243
+------RecHit globalposition:  (67.834,0.230386,239.555) 
+------Estimate: 0.929323
+------RecHit globalposition:  (70.6524,5.92329,239.556) 
+------Estimate: 0.573969
+------RecHit globalposition:  (60.4922,6.8396,239.551) 
+------Estimate: 0.426618
+------RecHit globalposition:  (70.7401,5.35096,239.556) 
+------Estimate: 0.591599
+------RecHit globalposition:  (67.7756,9.94909,239.554) 
+------Estimate: 0.739704
+------RecHit globalposition:  (66.3021,6.07681,239.554) 
+------Estimate: 0.0445914
+------RecHit globalposition:  (65.3377,5.98844,239.553) 
+------Estimate: 0.0130129
+------RecHit globalposition:  (62.253,5.7058,239.552) 
+------Estimate: 0.133316
+------RecHit globalposition:  (60.6236,5.5565,239.551) 
+------Estimate: 0.333118
+------RecHit globalposition:  (71.7812,6.0179,239.556) 
+------Estimate: 0.82608
+------RecHit globalposition:  (64.5474,6.09567,239.553) 
+------Estimate: 0.0185338
+------RecHit globalposition:  (63.633,6.00934,239.552) 
+------Estimate: 0.0439165
+------RecHit globalposition:  (60.7033,5.73276,239.551) 
+------Estimate: 0.325174
+------RecHit globalposition:  (67.06,5.62219,239.554) 
+------Estimate: 0.0789512
+------RecHit globalposition:  (67.156,7.59276,239.554) 
+------Estimate: 0.22203
+------RecHit globalposition:  (65.1734,5.46406,239.553) 
+------Estimate: 0.00100065
+------RecHit globalposition:  (65.5327,9.23446,239.553) 
+------Estimate: 0.445353
+------RecHit globalposition:  (68.5762,5.39493,239.555) 
+------Estimate: 0.231634
+------RecHit globalposition:  (62.0132,9.10354,239.551) 
+------Estimate: 0.587438
+FindingHitbasedSeed---------------------------------------------------------------------with: TECmus
+Det size on this layer: --------  2
+RawID of this det: ------  470409612
+WheelNumber of this det: ----  7
+Propagated TSOS global position: ------   (60.0902,4.98768,222.165) 
+------RecHit globalposition:  (56.1871,1.40726,222.167) 
+------Estimate: 0.540939
+------RecHit globalposition:  (56.1807,1.51966,222.167) 
+------Estimate: 0.52029
+------RecHit globalposition:  (56.1751,1.62099,222.167) 
+------Estimate: 0.502282
+------RecHit globalposition:  (56.0352,4.11038,222.166) 
+------Estimate: 0.24245
+------RecHit globalposition:  (56.0004,4.729,222.166) 
+------Estimate: 0.232342
+RawID of this det: ------  470409640
+WheelNumber of this det: ----  7
+Propagated TSOS global position: ------   (59.221,4.91517,219.057) 
+------RecHit globalposition:  (71.5499,0.655728,219.054) 
+------Estimate: 3.04526
+------RecHit globalposition:  (72.0878,2.00066,219.055) 
+------Estimate: 2.97618
+------RecHit globalposition:  (70.0272,2.13725,219.055) 
+------Estimate: 2.1524
+------RecHit globalposition:  (59.8158,1.65951,219.055) 
+------Estimate: 0.297018
+------RecHit globalposition:  (69.1934,4.00313,219.056) 
+------Estimate: 1.64812
+------RecHit globalposition:  (63.0643,6.92422,219.058) 
+------Estimate: 0.334666
+------RecHit globalposition:  (63.1661,9.92184,219.059) 
+------Estimate: 0.897351
+FindingHitbasedSeed---------------------------------------------------------------------with: TECmus
+Det size on this layer: --------  1
+RawID of this det: ------  470393228
+WheelNumber of this det: ----  6
+Propagated TSOS global position: ------   (54.7778,4.53869,203.168) 
+------RecHit globalposition:  (55.9283,6.08131,203.167) 
+------Estimate: 0.0732314
+------RecHit globalposition:  (56.0013,4.78177,203.167) 
+------Estimate: 0.0203624
+------RecHit globalposition:  (55.9922,4.94319,203.167) 
+------Estimate: 0.0223053
+FindingHitbasedSeed---------------------------------------------------------------------with: TECmus
+Det size on this layer: --------  3
+RawID of this det: ------  470376844
+WheelNumber of this det: ----  5
+Propagated TSOS global position: ------   (49.8862,4.11287,185.671) 
+------RecHit globalposition:  (56.2653,-0.0304027,185.669) 
+------Estimate: 0.930922
+------RecHit globalposition:  (56.2624,0.0200889,185.669) 
+------Estimate: 0.920539
+------RecHit globalposition:  (56.188,1.34526,185.669) 
+------Estimate: 0.689156
+------RecHit globalposition:  (56.1722,1.62605,185.669) 
+------Estimate: 0.650316
+------RecHit globalposition:  (56.2446,0.337353,185.669) 
+------Estimate: 0.857928
+------RecHit globalposition:  (55.9922,4.82962,185.67) 
+------Estimate: 0.460093
+RawID of this det: ------  470376808
+WheelNumber of this det: ----  5
+Propagated TSOS global position: ------   (49.3187,4.0627,183.641) 
+------RecHit globalposition:  (44.7408,-3.32653,183.641) 
+------Estimate: 1.47943
+------RecHit globalposition:  (44.7408,-3.0397,183.641) 
+------Estimate: 1.3843
+------RecHit globalposition:  (44.7407,-0.357668,183.641) 
+------Estimate: 0.680059
+------RecHit globalposition:  (44.7407,-1.36482,183.641) 
+------Estimate: 0.905127
+------RecHit globalposition:  (44.7408,-2.63658,183.641) 
+------Estimate: 1.25705
+------RecHit globalposition:  (44.7405,3.04326,183.641) 
+------Estimate: 0.272858
+------RecHit globalposition:  (44.7407,-0.0462487,183.641) 
+------Estimate: 0.6201
+------RecHit globalposition:  (44.7405,3.35745,183.641) 
+------Estimate: 0.26279
+------RecHit globalposition:  (44.7405,2.21214,183.641) 
+------Estimate: 0.321973
+------RecHit globalposition:  (44.7405,2.37721,183.641) 
+------Estimate: 0.309622
+RawID of this det: ------  470376812
+WheelNumber of this det: ----  5
+Propagated TSOS global position: ------   (49.179,4.05032,183.141) 
+------RecHit globalposition:  (43.7031,10.0673,183.141) 
+------Estimate: 1.28131
+------RecHit globalposition:  (43.774,9.61987,183.141) 
+------Estimate: 1.14494
+------RecHit globalposition:  (44.014,8.10443,183.141) 
+------Estimate: 0.75397
+------RecHit globalposition:  (43.8027,9.43873,183.141) 
+------Estimate: 1.09244
+------RecHit globalposition:  (44.4102,5.60265,183.141) 
+------Estimate: 0.349702
+------RecHit globalposition:  (44.4625,5.27228,183.141) 
+------Estimate: 0.318872
+------RecHit globalposition:  (44.1365,7.33118,183.141) 
+------Estimate: 0.596847
+------RecHit globalposition:  (44.6853,3.8658,183.141) 
+------Estimate: 0.246632
+------RecHit globalposition:  (44.2072,6.8848,183.141) 
+------Estimate: 0.519236
+FindingHitbasedSeed---------------------------------------------------------------------with: TECmus
+Det size on this layer: --------  2
+RawID of this det: ------  470360424
+WheelNumber of this det: ----  4
+Propagated TSOS global position: ------   (45.4055,3.71238,169.642) 
+------RecHit globalposition:  (44.7427,-3.32895,169.644) 
+------Estimate: 1.06928
+------RecHit globalposition:  (44.7427,0.499156,169.643) 
+------Estimate: 0.225235
+------RecHit globalposition:  (44.7427,-2.60821,169.643) 
+------Estimate: 0.862386
+------RecHit globalposition:  (44.7427,2.71299,169.642) 
+------Estimate: 0.0256434
+------RecHit globalposition:  (44.7427,1.55895,169.642) 
+------Estimate: 0.103193
+------RecHit globalposition:  (44.7427,1.72897,169.642) 
+------Estimate: 0.0881366
+------RecHit globalposition:  (44.7427,-1.15869,169.643) 
+------Estimate: 0.513498
+RawID of this det: ------  470360428
+WheelNumber of this det: ----  4
+Propagated TSOS global position: ------   (45.266,3.69975,169.143) 
+------RecHit globalposition:  (43.8866,8.95122,169.142) 
+------Estimate: 0.629958
+------RecHit globalposition:  (44.1793,7.10326,169.143) 
+------Estimate: 0.270404
+------RecHit globalposition:  (43.9796,8.36368,169.142) 
+------Estimate: 0.499333
+------RecHit globalposition:  (44.6879,3.89267,169.143) 
+------Estimate: 0.00489633
+------RecHit globalposition:  (44.4088,5.6544,169.143) 
+------Estimate: 0.0940116
+------RecHit globalposition:  (44.6688,4.01282,169.143) 
+------Estimate: 0.00660005
+FindingHitbasedSeed---------------------------------------------------------------------with: TECmus
+Det size on this layer: --------  2
+RawID of this det: ------  470344040
+WheelNumber of this det: ----  3
+Propagated TSOS global position: ------   (41.4936,3.35456,155.644) 
+------RecHit globalposition:  (44.7417,0.105389,155.644) 
+------Estimate: 0.344484
+------RecHit globalposition:  (44.7417,1.83489,155.644) 
+------Estimate: 0.171269
+------RecHit globalposition:  (44.7417,3.14687,155.644) 
+------Estimate: 0.119426
+------RecHit globalposition:  (44.7417,3.50265,155.644) 
+------Estimate: 0.117203
+------RecHit globalposition:  (44.7417,2.70253,155.644) 
+------Estimate: 0.129294
+RawID of this det: ------  470344044
+WheelNumber of this det: ----  3
+Propagated TSOS global position: ------   (41.3536,3.34161,155.143) 
+FindingHitbasedSeed---------------------------------------------------------------------with: TECmus
+Det size on this layer: --------  1
+RawID of this det: ------  470327624
+WheelNumber of this det: ----  2
+Propagated TSOS global position: ------   (38.2501,3.0521,144.036) 
+------RecHit globalposition:  (33.0358,6.68057,144.036) 
+------Estimate: 0.605155
+------RecHit globalposition:  (32.4732,6.05994,144.036) 
+------Estimate: 0.59802
+------RecHit globalposition:  (33.5944,6.85821,144.036) 
+------Estimate: 0.562777
+------RecHit globalposition:  (39.0541,7.89851,144.036) 
+------Estimate: 0.454894
+------RecHit globalposition:  (39.8397,8.13412,144.036) 
+------Estimate: 0.516987
+------RecHit globalposition:  (33.0236,6.22736,144.036) 
+------Estimate: 0.544186
+------RecHit globalposition:  (32.499,-0.0251579,144.036) 
+------Estimate: 0.556211
+------RecHit globalposition:  (42.2901,2.4609,144.036) 
+------Estimate: 0.205844
+------RecHit globalposition:  (37.4514,7.57417,144.036) 
+------Estimate: 0.406218
+------RecHit globalposition:  (31.9398,1.76073,144.036) 
+------Estimate: 0.499627
+------RecHit globalposition:  (33.6679,6.28305,144.036) 
+------Estimate: 0.47282
+------RecHit globalposition:  (33.9968,0.14419,144.036) 
+------Estimate: 0.363634
+------RecHit globalposition:  (33.2669,0.14119,144.036) 
+------Estimate: 0.442075
+------RecHit globalposition:  (34.2603,6.46074,144.036) 
+------Estimate: 0.432942
+------RecHit globalposition:  (34.634,2.67422,144.036) 
+------Estimate: 0.158001
+------RecHit globalposition:  (38.7678,3.44028,144.036) 
+------Estimate: 0.00585466
+------RecHit globalposition:  (36.3305,2.11437,144.036) 
+------Estimate: 0.0587926
+------RecHit globalposition:  (32.8027,1.90924,144.036) 
+------Estimate: 0.373222
+------RecHit globalposition:  (40.8602,2.25192,144.036) 
+------Estimate: 0.0969274
+------RecHit globalposition:  (35.2729,1.94426,144.036) 
+------Estimate: 0.125737
+------RecHit globalposition:  (38.3982,5.8891,144.036) 
+------Estimate: 0.154693
+------RecHit globalposition:  (41.3815,1.47058,144.036) 
+------Estimate: 0.172456
+------RecHit globalposition:  (33.6344,1.19582,144.036) 
+------Estimate: 0.310823
+------RecHit globalposition:  (37.0582,4.58296,144.036) 
+------Estimate: 0.0646081
+------RecHit globalposition:  (35.1136,0.148781,144.036) 
+------Estimate: 0.268352
+------RecHit globalposition:  (38.1727,7.79355,144.036) 
+------Estimate: 0.433463
+------RecHit globalposition:  (33.5171,-0.0260921,144.036) 
+------Estimate: 0.432246
+------RecHit globalposition:  (39.3733,3.04003,144.036) 
+------Estimate: 0.0151758
+FindingHitbasedSeed---------------------------------------------------------------------with: TECmus
+Det size on this layer: --------  1
+RawID of this det: ------  470311240
+WheelNumber of this det: ----  1
+Propagated TSOS global position: ------   (34.3392,2.68044,130.038) 
+------RecHit globalposition:  (41.0888,6.92288,130.038) 
+------Estimate: 0.808775
+------RecHit globalposition:  (37.384,6.81266,130.038) 
+------Estimate: 0.399091
+------RecHit globalposition:  (39.4165,4.01963,130.038) 
+------Estimate: 0.317887
+------RecHit globalposition:  (31.1968,5.25534,130.038) 
+------Estimate: 0.242777
+------RecHit globalposition:  (36.3129,6.61734,130.038) 
+------Estimate: 0.3153
+------RecHit globalposition:  (36.4953,5.7251,130.038) 
+------Estimate: 0.212584
+------RecHit globalposition:  (38.8706,3.91201,130.038) 
+------Estimate: 0.254535
+------RecHit globalposition:  (32.0974,5.40716,130.038) 
+------Estimate: 0.199584
+------RecHit globalposition:  (32.6282,5.55954,130.038) 
+------Estimate: 0.189643
+------RecHit globalposition:  (31.6976,5.40087,130.038) 
+------Estimate: 0.222575
+------RecHit globalposition:  (38.5567,4.71552,130.038) 
+------Estimate: 0.267037
+------RecHit globalposition:  (37.6912,2.27604,130.038) 
+------Estimate: 0.132779
+------RecHit globalposition:  (35.0403,4.28533,130.038) 
+------Estimate: 0.0508288
+------RecHit globalposition:  (31.5577,3.17593,130.038) 
+------Estimate: 0.0943753
+------RecHit globalposition:  (32.9293,5.5474,130.038) 
+------Estimate: 0.176555
+------RecHit globalposition:  (34.931,3.13525,130.038) 
+------Estimate: 0.00740153
+------RecHit globalposition:  (35.9604,3.61908,130.038) 
+------Estimate: 0.0440055
+------RecHit globalposition:  (34.0032,3.46751,130.038) 
+------Estimate: 0.0128355
+------RecHit globalposition:  (33.4885,5.70622,130.038) 
+------Estimate: 0.177247
+------RecHit globalposition:  (33.5973,3.38122,130.038) 
+------Estimate: 0.0158198
+------RecHit globalposition:  (31.9151,3.25455,130.038) 
+------Estimate: 0.0747145
+------RecHit globalposition:  (36.4265,3.71467,130.038) 
+------Estimate: 0.0663359
+------RecHit globalposition:  (35.1616,6.40742,130.038) 
+------Estimate: 0.255366
+------RecHit globalposition:  (32.5672,2.92308,130.038) 
+------Estimate: 0.03741
+------RecHit globalposition:  (34.3187,1.08237,130.038) 
+------Estimate: 0.0462034
+      Number of hitless seeds: 18
+      Number of hitbased seeds: 51
+Total num of seeds made:  69
+gen muon found: pt: 55.1388 eta: 1.18114 phi: 3.00614
+gen muon found: pt: 34.1914 eta: 1.99005 phi: 0.0933022
+reco::Track muon pt,eta,phi33.4059, 1.99032, 0.0935618
+Offline RecHit RawID:   470409612
+Offline RecHit WheelNumber:   7
+Offline RecHit GP:   (56.0891,3.15059,222.166) 
+Seed Hit GP: (56.0004, 4.729,  222.166)
+ Local Distance (Offrechit-seedhit)1.5809
+ Global Distance (Offrechit-seedhit)1.5809
+Offline RecHit RawID:   470409612
+Offline RecHit WheelNumber:   7
+Offline RecHit GP:   (56.0891,3.15059,222.166) 
+Seed Hit GP: (56.0352, 4.11037,  222.166)
+ Local Distance (Offrechit-seedhit)0.961302
+ Global Distance (Offrechit-seedhit)0.961302
+Offline RecHit RawID:   470393228
+Offline RecHit WheelNumber:   6
+Offline RecHit GP:   (56.0928,3.15065,203.168) 
+Seed Hit GP: (55.9922, 4.94318,  203.167)
+ Local Distance (Offrechit-seedhit)1.79536
+ Global Distance (Offrechit-seedhit)1.79536
+Offline RecHit RawID:   470393228
+Offline RecHit WheelNumber:   6
+Offline RecHit GP:   (56.0928,3.15065,203.168) 
+Seed Hit GP: (56.0012, 4.78177,  203.167)
+ Local Distance (Offrechit-seedhit)1.63369
+ Global Distance (Offrechit-seedhit)1.63369
+Offline RecHit RawID:   470393228
+Offline RecHit WheelNumber:   6
+Offline RecHit GP:   (56.0928,3.15065,203.168) 
+Seed Hit GP: (55.9283, 6.08131,  203.167)
+ Local Distance (Offrechit-seedhit)2.93528
+ Global Distance (Offrechit-seedhit)2.93528
+Offline RecHit RawID:   470376844
+Offline RecHit WheelNumber:   5
+Offline RecHit GP:   (56.0866,3.15025,185.67) 
+Seed Hit GP: (55.9922, 4.82962,  185.67)
+ Local Distance (Offrechit-seedhit)1.68202
+ Global Distance (Offrechit-seedhit)1.68202
+Offline RecHit RawID:   470376812
+Offline RecHit WheelNumber:   5
+Offline RecHit GP:   (44.1889,6.99941,183.141) 
+Seed Hit GP: (44.6852, 3.8658,  183.141)
+ Local Distance (Offrechit-seedhit)3.17268
+ Global Distance (Offrechit-seedhit)3.17268
+Offline RecHit RawID:   470376812
+Offline RecHit WheelNumber:   5
+Offline RecHit GP:   (44.1889,6.99941,183.141) 
+Seed Hit GP: (44.4625, 5.27227,  183.141)
+ Local Distance (Offrechit-seedhit)1.74868
+ Global Distance (Offrechit-seedhit)1.74868
+Offline RecHit RawID:   470360428
+Offline RecHit WheelNumber:   4
+Offline RecHit GP:   (44.1956,7.00043,169.143) 
+Seed Hit GP: (44.6688, 4.01282,  169.143)
+ Local Distance (Offrechit-seedhit)3.02485
+ Global Distance (Offrechit-seedhit)3.02485
+Offline RecHit RawID:   470360428
+Offline RecHit WheelNumber:   4
+Offline RecHit GP:   (44.1956,7.00043,169.143) 
+Seed Hit GP: (44.6879, 3.89267,  169.143)
+ Local Distance (Offrechit-seedhit)3.1465
+ Global Distance (Offrechit-seedhit)3.1465
+Offline RecHit RawID:   470360428
+Offline RecHit WheelNumber:   4
+Offline RecHit GP:   (44.1956,7.00043,169.143) 
+Seed Hit GP: (44.4088, 5.6544,  169.143)
+ Local Distance (Offrechit-seedhit)1.36281
+ Global Distance (Offrechit-seedhit)1.36281
+Offline RecHit RawID:   470409612
+Offline RecHit WheelNumber:   7
+Offline RecHit GP:   (56.0891,3.15059,222.166) 
+Seed Hit GP: (56.0004, 4.729,  222.166)
+ Local Distance (Offrechit-seedhit)1.5809
+ Global Distance (Offrechit-seedhit)1.5809
+Offline RecHit RawID:   470409612
+Offline RecHit WheelNumber:   7
+Offline RecHit GP:   (56.0891,3.15059,222.166) 
+Seed Hit GP: (56.0352, 4.11038,  222.166)
+ Local Distance (Offrechit-seedhit)0.961302
+ Global Distance (Offrechit-seedhit)0.961302
+Offline RecHit RawID:   470393228
+Offline RecHit WheelNumber:   6
+Offline RecHit GP:   (56.0928,3.15065,203.168) 
+Seed Hit GP: (56.0013, 4.78177,  203.167)
+ Local Distance (Offrechit-seedhit)1.63369
+ Global Distance (Offrechit-seedhit)1.63369
+Offline RecHit RawID:   470393228
+Offline RecHit WheelNumber:   6
+Offline RecHit GP:   (56.0928,3.15065,203.168) 
+Seed Hit GP: (55.9922, 4.94319,  203.167)
+ Local Distance (Offrechit-seedhit)1.79536
+ Global Distance (Offrechit-seedhit)1.79536
+Offline RecHit RawID:   470393228
+Offline RecHit WheelNumber:   6
+Offline RecHit GP:   (56.0928,3.15065,203.168) 
+Seed Hit GP: (55.9283, 6.08131,  203.167)
+ Local Distance (Offrechit-seedhit)2.93528
+ Global Distance (Offrechit-seedhit)2.93528
+Offline RecHit RawID:   470376812
+Offline RecHit WheelNumber:   5
+Offline RecHit GP:   (44.1889,6.99941,183.141) 
+Seed Hit GP: (44.6853, 3.8658,  183.141)
+ Local Distance (Offrechit-seedhit)3.17268
+ Global Distance (Offrechit-seedhit)3.17268
+Offline RecHit RawID:   470360428
+Offline RecHit WheelNumber:   4
+Offline RecHit GP:   (44.1956,7.00043,169.143) 
+Seed Hit GP: (44.6879, 3.89267,  169.143)
+ Local Distance (Offrechit-seedhit)3.1465
+ Global Distance (Offrechit-seedhit)3.1465
+Offline RecHit RawID:   470360428
+Offline RecHit WheelNumber:   4
+Offline RecHit GP:   (44.1956,7.00043,169.143) 
+Seed Hit GP: (44.6688, 4.01282,  169.143)
+ Local Distance (Offrechit-seedhit)3.02485
+ Global Distance (Offrechit-seedhit)3.02485
+reco::Track muon pt,eta,phi54.0042, 1.18131, 3.00615
+Tight id and Isolated reco muon, pt,eta,phi:  33.2699, 1.99032, 0.0935745
+Tight id and Isolated reco muon, px,py,pz:  33.1243, 3.10867, 119.459
+Tight id and Isolated reco muon, pt,eta,phi:  54.0042, 1.18131, 3.00615
+Tight id and Isolated reco muon, px,py,pz:  -53.5096, 7.29203, 79.7037
+Num of L3OI muon cands: 1
+L3 OI cand pt, eta, phi:  33.1716  :  1.99027  : 0.0935553
