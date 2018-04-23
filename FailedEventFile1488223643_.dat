@@ -1,3 +1,4 @@
+Begin processing the 1st record. Run 1, Event 88223643, LumiSection 34295 at 23-Apr-2018 12:31:31.680 CDT
 L2 Muon pt,eta, phi:   62.838 , -1.77748 , 1.48199
 L2 Muon px,py, pz:   5.573 , 62.5904 , -180.53
 ---------------------------------------------------------finding seed................TOBip
@@ -80,25 +81,25 @@ Propagated TSOS global position: ------   (8.80693,90.8388,-261.705)
 Looping Over Tracjectory measurements----
 ---------------------------- Raw ID: 470180848
 ---------------------------TSOS position before Update:   (8.80693,90.8388,-261.705) 
----------------------------TSOS momentum after Update:   (6.61003,62.4887,-180.528) 
+---------------------------TSOS momentum before Update:   (6.61003,62.4887,-180.528) 
 ---------------------------TSOS after update Position:  (9.19326,94.463,-261.706) 
 ---------------------------TSOS after update Momentum:  (7.08911,67.2693,-197.928) 
 DeltaR before and after update(used in seed)0.0173397
 ---------------------------- Raw ID: 470180848
 ---------------------------TSOS position before Update:   (8.80693,90.8388,-261.705) 
----------------------------TSOS momentum after Update:   (6.61003,62.4887,-180.528) 
+---------------------------TSOS momentum before Update:   (6.61003,62.4887,-180.528) 
 ---------------------------TSOS after update Position:  (8.84836,94.6717,-261.706) 
 ---------------------------TSOS after update Momentum:  (5.43214,51.4435,-151.515) 
 DeltaR before and after update(used in seed)0.0182638
 ---------------------------- Raw ID: 470180848
 ---------------------------TSOS position before Update:   (8.80693,90.8388,-261.705) 
----------------------------TSOS momentum after Update:   (6.61003,62.4887,-180.528) 
+---------------------------TSOS momentum before Update:   (6.61003,62.4887,-180.528) 
 ---------------------------TSOS after update Position:  (9.51273,94.1939,-261.706) 
 ---------------------------TSOS after update Momentum:  (9.96092,94.692,-278.249) 
 DeltaR before and after update(used in seed)0.0161231
 ---------------------------- Raw ID: 470180848
 ---------------------------TSOS position before Update:   (8.80693,90.8388,-261.705) 
----------------------------TSOS momentum after Update:   (6.61003,62.4887,-180.528) 
+---------------------------TSOS momentum before Update:   (6.61003,62.4887,-180.528) 
 ---------------------------TSOS after update Position:  (6.93184,94.481,-261.705) 
 ---------------------------TSOS after update Momentum:  (2.45956,23.0253,-67.7284) 
 DeltaR before and after update(used in seed)0.0169526
@@ -132,43 +133,43 @@ Propagated TSOS global position: ------   (8.11111,84.2225,-242.592)
 Looping Over Tracjectory measurements----
 ---------------------------- Raw ID: 470164428
 ---------------------------TSOS position before Update:   (8.11111,84.2225,-242.592) 
----------------------------TSOS momentum after Update:   (6.5344,62.4964,-180.528) 
+---------------------------TSOS momentum before Update:   (6.5344,62.4964,-180.528) 
 ---------------------------TSOS after update Position:  (8.00434,82.7717,-242.593) 
 ---------------------------TSOS after update Momentum:  (6.61072,63.154,-181.146) 
 DeltaR before and after update(used in seed)0.00666509
 ---------------------------- Raw ID: 470164428
 ---------------------------TSOS position before Update:   (8.11111,84.2225,-242.592) 
----------------------------TSOS momentum after Update:   (6.5344,62.4964,-180.528) 
+---------------------------TSOS momentum before Update:   (6.5344,62.4964,-180.528) 
 ---------------------------TSOS after update Position:  (8.90956,81.9402,-242.593) 
 ---------------------------TSOS after update Momentum:  (25.4191,243.253,-695.124) 
 DeltaR before and after update(used in seed)0.0101773
 ---------------------------- Raw ID: 470164428
 ---------------------------TSOS position before Update:   (8.11111,84.2225,-242.592) 
----------------------------TSOS momentum after Update:   (6.5344,62.4964,-180.528) 
+---------------------------TSOS momentum before Update:   (6.5344,62.4964,-180.528) 
 ---------------------------TSOS after update Position:  (9.23089,81.4761,-242.594) 
 ---------------------------TSOS after update Momentum:  (553.027,5294.98,-15098.7) 
 DeltaR before and after update(used in seed)0.0121861
 ---------------------------- Raw ID: 470164428
 ---------------------------TSOS position before Update:   (8.11111,84.2225,-242.592) 
----------------------------TSOS momentum after Update:   (6.5344,62.4964,-180.528) 
+---------------------------TSOS momentum before Update:   (6.5344,62.4964,-180.528) 
 ---------------------------TSOS after update Position:  (6.45172,82.7985,-242.592) 
 ---------------------------TSOS after update Momentum:  (3.03671,28.9007,-82.8706) 
 DeltaR before and after update(used in seed)0.0070164
 ---------------------------- Raw ID: 470164428
 ---------------------------TSOS position before Update:   (8.11111,84.2225,-242.592) 
----------------------------TSOS momentum after Update:   (6.5344,62.4964,-180.528) 
+---------------------------TSOS momentum before Update:   (6.5344,62.4964,-180.528) 
 ---------------------------TSOS after update Position:  (5.16646,81.8506,-242.592) 
 ---------------------------TSOS after update Momentum:  (2.15142,20.4003,-58.2094) 
 DeltaR before and after update(used in seed)0.011711
 ---------------------------- Raw ID: 470164428
 ---------------------------TSOS position before Update:   (8.11111,84.2225,-242.592) 
----------------------------TSOS momentum after Update:   (6.5344,62.4964,-180.528) 
+---------------------------TSOS momentum before Update:   (6.5344,62.4964,-180.528) 
 ---------------------------TSOS after update Position:  (4.43914,80.8824,-242.592) 
 ---------------------------TSOS after update Momentum:  (1.86695,17.6623,-50.1539) 
 DeltaR before and after update(used in seed)0.0162991
 ---------------------------- Raw ID: 470164428
 ---------------------------TSOS position before Update:   (8.11111,84.2225,-242.592) 
----------------------------TSOS momentum after Update:   (6.5344,62.4964,-180.528) 
+---------------------------TSOS momentum before Update:   (6.5344,62.4964,-180.528) 
 ---------------------------TSOS after update Position:  (3.51153,79.2732,-242.593) 
 ---------------------------TSOS after update Momentum:  (1.61217,15.2051,-42.8363) 
 DeltaR before and after update(used in seed)0.0237861
@@ -202,43 +203,43 @@ Propagated TSOS global position: ------   (7.37376,77.1258,-222.094)
 Looping Over Tracjectory measurements----
 ---------------------------- Raw ID: 470148044
 ---------------------------TSOS position before Update:   (7.37376,77.1258,-222.094) 
----------------------------TSOS momentum after Update:   (6.45331,62.5047,-180.527) 
+---------------------------TSOS momentum before Update:   (6.45331,62.5047,-180.527) 
 ---------------------------TSOS after update Position:  (7.63832,79.5866,-222.095) 
 ---------------------------TSOS after update Momentum:  (6.72124,65.2232,-190.61) 
 DeltaR before and after update(used in seed)0.0111473
 ---------------------------- Raw ID: 470148044
 ---------------------------TSOS position before Update:   (7.37376,77.1258,-222.094) 
----------------------------TSOS momentum after Update:   (6.45331,62.5047,-180.527) 
+---------------------------TSOS momentum before Update:   (6.45331,62.5047,-180.527) 
 ---------------------------TSOS after update Position:  (6.93137,79.7881,-222.095) 
 ---------------------------TSOS after update Momentum:  (4.31288,41.8736,-122.456) 
 DeltaR before and after update(used in seed)0.0117991
 ---------------------------- Raw ID: 470148044
 ---------------------------TSOS position before Update:   (7.37376,77.1258,-222.094) 
----------------------------TSOS momentum after Update:   (6.45331,62.5047,-180.527) 
+---------------------------TSOS momentum before Update:   (6.45331,62.5047,-180.527) 
 ---------------------------TSOS after update Position:  (6.58757,79.7609,-222.095) 
 ---------------------------TSOS after update Momentum:  (3.68963,35.8276,-104.747) 
 DeltaR before and after update(used in seed)0.0115495
 ---------------------------- Raw ID: 470148044
 ---------------------------TSOS position before Update:   (7.37376,77.1258,-222.094) 
----------------------------TSOS momentum after Update:   (6.45331,62.5047,-180.527) 
+---------------------------TSOS momentum before Update:   (6.45331,62.5047,-180.527) 
 ---------------------------TSOS after update Position:  (5.14092,78.8453,-222.094) 
 ---------------------------TSOS after update Momentum:  (2.34314,22.7511,-66.1891) 
 DeltaR before and after update(used in seed)0.00689217
 ---------------------------- Raw ID: 470148044
 ---------------------------TSOS position before Update:   (7.37376,77.1258,-222.094) 
----------------------------TSOS momentum after Update:   (6.45331,62.5047,-180.527) 
+---------------------------TSOS momentum before Update:   (6.45331,62.5047,-180.527) 
 ---------------------------TSOS after update Position:  (3.56794,76.5106,-222.093) 
 ---------------------------TSOS after update Momentum:  (1.72808,16.7594,-48.1936) 
 DeltaR before and after update(used in seed)0.00411772
 ---------------------------- Raw ID: 470148044
 ---------------------------TSOS position before Update:   (7.37376,77.1258,-222.094) 
----------------------------TSOS momentum after Update:   (6.45331,62.5047,-180.527) 
+---------------------------TSOS momentum before Update:   (6.45331,62.5047,-180.527) 
 ---------------------------TSOS after update Position:  (3.12241,75.5903,-222.093) 
 ---------------------------TSOS after update Momentum:  (1.61817,15.685,-44.9023) 
 DeltaR before and after update(used in seed)0.00835193
 ---------------------------- Raw ID: 470148044
 ---------------------------TSOS position before Update:   (7.37376,77.1258,-222.094) 
----------------------------TSOS momentum after Update:   (6.45331,62.5047,-180.527) 
+---------------------------TSOS momentum before Update:   (6.45331,62.5047,-180.527) 
 ---------------------------TSOS after update Position:  (2.61926,74.4556,-222.092) 
 ---------------------------TSOS after update Momentum:  (1.51331,14.6587,-41.735) 
 DeltaR before and after update(used in seed)0.0135286
@@ -293,85 +294,85 @@ Propagated TSOS global position: ------   (6.59145,69.4966,-200.061)
 Looping Over Tracjectory measurements----
 ---------------------------- Raw ID: 470131624
 ---------------------------TSOS position before Update:   (6.59145,69.4966,-200.061) 
----------------------------TSOS momentum after Update:   (6.3661,62.5133,-180.526) 
+---------------------------TSOS momentum before Update:   (6.3661,62.5133,-180.526) 
 ---------------------------TSOS after update Position:  (6.63407,69.5933,-200.061) 
 ---------------------------TSOS after update Momentum:  (6.51909,64.0153,-184.949) 
 DeltaR before and after update(used in seed)0.000436783
 ---------------------------- Raw ID: 470131624
 ---------------------------TSOS position before Update:   (6.59145,69.4966,-200.061) 
----------------------------TSOS momentum after Update:   (6.3661,62.5133,-180.526) 
+---------------------------TSOS momentum before Update:   (6.3661,62.5133,-180.526) 
 ---------------------------TSOS after update Position:  (9.30256,70.4133,-200.062) 
 ---------------------------TSOS after update Momentum:  (7.9083,77.2654,-224.352) 
 DeltaR before and after update(used in seed)0.00514561
 ---------------------------- Raw ID: 470131624
 ---------------------------TSOS position before Update:   (6.59145,69.4966,-200.061) 
----------------------------TSOS momentum after Update:   (6.3661,62.5133,-180.526) 
+---------------------------TSOS momentum before Update:   (6.3661,62.5133,-180.526) 
 ---------------------------TSOS after update Position:  (8.92071,59.6896,-200.064) 
 ---------------------------TSOS after update Momentum:  (5.92541,57.4149,-158.849) 
 DeltaR before and after update(used in seed)0.0405251
 ---------------------------- Raw ID: 470131624
 ---------------------------TSOS position before Update:   (6.59145,69.4966,-200.061) 
----------------------------TSOS momentum after Update:   (6.3661,62.5133,-180.526) 
+---------------------------TSOS momentum before Update:   (6.3661,62.5133,-180.526) 
 ---------------------------TSOS after update Position:  (8.90222,59.1703,-200.064) 
 ---------------------------TSOS after update Momentum:  (5.85787,56.739,-156.621) 
 DeltaR before and after update(used in seed)0.0426735
 ---------------------------- Raw ID: 470131624
 ---------------------------TSOS position before Update:   (6.59145,69.4966,-200.061) 
----------------------------TSOS momentum after Update:   (6.3661,62.5133,-180.526) 
+---------------------------TSOS momentum before Update:   (6.3661,62.5133,-180.526) 
 ---------------------------TSOS after update Position:  (9.86875,66.0338,-200.063) 
 ---------------------------TSOS after update Momentum:  (4.54652,44.1979,-125.834) 
 DeltaR before and after update(used in seed)0.0135499
 ---------------------------- Raw ID: 470131624
 ---------------------------TSOS position before Update:   (6.59145,69.4966,-200.061) 
----------------------------TSOS momentum after Update:   (6.3661,62.5133,-180.526) 
+---------------------------TSOS momentum before Update:   (6.3661,62.5133,-180.526) 
 ---------------------------TSOS after update Position:  (9.83931,65.3996,-200.063) 
 ---------------------------TSOS after update Momentum:  (4.51435,43.8643,-124.526) 
 DeltaR before and after update(used in seed)0.0162572
 ---------------------------- Raw ID: 470131624
 ---------------------------TSOS position before Update:   (6.59145,69.4966,-200.061) 
----------------------------TSOS momentum after Update:   (6.3661,62.5133,-180.526) 
+---------------------------TSOS momentum before Update:   (6.3661,62.5133,-180.526) 
 ---------------------------TSOS after update Position:  (9.99372,66.8701,-200.063) 
 ---------------------------TSOS after update Momentum:  (4.40679,42.8585,-122.489) 
 DeltaR before and after update(used in seed)0.00993653
 ---------------------------- Raw ID: 470131624
 ---------------------------TSOS position before Update:   (6.59145,69.4966,-200.061) 
----------------------------TSOS momentum after Update:   (6.3661,62.5133,-180.526) 
+---------------------------TSOS momentum before Update:   (6.3661,62.5133,-180.526) 
 ---------------------------TSOS after update Position:  (9.96261,66.2192,-200.063) 
 ---------------------------TSOS after update Momentum:  (4.37788,42.5566,-121.268) 
 DeltaR before and after update(used in seed)0.0127237
 ---------------------------- Raw ID: 470131624
 ---------------------------TSOS position before Update:   (6.59145,69.4966,-200.061) 
----------------------------TSOS momentum after Update:   (6.3661,62.5133,-180.526) 
+---------------------------TSOS momentum before Update:   (6.3661,62.5133,-180.526) 
 ---------------------------TSOS after update Position:  (9.78598,64.2511,-200.063) 
 ---------------------------TSOS after update Momentum:  (4.45768,43.277,-122.224) 
 DeltaR before and after update(used in seed)0.02114
 ---------------------------- Raw ID: 470131624
 ---------------------------TSOS position before Update:   (6.59145,69.4966,-200.061) 
----------------------------TSOS momentum after Update:   (6.3661,62.5133,-180.526) 
+---------------------------TSOS momentum before Update:   (6.3661,62.5133,-180.526) 
 ---------------------------TSOS after update Position:  (9.90629,65.041,-200.063) 
 ---------------------------TSOS after update Momentum:  (4.32692,42.0246,-119.115) 
 DeltaR before and after update(used in seed)0.0177514
 ---------------------------- Raw ID: 470131624
 ---------------------------TSOS position before Update:   (6.59145,69.4966,-200.061) 
----------------------------TSOS momentum after Update:   (6.3661,62.5133,-180.526) 
+---------------------------TSOS momentum before Update:   (6.3661,62.5133,-180.526) 
 ---------------------------TSOS after update Position:  (9.59569,60.1544,-200.064) 
 ---------------------------TSOS after update Momentum:  (4.27094,41.3417,-114.647) 
 DeltaR before and after update(used in seed)0.0383398
 ---------------------------- Raw ID: 470131624
 ---------------------------TSOS position before Update:   (6.59145,69.4966,-200.061) 
----------------------------TSOS momentum after Update:   (6.3661,62.5133,-180.526) 
+---------------------------TSOS momentum before Update:   (6.3661,62.5133,-180.526) 
 ---------------------------TSOS after update Position:  (9.70563,60.8436,-200.064) 
 ---------------------------TSOS after update Momentum:  (4.15846,40.2661,-112.009) 
 DeltaR before and after update(used in seed)0.0354392
 ---------------------------- Raw ID: 470131624
 ---------------------------TSOS position before Update:   (6.59145,69.4966,-200.061) 
----------------------------TSOS momentum after Update:   (6.3661,62.5133,-180.526) 
+---------------------------TSOS momentum before Update:   (6.3661,62.5133,-180.526) 
 ---------------------------TSOS after update Position:  (2.0027,60.8545,-200.061) 
 ---------------------------TSOS after update Momentum:  (1.79656,17.6767,-49.0045) 
 DeltaR before and after update(used in seed)0.038456
 ---------------------------- Raw ID: 470131624
 ---------------------------TSOS position before Update:   (6.59145,69.4966,-200.061) 
----------------------------TSOS momentum after Update:   (6.3661,62.5133,-180.526) 
+---------------------------TSOS momentum before Update:   (6.3661,62.5133,-180.526) 
 ---------------------------TSOS after update Position:  (2.20841,67.0908,-200.059) 
 ---------------------------TSOS after update Momentum:  (1.65305,16.3505,-46.6089) 
 DeltaR before and after update(used in seed)0.0121875
@@ -414,61 +415,61 @@ Propagated TSOS global position: ------   (5.97784,63.4378,-182.565)
 Looping Over Tracjectory measurements----
 ---------------------------- Raw ID: 470115240
 ---------------------------TSOS position before Update:   (5.97784,63.4378,-182.565) 
----------------------------TSOS momentum after Update:   (6.2969,62.5205,-180.527) 
+---------------------------TSOS momentum before Update:   (6.2969,62.5205,-180.527) 
 ---------------------------TSOS after update Position:  (6.01546,63.4924,-182.565) 
 ---------------------------TSOS after update Momentum:  (6.43129,63.8533,-184.424) 
 DeltaR before and after update(used in seed)0.000247848
 ---------------------------- Raw ID: 470115240
 ---------------------------TSOS position before Update:   (5.97784,63.4378,-182.565) 
----------------------------TSOS momentum after Update:   (6.2969,62.5205,-180.527) 
+---------------------------TSOS momentum before Update:   (6.2969,62.5205,-180.527) 
 ---------------------------TSOS after update Position:  (5.03445,62.414,-182.565) 
 ---------------------------TSOS after update Momentum:  (4.08549,40.6005,-116.644) 
 DeltaR before and after update(used in seed)0.00474597
 ---------------------------- Raw ID: 470115240
 ---------------------------TSOS position before Update:   (5.97784,63.4378,-182.565) 
----------------------------TSOS momentum after Update:   (6.2969,62.5205,-180.527) 
+---------------------------TSOS momentum before Update:   (6.2969,62.5205,-180.527) 
 ---------------------------TSOS after update Position:  (4.96924,61.6052,-182.565) 
 ---------------------------TSOS after update Momentum:  (4.1014,40.7352,-116.608) 
 DeltaR before and after update(used in seed)0.008169
 ---------------------------- Raw ID: 470115240
 ---------------------------TSOS position before Update:   (5.97784,63.4378,-182.565) 
----------------------------TSOS momentum after Update:   (6.2969,62.5205,-180.527) 
+---------------------------TSOS momentum before Update:   (6.2969,62.5205,-180.527) 
 ---------------------------TSOS after update Position:  (6.84872,72.2918,-182.565) 
 ---------------------------TSOS after update Momentum:  (6.69051,66.8471,-201.063) 
 DeltaR before and after update(used in seed)0.0387023
 ---------------------------- Raw ID: 470115240
 ---------------------------TSOS position before Update:   (5.97784,63.4378,-182.565) 
----------------------------TSOS momentum after Update:   (6.2969,62.5205,-180.527) 
+---------------------------TSOS momentum before Update:   (6.2969,62.5205,-180.527) 
 ---------------------------TSOS after update Position:  (5.89805,73.1255,-182.565) 
 ---------------------------TSOS after update Momentum:  (3.87336,38.8039,-117.111) 
 DeltaR before and after update(used in seed)0.041948
 ---------------------------- Raw ID: 470115240
 ---------------------------TSOS position before Update:   (5.97784,63.4378,-182.565) 
----------------------------TSOS momentum after Update:   (6.2969,62.5205,-180.527) 
+---------------------------TSOS momentum before Update:   (6.2969,62.5205,-180.527) 
 ---------------------------TSOS after update Position:  (4.82174,66.5668,-182.565) 
 ---------------------------TSOS after update Momentum:  (3.26605,32.5898,-95.381) 
 DeltaR before and after update(used in seed)0.0128099
 ---------------------------- Raw ID: 470115240
 ---------------------------TSOS position before Update:   (5.97784,63.4378,-182.565) 
----------------------------TSOS momentum after Update:   (6.2969,62.5205,-180.527) 
+---------------------------TSOS momentum before Update:   (6.2969,62.5205,-180.527) 
 ---------------------------TSOS after update Position:  (4.89101,67.5219,-182.565) 
 ---------------------------TSOS after update Momentum:  (3.24225,32.376,-95.1703) 
 DeltaR before and after update(used in seed)0.0169512
 ---------------------------- Raw ID: 470115240
 ---------------------------TSOS position before Update:   (5.97784,63.4378,-182.565) 
----------------------------TSOS momentum after Update:   (6.2969,62.5205,-180.527) 
+---------------------------TSOS momentum before Update:   (6.2969,62.5205,-180.527) 
 ---------------------------TSOS after update Position:  (7.54887,64.9949,-182.565) 
 ---------------------------TSOS after update Momentum:  (76.6014,759.308,-2209.6) 
 DeltaR before and after update(used in seed)0.00733214
 ---------------------------- Raw ID: 470115240
 ---------------------------TSOS position before Update:   (5.97784,63.4378,-182.565) 
----------------------------TSOS momentum after Update:   (6.2969,62.5205,-180.527) 
+---------------------------TSOS momentum before Update:   (6.2969,62.5205,-180.527) 
 ---------------------------TSOS after update Position:  (8.85381,69.688,-182.565) 
 ---------------------------TSOS after update Momentum:  (12.1127,120.259,-357.752) 
 DeltaR before and after update(used in seed)0.0281978
 ---------------------------- Raw ID: 470115240
 ---------------------------TSOS position before Update:   (5.97784,63.4378,-182.565) 
----------------------------TSOS momentum after Update:   (6.2969,62.5205,-180.527) 
+---------------------------TSOS momentum before Update:   (6.2969,62.5205,-180.527) 
 ---------------------------TSOS after update Position:  (3.72911,66.5836,-182.565) 
 ---------------------------TSOS after update Momentum:  (2.38561,23.8551,-69.7837) 
 DeltaR before and after update(used in seed)0.0123878
@@ -499,37 +500,37 @@ Propagated TSOS global position: ------   (5.59917,59.6651,-171.672)
 Looping Over Tracjectory measurements----
 ---------------------------- Raw ID: 470098828
 ---------------------------TSOS position before Update:   (5.59917,59.6651,-171.672) 
----------------------------TSOS momentum after Update:   (6.2538,62.5249,-180.527) 
+---------------------------TSOS momentum before Update:   (6.2538,62.5249,-180.527) 
 ---------------------------TSOS after update Position:  (5.35565,56.7342,-171.672) 
 ---------------------------TSOS after update Momentum:  (6.31985,63.059,-179.726) 
 DeltaR before and after update(used in seed)0.0122432
 ---------------------------- Raw ID: 470098828
 ---------------------------TSOS position before Update:   (5.59917,59.6651,-171.672) 
----------------------------TSOS momentum after Update:   (6.2538,62.5249,-180.527) 
+---------------------------TSOS momentum before Update:   (6.2538,62.5249,-180.527) 
 ---------------------------TSOS after update Position:  (6.3157,56.2322,-171.672) 
 ---------------------------TSOS after update Momentum:  (15.7416,156.893,-446.406) 
 DeltaR before and after update(used in seed)0.0138577
 ---------------------------- Raw ID: 470098828
 ---------------------------TSOS position before Update:   (5.59917,59.6651,-171.672) 
----------------------------TSOS momentum after Update:   (6.2538,62.5249,-180.527) 
+---------------------------TSOS momentum before Update:   (6.2538,62.5249,-180.527) 
 ---------------------------TSOS after update Position:  (3.03394,55.9067,-171.673) 
 ---------------------------TSOS after update Momentum:  (2.70241,26.9968,-76.5793) 
 DeltaR before and after update(used in seed)0.016714
 ---------------------------- Raw ID: 470098828
 ---------------------------TSOS position before Update:   (5.59917,59.6651,-171.672) 
----------------------------TSOS momentum after Update:   (6.2538,62.5249,-180.527) 
+---------------------------TSOS momentum before Update:   (6.2538,62.5249,-180.527) 
 ---------------------------TSOS after update Position:  (2.04012,54.7697,-171.673) 
 ---------------------------TSOS after update Momentum:  (2.20894,22.0656,-62.2541) 
 DeltaR before and after update(used in seed)0.0218064
 ---------------------------- Raw ID: 470098828
 ---------------------------TSOS position before Update:   (5.59917,59.6651,-171.672) 
----------------------------TSOS momentum after Update:   (6.2538,62.5249,-180.527) 
+---------------------------TSOS momentum before Update:   (6.2538,62.5249,-180.527) 
 ---------------------------TSOS after update Position:  (1.30066,53.6249,-171.674) 
 ---------------------------TSOS after update Momentum:  (1.95796,19.5532,-54.8753) 
 DeltaR before and after update(used in seed)0.0267837
 ---------------------------- Raw ID: 470098828
 ---------------------------TSOS position before Update:   (5.59917,59.6651,-171.672) 
----------------------------TSOS momentum after Update:   (6.2538,62.5249,-180.527) 
+---------------------------TSOS momentum before Update:   (6.2538,62.5249,-180.527) 
 ---------------------------TSOS after update Position:  (1.0916,53.2537,-171.674) 
 ---------------------------TSOS after update Momentum:  (1.8991,18.9633,-53.1298) 
 DeltaR before and after update(used in seed)0.0283768
@@ -554,25 +555,25 @@ Propagated TSOS global position: ------   (5.11643,54.8169,-157.675)
 Looping Over Tracjectory measurements----
 ---------------------------- Raw ID: 470082444
 ---------------------------TSOS position before Update:   (5.11643,54.8169,-157.675) 
----------------------------TSOS momentum after Update:   (6.19833,62.5296,-180.525) 
+---------------------------TSOS momentum before Update:   (6.19833,62.5296,-180.525) 
 ---------------------------TSOS after update Position:  (5.23595,55.7314,-157.675) 
 ---------------------------TSOS after update Momentum:  (6.32541,63.8562,-185.098) 
 DeltaR before and after update(used in seed)0.00380876
 ---------------------------- Raw ID: 470082444
 ---------------------------TSOS position before Update:   (5.11643,54.8169,-157.675) 
----------------------------TSOS momentum after Update:   (6.19833,62.5296,-180.525) 
+---------------------------TSOS momentum before Update:   (6.19833,62.5296,-180.525) 
 ---------------------------TSOS after update Position:  (4.79574,55.7803,-157.675) 
 ---------------------------TSOS after update Momentum:  (5.07385,51.18,-148.352) 
 DeltaR before and after update(used in seed)0.00379171
 ---------------------------- Raw ID: 470082444
 ---------------------------TSOS position before Update:   (5.11643,54.8169,-157.675) 
----------------------------TSOS momentum after Update:   (6.19833,62.5296,-180.525) 
+---------------------------TSOS momentum before Update:   (6.19833,62.5296,-180.525) 
 ---------------------------TSOS after update Position:  (4.47917,55.7505,-157.675) 
 ---------------------------TSOS after update Momentum:  (4.45314,44.8913,-130.086) 
 DeltaR before and after update(used in seed)0.00351311
 ---------------------------- Raw ID: 470082444
 ---------------------------TSOS position before Update:   (5.11643,54.8169,-157.675) 
----------------------------TSOS momentum after Update:   (6.19833,62.5296,-180.525) 
+---------------------------TSOS momentum before Update:   (6.19833,62.5296,-180.525) 
 ---------------------------TSOS after update Position:  (1.75957,53.4564,-157.673) 
 ---------------------------TSOS after update Momentum:  (2.27203,22.7615,-65.2192) 
 DeltaR before and after update(used in seed)0.00722096
@@ -625,73 +626,73 @@ Propagated TSOS global position: ------   (4.63784,49.967,-143.673)
 Looping Over Tracjectory measurements----
 ---------------------------- Raw ID: 470066028
 ---------------------------TSOS position before Update:   (4.55193,49.0917,-141.146) 
----------------------------TSOS momentum after Update:   (6.13293,62.5362,-180.525) 
+---------------------------TSOS momentum before Update:   (6.13293,62.5362,-180.525) 
 ---------------------------TSOS after update Position:  (4.24271,45.4438,-141.146) 
 ---------------------------TSOS after update Momentum:  (6.20697,63.1442,-179.478) 
 DeltaR before and after update(used in seed)0.0146393
 ---------------------------- Raw ID: 470066028
 ---------------------------TSOS position before Update:   (4.55193,49.0917,-141.146) 
----------------------------TSOS momentum after Update:   (6.13293,62.5362,-180.525) 
+---------------------------TSOS momentum before Update:   (6.13293,62.5362,-180.525) 
 ---------------------------TSOS after update Position:  (4.44045,45.3752,-141.146) 
 ---------------------------TSOS after update Momentum:  (6.84893,69.7715,-198.277) 
 DeltaR before and after update(used in seed)0.0148086
 ---------------------------- Raw ID: 470066028
 ---------------------------TSOS position before Update:   (4.55193,49.0917,-141.146) 
----------------------------TSOS momentum after Update:   (6.13293,62.5362,-180.525) 
+---------------------------TSOS momentum before Update:   (6.13293,62.5362,-180.525) 
 ---------------------------TSOS after update Position:  (3.92067,45.4996,-141.146) 
 ---------------------------TSOS after update Momentum:  (5.3984,54.7948,-155.76) 
 DeltaR before and after update(used in seed)0.0145865
 ---------------------------- Raw ID: 470066060
 ---------------------------TSOS position before Update:   (4.63784,49.967,-143.673) 
----------------------------TSOS momentum after Update:   (6.14293,62.5352,-180.525) 
+---------------------------TSOS momentum before Update:   (6.14293,62.5352,-180.525) 
 ---------------------------TSOS after update Position:  (5.71046,54.5596,-143.674) 
 ---------------------------TSOS after update Momentum:  (8.98919,92.1895,-271.573) 
 DeltaR before and after update(used in seed)0.0192205
 ---------------------------- Raw ID: 470066024
 ---------------------------TSOS position before Update:   (4.56886,49.2644,-141.645) 
----------------------------TSOS momentum after Update:   (6.1349,62.536,-180.525) 
+---------------------------TSOS momentum before Update:   (6.1349,62.536,-180.525) 
 ---------------------------TSOS after update Position:  (3.14284,45.3441,-141.646) 
 ---------------------------TSOS after update Momentum:  (4.14124,41.7968,-118.604) 
 DeltaR before and after update(used in seed)0.0163086
 ---------------------------- Raw ID: 470066024
 ---------------------------TSOS position before Update:   (4.56886,49.2644,-141.645) 
----------------------------TSOS momentum after Update:   (6.1349,62.536,-180.525) 
+---------------------------TSOS momentum before Update:   (6.1349,62.536,-180.525) 
 ---------------------------TSOS after update Position:  (2.78894,45.1234,-141.646) 
 ---------------------------TSOS after update Momentum:  (3.76371,37.8957,-107.418) 
 DeltaR before and after update(used in seed)0.017366
 ---------------------------- Raw ID: 470066024
 ---------------------------TSOS position before Update:   (4.56886,49.2644,-141.645) 
----------------------------TSOS momentum after Update:   (6.1349,62.536,-180.525) 
+---------------------------TSOS momentum before Update:   (6.1349,62.536,-180.525) 
 ---------------------------TSOS after update Position:  (2.26741,44.6734,-141.647) 
 ---------------------------TSOS after update Momentum:  (3.33115,33.4232,-94.5396) 
 DeltaR before and after update(used in seed)0.0194116
 ---------------------------- Raw ID: 470066024
 ---------------------------TSOS position before Update:   (4.56886,49.2644,-141.645) 
----------------------------TSOS momentum after Update:   (6.1349,62.536,-180.525) 
+---------------------------TSOS momentum before Update:   (6.1349,62.536,-180.525) 
 ---------------------------TSOS after update Position:  (1.51571,43.7632,-141.647) 
 ---------------------------TSOS after update Momentum:  (2.87882,28.7409,-80.9609) 
 DeltaR before and after update(used in seed)0.0233707
 ---------------------------- Raw ID: 470066024
 ---------------------------TSOS position before Update:   (4.56886,49.2644,-141.645) 
----------------------------TSOS momentum after Update:   (6.1349,62.536,-180.525) 
+---------------------------TSOS momentum before Update:   (6.1349,62.536,-180.525) 
 ---------------------------TSOS after update Position:  (1.23171,43.3386,-141.647) 
 ---------------------------TSOS after update Momentum:  (2.74439,27.3476,-76.8909) 
 DeltaR before and after update(used in seed)0.0251748
 ---------------------------- Raw ID: 470066024
 ---------------------------TSOS position before Update:   (4.56886,49.2644,-141.645) 
----------------------------TSOS momentum after Update:   (6.1349,62.536,-180.525) 
+---------------------------TSOS momentum before Update:   (6.1349,62.536,-180.525) 
 ---------------------------TSOS after update Position:  (0.865241,42.7237,-141.647) 
 ---------------------------TSOS after update Momentum:  (2.59291,25.7765,-72.2776) 
 DeltaR before and after update(used in seed)0.0277559
 ---------------------------- Raw ID: 470066060
 ---------------------------TSOS position before Update:   (4.63784,49.967,-143.673) 
----------------------------TSOS momentum after Update:   (6.14293,62.5352,-180.525) 
+---------------------------TSOS momentum before Update:   (6.14293,62.5352,-180.525) 
 ---------------------------TSOS after update Position:  (1.649,52.4483,-143.675) 
 ---------------------------TSOS after update Momentum:  (2.44806,24.4728,-71.2976) 
 DeltaR before and after update(used in seed)0.00867413
 ---------------------------- Raw ID: 470066024
 ---------------------------TSOS position before Update:   (4.56886,49.2644,-141.645) 
----------------------------TSOS momentum after Update:   (6.1349,62.536,-180.525) 
+---------------------------TSOS momentum before Update:   (6.1349,62.536,-180.525) 
 ---------------------------TSOS after update Position:  (-0.753857,39.0208,-141.649) 
 ---------------------------TSOS after update Momentum:  (2.12799,20.9388,-57.7878) 
 DeltaR before and after update(used in seed)0.042819
@@ -736,61 +737,61 @@ Propagated TSOS global position: ------   (4.09539,44.4159,-127.649)
 Looping Over Tracjectory measurements----
 ---------------------------- Raw ID: 470049644
 ---------------------------TSOS position before Update:   (4.07848,44.242,-127.147) 
----------------------------TSOS momentum after Update:   (6.07747,62.5411,-180.524) 
+---------------------------TSOS momentum before Update:   (6.07747,62.5411,-180.524) 
 ---------------------------TSOS after update Position:  (4.13679,44.5695,-127.147) 
 ---------------------------TSOS after update Momentum:  (6.14192,63.2434,-182.805) 
 DeltaR before and after update(used in seed)0.00132063
 ---------------------------- Raw ID: 470049640
 ---------------------------TSOS position before Update:   (4.09539,44.4159,-127.649) 
----------------------------TSOS momentum after Update:   (6.07946,62.5409,-180.524) 
+---------------------------TSOS momentum before Update:   (6.07946,62.5409,-180.524) 
 ---------------------------TSOS after update Position:  (2.506,44.0871,-127.649) 
 ---------------------------TSOS after update Momentum:  (3.83684,38.6626,-111.371) 
 DeltaR before and after update(used in seed)0.00292167
 ---------------------------- Raw ID: 470049640
 ---------------------------TSOS position before Update:   (4.09539,44.4159,-127.649) 
----------------------------TSOS momentum after Update:   (6.07946,62.5409,-180.524) 
+---------------------------TSOS momentum before Update:   (6.07946,62.5409,-180.524) 
 ---------------------------TSOS after update Position:  (2.20291,43.8076,-127.649) 
 ---------------------------TSOS after update Momentum:  (3.60806,36.2209,-104.203) 
 DeltaR before and after update(used in seed)0.00412878
 ---------------------------- Raw ID: 470049644
 ---------------------------TSOS position before Update:   (4.07848,44.242,-127.147) 
----------------------------TSOS momentum after Update:   (6.07747,62.5411,-180.524) 
+---------------------------TSOS momentum before Update:   (6.07747,62.5411,-180.524) 
 ---------------------------TSOS after update Position:  (6.35851,41.8827,-127.147) 
 ---------------------------TSOS after update Momentum:  (248.215,2638.27,-7548.37) 
 DeltaR before and after update(used in seed)0.00862189
 ---------------------------- Raw ID: 470049640
 ---------------------------TSOS position before Update:   (4.09539,44.4159,-127.649) 
----------------------------TSOS momentum after Update:   (6.07946,62.5409,-180.524) 
+---------------------------TSOS momentum before Update:   (6.07946,62.5409,-180.524) 
 ---------------------------TSOS after update Position:  (1.302,42.6768,-127.648) 
 ---------------------------TSOS after update Momentum:  (3.09129,30.6984,-87.8686) 
 DeltaR before and after update(used in seed)0.00895437
 ---------------------------- Raw ID: 470049644
 ---------------------------TSOS position before Update:   (4.07848,44.242,-127.147) 
----------------------------TSOS momentum after Update:   (6.07747,62.5411,-180.524) 
+---------------------------TSOS momentum before Update:   (6.07747,62.5411,-180.524) 
 ---------------------------TSOS after update Position:  (6.71954,40.8753,-127.146) 
 ---------------------------TSOS after update Momentum:  (39.1242,418.105,-1191.46) 
 DeltaR before and after update(used in seed)0.0123184
 ---------------------------- Raw ID: 470049644
 ---------------------------TSOS position before Update:   (4.07848,44.242,-127.147) 
----------------------------TSOS momentum after Update:   (6.07747,62.5411,-180.524) 
+---------------------------TSOS momentum before Update:   (6.07747,62.5411,-180.524) 
 ---------------------------TSOS after update Position:  (7.08948,39.5858,-127.146) 
 ---------------------------TSOS after update Momentum:  (17.4335,187.355,-531.165) 
 DeltaR before and after update(used in seed)0.0170861
 ---------------------------- Raw ID: 470049644
 ---------------------------TSOS position before Update:   (4.07848,44.242,-127.147) 
----------------------------TSOS momentum after Update:   (6.07747,62.5411,-180.524) 
+---------------------------TSOS momentum before Update:   (6.07747,62.5411,-180.524) 
 ---------------------------TSOS after update Position:  (7.38741,38.2372,-127.146) 
 ---------------------------TSOS after update Momentum:  (11.8143,127.553,-359.681) 
 DeltaR before and after update(used in seed)0.0220909
 ---------------------------- Raw ID: 470049644
 ---------------------------TSOS position before Update:   (4.07848,44.242,-127.147) 
----------------------------TSOS momentum after Update:   (6.07747,62.5411,-180.524) 
+---------------------------TSOS momentum before Update:   (6.07747,62.5411,-180.524) 
 ---------------------------TSOS after update Position:  (7.4203,38.0662,-127.145) 
 ---------------------------TSOS after update Momentum:  (11.3934,123.072,-346.809) 
 DeltaR before and after update(used in seed)0.0227264
 ---------------------------- Raw ID: 470049640
 ---------------------------TSOS position before Update:   (4.09539,44.4159,-127.649) 
----------------------------TSOS momentum after Update:   (6.07946,62.5409,-180.524) 
+---------------------------TSOS momentum before Update:   (6.07946,62.5409,-180.524) 
 ---------------------------TSOS after update Position:  (-0.462602,39.0802,-127.647) 
 ---------------------------TSOS after update Momentum:  (2.48929,24.239,-68.3126) 
 DeltaR before and after update(used in seed)0.0236945
@@ -815,25 +816,25 @@ Propagated TSOS global position: ------   (8.31815,90.9315,-261.705)
 Looping Over Tracjectory measurements----
 ---------------------------- Raw ID: 470180848
 ---------------------------TSOS position before Update:   (8.31815,90.9315,-261.705) 
----------------------------TSOS momentum after Update:   (18.3436,159.227,-460.48) 
+---------------------------TSOS momentum before Update:   (18.3436,159.227,-460.48) 
 ---------------------------TSOS after update Position:  (8.88016,95.012,-261.706) 
 ---------------------------TSOS after update Momentum:  (12.9656,114.689,-338.703) 
 DeltaR before and after update(used in seed)0.0201588
 ---------------------------- Raw ID: 470180848
 ---------------------------TSOS position before Update:   (8.31815,90.9315,-261.705) 
----------------------------TSOS momentum after Update:   (18.3436,159.227,-460.48) 
+---------------------------TSOS momentum before Update:   (18.3436,159.227,-460.48) 
 ---------------------------TSOS after update Position:  (9.24307,94.9747,-261.707) 
 ---------------------------TSOS after update Momentum:  (6.80621,64.2799,-189.676) 
 DeltaR before and after update(used in seed)0.0220158
 ---------------------------- Raw ID: 470180848
 ---------------------------TSOS position before Update:   (8.31815,90.9315,-261.705) 
----------------------------TSOS momentum after Update:   (18.3436,159.227,-460.48) 
+---------------------------TSOS momentum before Update:   (18.3436,159.227,-460.48) 
 ---------------------------TSOS after update Position:  (9.58793,94.9361,-261.707) 
 ---------------------------TSOS after update Momentum:  (4.49327,45.3505,-133.712) 
 DeltaR before and after update(used in seed)0.0254918
 ---------------------------- Raw ID: 470180848
 ---------------------------TSOS position before Update:   (8.31815,90.9315,-261.705) 
----------------------------TSOS momentum after Update:   (18.3436,159.227,-460.48) 
+---------------------------TSOS momentum before Update:   (18.3436,159.227,-460.48) 
 ---------------------------TSOS after update Position:  (6.97823,95.1491,-261.705) 
 ---------------------------TSOS after update Momentum:  (5.54347,36.7946,-109.101) 
 DeltaR before and after update(used in seed)0.0397988
@@ -870,49 +871,49 @@ Propagated TSOS global position: ------   (7.55828,84.3224,-242.592)
 Looping Over Tracjectory measurements----
 ---------------------------- Raw ID: 470164428
 ---------------------------TSOS position before Update:   (7.55828,84.3224,-242.592) 
----------------------------TSOS momentum after Update:   (18.271,159.236,-460.48) 
+---------------------------TSOS momentum before Update:   (18.271,159.236,-460.48) 
 ---------------------------TSOS after update Position:  (7.9916,82.6399,-242.593) 
 ---------------------------TSOS after update Momentum:  (6.40614,61.8365,-177.16) 
 DeltaR before and after update(used in seed)0.0134172
 ---------------------------- Raw ID: 470164428
 ---------------------------TSOS position before Update:   (7.55828,84.3224,-242.592) 
----------------------------TSOS momentum after Update:   (18.271,159.236,-460.48) 
+---------------------------TSOS momentum before Update:   (18.271,159.236,-460.48) 
 ---------------------------TSOS after update Position:  (6.3372,82.7572,-242.592) 
 ---------------------------TSOS after update Momentum:  (12.2778,91.8618,-264.02) 
 DeltaR before and after update(used in seed)0.0202643
 ---------------------------- Raw ID: 470164428
 ---------------------------TSOS position before Update:   (7.55828,84.3224,-242.592) 
----------------------------TSOS momentum after Update:   (18.271,159.236,-460.48) 
+---------------------------TSOS momentum before Update:   (18.271,159.236,-460.48) 
 ---------------------------TSOS after update Position:  (8.97496,82.5415,-242.593) 
 ---------------------------TSOS after update Momentum:  (2.66205,31.0373,-88.7408) 
 DeltaR before and after update(used in seed)0.0297773
 ---------------------------- Raw ID: 470164428
 ---------------------------TSOS position before Update:   (7.55828,84.3224,-242.592) 
----------------------------TSOS momentum after Update:   (18.271,159.236,-460.48) 
+---------------------------TSOS momentum before Update:   (18.271,159.236,-460.48) 
 ---------------------------TSOS after update Position:  (9.34676,82.4986,-242.593) 
 ---------------------------TSOS after update Momentum:  (2.06476,26.1238,-74.633) 
 DeltaR before and after update(used in seed)0.036314
 ---------------------------- Raw ID: 470164428
 ---------------------------TSOS position before Update:   (7.55828,84.3224,-242.592) 
----------------------------TSOS momentum after Update:   (18.271,159.236,-460.48) 
+---------------------------TSOS momentum before Update:   (18.271,159.236,-460.48) 
 ---------------------------TSOS after update Position:  (5.22636,82.8024,-242.592) 
 ---------------------------TSOS after update Momentum:  (5.28942,34.3758,-98.994) 
 DeltaR before and after update(used in seed)0.0394289
 ---------------------------- Raw ID: 470164428
 ---------------------------TSOS position before Update:   (7.55828,84.3224,-242.592) 
----------------------------TSOS momentum after Update:   (18.271,159.236,-460.48) 
+---------------------------TSOS momentum before Update:   (18.271,159.236,-460.48) 
 ---------------------------TSOS after update Position:  (4.53195,82.8169,-242.592) 
 ---------------------------TSOS after update Momentum:  (4.11329,24.702,-71.2183) 
 DeltaR before and after update(used in seed)0.0516573
 ---------------------------- Raw ID: 470164428
 ---------------------------TSOS position before Update:   (7.55828,84.3224,-242.592) 
----------------------------TSOS momentum after Update:   (18.271,159.236,-460.48) 
+---------------------------TSOS momentum before Update:   (18.271,159.236,-460.48) 
 ---------------------------TSOS after update Position:  (3.65843,82.8202,-242.591) 
 ---------------------------TSOS after update Momentum:  (3.32749,18.2397,-52.6598) 
 DeltaR before and after update(used in seed)0.0670831
 ---------------------------- Raw ID: 470164428
 ---------------------------TSOS position before Update:   (7.55828,84.3224,-242.592) 
----------------------------TSOS momentum after Update:   (18.271,159.236,-460.48) 
+---------------------------TSOS momentum before Update:   (18.271,159.236,-460.48) 
 ---------------------------TSOS after update Position:  (0.717683,82.7092,-242.59) 
 ---------------------------TSOS after update Momentum:  (2.28735,9.69166,-28.0942) 
 DeltaR before and after update(used in seed)0.118769
@@ -946,43 +947,43 @@ Propagated TSOS global position: ------   (6.74668,77.2338,-222.094)
 Looping Over Tracjectory measurements----
 ---------------------------- Raw ID: 470148044
 ---------------------------TSOS position before Update:   (6.74668,77.2338,-222.094) 
----------------------------TSOS momentum after Update:   (18.1931,159.245,-460.481) 
+---------------------------TSOS momentum before Update:   (18.1931,159.245,-460.481) 
 ---------------------------TSOS after update Position:  (6.9437,79.931,-222.095) 
 ---------------------------TSOS after update Momentum:  (23.1346,199.428,-584.395) 
 DeltaR before and after update(used in seed)0.0124969
 ---------------------------- Raw ID: 470148044
 ---------------------------TSOS position before Update:   (6.74668,77.2338,-222.094) 
----------------------------TSOS momentum after Update:   (18.1931,159.245,-460.481) 
+---------------------------TSOS momentum before Update:   (18.1931,159.245,-460.481) 
 ---------------------------TSOS after update Position:  (6.60362,79.9558,-222.095) 
 ---------------------------TSOS after update Momentum:  (4278.34,35073.7,-102843) 
 DeltaR before and after update(used in seed)0.0144799
 ---------------------------- Raw ID: 470148044
 ---------------------------TSOS position before Update:   (6.74668,77.2338,-222.094) 
----------------------------TSOS momentum after Update:   (18.1931,159.245,-460.481) 
+---------------------------TSOS momentum before Update:   (18.1931,159.245,-460.481) 
 ---------------------------TSOS after update Position:  (7.66565,79.8713,-222.095) 
 ---------------------------TSOS after update Momentum:  (6.57753,63.6566,-186.281) 
 DeltaR before and after update(used in seed)0.0164226
 ---------------------------- Raw ID: 470148044
 ---------------------------TSOS position before Update:   (6.74668,77.2338,-222.094) 
----------------------------TSOS momentum after Update:   (18.1931,159.245,-460.481) 
+---------------------------TSOS momentum before Update:   (18.1931,159.245,-460.481) 
 ---------------------------TSOS after update Position:  (5.21844,80.0352,-222.094) 
 ---------------------------TSOS after update Momentum:  (7.10483,48.5441,-142.69) 
 DeltaR before and after update(used in seed)0.0336337
 ---------------------------- Raw ID: 470148044
 ---------------------------TSOS position before Update:   (6.74668,77.2338,-222.094) 
----------------------------TSOS momentum after Update:   (18.1931,159.245,-460.481) 
+---------------------------TSOS momentum before Update:   (18.1931,159.245,-460.481) 
 ---------------------------TSOS after update Position:  (3.73446,80.0816,-222.094) 
 ---------------------------TSOS after update Momentum:  (4.04137,23.4254,-69.0248) 
 DeltaR before and after update(used in seed)0.0579642
 ---------------------------- Raw ID: 470148044
 ---------------------------TSOS position before Update:   (6.74668,77.2338,-222.094) 
----------------------------TSOS momentum after Update:   (18.1931,159.245,-460.481) 
+---------------------------TSOS momentum before Update:   (18.1931,159.245,-460.481) 
 ---------------------------TSOS after update Position:  (3.29521,80.0877,-222.094) 
 ---------------------------TSOS after update Momentum:  (3.66139,20.3104,-59.8871) 
 DeltaR before and after update(used in seed)0.06529
 ---------------------------- Raw ID: 470148044
 ---------------------------TSOS position before Update:   (6.74668,77.2338,-222.094) 
----------------------------TSOS momentum after Update:   (18.1931,159.245,-460.481) 
+---------------------------TSOS momentum before Update:   (18.1931,159.245,-460.481) 
 ---------------------------TSOS after update Position:  (2.81756,80.0904,-222.094) 
 ---------------------------TSOS after update Momentum:  (3.3482,17.7432,-52.3554) 
 DeltaR before and after update(used in seed)0.0732763
@@ -1046,103 +1047,103 @@ Propagated TSOS global position: ------   (5.87817,69.6139,-200.061)
 Looping Over Tracjectory measurements----
 ---------------------------- Raw ID: 470131624
 ---------------------------TSOS position before Update:   (5.87817,69.6139,-200.061) 
----------------------------TSOS momentum after Update:   (18.1094,159.255,-460.482) 
+---------------------------TSOS momentum before Update:   (18.1094,159.255,-460.482) 
 ---------------------------TSOS after update Position:  (6.63464,69.6063,-200.061) 
 ---------------------------TSOS after update Momentum:  (6.32922,62.4007,-180.239) 
 DeltaR before and after update(used in seed)0.0121461
 ---------------------------- Raw ID: 470131624
 ---------------------------TSOS position before Update:   (5.87817,69.6139,-200.061) 
----------------------------TSOS momentum after Update:   (18.1094,159.255,-460.482) 
+---------------------------TSOS momentum before Update:   (18.1094,159.255,-460.482) 
 ---------------------------TSOS after update Position:  (9.30368,70.4266,-200.062) 
 ---------------------------TSOS after update Momentum:  (1.20924,20.2954,-58.643) 
 DeltaR before and after update(used in seed)0.0538451
 ---------------------------- Raw ID: 470131624
 ---------------------------TSOS position before Update:   (5.87817,69.6139,-200.061) 
----------------------------TSOS momentum after Update:   (18.1094,159.255,-460.482) 
+---------------------------TSOS momentum before Update:   (18.1094,159.255,-460.482) 
 ---------------------------TSOS after update Position:  (2.20808,67.1064,-200.059) 
 ---------------------------TSOS after update Momentum:  (4.50502,26.7483,-76.7905) 
 DeltaR before and after update(used in seed)0.0553995
 ---------------------------- Raw ID: 470131624
 ---------------------------TSOS position before Update:   (5.87817,69.6139,-200.061) 
----------------------------TSOS momentum after Update:   (18.1094,159.255,-460.482) 
+---------------------------TSOS momentum before Update:   (18.1094,159.255,-460.482) 
 ---------------------------TSOS after update Position:  (1.48386,67.473,-200.059) 
 ---------------------------TSOS after update Momentum:  (3.8254,21.1424,-60.8633) 
 DeltaR before and after update(used in seed)0.0671041
 ---------------------------- Raw ID: 470131624
 ---------------------------TSOS position before Update:   (5.87817,69.6139,-200.061) 
----------------------------TSOS momentum after Update:   (18.1094,159.255,-460.482) 
+---------------------------TSOS momentum before Update:   (18.1094,159.255,-460.482) 
 ---------------------------TSOS after update Position:  (9.99502,66.883,-200.063) 
 ---------------------------TSOS after update Momentum:  (0.697865,16.12,-45.7511) 
 DeltaR before and after update(used in seed)0.0710503
 ---------------------------- Raw ID: 470131624
 ---------------------------TSOS position before Update:   (5.87817,69.6139,-200.061) 
----------------------------TSOS momentum after Update:   (18.1094,159.255,-460.482) 
+---------------------------TSOS momentum before Update:   (18.1094,159.255,-460.482) 
 ---------------------------TSOS after update Position:  (9.8744,66.0758,-200.063) 
 ---------------------------TSOS after update Momentum:  (0.717492,16.2878,-46.0579) 
 DeltaR before and after update(used in seed)0.071003
 ---------------------------- Raw ID: 470131624
 ---------------------------TSOS position before Update:   (5.87817,69.6139,-200.061) 
----------------------------TSOS momentum after Update:   (18.1094,159.255,-460.482) 
+---------------------------TSOS momentum before Update:   (18.1094,159.255,-460.482) 
 ---------------------------TSOS after update Position:  (9.9639,66.232,-200.063) 
 ---------------------------TSOS after update Momentum:  (0.687396,16.0385,-45.3811) 
 DeltaR before and after update(used in seed)0.0720258
 ---------------------------- Raw ID: 470131624
 ---------------------------TSOS position before Update:   (5.87817,69.6139,-200.061) 
----------------------------TSOS momentum after Update:   (18.1094,159.255,-460.482) 
+---------------------------TSOS momentum before Update:   (18.1094,159.255,-460.482) 
 ---------------------------TSOS after update Position:  (9.84495,65.4412,-200.063) 
 ---------------------------TSOS after update Momentum:  (0.706707,16.2035,-45.6839) 
 DeltaR before and after update(used in seed)0.072095
 ---------------------------- Raw ID: 470131624
 ---------------------------TSOS position before Update:   (5.87817,69.6139,-200.061) 
----------------------------TSOS momentum after Update:   (18.1094,159.255,-460.482) 
+---------------------------TSOS momentum before Update:   (18.1094,159.255,-460.482) 
 ---------------------------TSOS after update Position:  (9.90756,65.0535,-200.063) 
 ---------------------------TSOS after update Momentum:  (0.668859,15.8939,-44.7255) 
 DeltaR before and after update(used in seed)0.0740331
 ---------------------------- Raw ID: 470131624
 ---------------------------TSOS position before Update:   (5.87817,69.6139,-200.061) 
----------------------------TSOS momentum after Update:   (18.1094,159.255,-460.482) 
+---------------------------TSOS momentum before Update:   (18.1094,159.255,-460.482) 
 ---------------------------TSOS after update Position:  (9.79162,64.2922,-200.063) 
 ---------------------------TSOS after update Momentum:  (0.687608,16.054,-45.0214) 
 DeltaR before and after update(used in seed)0.0742885
 ---------------------------- Raw ID: 470131624
 ---------------------------TSOS position before Update:   (5.87817,69.6139,-200.061) 
----------------------------TSOS momentum after Update:   (18.1094,159.255,-460.482) 
+---------------------------TSOS momentum before Update:   (18.1094,159.255,-460.482) 
 ---------------------------TSOS after update Position:  (0.00456142,68.2844,-200.058) 
 ---------------------------TSOS after update Momentum:  (3.04994,14.745,-42.6988) 
 DeltaR before and after update(used in seed)0.0915715
 ---------------------------- Raw ID: 470131624
 ---------------------------TSOS position before Update:   (5.87817,69.6139,-200.061) 
----------------------------TSOS momentum after Update:   (18.1094,159.255,-460.482) 
+---------------------------TSOS momentum before Update:   (18.1094,159.255,-460.482) 
 ---------------------------TSOS after update Position:  (1.65494,75.2225,-200.057) 
 ---------------------------TSOS after update Momentum:  (3.38293,17.3474,-51.8642) 
 DeltaR before and after update(used in seed)0.081855
 ---------------------------- Raw ID: 470131624
 ---------------------------TSOS position before Update:   (5.87817,69.6139,-200.061) 
----------------------------TSOS momentum after Update:   (18.1094,159.255,-460.482) 
+---------------------------TSOS momentum before Update:   (18.1094,159.255,-460.482) 
 ---------------------------TSOS after update Position:  (2.00232,60.8675,-200.061) 
 ---------------------------TSOS after update Momentum:  (5.19071,32.5873,-90.853) 
 DeltaR before and after update(used in seed)0.0600697
 ---------------------------- Raw ID: 470131624
 ---------------------------TSOS position before Update:   (5.87817,69.6139,-200.061) 
----------------------------TSOS momentum after Update:   (18.1094,159.255,-460.482) 
+---------------------------TSOS momentum before Update:   (18.1094,159.255,-460.482) 
 ---------------------------TSOS after update Position:  (9.70687,60.8554,-200.064) 
 ---------------------------TSOS after update Momentum:  (0.606867,15.4088,-42.53) 
 DeltaR before and after update(used in seed)0.0832881
 ---------------------------- Raw ID: 470131624
 ---------------------------TSOS position before Update:   (5.87817,69.6139,-200.061) 
----------------------------TSOS momentum after Update:   (18.1094,159.255,-460.482) 
+---------------------------TSOS momentum before Update:   (18.1094,159.255,-460.482) 
 ---------------------------TSOS after update Position:  (9.60134,60.1937,-200.064) 
 ---------------------------TSOS after update Momentum:  (0.623703,15.5522,-42.801) 
 DeltaR before and after update(used in seed)0.0839776
 ---------------------------- Raw ID: 470131624
 ---------------------------TSOS position before Update:   (5.87817,69.6139,-200.061) 
----------------------------TSOS momentum after Update:   (18.1094,159.255,-460.482) 
+---------------------------TSOS momentum before Update:   (18.1094,159.255,-460.482) 
 ---------------------------TSOS after update Position:  (8.92176,59.7008,-200.064) 
 ---------------------------TSOS after update Momentum:  (0.882403,17.6991,-48.6414) 
 DeltaR before and after update(used in seed)0.0766059
 ---------------------------- Raw ID: 470131624
 ---------------------------TSOS position before Update:   (5.87817,69.6139,-200.061) 
----------------------------TSOS momentum after Update:   (18.1094,159.255,-460.482) 
+---------------------------TSOS momentum before Update:   (18.1094,159.255,-460.482) 
 ---------------------------TSOS after update Position:  (8.90327,59.1814,-200.064) 
 ---------------------------TSOS after update Momentum:  (0.869336,17.5948,-48.2404) 
 DeltaR before and after update(used in seed)0.0782253
@@ -1188,67 +1189,67 @@ Propagated TSOS global position: ------   (5.19139,63.5631,-182.565)
 Looping Over Tracjectory measurements----
 ---------------------------- Raw ID: 470115240
 ---------------------------TSOS position before Update:   (5.19139,63.5631,-182.565) 
----------------------------TSOS momentum after Update:   (18.0428,159.262,-460.481) 
+---------------------------TSOS momentum before Update:   (18.0428,159.262,-460.481) 
 ---------------------------TSOS after update Position:  (6.01596,63.5049,-182.565) 
 ---------------------------TSOS after update Momentum:  (6.26141,62.3707,-180.096) 
 DeltaR before and after update(used in seed)0.0127541
 ---------------------------- Raw ID: 470115240
 ---------------------------TSOS position before Update:   (5.19139,63.5631,-182.565) 
----------------------------TSOS momentum after Update:   (18.0428,159.262,-460.481) 
+---------------------------TSOS momentum before Update:   (18.0428,159.262,-460.481) 
 ---------------------------TSOS after update Position:  (5.03475,62.4265,-182.565) 
 ---------------------------TSOS after update Momentum:  (19.5105,171.483,-493.268) 
 DeltaR before and after update(used in seed)0.00493943
 ---------------------------- Raw ID: 470115240
 ---------------------------TSOS position before Update:   (5.19139,63.5631,-182.565) 
----------------------------TSOS momentum after Update:   (18.0428,159.262,-460.481) 
+---------------------------TSOS momentum before Update:   (18.0428,159.262,-460.481) 
 ---------------------------TSOS after update Position:  (4.96949,61.6171,-182.565) 
 ---------------------------TSOS after update Momentum:  (18.7275,165.14,-473.263) 
 DeltaR before and after update(used in seed)0.00838045
 ---------------------------- Raw ID: 470115240
 ---------------------------TSOS position before Update:   (5.19139,63.5631,-182.565) 
----------------------------TSOS momentum after Update:   (18.0428,159.262,-460.481) 
+---------------------------TSOS momentum before Update:   (18.0428,159.262,-460.481) 
 ---------------------------TSOS after update Position:  (4.82174,66.5995,-182.565) 
 ---------------------------TSOS after update Momentum:  (65.6017,527.331,-1547.61) 
 DeltaR before and after update(used in seed)0.0168998
 ---------------------------- Raw ID: 470115240
 ---------------------------TSOS position before Update:   (5.19139,63.5631,-182.565) 
----------------------------TSOS momentum after Update:   (18.0428,159.262,-460.481) 
+---------------------------TSOS momentum before Update:   (18.0428,159.262,-460.481) 
 ---------------------------TSOS after update Position:  (3.72915,66.5982,-182.565) 
 ---------------------------TSOS after update Momentum:  (9.47825,66.8992,-196.611) 
 DeltaR before and after update(used in seed)0.0304262
 ---------------------------- Raw ID: 470115240
 ---------------------------TSOS position before Update:   (5.19139,63.5631,-182.565) 
----------------------------TSOS momentum after Update:   (18.0428,159.262,-460.481) 
+---------------------------TSOS momentum before Update:   (18.0428,159.262,-460.481) 
 ---------------------------TSOS after update Position:  (4.89082,67.5524,-182.565) 
 ---------------------------TSOS after update Momentum:  (54.5833,436.586,-1287.05) 
 DeltaR before and after update(used in seed)0.0205941
 ---------------------------- Raw ID: 470115240
 ---------------------------TSOS position before Update:   (5.19139,63.5631,-182.565) 
----------------------------TSOS momentum after Update:   (18.0428,159.262,-460.481) 
+---------------------------TSOS momentum before Update:   (18.0428,159.262,-460.481) 
 ---------------------------TSOS after update Position:  (7.68659,66.1869,-182.565) 
 ---------------------------TSOS after update Momentum:  (2.41259,30.6627,-89.4803) 
 DeltaR before and after update(used in seed)0.0362798
 ---------------------------- Raw ID: 470115240
 ---------------------------TSOS position before Update:   (5.19139,63.5631,-182.565) 
----------------------------TSOS momentum after Update:   (18.0428,159.262,-460.481) 
+---------------------------TSOS momentum before Update:   (18.0428,159.262,-460.481) 
 ---------------------------TSOS after update Position:  (-0.0402403,66.7204,-182.565) 
 ---------------------------TSOS after update Momentum:  (3.33854,16.5329,-48.856) 
 DeltaR before and after update(used in seed)0.0867902
 ---------------------------- Raw ID: 470115240
 ---------------------------TSOS position before Update:   (5.19139,63.5631,-182.565) 
----------------------------TSOS momentum after Update:   (18.0428,159.262,-460.481) 
+---------------------------TSOS momentum before Update:   (18.0428,159.262,-460.481) 
 ---------------------------TSOS after update Position:  (8.85499,69.7025,-182.565) 
 ---------------------------TSOS after update Momentum:  (1.54187,23.4665,-69.5404) 
 DeltaR before and after update(used in seed)0.0545134
 ---------------------------- Raw ID: 470115240
 ---------------------------TSOS position before Update:   (5.19139,63.5631,-182.565) 
----------------------------TSOS momentum after Update:   (18.0428,159.262,-460.481) 
+---------------------------TSOS momentum before Update:   (18.0428,159.262,-460.481) 
 ---------------------------TSOS after update Position:  (6.8494,72.3063,-182.565) 
 ---------------------------TSOS after update Momentum:  (6.63381,64.9995,-195.595) 
 DeltaR before and after update(used in seed)0.0404934
 ---------------------------- Raw ID: 470115240
 ---------------------------TSOS position before Update:   (5.19139,63.5631,-182.565) 
----------------------------TSOS momentum after Update:   (18.0428,159.262,-460.481) 
+---------------------------TSOS momentum before Update:   (18.0428,159.262,-460.481) 
 ---------------------------TSOS after update Position:  (5.89854,73.1404,-182.565) 
 ---------------------------TSOS after update Momentum:  (43.711,367.443,-1111.66) 
 DeltaR before and after update(used in seed)0.042657
@@ -1279,37 +1280,37 @@ Propagated TSOS global position: ------   (4.76507,59.7956,-171.672)
 Looping Over Tracjectory measurements----
 ---------------------------- Raw ID: 470098828
 ---------------------------TSOS position before Update:   (4.76507,59.7956,-171.672) 
----------------------------TSOS momentum after Update:   (18.0014,159.267,-460.481) 
+---------------------------TSOS momentum before Update:   (18.0014,159.267,-460.481) 
 ---------------------------TSOS after update Position:  (5.34378,56.6085,-171.672) 
 ---------------------------TSOS after update Momentum:  (6.09657,61.4779,-175.031) 
 DeltaR before and after update(used in seed)0.0190035
 ---------------------------- Raw ID: 470098828
 ---------------------------TSOS position before Update:   (4.76507,59.7956,-171.672) 
----------------------------TSOS momentum after Update:   (18.0014,159.267,-460.481) 
+---------------------------TSOS momentum before Update:   (18.0014,159.267,-460.481) 
 ---------------------------TSOS after update Position:  (3.07959,56.7488,-171.673) 
 ---------------------------TSOS after update Momentum:  (15.1499,113.725,-324.88) 
 DeltaR before and after update(used in seed)0.024121
 ---------------------------- Raw ID: 470098828
 ---------------------------TSOS position before Update:   (4.76507,59.7956,-171.672) 
----------------------------TSOS momentum after Update:   (18.0014,159.267,-460.481) 
+---------------------------TSOS momentum before Update:   (18.0014,159.267,-460.481) 
 ---------------------------TSOS after update Position:  (6.34957,56.5335,-171.672) 
 ---------------------------TSOS after update Momentum:  (3.07402,36.5536,-103.908) 
 DeltaR before and after update(used in seed)0.0316049
 ---------------------------- Raw ID: 470098828
 ---------------------------TSOS position before Update:   (4.76507,59.7956,-171.672) 
----------------------------TSOS momentum after Update:   (18.0014,159.267,-460.481) 
+---------------------------TSOS momentum before Update:   (18.0014,159.267,-460.481) 
 ---------------------------TSOS after update Position:  (2.11555,56.7965,-171.673) 
 ---------------------------TSOS after update Momentum:  (7.57712,51.2794,-146.695) 
 DeltaR before and after update(used in seed)0.0369966
 ---------------------------- Raw ID: 470098828
 ---------------------------TSOS position before Update:   (4.76507,59.7956,-171.672) 
----------------------------TSOS momentum after Update:   (18.0014,159.267,-460.481) 
+---------------------------TSOS momentum before Update:   (18.0014,159.267,-460.481) 
 ---------------------------TSOS after update Position:  (1.37825,56.8282,-171.673) 
 ---------------------------TSOS after update Momentum:  (5.73544,36.0936,-103.36) 
 DeltaR before and after update(used in seed)0.0474136
 ---------------------------- Raw ID: 470098828
 ---------------------------TSOS position before Update:   (4.76507,59.7956,-171.672) 
----------------------------TSOS momentum after Update:   (18.0014,159.267,-460.481) 
+---------------------------TSOS momentum before Update:   (18.0014,159.267,-460.481) 
 ---------------------------TSOS after update Position:  (1.16494,56.8366,-171.673) 
 ---------------------------TSOS after update Momentum:  (5.38965,33.2425,-95.2242) 
 DeltaR before and after update(used in seed)0.0504689
@@ -1334,25 +1335,25 @@ Propagated TSOS global position: ------   (4.21867,54.9541,-157.674)
 Looping Over Tracjectory measurements----
 ---------------------------- Raw ID: 470082444
 ---------------------------TSOS position before Update:   (4.21867,54.9541,-157.674) 
----------------------------TSOS momentum after Update:   (17.9483,159.274,-460.483) 
+---------------------------TSOS momentum before Update:   (17.9483,159.274,-460.483) 
 ---------------------------TSOS after update Position:  (4.4858,55.8332,-157.675) 
 ---------------------------TSOS after update Momentum:  (13.5827,123.272,-357.719) 
 DeltaR before and after update(used in seed)0.00449474
 ---------------------------- Raw ID: 470082444
 ---------------------------TSOS position before Update:   (4.21867,54.9541,-157.674) 
----------------------------TSOS momentum after Update:   (17.9483,159.274,-460.483) 
+---------------------------TSOS momentum before Update:   (17.9483,159.274,-460.483) 
 ---------------------------TSOS after update Position:  (4.79848,55.8123,-157.675) 
 ---------------------------TSOS after update Momentum:  (9.26751,87.7947,-254.649) 
 DeltaR before and after update(used in seed)0.00799564
 ---------------------------- Raw ID: 470082444
 ---------------------------TSOS position before Update:   (4.21867,54.9541,-157.674) 
----------------------------TSOS momentum after Update:   (17.9483,159.274,-460.483) 
+---------------------------TSOS momentum before Update:   (17.9483,159.274,-460.483) 
 ---------------------------TSOS after update Position:  (5.24067,55.7816,-157.675) 
 ---------------------------TSOS after update Momentum:  (6.18043,62.4142,-180.913) 
 DeltaR before and after update(used in seed)0.0140327
 ---------------------------- Raw ID: 470082444
 ---------------------------TSOS position before Update:   (4.21867,54.9541,-157.674) 
----------------------------TSOS momentum after Update:   (17.9483,159.274,-460.483) 
+---------------------------TSOS momentum before Update:   (17.9483,159.274,-460.483) 
 ---------------------------TSOS after update Position:  (1.84269,55.9831,-157.674) 
 ---------------------------TSOS after update Momentum:  (7.58791,50.7857,-147.936) 
 DeltaR before and after update(used in seed)0.0361934
@@ -1411,85 +1412,85 @@ Propagated TSOS global position: ------   (3.57558,49.2372,-141.146)
 Looping Over Tracjectory measurements----
 ---------------------------- Raw ID: 470066028
 ---------------------------TSOS position before Update:   (3.57558,49.2372,-141.146) 
----------------------------TSOS momentum after Update:   (17.8854,159.281,-460.483) 
+---------------------------TSOS momentum before Update:   (17.8854,159.281,-460.483) 
 ---------------------------TSOS after update Position:  (3.90833,45.3565,-141.146) 
 ---------------------------TSOS after update Momentum:  (7.70339,75.6932,-215.035) 
 DeltaR before and after update(used in seed)0.0186295
 ---------------------------- Raw ID: 470066028
 ---------------------------TSOS position before Update:   (3.57558,49.2372,-141.146) 
----------------------------TSOS momentum after Update:   (17.8854,159.281,-460.483) 
+---------------------------TSOS momentum before Update:   (17.8854,159.281,-460.483) 
 ---------------------------TSOS after update Position:  (4.22986,45.3063,-141.146) 
 ---------------------------TSOS after update Momentum:  (5.96906,61.3782,-174.268) 
 DeltaR before and after update(used in seed)0.0215382
 ---------------------------- Raw ID: 470066028
 ---------------------------TSOS position before Update:   (3.57558,49.2372,-141.146) 
----------------------------TSOS momentum after Update:   (17.8854,159.281,-460.483) 
+---------------------------TSOS momentum before Update:   (17.8854,159.281,-460.483) 
 ---------------------------TSOS after update Position:  (4.43061,45.2746,-141.146) 
 ---------------------------TSOS after update Momentum:  (5.18426,54.9005,-155.821) 
 DeltaR before and after update(used in seed)0.0236118
 ---------------------------- Raw ID: 470066024
 ---------------------------TSOS position before Update:   (3.59495,49.4097,-141.645) 
----------------------------TSOS momentum after Update:   (17.8873,159.28,-460.483) 
+---------------------------TSOS momentum before Update:   (17.8873,159.28,-460.483) 
 ---------------------------TSOS after update Position:  (3.14949,45.4405,-141.646) 
 ---------------------------TSOS after update Momentum:  (18.9115,168.214,-478.093) 
 DeltaR before and after update(used in seed)0.0160927
 ---------------------------- Raw ID: 470066024
 ---------------------------TSOS position before Update:   (3.59495,49.4097,-141.645) 
----------------------------TSOS momentum after Update:   (17.8873,159.28,-460.483) 
+---------------------------TSOS momentum before Update:   (17.8873,159.28,-460.483) 
 ---------------------------TSOS after update Position:  (2.80778,45.4446,-141.646) 
 ---------------------------TSOS after update Momentum:  (43.3694,370.13,-1052.39) 
 DeltaR before and after update(used in seed)0.0169263
 ---------------------------- Raw ID: 470066024
 ---------------------------TSOS position before Update:   (3.59495,49.4097,-141.645) 
----------------------------TSOS momentum after Update:   (17.8873,159.28,-460.483) 
+---------------------------TSOS momentum before Update:   (17.8873,159.28,-460.483) 
 ---------------------------TSOS after update Position:  (2.30674,45.4491,-141.646) 
 ---------------------------TSOS after update Momentum:  (60.3558,486.193,-1383.18) 
 DeltaR before and after update(used in seed)0.0201898
 ---------------------------- Raw ID: 470066024
 ---------------------------TSOS position before Update:   (3.59495,49.4097,-141.645) 
----------------------------TSOS momentum after Update:   (17.8873,159.28,-460.483) 
+---------------------------TSOS momentum before Update:   (17.8873,159.28,-460.483) 
 ---------------------------TSOS after update Position:  (1.57418,45.4526,-141.646) 
 ---------------------------TSOS after update Momentum:  (14.8907,110.848,-315.613) 
 DeltaR before and after update(used in seed)0.0275178
 ---------------------------- Raw ID: 470066024
 ---------------------------TSOS position before Update:   (3.59495,49.4097,-141.645) 
----------------------------TSOS momentum after Update:   (17.8873,159.28,-460.483) 
+---------------------------TSOS momentum before Update:   (17.8873,159.28,-460.483) 
 ---------------------------TSOS after update Position:  (1.29177,45.453,-141.646) 
 ---------------------------TSOS after update Momentum:  (11.8091,85.4078,-243.254) 
 DeltaR before and after update(used in seed)0.0307665
 ---------------------------- Raw ID: 470066024
 ---------------------------TSOS position before Update:   (3.59495,49.4097,-141.645) 
----------------------------TSOS momentum after Update:   (17.8873,159.28,-460.483) 
+---------------------------TSOS momentum before Update:   (17.8873,159.28,-460.483) 
 ---------------------------TSOS after update Position:  (0.92048,45.4527,-141.646) 
 ---------------------------TSOS after update Momentum:  (9.40998,65.6022,-186.921) 
 DeltaR before and after update(used in seed)0.0352369
 ---------------------------- Raw ID: 470066060
 ---------------------------TSOS position before Update:   (3.67377,50.1114,-143.674) 
----------------------------TSOS momentum after Update:   (17.895,159.28,-460.483) 
+---------------------------TSOS momentum before Update:   (17.895,159.28,-460.483) 
 ---------------------------TSOS after update Position:  (5.75342,54.9697,-143.674) 
 ---------------------------TSOS after update Momentum:  (4.11696,45.7375,-134.84) 
 DeltaR before and after update(used in seed)0.0302224
 ---------------------------- Raw ID: 470066060
 ---------------------------TSOS position before Update:   (3.67377,50.1114,-143.674) 
----------------------------TSOS momentum after Update:   (17.895,159.28,-460.483) 
+---------------------------TSOS momentum before Update:   (17.895,159.28,-460.483) 
 ---------------------------TSOS after update Position:  (1.735,55.2216,-143.675) 
 ---------------------------TSOS after update Momentum:  (8.15169,54.8172,-162.544) 
 DeltaR before and after update(used in seed)0.0407344
 ---------------------------- Raw ID: 470066024
 ---------------------------TSOS position before Update:   (3.59495,49.4097,-141.645) 
----------------------------TSOS momentum after Update:   (17.8873,159.28,-460.483) 
+---------------------------TSOS momentum before Update:   (17.8873,159.28,-460.483) 
 ---------------------------TSOS after update Position:  (-0.877804,45.4381,-141.647) 
 ---------------------------TSOS after update Momentum:  (5.20249,30.8696,-88.1256) 
 DeltaR before and after update(used in seed)0.0583784
 ---------------------------- Raw ID: 470066028
 ---------------------------TSOS position before Update:   (3.57558,49.2372,-141.146) 
----------------------------TSOS momentum after Update:   (17.8854,159.281,-460.483) 
+---------------------------TSOS momentum before Update:   (17.8854,159.281,-460.483) 
 ---------------------------TSOS after update Position:  (9.83235,44.3161,-141.146) 
 ---------------------------TSOS after update Momentum:  (0.275746,14.3797,-40.4047) 
 DeltaR before and after update(used in seed)0.0950259
 ---------------------------- Raw ID: 470066028
 ---------------------------TSOS position before Update:   (3.57558,49.2372,-141.146) 
----------------------------TSOS momentum after Update:   (17.8854,159.281,-460.483) 
+---------------------------TSOS momentum before Update:   (17.8854,159.281,-460.483) 
 ---------------------------TSOS after update Position:  (10.2541,44.2326,-141.146) 
 ---------------------------TSOS after update Momentum:  (0.181644,13.6022,-38.1886) 
 DeltaR before and after update(used in seed)0.100854
@@ -1534,61 +1535,61 @@ Propagated TSOS global position: ------   (3.03265,44.3948,-127.147)
 Looping Over Tracjectory measurements----
 ---------------------------- Raw ID: 470049640
 ---------------------------TSOS position before Update:   (3.05209,44.5684,-127.649) 
----------------------------TSOS momentum after Update:   (17.8342,159.287,-460.484) 
+---------------------------TSOS momentum before Update:   (17.8342,159.287,-460.484) 
 ---------------------------TSOS after update Position:  (2.54229,44.726,-127.649) 
 ---------------------------TSOS after update Momentum:  (77.9157,653.775,-1892.35) 
 DeltaR before and after update(used in seed)0.00713105
 ---------------------------- Raw ID: 470049640
 ---------------------------TSOS position before Update:   (3.05209,44.5684,-127.649) 
----------------------------TSOS momentum after Update:   (17.8342,159.287,-460.484) 
+---------------------------TSOS momentum before Update:   (17.8342,159.287,-460.484) 
 ---------------------------TSOS after update Position:  (2.24921,44.7291,-127.649) 
 ---------------------------TSOS after update Momentum:  (109.865,891.771,-2582.07) 
 DeltaR before and after update(used in seed)0.0110851
 ---------------------------- Raw ID: 470049644
 ---------------------------TSOS position before Update:   (3.03265,44.3948,-127.147) 
----------------------------TSOS momentum after Update:   (17.8322,159.287,-460.484) 
+---------------------------TSOS momentum before Update:   (17.8322,159.287,-460.484) 
 ---------------------------TSOS after update Position:  (4.13857,44.5886,-127.147) 
 ---------------------------TSOS after update Momentum:  (6.05558,62.3367,-180.149) 
 DeltaR before and after update(used in seed)0.0146904
 ---------------------------- Raw ID: 470049640
 ---------------------------TSOS position before Update:   (3.05209,44.5684,-127.649) 
----------------------------TSOS momentum after Update:   (17.8342,159.287,-460.484) 
+---------------------------TSOS momentum before Update:   (17.8342,159.287,-460.484) 
 ---------------------------TSOS after update Position:  (1.36476,44.7353,-127.649) 
 ---------------------------TSOS after update Momentum:  (14.8248,109.536,-317.465) 
 DeltaR before and after update(used in seed)0.0230277
 ---------------------------- Raw ID: 470049640
 ---------------------------TSOS position before Update:   (3.05209,44.5684,-127.649) 
----------------------------TSOS momentum after Update:   (17.8342,159.287,-460.484) 
+---------------------------TSOS momentum before Update:   (17.8342,159.287,-460.484) 
 ---------------------------TSOS after update Position:  (-0.534093,44.7326,-127.648) 
 ---------------------------TSOS after update Momentum:  (6.12471,37.9322,-110.161) 
 DeltaR before and after update(used in seed)0.0486239
 ---------------------------- Raw ID: 470049644
 ---------------------------TSOS position before Update:   (3.03265,44.3948,-127.147) 
----------------------------TSOS momentum after Update:   (17.8322,159.287,-460.484) 
+---------------------------TSOS momentum before Update:   (17.8322,159.287,-460.484) 
 ---------------------------TSOS after update Position:  (6.70522,44.1659,-127.147) 
 ---------------------------TSOS after update Momentum:  (1.56733,25.4026,-73.0765) 
 DeltaR before and after update(used in seed)0.0498679
 ---------------------------- Raw ID: 470049644
 ---------------------------TSOS position before Update:   (3.03265,44.3948,-127.147) 
----------------------------TSOS momentum after Update:   (17.8322,159.287,-460.484) 
+---------------------------TSOS momentum before Update:   (17.8322,159.287,-460.484) 
 ---------------------------TSOS after update Position:  (7.25537,44.0699,-127.147) 
 ---------------------------TSOS after update Momentum:  (1.22087,22.5511,-64.8083) 
 DeltaR before and after update(used in seed)0.0574115
 ---------------------------- Raw ID: 470049644
 ---------------------------TSOS position before Update:   (3.03265,44.3948,-127.147) 
----------------------------TSOS momentum after Update:   (17.8322,159.287,-460.484) 
+---------------------------TSOS momentum before Update:   (17.8322,159.287,-460.484) 
 ---------------------------TSOS after update Position:  (7.87299,43.96,-127.147) 
 ---------------------------TSOS after update Momentum:  (0.914696,20.0309,-57.5005) 
 DeltaR before and after update(used in seed)0.0658773
 ---------------------------- Raw ID: 470049644
 ---------------------------TSOS position before Update:   (3.03265,44.3948,-127.147) 
----------------------------TSOS momentum after Update:   (17.8322,159.287,-460.484) 
+---------------------------TSOS momentum before Update:   (17.8322,159.287,-460.484) 
 ---------------------------TSOS after update Position:  (8.47214,43.851,-127.147) 
 ---------------------------TSOS after update Momentum:  (0.677069,18.0746,-51.8275) 
 DeltaR before and after update(used in seed)0.0740859
 ---------------------------- Raw ID: 470049644
 ---------------------------TSOS position before Update:   (3.03265,44.3948,-127.147) 
----------------------------TSOS momentum after Update:   (17.8322,159.287,-460.484) 
+---------------------------TSOS momentum before Update:   (17.8322,159.287,-460.484) 
 ---------------------------TSOS after update Position:  (8.54547,43.8376,-127.147) 
 ---------------------------TSOS after update Momentum:  (0.651165,17.8614,-51.209) 
 DeltaR before and after update(used in seed)0.0750902
@@ -1693,43 +1694,43 @@ Propagated TSOS global position: ------   (-70.8581,-119.811,-269.36)
 Looping Over Tracjectory measurements----
 ---------------------------- Raw ID: 470177524
 ---------------------------TSOS position before Update:   (-70.8581,-119.811,-269.36) 
----------------------------TSOS momentum after Update:   (-14.6564,-26.3689,-59.3619) 
+---------------------------TSOS momentum before Update:   (-14.6564,-26.3689,-59.3619) 
 ---------------------------TSOS after update Position:  (-54.3581,-92.9934,-269.367) 
 ---------------------------TSOS after update Momentum:  (-13.0774,-23.6135,-47.6498) 
 DeltaR before and after update(used in seed)0.0956516
 ---------------------------- Raw ID: 470177524
 ---------------------------TSOS position before Update:   (-70.8581,-119.811,-269.36) 
----------------------------TSOS momentum after Update:   (-14.6564,-26.3689,-59.3619) 
+---------------------------TSOS momentum before Update:   (-14.6564,-26.3689,-59.3619) 
 ---------------------------TSOS after update Position:  (-54.5211,-92.9103,-269.367) 
 ---------------------------TSOS after update Momentum:  (-12.7568,-23.0124,-46.4523) 
 DeltaR before and after update(used in seed)0.0955528
 ---------------------------- Raw ID: 470177524
 ---------------------------TSOS position before Update:   (-70.8581,-119.811,-269.36) 
----------------------------TSOS momentum after Update:   (-14.6564,-26.3689,-59.3619) 
+---------------------------TSOS momentum before Update:   (-14.6564,-26.3689,-59.3619) 
 ---------------------------TSOS after update Position:  (-55.4404,-92.4215,-269.365) 
 ---------------------------TSOS after update Momentum:  (-11.1989,-20.0912,-40.6307) 
 DeltaR before and after update(used in seed)0.0950762
 ---------------------------- Raw ID: 470177520
 ---------------------------TSOS position before Update:   (-70.736,-119.592,-268.865) 
----------------------------TSOS momentum after Update:   (-14.659,-26.3675,-59.3619) 
+---------------------------TSOS momentum before Update:   (-14.659,-26.3675,-59.3619) 
 ---------------------------TSOS after update Position:  (-49.0801,-94.862,-268.862) 
 ---------------------------TSOS after update Momentum:  (-57.0219,-106.002,-211.447) 
 DeltaR before and after update(used in seed)0.100826
 ---------------------------- Raw ID: 470177524
 ---------------------------TSOS position before Update:   (-70.8581,-119.811,-269.36) 
----------------------------TSOS momentum after Update:   (-14.6564,-26.3689,-59.3619) 
+---------------------------TSOS momentum before Update:   (-14.6564,-26.3689,-59.3619) 
 ---------------------------TSOS after update Position:  (-59.9114,-89.5096,-269.355) 
 ---------------------------TSOS after update Momentum:  (-6.94221,-12.1112,-24.6883) 
 DeltaR before and after update(used in seed)0.0949559
 ---------------------------- Raw ID: 470181604
 ---------------------------TSOS position before Update:   (-69.0803,-116.618,-262.168) 
----------------------------TSOS momentum after Update:   (-14.6929,-26.3486,-59.3619) 
+---------------------------TSOS momentum before Update:   (-14.6929,-26.3486,-59.3619) 
 ---------------------------TSOS after update Position:  (-61.5252,-86.6538,-262.189) 
 ---------------------------TSOS after update Momentum:  (-5.81463,-9.92255,-20.4719) 
 DeltaR before and after update(used in seed)0.0909267
 ---------------------------- Raw ID: 470181604
 ---------------------------TSOS position before Update:   (-69.0803,-116.618,-262.168) 
----------------------------TSOS momentum after Update:   (-14.6929,-26.3486,-59.3619) 
+---------------------------TSOS momentum before Update:   (-14.6929,-26.3486,-59.3619) 
 ---------------------------TSOS after update Position:  (-62.1828,-85.9539,-262.189) 
 ---------------------------TSOS after update Momentum:  (-5.5181,-9.36833,-19.3418) 
 DeltaR before and after update(used in seed)0.0920066
@@ -1767,43 +1768,43 @@ Propagated TSOS global position: ------   (-65.5239,-110.261,-247.835)
 Looping Over Tracjectory measurements----
 ---------------------------- Raw ID: 470161140
 ---------------------------TSOS position before Update:   (-65.5239,-110.261,-247.835) 
----------------------------TSOS momentum after Update:   (-14.7653,-26.3076,-59.361) 
+---------------------------TSOS momentum before Update:   (-14.7653,-26.3076,-59.361) 
 ---------------------------TSOS after update Position:  (-52.5001,-90.8098,-247.858) 
 ---------------------------TSOS after update Momentum:  (-15.8087,-28.3909,-58.8457) 
 DeltaR before and after update(used in seed)0.0734511
 ---------------------------- Raw ID: 470161136
 ---------------------------TSOS position before Update:   (-65.4097,-110.058,-247.376) 
----------------------------TSOS momentum after Update:   (-14.7677,-26.3063,-59.361) 
+---------------------------TSOS momentum before Update:   (-14.7677,-26.3063,-59.361) 
 ---------------------------TSOS after update Position:  (-49.8702,-91.7676,-247.369) 
 ---------------------------TSOS after update Momentum:  (-31.8987,-58.3694,-120.253) 
 DeltaR before and after update(used in seed)0.0756991
 ---------------------------- Raw ID: 470161136
 ---------------------------TSOS position before Update:   (-65.4097,-110.058,-247.376) 
----------------------------TSOS momentum after Update:   (-14.7677,-26.3063,-59.361) 
+---------------------------TSOS momentum before Update:   (-14.7677,-26.3063,-59.361) 
 ---------------------------TSOS after update Position:  (-49.1859,-91.9683,-247.369) 
 ---------------------------TSOS after update Momentum:  (-42.9421,-78.9512,-162.35) 
 DeltaR before and after update(used in seed)0.0767106
 ---------------------------- Raw ID: 470161136
 ---------------------------TSOS position before Update:   (-65.4097,-110.058,-247.376) 
----------------------------TSOS momentum after Update:   (-14.7677,-26.3063,-59.361) 
+---------------------------TSOS momentum before Update:   (-14.7677,-26.3063,-59.361) 
 ---------------------------TSOS after update Position:  (-47.7424,-92.3438,-247.37) 
 ---------------------------TSOS after update Momentum:  (-155.351,-288.45,-590.75) 
 DeltaR before and after update(used in seed)0.0790903
 ---------------------------- Raw ID: 470165220
 ---------------------------TSOS position before Update:   (-63.7436,-107.094,-240.686) 
----------------------------TSOS momentum after Update:   (-14.8015,-26.2872,-59.361) 
+---------------------------TSOS momentum before Update:   (-14.8015,-26.2872,-59.361) 
 ---------------------------TSOS after update Position:  (-60.3702,-84.0856,-240.698) 
 ---------------------------TSOS after update Momentum:  (-5.74032,-9.5514,-20.3425) 
 DeltaR before and after update(used in seed)0.0721337
 ---------------------------- Raw ID: 470165220
 ---------------------------TSOS position before Update:   (-63.7436,-107.094,-240.686) 
----------------------------TSOS momentum after Update:   (-14.8015,-26.2872,-59.361) 
+---------------------------TSOS momentum before Update:   (-14.8015,-26.2872,-59.361) 
 ---------------------------TSOS after update Position:  (-62.0199,-82.1329,-240.699) 
 ---------------------------TSOS after update Momentum:  (-5.01546,-8.20468,-17.5089) 
 DeltaR before and after update(used in seed)0.0774157
 ---------------------------- Raw ID: 470165220
 ---------------------------TSOS position before Update:   (-63.7436,-107.094,-240.686) 
----------------------------TSOS momentum after Update:   (-14.8015,-26.2872,-59.361) 
+---------------------------TSOS momentum before Update:   (-14.8015,-26.2872,-59.361) 
 ---------------------------TSOS after update Position:  (-63.1487,-80.5994,-240.7) 
 ---------------------------TSOS after update Momentum:  (-4.60354,-7.4398,-15.8919) 
 DeltaR before and after update(used in seed)0.0818616
@@ -1835,31 +1836,31 @@ Propagated TSOS global position: ------   (-60.4165,-101.203,-227.373)
 Looping Over Tracjectory measurements----
 ---------------------------- Raw ID: 470144752
 ---------------------------TSOS position before Update:   (-60.2941,-100.987,-226.885) 
----------------------------TSOS momentum after Update:   (-14.8712,-26.2477,-59.3608) 
+---------------------------TSOS momentum before Update:   (-14.8712,-26.2477,-59.3608) 
 ---------------------------TSOS after update Position:  (-48.6099,-89.6745,-226.877) 
 ---------------------------TSOS after update Momentum:  (-48.7457,-89.1445,-188.791) 
 DeltaR before and after update(used in seed)0.0529451
 ---------------------------- Raw ID: 470144756
 ---------------------------TSOS position before Update:   (-60.4165,-101.203,-227.373) 
----------------------------TSOS momentum after Update:   (-14.8688,-26.2491,-59.3608) 
+---------------------------TSOS momentum before Update:   (-14.8688,-26.2491,-59.3608) 
 ---------------------------TSOS after update Position:  (-56.6048,-85.6238,-227.365) 
 ---------------------------TSOS after update Momentum:  (-7.75734,-13.1426,-28.4302) 
 DeltaR before and after update(used in seed)0.0516775
 ---------------------------- Raw ID: 470148836
 ---------------------------TSOS position before Update:   (-58.6173,-98.0319,-220.199) 
----------------------------TSOS momentum after Update:   (-14.905,-26.2286,-59.3608) 
+---------------------------TSOS momentum before Update:   (-14.905,-26.2286,-59.3608) 
 ---------------------------TSOS after update Position:  (-59.1266,-82.1494,-220.201) 
 ---------------------------TSOS after update Momentum:  (-5.77392,-9.38723,-20.6686) 
 DeltaR before and after update(used in seed)0.0549279
 ---------------------------- Raw ID: 470148836
 ---------------------------TSOS position before Update:   (-58.6173,-98.0319,-220.199) 
----------------------------TSOS momentum after Update:   (-14.905,-26.2286,-59.3608) 
+---------------------------TSOS momentum before Update:   (-14.905,-26.2286,-59.3608) 
 ---------------------------TSOS after update Position:  (-59.5148,-81.6986,-220.201) 
 ---------------------------TSOS after update Momentum:  (-5.57251,-9.01472,-19.8621) 
 DeltaR before and after update(used in seed)0.0568159
 ---------------------------- Raw ID: 470148836
 ---------------------------TSOS position before Update:   (-58.6173,-98.0319,-220.199) 
----------------------------TSOS momentum after Update:   (-14.905,-26.2286,-59.3608) 
+---------------------------TSOS momentum before Update:   (-14.905,-26.2286,-59.3608) 
 ---------------------------TSOS after update Position:  (-60.6446,-80.2738,-220.2) 
 ---------------------------TSOS after update Momentum:  (-5.0503,-8.04914,-17.7668) 
 DeltaR before and after update(used in seed)0.0628445
@@ -1924,97 +1925,97 @@ Propagated TSOS global position: ------   (-55.6413,-92.8087,-208.371)
 Looping Over Tracjectory measurements----
 ---------------------------- Raw ID: 470128372
 ---------------------------TSOS position before Update:   (-55.6413,-92.8087,-208.371) 
----------------------------TSOS momentum after Update:   (-14.9644,-26.1941,-59.3598) 
+---------------------------TSOS momentum before Update:   (-14.9644,-26.1941,-59.3598) 
 ---------------------------TSOS after update Position:  (-51.474,-86.5236,-208.374) 
 ---------------------------TSOS after update Momentum:  (-15.3615,-26.9624,-59.4016) 
 DeltaR before and after update(used in seed)0.0245049
 ---------------------------- Raw ID: 470128372
 ---------------------------TSOS position before Update:   (-55.6413,-92.8087,-208.371) 
----------------------------TSOS momentum after Update:   (-14.9644,-26.1941,-59.3598) 
+---------------------------TSOS momentum before Update:   (-14.9644,-26.1941,-59.3598) 
 ---------------------------TSOS after update Position:  (-51.6008,-86.4603,-208.374) 
 ---------------------------TSOS after update Momentum:  (-14.9363,-26.1769,-57.6951) 
 DeltaR before and after update(used in seed)0.02444
 ---------------------------- Raw ID: 470128372
 ---------------------------TSOS position before Update:   (-55.6413,-92.8087,-208.371) 
----------------------------TSOS momentum after Update:   (-14.9644,-26.1941,-59.3598) 
+---------------------------TSOS momentum before Update:   (-14.9644,-26.1941,-59.3598) 
 ---------------------------TSOS after update Position:  (-51.2167,-86.6493,-208.374) 
 ---------------------------TSOS after update Momentum:  (-16.3007,-28.6974,-63.1706) 
 DeltaR before and after update(used in seed)0.0246947
 ---------------------------- Raw ID: 470128372
 ---------------------------TSOS position before Update:   (-55.6413,-92.8087,-208.371) 
----------------------------TSOS momentum after Update:   (-14.9644,-26.1941,-59.3598) 
+---------------------------TSOS momentum before Update:   (-14.9644,-26.1941,-59.3598) 
 ---------------------------TSOS after update Position:  (-51.1346,-86.6886,-208.374) 
 ---------------------------TSOS after update Momentum:  (-16.6246,-29.2958,-64.4705) 
 DeltaR before and after update(used in seed)0.0247714
 ---------------------------- Raw ID: 470128372
 ---------------------------TSOS position before Update:   (-55.6413,-92.8087,-208.371) 
----------------------------TSOS momentum after Update:   (-14.9644,-26.1941,-59.3598) 
+---------------------------TSOS momentum before Update:   (-14.9644,-26.1941,-59.3598) 
 ---------------------------TSOS after update Position:  (-51.0605,-86.7239,-208.374) 
 ---------------------------TSOS after update Momentum:  (-16.9281,-29.8565,-65.6883) 
 DeltaR before and after update(used in seed)0.0248473
 ---------------------------- Raw ID: 470128372
 ---------------------------TSOS position before Update:   (-55.6413,-92.8087,-208.371) 
----------------------------TSOS momentum after Update:   (-14.9644,-26.1941,-59.3598) 
+---------------------------TSOS momentum before Update:   (-14.9644,-26.1941,-59.3598) 
 ---------------------------TSOS after update Position:  (-50.9245,-86.7878,-208.374) 
 ---------------------------TSOS after update Momentum:  (-17.5143,-30.9393,-68.04) 
 DeltaR before and after update(used in seed)0.0250023
 ---------------------------- Raw ID: 470128372
 ---------------------------TSOS position before Update:   (-55.6413,-92.8087,-208.371) 
----------------------------TSOS momentum after Update:   (-14.9644,-26.1941,-59.3598) 
+---------------------------TSOS momentum before Update:   (-14.9644,-26.1941,-59.3598) 
 ---------------------------TSOS after update Position:  (-49.6235,-87.3531,-208.373) 
 ---------------------------TSOS after update Momentum:  (-26.1144,-46.8265,-102.529) 
 DeltaR before and after update(used in seed)0.027404
 ---------------------------- Raw ID: 470128368
 ---------------------------TSOS position before Update:   (-55.5145,-92.5868,-207.868) 
----------------------------TSOS momentum after Update:   (-14.967,-26.1927,-59.3598) 
+---------------------------TSOS momentum before Update:   (-14.967,-26.1927,-59.3598) 
 ---------------------------TSOS after update Position:  (-49.0887,-87.5087,-207.875) 
 ---------------------------TSOS after update Momentum:  (-32.5191,-58.648,-128.283) 
 DeltaR before and after update(used in seed)0.0281825
 ---------------------------- Raw ID: 470128372
 ---------------------------TSOS position before Update:   (-55.6413,-92.8087,-208.371) 
----------------------------TSOS momentum after Update:   (-14.9644,-26.1941,-59.3598) 
+---------------------------TSOS momentum before Update:   (-14.9644,-26.1941,-59.3598) 
 ---------------------------TSOS after update Position:  (-53.9432,-85.1279,-208.375) 
 ---------------------------TSOS after update Momentum:  (-9.84704,-16.7761,-37.25) 
 DeltaR before and after update(used in seed)0.0268677
 ---------------------------- Raw ID: 470128368
 ---------------------------TSOS position before Update:   (-55.5145,-92.5868,-207.868) 
----------------------------TSOS momentum after Update:   (-14.967,-26.1927,-59.3598) 
+---------------------------TSOS momentum before Update:   (-14.967,-26.1927,-59.3598) 
 ---------------------------TSOS after update Position:  (-46.232,-88.2325,-207.877) 
 ---------------------------TSOS after update Momentum:  (-119.634,-222.411,-481.442) 
 DeltaR before and after update(used in seed)0.038061
 ---------------------------- Raw ID: 470128368
 ---------------------------TSOS position before Update:   (-55.5145,-92.5868,-207.868) 
----------------------------TSOS momentum after Update:   (-14.967,-26.1927,-59.3598) 
+---------------------------TSOS momentum before Update:   (-14.967,-26.1927,-59.3598) 
 ---------------------------TSOS after update Position:  (-43.8827,-88.6087,-207.88) 
 ---------------------------TSOS after update Momentum:  (-25.0248,-47.6476,-102.231) 
 DeltaR before and after update(used in seed)0.0473603
 ---------------------------- Raw ID: 470128368
 ---------------------------TSOS position before Update:   (-55.5145,-92.5868,-207.868) 
----------------------------TSOS momentum after Update:   (-14.967,-26.1927,-59.3598) 
+---------------------------TSOS momentum before Update:   (-14.967,-26.1927,-59.3598) 
 ---------------------------TSOS after update Position:  (-43.2573,-88.6782,-207.88) 
 ---------------------------TSOS after update Momentum:  (-20.7091,-39.6755,-84.9229) 
 DeltaR before and after update(used in seed)0.0499005
 ---------------------------- Raw ID: 470128368
 ---------------------------TSOS position before Update:   (-55.5145,-92.5868,-207.868) 
----------------------------TSOS momentum after Update:   (-14.967,-26.1927,-59.3598) 
+---------------------------TSOS momentum before Update:   (-14.967,-26.1927,-59.3598) 
 ---------------------------TSOS after update Position:  (-42.168,-88.7699,-207.881) 
 ---------------------------TSOS after update Momentum:  (-15.9478,-30.8801,-65.8196) 
 DeltaR before and after update(used in seed)0.0543516
 ---------------------------- Raw ID: 470132452
 ---------------------------TSOS position before Update:   (-53.8339,-89.6501,-201.21) 
----------------------------TSOS momentum after Update:   (-15.0005,-26.1735,-59.3597) 
+---------------------------TSOS momentum before Update:   (-15.0005,-26.1735,-59.3597) 
 ---------------------------TSOS after update Position:  (-59.7363,-78.3532,-201.207) 
 ---------------------------TSOS after update Momentum:  (-4.9435,-7.64515,-17.4641) 
 DeltaR before and after update(used in seed)0.0581562
 ---------------------------- Raw ID: 470132452
 ---------------------------TSOS position before Update:   (-53.8339,-89.6501,-201.21) 
----------------------------TSOS momentum after Update:   (-15.0005,-26.1735,-59.3597) 
+---------------------------TSOS momentum before Update:   (-15.0005,-26.1735,-59.3597) 
 ---------------------------TSOS after update Position:  (-59.8137,-78.2388,-201.207) 
 ---------------------------TSOS after update Momentum:  (-4.90947,-7.58249,-17.3236) 
 DeltaR before and after update(used in seed)0.0587946
 ---------------------------- Raw ID: 470132452
 ---------------------------TSOS position before Update:   (-53.8339,-89.6501,-201.21) 
----------------------------TSOS momentum after Update:   (-15.0005,-26.1735,-59.3597) 
+---------------------------TSOS momentum before Update:   (-15.0005,-26.1735,-59.3597) 
 ---------------------------TSOS after update Position:  (-60.2724,-77.5324,-201.206) 
 ---------------------------TSOS after update Momentum:  (-4.71478,-7.22405,-16.5187) 
 DeltaR before and after update(used in seed)0.0626703
@@ -2042,31 +2043,31 @@ Propagated TSOS global position: ------   (-51.2183,-85.0968,-190.878)
 Looping Over Tracjectory measurements----
 ---------------------------- Raw ID: 470111988
 ---------------------------TSOS position before Update:   (-51.2183,-85.0968,-190.878) 
----------------------------TSOS momentum after Update:   (-15.0527,-26.1438,-59.3603) 
+---------------------------TSOS momentum before Update:   (-15.0527,-26.1438,-59.3603) 
 ---------------------------TSOS after update Position:  (-50.9864,-84.9741,-190.878) 
 ---------------------------TSOS after update Momentum:  (-15.4797,-26.9311,-61.0716) 
 DeltaR before and after update(used in seed)0.00103858
 ---------------------------- Raw ID: 470111988
 ---------------------------TSOS position before Update:   (-51.2183,-85.0968,-190.878) 
----------------------------TSOS momentum after Update:   (-15.0527,-26.1438,-59.3603) 
+---------------------------TSOS momentum before Update:   (-15.0527,-26.1438,-59.3603) 
 ---------------------------TSOS after update Position:  (-50.9206,-85.0069,-190.878) 
 ---------------------------TSOS after update Momentum:  (-15.7313,-27.3945,-62.1069) 
 DeltaR before and after update(used in seed)0.0013651
 ---------------------------- Raw ID: 470111988
 ---------------------------TSOS position before Update:   (-51.2183,-85.0968,-190.878) 
----------------------------TSOS momentum after Update:   (-15.0527,-26.1438,-59.3603) 
+---------------------------TSOS momentum before Update:   (-15.0527,-26.1438,-59.3603) 
 ---------------------------TSOS after update Position:  (-53.0331,-83.8184,-190.876) 
 ---------------------------TSOS after update Momentum:  (-10.3081,-17.4066,-39.7778) 
 DeltaR before and after update(used in seed)0.0122667
 ---------------------------- Raw ID: 470111988
 ---------------------------TSOS position before Update:   (-51.2183,-85.0968,-190.878) 
----------------------------TSOS momentum after Update:   (-15.0527,-26.1438,-59.3603) 
+---------------------------TSOS momentum before Update:   (-15.0527,-26.1438,-59.3603) 
 ---------------------------TSOS after update Position:  (-48.8881,-85.8969,-190.879) 
 ---------------------------TSOS after update Momentum:  (-31.3196,-56.1048,-126.188) 
 DeltaR before and after update(used in seed)0.0133775
 ---------------------------- Raw ID: 470111988
 ---------------------------TSOS position before Update:   (-51.2183,-85.0968,-190.878) 
----------------------------TSOS momentum after Update:   (-15.0527,-26.1438,-59.3603) 
+---------------------------TSOS momentum before Update:   (-15.0527,-26.1438,-59.3603) 
 ---------------------------TSOS after update Position:  (-53.9874,-83.1791,-190.876) 
 ---------------------------TSOS after update Momentum:  (-8.90114,-14.8158,-33.9743) 
 DeltaR before and after update(used in seed)0.0186138
@@ -2105,49 +2106,49 @@ Propagated TSOS global position: ------   (-47.6616,-78.9386,-176.884)
 Looping Over Tracjectory measurements----
 ---------------------------- Raw ID: 470095604
 ---------------------------TSOS position before Update:   (-47.6616,-78.9386,-176.884) 
----------------------------TSOS momentum after Update:   (-15.1231,-26.1033,-59.3605) 
+---------------------------TSOS momentum before Update:   (-15.1231,-26.1033,-59.3605) 
 ---------------------------TSOS after update Position:  (-50.4288,-83.9558,-176.88) 
 ---------------------------TSOS after update Momentum:  (-16.414,-28.4567,-66.0262) 
 DeltaR before and after update(used in seed)0.0190401
 ---------------------------- Raw ID: 470095604
 ---------------------------TSOS position before Update:   (-47.6616,-78.9386,-176.884) 
----------------------------TSOS momentum after Update:   (-15.1231,-26.1033,-59.3605) 
+---------------------------TSOS momentum before Update:   (-15.1231,-26.1033,-59.3605) 
 ---------------------------TSOS after update Position:  (-51.5307,-83.3759,-176.88) 
 ---------------------------TSOS after update Momentum:  (-12.5975,-21.4417,-49.9898) 
 DeltaR before and after update(used in seed)0.0200303
 ---------------------------- Raw ID: 470095604
 ---------------------------TSOS position before Update:   (-47.6616,-78.9386,-176.884) 
----------------------------TSOS momentum after Update:   (-15.1231,-26.1033,-59.3605) 
+---------------------------TSOS momentum before Update:   (-15.1231,-26.1033,-59.3605) 
 ---------------------------TSOS after update Position:  (-52.3501,-82.8876,-176.881) 
 ---------------------------TSOS after update Momentum:  (-10.7273,-18.0042,-42.1236) 
 DeltaR before and after update(used in seed)0.0225829
 ---------------------------- Raw ID: 470099652
 ---------------------------TSOS position before Update:   (-46.3143,-76.6159,-171.601) 
----------------------------TSOS momentum after Update:   (-15.1496,-26.0879,-59.3605) 
+---------------------------TSOS momentum before Update:   (-15.1496,-26.0879,-59.3605) 
 ---------------------------TSOS after update Position:  (-45.8045,-69.0408,-171.6) 
 ---------------------------TSOS after update Momentum:  (-8.53491,-13.9461,-31.3803) 
 DeltaR before and after update(used in seed)0.0319993
 ---------------------------- Raw ID: 470099652
 ---------------------------TSOS position before Update:   (-46.3143,-76.6159,-171.601) 
----------------------------TSOS momentum after Update:   (-15.1496,-26.0879,-59.3605) 
+---------------------------TSOS momentum before Update:   (-15.1496,-26.0879,-59.3605) 
 ---------------------------TSOS after update Position:  (-46.5528,-68.3511,-171.6) 
 ---------------------------TSOS after update Momentum:  (-7.65763,-12.3336,-27.8347) 
 DeltaR before and after update(used in seed)0.0374465
 ---------------------------- Raw ID: 470099652
 ---------------------------TSOS position before Update:   (-46.3143,-76.6159,-171.601) 
----------------------------TSOS momentum after Update:   (-15.1496,-26.0879,-59.3605) 
+---------------------------TSOS momentum before Update:   (-15.1496,-26.0879,-59.3605) 
 ---------------------------TSOS after update Position:  (-48.3147,-66.4219,-171.599) 
 ---------------------------TSOS after update Momentum:  (-6.13319,-9.53229,-21.6572) 
 DeltaR before and after update(used in seed)0.052569
 ---------------------------- Raw ID: 470099652
 ---------------------------TSOS position before Update:   (-46.3143,-76.6159,-171.601) 
----------------------------TSOS momentum after Update:   (-15.1496,-26.0879,-59.3605) 
+---------------------------TSOS momentum before Update:   (-15.1496,-26.0879,-59.3605) 
 ---------------------------TSOS after update Position:  (-49.8906,-64.2125,-171.598) 
 ---------------------------TSOS after update Momentum:  (-5.16578,-7.75577,-17.7177) 
 DeltaR before and after update(used in seed)0.0686026
 ---------------------------- Raw ID: 470099652
 ---------------------------TSOS position before Update:   (-46.3143,-76.6159,-171.601) 
----------------------------TSOS momentum after Update:   (-15.1496,-26.0879,-59.3605) 
+---------------------------TSOS momentum before Update:   (-15.1496,-26.0879,-59.3605) 
 ---------------------------TSOS after update Position:  (-49.9742,-64.0785,-171.598) 
 ---------------------------TSOS after update Momentum:  (-5.12144,-7.67439,-17.5366) 
 DeltaR before and after update(used in seed)0.0695262
@@ -2201,79 +2202,79 @@ Propagated TSOS global position: ------   (-44.696,-73.8329,-165.266)
 Looping Over Tracjectory measurements----
 ---------------------------- Raw ID: 470079180
 ---------------------------TSOS position before Update:   (-44.696,-73.8329,-165.266) 
----------------------------TSOS momentum after Update:   (-15.1809,-26.0684,-59.3583) 
+---------------------------TSOS momentum before Update:   (-15.1809,-26.0684,-59.3583) 
 ---------------------------TSOS after update Position:  (-42.5529,-70.6662,-165.266) 
 ---------------------------TSOS after update Momentum:  (-15.6125,-26.8721,-60.316) 
 DeltaR before and after update(used in seed)0.0122977
 ---------------------------- Raw ID: 470079180
 ---------------------------TSOS position before Update:   (-44.696,-73.8329,-165.266) 
----------------------------TSOS momentum after Update:   (-15.1809,-26.0684,-59.3583) 
+---------------------------TSOS momentum before Update:   (-15.1809,-26.0684,-59.3583) 
 ---------------------------TSOS after update Position:  (-40.1896,-71.5936,-165.266) 
 ---------------------------TSOS after update Momentum:  (-39.9137,-71.5192,-158.734) 
 DeltaR before and after update(used in seed)0.0227469
 ---------------------------- Raw ID: 470083268
 ---------------------------TSOS position before Update:   (-42.7326,-70.4672,-157.599) 
----------------------------TSOS momentum after Update:   (-15.2193,-26.046,-59.3583) 
+---------------------------TSOS momentum before Update:   (-15.2193,-26.046,-59.3583) 
 ---------------------------TSOS after update Position:  (-44.8167,-68.644,-157.6) 
 ---------------------------TSOS after update Momentum:  (-9.32681,-15.2321,-35.0611) 
 DeltaR before and after update(used in seed)0.0207192
 ---------------------------- Raw ID: 470083268
 ---------------------------TSOS position before Update:   (-42.7326,-70.4672,-157.599) 
----------------------------TSOS momentum after Update:   (-15.2193,-26.046,-59.3583) 
+---------------------------TSOS momentum before Update:   (-15.2193,-26.046,-59.3583) 
 ---------------------------TSOS after update Position:  (-45.3427,-68.1878,-157.6) 
 ---------------------------TSOS after update Momentum:  (-8.53222,-13.774,-31.7853) 
 DeltaR before and after update(used in seed)0.0259218
 ---------------------------- Raw ID: 470083268
 ---------------------------TSOS position before Update:   (-42.7326,-70.4672,-157.599) 
----------------------------TSOS momentum after Update:   (-15.2193,-26.046,-59.3583) 
+---------------------------TSOS momentum before Update:   (-15.2193,-26.046,-59.3583) 
 ---------------------------TSOS after update Position:  (-45.8815,-67.6825,-157.6) 
 ---------------------------TSOS after update Momentum:  (-7.84116,-12.506,-28.9334) 
 DeltaR before and after update(used in seed)0.0314055
 ---------------------------- Raw ID: 470083268
 ---------------------------TSOS position before Update:   (-42.7326,-70.4672,-157.599) 
----------------------------TSOS momentum after Update:   (-15.2193,-26.046,-59.3583) 
+---------------------------TSOS momentum before Update:   (-15.2193,-26.046,-59.3583) 
 ---------------------------TSOS after update Position:  (-46.0557,-67.5103,-157.6) 
 ---------------------------TSOS after update Momentum:  (-7.63972,-12.1364,-28.1015) 
 DeltaR before and after update(used in seed)0.0332136
 ---------------------------- Raw ID: 470079180
 ---------------------------TSOS position before Update:   (-44.696,-73.8329,-165.266) 
----------------------------TSOS momentum after Update:   (-15.1809,-26.0684,-59.3583) 
+---------------------------TSOS momentum before Update:   (-15.1809,-26.0684,-59.3583) 
 ---------------------------TSOS after update Position:  (-37.5933,-72.2504,-165.266) 
 ---------------------------TSOS after update Momentum:  (-58.3176,-108.954,-238.799) 
 DeltaR before and after update(used in seed)0.0393447
 ---------------------------- Raw ID: 470083268
 ---------------------------TSOS position before Update:   (-42.7326,-70.4672,-157.599) 
----------------------------TSOS momentum after Update:   (-15.2193,-26.046,-59.3583) 
+---------------------------TSOS momentum before Update:   (-15.2193,-26.046,-59.3583) 
 ---------------------------TSOS after update Position:  (-46.8808,-66.6291,-157.6) 
 ---------------------------TSOS after update Momentum:  (-6.80189,-10.5994,-24.6375) 
 DeltaR before and after update(used in seed)0.0420448
 ---------------------------- Raw ID: 470083268
 ---------------------------TSOS position before Update:   (-42.7326,-70.4672,-157.599) 
----------------------------TSOS momentum after Update:   (-15.2193,-26.046,-59.3583) 
+---------------------------TSOS momentum before Update:   (-15.2193,-26.046,-59.3583) 
 ---------------------------TSOS after update Position:  (-47.2994,-66.1366,-157.601) 
 ---------------------------TSOS after update Momentum:  (-6.43774,-9.93145,-23.1294) 
 DeltaR before and after update(used in seed)0.0467083
 ---------------------------- Raw ID: 470079180
 ---------------------------TSOS position before Update:   (-44.696,-73.8329,-165.266) 
----------------------------TSOS momentum after Update:   (-15.1809,-26.0684,-59.3583) 
+---------------------------TSOS momentum before Update:   (-15.1809,-26.0684,-59.3583) 
 ---------------------------TSOS after update Position:  (-35.7225,-72.5222,-165.266) 
 ---------------------------TSOS after update Momentum:  (-21.1919,-40.7444,-88.4876) 
 DeltaR before and after update(used in seed)0.0512603
 ---------------------------- Raw ID: 470083268
 ---------------------------TSOS position before Update:   (-42.7326,-70.4672,-157.599) 
----------------------------TSOS momentum after Update:   (-15.2193,-26.046,-59.3583) 
+---------------------------TSOS momentum before Update:   (-15.2193,-26.046,-59.3583) 
 ---------------------------TSOS after update Position:  (-48.4043,-64.6579,-157.601) 
 ---------------------------TSOS after update Momentum:  (-5.62227,-8.43626,-19.7446) 
 DeltaR before and after update(used in seed)0.0597389
 ---------------------------- Raw ID: 470083268
 ---------------------------TSOS position before Update:   (-42.7326,-70.4672,-157.599) 
----------------------------TSOS momentum after Update:   (-15.2193,-26.046,-59.3583) 
+---------------------------TSOS momentum before Update:   (-15.2193,-26.046,-59.3583) 
 ---------------------------TSOS after update Position:  (-48.7513,-64.13,-157.601) 
 ---------------------------TSOS after update Momentum:  (-5.40083,-8.03039,-18.8229) 
 DeltaR before and after update(used in seed)0.0640878
 ---------------------------- Raw ID: 470083268
 ---------------------------TSOS position before Update:   (-42.7326,-70.4672,-157.599) 
----------------------------TSOS momentum after Update:   (-15.2193,-26.046,-59.3583) 
+---------------------------TSOS momentum before Update:   (-15.2193,-26.046,-59.3583) 
 ---------------------------TSOS after update Position:  (-48.9746,-63.7712,-157.601) 
 ---------------------------TSOS after update Momentum:  (-5.26543,-7.78228,-18.2588) 
 DeltaR before and after update(used in seed)0.0669637
@@ -2327,79 +2328,79 @@ Propagated TSOS global position: ------   (-41.1073,-67.6895,-151.266)
 Looping Over Tracjectory measurements----
 ---------------------------- Raw ID: 470062796
 ---------------------------TSOS position before Update:   (-41.1073,-67.6895,-151.266) 
----------------------------TSOS momentum after Update:   (-15.2511,-26.0276,-59.3586) 
+---------------------------TSOS momentum before Update:   (-15.2511,-26.0276,-59.3586) 
 ---------------------------TSOS after update Position:  (-42.1661,-69.8481,-151.267) 
 ---------------------------TSOS after update Momentum:  (-16.2823,-27.9136,-64.1421) 
 DeltaR before and after update(used in seed)0.00801114
 ---------------------------- Raw ID: 470066884
 ---------------------------TSOS position before Update:   (-39.1357,-64.3305,-143.602) 
----------------------------TSOS momentum after Update:   (-15.2895,-26.0051,-59.3586) 
+---------------------------TSOS momentum before Update:   (-15.2895,-26.0051,-59.3586) 
 ---------------------------TSOS after update Position:  (-43.2227,-68.7769,-143.602) 
 ---------------------------TSOS after update Momentum:  (-11.9718,-19.9132,-46.6961) 
 DeltaR before and after update(used in seed)0.0212801
 ---------------------------- Raw ID: 470066884
 ---------------------------TSOS position before Update:   (-39.1357,-64.3305,-143.602) 
----------------------------TSOS momentum after Update:   (-15.2895,-26.0051,-59.3586) 
+---------------------------TSOS momentum before Update:   (-15.2895,-26.0051,-59.3586) 
 ---------------------------TSOS after update Position:  (-45.2651,-67.0652,-143.602) 
 ---------------------------TSOS after update Momentum:  (-7.99998,-12.6345,-29.9783) 
 DeltaR before and after update(used in seed)0.0369156
 ---------------------------- Raw ID: 470066884
 ---------------------------TSOS position before Update:   (-39.1357,-64.3305,-143.602) 
----------------------------TSOS momentum after Update:   (-15.2895,-26.0051,-59.3586) 
+---------------------------TSOS momentum before Update:   (-15.2895,-26.0051,-59.3586) 
 ---------------------------TSOS after update Position:  (-45.3016,-67.0289,-143.602) 
 ---------------------------TSOS after update Momentum:  (-7.9518,-12.5462,-29.7751) 
 DeltaR before and after update(used in seed)0.0372803
 ---------------------------- Raw ID: 470062796
 ---------------------------TSOS position before Update:   (-41.1073,-67.6895,-151.266) 
----------------------------TSOS momentum after Update:   (-15.2511,-26.0276,-59.3586) 
+---------------------------TSOS momentum before Update:   (-15.2511,-26.0276,-59.3586) 
 ---------------------------TSOS after update Position:  (-38.4633,-71.0829,-151.267) 
 ---------------------------TSOS after update Momentum:  (-261.952,-482.432,-1086.38) 
 DeltaR before and after update(used in seed)0.0329902
 ---------------------------- Raw ID: 470066884
 ---------------------------TSOS position before Update:   (-39.1357,-64.3305,-143.602) 
----------------------------TSOS momentum after Update:   (-15.2895,-26.0051,-59.3586) 
+---------------------------TSOS momentum before Update:   (-15.2895,-26.0051,-59.3586) 
 ---------------------------TSOS after update Position:  (-45.5863,-66.7384,-143.602) 
 ---------------------------TSOS after update Momentum:  (-7.594,-11.8906,-28.2652) 
 DeltaR before and after update(used in seed)0.0401962
 ---------------------------- Raw ID: 470062796
 ---------------------------TSOS position before Update:   (-41.1073,-67.6895,-151.266) 
----------------------------TSOS momentum after Update:   (-15.2511,-26.0276,-59.3586) 
+---------------------------TSOS momentum before Update:   (-15.2511,-26.0276,-59.3586) 
 ---------------------------TSOS after update Position:  (-38.0068,-71.1774,-151.267) 
 ---------------------------TSOS after update Momentum:  (-84.9772,-157.819,-354.502) 
 DeltaR before and after update(used in seed)0.0363888
 ---------------------------- Raw ID: 470066884
 ---------------------------TSOS position before Update:   (-39.1357,-64.3305,-143.602) 
----------------------------TSOS momentum after Update:   (-15.2895,-26.0051,-59.3586) 
+---------------------------TSOS momentum before Update:   (-15.2895,-26.0051,-59.3586) 
 ---------------------------TSOS after update Position:  (-46.011,-66.2772,-143.602) 
 ---------------------------TSOS after update Momentum:  (-7.11201,-11.0076,-26.2295) 
 DeltaR before and after update(used in seed)0.0447748
 ---------------------------- Raw ID: 470066884
 ---------------------------TSOS position before Update:   (-39.1357,-64.3305,-143.602) 
----------------------------TSOS momentum after Update:   (-15.2895,-26.0051,-59.3586) 
+---------------------------TSOS momentum before Update:   (-15.2895,-26.0051,-59.3586) 
 ---------------------------TSOS after update Position:  (-46.6574,-65.5042,-143.602) 
 ---------------------------TSOS after update Momentum:  (-6.47588,-9.84247,-23.5389) 
 DeltaR before and after update(used in seed)0.0522411
 ---------------------------- Raw ID: 470066884
 ---------------------------TSOS position before Update:   (-39.1357,-64.3305,-143.602) 
----------------------------TSOS momentum after Update:   (-15.2895,-26.0051,-59.3586) 
+---------------------------TSOS momentum before Update:   (-15.2895,-26.0051,-59.3586) 
 ---------------------------TSOS after update Position:  (-46.8044,-65.3149,-143.602) 
 ---------------------------TSOS after update Momentum:  (-6.34494,-9.60267,-22.9843) 
 DeltaR before and after update(used in seed)0.0540225
 ---------------------------- Raw ID: 470066884
 ---------------------------TSOS position before Update:   (-39.1357,-64.3305,-143.602) 
----------------------------TSOS momentum after Update:   (-15.2895,-26.0051,-59.3586) 
+---------------------------TSOS momentum before Update:   (-15.2895,-26.0051,-59.3586) 
 ---------------------------TSOS after update Position:  (-46.9081,-65.1783,-143.602) 
 ---------------------------TSOS after update Momentum:  (-6.25534,-9.43858,-22.6047) 
 DeltaR before and after update(used in seed)0.0552969
 ---------------------------- Raw ID: 470066884
 ---------------------------TSOS position before Update:   (-39.1357,-64.3305,-143.602) 
----------------------------TSOS momentum after Update:   (-15.2895,-26.0051,-59.3586) 
+---------------------------TSOS momentum before Update:   (-15.2895,-26.0051,-59.3586) 
 ---------------------------TSOS after update Position:  (-48.2831,-63.0613,-143.602) 
 ---------------------------TSOS after update Momentum:  (-5.23771,-7.57584,-18.2816) 
 DeltaR before and after update(used in seed)0.0738157
 ---------------------------- Raw ID: 470066884
 ---------------------------TSOS position before Update:   (-39.1357,-64.3305,-143.602) 
----------------------------TSOS momentum after Update:   (-15.2895,-26.0051,-59.3586) 
+---------------------------TSOS momentum before Update:   (-15.2895,-26.0051,-59.3586) 
 ---------------------------TSOS after update Position:  (-48.9931,-61.6697,-143.602) 
 ---------------------------TSOS after update Momentum:  (-4.80449,-6.78357,-16.4318) 
 DeltaR before and after update(used in seed)0.084835
@@ -2483,139 +2484,139 @@ Propagated TSOS global position: ------   (-37.5028,-61.557,-137.269)
 Looping Over Tracjectory measurements----
 ---------------------------- Raw ID: 470046380
 ---------------------------TSOS position before Update:   (-36.5893,-60.0089,-133.733) 
----------------------------TSOS momentum after Update:   (-15.3373,-25.9732,-59.3524) 
+---------------------------TSOS momentum before Update:   (-15.3373,-25.9732,-59.3524) 
 ---------------------------TSOS after update Position:  (-33.4772,-57.909,-133.734) 
 ---------------------------TSOS after update Momentum:  (-25.9649,-45.4415,-101.776) 
 DeltaR before and after update(used in seed)0.017725
 ---------------------------- Raw ID: 470046380
 ---------------------------TSOS position before Update:   (-36.5893,-60.0089,-133.733) 
----------------------------TSOS momentum after Update:   (-15.3373,-25.9732,-59.3524) 
+---------------------------TSOS momentum before Update:   (-15.3373,-25.9732,-59.3524) 
 ---------------------------TSOS after update Position:  (-32.5999,-56.3912,-133.734) 
 ---------------------------TSOS after update Momentum:  (-25.1219,-43.9001,-97.7576) 
 DeltaR before and after update(used in seed)0.0209854
 ---------------------------- Raw ID: 470046380
 ---------------------------TSOS position before Update:   (-36.5893,-60.0089,-133.733) 
----------------------------TSOS momentum after Update:   (-15.3373,-25.9732,-59.3524) 
+---------------------------TSOS momentum before Update:   (-15.3373,-25.9732,-59.3524) 
 ---------------------------TSOS after update Position:  (-33.9393,-59.3914,-133.733) 
 ---------------------------TSOS after update Momentum:  (-32.0971,-56.6697,-127.329) 
 DeltaR before and after update(used in seed)0.0189575
 ---------------------------- Raw ID: 470046412
 ---------------------------TSOS position before Update:   (-37.5028,-61.557,-137.269) 
----------------------------TSOS momentum after Update:   (-15.3196,-25.9837,-59.3524) 
+---------------------------TSOS momentum before Update:   (-15.3196,-25.9837,-59.3524) 
 ---------------------------TSOS after update Position:  (-41.7885,-69.1027,-137.269) 
 ---------------------------TSOS after update Momentum:  (-17.1057,-29.2417,-68.7914) 
 DeltaR before and after update(used in seed)0.0283529
 ---------------------------- Raw ID: 470046412
 ---------------------------TSOS position before Update:   (-37.5028,-61.557,-137.269) 
----------------------------TSOS momentum after Update:   (-15.3196,-25.9837,-59.3524) 
+---------------------------TSOS momentum before Update:   (-15.3196,-25.9837,-59.3524) 
 ---------------------------TSOS after update Position:  (-41.6792,-69.1513,-137.269) 
 ---------------------------TSOS after update Momentum:  (-17.7428,-30.409,-71.4884) 
 DeltaR before and after update(used in seed)0.028481
 ---------------------------- Raw ID: 470046380
 ---------------------------TSOS position before Update:   (-36.5893,-60.0089,-133.733) 
----------------------------TSOS momentum after Update:   (-15.3373,-25.9732,-59.3524) 
+---------------------------TSOS momentum before Update:   (-15.3373,-25.9732,-59.3524) 
 ---------------------------TSOS after update Position:  (-34.8956,-61.0637,-133.733) 
 ---------------------------TSOS after update Momentum:  (-33.9141,-59.9948,-135.659) 
 DeltaR before and after update(used in seed)0.0189078
 ---------------------------- Raw ID: 470046412
 ---------------------------TSOS position before Update:   (-37.5028,-61.557,-137.269) 
----------------------------TSOS momentum after Update:   (-15.3196,-25.9837,-59.3524) 
+---------------------------TSOS momentum before Update:   (-15.3196,-25.9837,-59.3524) 
 ---------------------------TSOS after update Position:  (-41.5474,-69.2083,-137.269) 
 ---------------------------TSOS after update Momentum:  (-18.5754,-31.9342,-75.0118) 
 DeltaR before and after update(used in seed)0.0286857
 ---------------------------- Raw ID: 470046412
 ---------------------------TSOS position before Update:   (-37.5028,-61.557,-137.269) 
----------------------------TSOS momentum after Update:   (-15.3196,-25.9837,-59.3524) 
+---------------------------TSOS momentum before Update:   (-15.3196,-25.9837,-59.3524) 
 ---------------------------TSOS after update Position:  (-41.4363,-69.2553,-137.269) 
 ---------------------------TSOS after update Momentum:  (-19.3403,-33.3354,-78.2487) 
 DeltaR before and after update(used in seed)0.0289002
 ---------------------------- Raw ID: 470046380
 ---------------------------TSOS position before Update:   (-36.5893,-60.0089,-133.733) 
----------------------------TSOS momentum after Update:   (-15.3373,-25.9732,-59.3524) 
+---------------------------TSOS momentum before Update:   (-15.3373,-25.9732,-59.3524) 
 ---------------------------TSOS after update Position:  (-38.2508,-57.6068,-133.732) 
 ---------------------------TSOS after update Momentum:  (-9.12158,-14.592,-33.6856) 
 DeltaR before and after update(used in seed)0.025689
 ---------------------------- Raw ID: 470046380
 ---------------------------TSOS position before Update:   (-36.5893,-60.0089,-133.733) 
----------------------------TSOS momentum after Update:   (-15.3373,-25.9732,-59.3524) 
+---------------------------TSOS momentum before Update:   (-15.3373,-25.9732,-59.3524) 
 ---------------------------TSOS after update Position:  (-34.1957,-51.4982,-133.735) 
 ---------------------------TSOS after update Momentum:  (-9.43694,-15.1806,-34.11) 
 DeltaR before and after update(used in seed)0.0355081
 ---------------------------- Raw ID: 470046380
 ---------------------------TSOS position before Update:   (-36.5893,-60.0089,-133.733) 
----------------------------TSOS momentum after Update:   (-15.3373,-25.9732,-59.3524) 
+---------------------------TSOS momentum before Update:   (-15.3373,-25.9732,-59.3524) 
 ---------------------------TSOS after update Position:  (-39.4047,-57.2054,-133.732) 
 ---------------------------TSOS after update Momentum:  (-7.79929,-12.1703,-28.3032) 
 DeltaR before and after update(used in seed)0.0367693
 ---------------------------- Raw ID: 470046380
 ---------------------------TSOS position before Update:   (-36.5893,-60.0089,-133.733) 
----------------------------TSOS momentum after Update:   (-15.3373,-25.9732,-59.3524) 
+---------------------------TSOS momentum before Update:   (-15.3373,-25.9732,-59.3524) 
 ---------------------------TSOS after update Position:  (-41.6739,-60.5006,-133.731) 
 ---------------------------TSOS after update Momentum:  (-7.60747,-11.813,-27.9025) 
 DeltaR before and after update(used in seed)0.0395902
 ---------------------------- Raw ID: 470046380
 ---------------------------TSOS position before Update:   (-36.5893,-60.0089,-133.733) 
----------------------------TSOS momentum after Update:   (-15.3373,-25.9732,-59.3524) 
+---------------------------TSOS momentum before Update:   (-15.3373,-25.9732,-59.3524) 
 ---------------------------TSOS after update Position:  (-37.1518,-53.1325,-133.734) 
 ---------------------------TSOS after update Momentum:  (-7.60936,-11.8295,-27.0918) 
 DeltaR before and after update(used in seed)0.0426722
 ---------------------------- Raw ID: 470046380
 ---------------------------TSOS position before Update:   (-36.5893,-60.0089,-133.733) 
----------------------------TSOS momentum after Update:   (-15.3373,-25.9732,-59.3524) 
+---------------------------TSOS momentum before Update:   (-15.3373,-25.9732,-59.3524) 
 ---------------------------TSOS after update Position:  (-32.9087,-62.317,-133.733) 
 ---------------------------TSOS after update Momentum:  (-63.43,-118.282,-264.207) 
 DeltaR before and after update(used in seed)0.0411731
 ---------------------------- Raw ID: 470046380
 ---------------------------TSOS position before Update:   (-36.5893,-60.0089,-133.733) 
----------------------------TSOS momentum after Update:   (-15.3373,-25.9732,-59.3524) 
+---------------------------TSOS momentum before Update:   (-15.3373,-25.9732,-59.3524) 
 ---------------------------TSOS after update Position:  (-39.1391,-55.9753,-133.733) 
 ---------------------------TSOS after update Momentum:  (-7.4323,-11.5001,-26.6918) 
 DeltaR before and after update(used in seed)0.0412038
 ---------------------------- Raw ID: 470046380
 ---------------------------TSOS position before Update:   (-36.5893,-60.0089,-133.733) 
----------------------------TSOS momentum after Update:   (-15.3373,-25.9732,-59.3524) 
+---------------------------TSOS momentum before Update:   (-15.3373,-25.9732,-59.3524) 
 ---------------------------TSOS after update Position:  (-42.3266,-60.535,-133.731) 
 ---------------------------TSOS after update Momentum:  (-7.15985,-10.9928,-26.0777) 
 DeltaR before and after update(used in seed)0.0448232
 ---------------------------- Raw ID: 470046380
 ---------------------------TSOS position before Update:   (-36.5893,-60.0089,-133.733) 
----------------------------TSOS momentum after Update:   (-15.3373,-25.9732,-59.3524) 
+---------------------------TSOS momentum before Update:   (-15.3373,-25.9732,-59.3524) 
 ---------------------------TSOS after update Position:  (-37.3125,-52.7143,-133.734) 
 ---------------------------TSOS after update Momentum:  (-7.31363,-11.2885,-25.877) 
 DeltaR before and after update(used in seed)0.0460662
 ---------------------------- Raw ID: 470046380
 ---------------------------TSOS position before Update:   (-36.5893,-60.0089,-133.733) 
----------------------------TSOS momentum after Update:   (-15.3373,-25.9732,-59.3524) 
+---------------------------TSOS momentum before Update:   (-15.3373,-25.9732,-59.3524) 
 ---------------------------TSOS after update Position:  (-35.5172,-50.1772,-133.735) 
 ---------------------------TSOS after update Momentum:  (-7.47998,-11.5978,-26.2706) 
 DeltaR before and after update(used in seed)0.0491847
 ---------------------------- Raw ID: 470046380
 ---------------------------TSOS position before Update:   (-36.5893,-60.0089,-133.733) 
----------------------------TSOS momentum after Update:   (-15.3373,-25.9732,-59.3524) 
+---------------------------TSOS momentum before Update:   (-15.3373,-25.9732,-59.3524) 
 ---------------------------TSOS after update Position:  (-40.1723,-56.7558,-133.732) 
 ---------------------------TSOS after update Momentum:  (-7.05952,-10.8157,-25.2767) 
 DeltaR before and after update(used in seed)0.0451315
 ---------------------------- Raw ID: 470046380
 ---------------------------TSOS position before Update:   (-36.5893,-60.0089,-133.733) 
----------------------------TSOS momentum after Update:   (-15.3373,-25.9732,-59.3524) 
+---------------------------TSOS momentum before Update:   (-15.3373,-25.9732,-59.3524) 
 ---------------------------TSOS after update Position:  (-36.9502,-52.0675,-133.734) 
 ---------------------------TSOS after update Momentum:  (-7.29079,-11.2478,-25.7207) 
 DeltaR before and after update(used in seed)0.0473054
 ---------------------------- Raw ID: 470046380
 ---------------------------TSOS position before Update:   (-36.5893,-60.0089,-133.733) 
----------------------------TSOS momentum after Update:   (-15.3373,-25.9732,-59.3524) 
+---------------------------TSOS momentum before Update:   (-15.3373,-25.9732,-59.3524) 
 ---------------------------TSOS after update Position:  (-39.7471,-56.0097,-133.732) 
 ---------------------------TSOS after update Momentum:  (-7.04026,-10.7817,-25.1237) 
 DeltaR before and after update(used in seed)0.0456888
 ---------------------------- Raw ID: 470046380
 ---------------------------TSOS position before Update:   (-36.5893,-60.0089,-133.733) 
----------------------------TSOS momentum after Update:   (-15.3373,-25.9732,-59.3524) 
+---------------------------TSOS momentum before Update:   (-15.3373,-25.9732,-59.3524) 
 ---------------------------TSOS after update Position:  (-35.192,-49.5893,-133.735) 
 ---------------------------TSOS after update Momentum:  (-7.45502,-11.5531,-26.1126) 
 DeltaR before and after update(used in seed)0.0506266
 ---------------------------- Raw ID: 470046380
 ---------------------------TSOS position before Update:   (-36.5893,-60.0089,-133.733) 
----------------------------TSOS momentum after Update:   (-15.3373,-25.9732,-59.3524) 
+---------------------------TSOS momentum before Update:   (-15.3373,-25.9732,-59.3524) 
 ---------------------------TSOS after update Position:  (-34.1732,-65.3952,-133.732) 
 ---------------------------TSOS after update Momentum:  (-35.4705,-67.0822,-151.126) 
 DeltaR before and after update(used in seed)0.0482333
@@ -2667,49 +2668,49 @@ Propagated TSOS global position: ------   (-56.3207,-93.7627,-208.37)
 Looping Over Tracjectory measurements----
 ---------------------------- Raw ID: 470128372
 ---------------------------TSOS position before Update:   (-56.3207,-93.7627,-208.37) 
----------------------------TSOS momentum after Update:   (-14.9901,-26.2732,-59.8447) 
+---------------------------TSOS momentum before Update:   (-14.9901,-26.2732,-59.8447) 
 ---------------------------TSOS after update Position:  (-51.3283,-86.0037,-208.374) 
 ---------------------------TSOS after update Momentum:  (-15.3366,-26.5692,-58.41) 
 DeltaR before and after update(used in seed)0.0344639
 ---------------------------- Raw ID: 470128372
 ---------------------------TSOS position before Update:   (-56.3207,-93.7627,-208.37) 
----------------------------TSOS momentum after Update:   (-14.9901,-26.2732,-59.8447) 
+---------------------------TSOS momentum before Update:   (-14.9901,-26.2732,-59.8447) 
 ---------------------------TSOS after update Position:  (-51.2083,-86.0769,-208.374) 
 ---------------------------TSOS after update Momentum:  (-15.2812,-26.4122,-58.1005) 
 DeltaR before and after update(used in seed)0.0345925
 ---------------------------- Raw ID: 470128372
 ---------------------------TSOS position before Update:   (-56.3207,-93.7627,-208.37) 
----------------------------TSOS momentum after Update:   (-14.9901,-26.2732,-59.8447) 
+---------------------------TSOS momentum before Update:   (-14.9901,-26.2732,-59.8447) 
 ---------------------------TSOS after update Position:  (-50.9656,-86.2244,-208.374) 
 ---------------------------TSOS after update Momentum:  (-15.1713,-26.1003,-57.4857) 
 DeltaR before and after update(used in seed)0.0349423
 ---------------------------- Raw ID: 470128372
 ---------------------------TSOS position before Update:   (-56.3207,-93.7627,-208.37) 
----------------------------TSOS momentum after Update:   (-14.9901,-26.2732,-59.8447) 
+---------------------------TSOS momentum before Update:   (-14.9901,-26.2732,-59.8447) 
 ---------------------------TSOS after update Position:  (-50.8884,-86.2713,-208.374) 
 ---------------------------TSOS after update Momentum:  (-15.1368,-26.0024,-57.2929) 
 DeltaR before and after update(used in seed)0.0350786
 ---------------------------- Raw ID: 470128372
 ---------------------------TSOS position before Update:   (-56.3207,-93.7627,-208.37) 
----------------------------TSOS momentum after Update:   (-14.9901,-26.2732,-59.8447) 
+---------------------------TSOS momentum before Update:   (-14.9901,-26.2732,-59.8447) 
 ---------------------------TSOS after update Position:  (-50.8188,-86.3134,-208.374) 
 ---------------------------TSOS after update Momentum:  (-15.106,-25.9149,-57.1202) 
 DeltaR before and after update(used in seed)0.0352115
 ---------------------------- Raw ID: 470128372
 ---------------------------TSOS position before Update:   (-56.3207,-93.7627,-208.37) 
----------------------------TSOS momentum after Update:   (-14.9901,-26.2732,-59.8447) 
+---------------------------TSOS momentum before Update:   (-14.9901,-26.2732,-59.8447) 
 ---------------------------TSOS after update Position:  (-50.6913,-86.3904,-208.374) 
 ---------------------------TSOS after update Momentum:  (-15.0499,-25.7559,-56.8068) 
 DeltaR before and after update(used in seed)0.0354791
 ---------------------------- Raw ID: 470128372
 ---------------------------TSOS position before Update:   (-56.3207,-93.7627,-208.37) 
----------------------------TSOS momentum after Update:   (-14.9901,-26.2732,-59.8447) 
+---------------------------TSOS momentum before Update:   (-14.9901,-26.2732,-59.8447) 
 ---------------------------TSOS after update Position:  (-53.6006,-84.587,-208.375) 
 ---------------------------TSOS after update Momentum:  (-16.516,-29.9141,-64.9955) 
 DeltaR before and after update(used in seed)0.0376776
 ---------------------------- Raw ID: 470128372
 ---------------------------TSOS position before Update:   (-56.3207,-93.7627,-208.37) 
----------------------------TSOS momentum after Update:   (-14.9901,-26.2732,-59.8447) 
+---------------------------TSOS momentum before Update:   (-14.9901,-26.2732,-59.8447) 
 ---------------------------TSOS after update Position:  (-49.4856,-87.1104,-208.374) 
 ---------------------------TSOS after update Momentum:  (-14.5508,-24.3389,-54.0116) 
 DeltaR before and after update(used in seed)0.0394124
@@ -2737,31 +2738,31 @@ Propagated TSOS global position: ------   (-51.9266,-86.0903,-190.878)
 Looping Over Tracjectory measurements----
 ---------------------------- Raw ID: 470111988
 ---------------------------TSOS position before Update:   (-51.9266,-86.0903,-190.878) 
----------------------------TSOS momentum after Update:   (-15.0758,-26.2238,-59.8441) 
+---------------------------TSOS momentum before Update:   (-15.0758,-26.2238,-59.8441) 
 ---------------------------TSOS after update Position:  (-51.0483,-85.0772,-190.878) 
 ---------------------------TSOS after update Momentum:  (-15.044,-26.0422,-59.1811) 
 DeltaR before and after update(used in seed)0.0052511
 ---------------------------- Raw ID: 470111988
 ---------------------------TSOS position before Update:   (-51.9266,-86.0903,-190.878) 
----------------------------TSOS momentum after Update:   (-15.0758,-26.2238,-59.8441) 
+---------------------------TSOS momentum before Update:   (-15.0758,-26.2238,-59.8441) 
 ---------------------------TSOS after update Position:  (-50.9856,-85.1155,-190.878) 
 ---------------------------TSOS after update Momentum:  (-15.0135,-25.9576,-59.0081) 
 DeltaR before and after update(used in seed)0.00546947
 ---------------------------- Raw ID: 470111988
 ---------------------------TSOS position before Update:   (-51.9266,-86.0903,-190.878) 
----------------------------TSOS momentum after Update:   (-15.0758,-26.2238,-59.8441) 
+---------------------------TSOS momentum before Update:   (-15.0758,-26.2238,-59.8441) 
 ---------------------------TSOS after update Position:  (-53.0445,-83.8368,-190.876) 
 ---------------------------TSOS after update Momentum:  (-16.1247,-29.0417,-65.3094) 
 DeltaR before and after update(used in seed)0.0159117
 ---------------------------- Raw ID: 470111988
 ---------------------------TSOS position before Update:   (-51.9266,-86.0903,-190.878) 
----------------------------TSOS momentum after Update:   (-15.0758,-26.2238,-59.8441) 
+---------------------------TSOS momentum before Update:   (-15.0758,-26.2238,-59.8441) 
 ---------------------------TSOS after update Position:  (-49.0919,-86.2546,-190.879) 
 ---------------------------TSOS after update Momentum:  (-14.1731,-23.6233,-54.2323) 
 DeltaR before and after update(used in seed)0.0191651
 ---------------------------- Raw ID: 470111988
 ---------------------------TSOS position before Update:   (-51.9266,-86.0903,-190.878) 
----------------------------TSOS momentum after Update:   (-15.0758,-26.2238,-59.8441) 
+---------------------------TSOS momentum before Update:   (-15.0758,-26.2238,-59.8441) 
 ---------------------------TSOS after update Position:  (-54.0136,-83.22,-190.876) 
 ---------------------------TSOS after update Momentum:  (-16.7391,-30.746,-68.7884) 
 DeltaR before and after update(used in seed)0.0239774
@@ -2783,19 +2784,19 @@ Propagated TSOS global position: ------   (-48.3932,-79.9625,-176.883)
 Looping Over Tracjectory measurements----
 ---------------------------- Raw ID: 470095604
 ---------------------------TSOS position before Update:   (-48.3932,-79.9625,-176.883) 
----------------------------TSOS momentum after Update:   (-15.1443,-26.1842,-59.8439) 
+---------------------------TSOS momentum before Update:   (-15.1443,-26.1842,-59.8439) 
 ---------------------------TSOS after update Position:  (-50.7402,-84.4741,-176.879) 
 ---------------------------TSOS after update Momentum:  (-14.7603,-25.479,-59.4864) 
 DeltaR before and after update(used in seed)0.0187064
 ---------------------------- Raw ID: 470095604
 ---------------------------TSOS position before Update:   (-48.3932,-79.9625,-176.883) 
----------------------------TSOS momentum after Update:   (-15.1443,-26.1842,-59.8439) 
+---------------------------TSOS momentum before Update:   (-15.1443,-26.1842,-59.8439) 
 ---------------------------TSOS after update Position:  (-51.8045,-83.8189,-176.88) 
 ---------------------------TSOS after update Momentum:  (-15.3173,-27.0076,-62.7002) 
 DeltaR before and after update(used in seed)0.0201913
 ---------------------------- Raw ID: 470095604
 ---------------------------TSOS position before Update:   (-48.3932,-79.9625,-176.883) 
----------------------------TSOS momentum after Update:   (-15.1443,-26.1842,-59.8439) 
+---------------------------TSOS momentum before Update:   (-15.1443,-26.1842,-59.8439) 
 ---------------------------TSOS after update Position:  (-52.6177,-83.3113,-176.881) 
 ---------------------------TSOS after update Momentum:  (-15.7872,-28.2968,-65.4092) 
 DeltaR before and after update(used in seed)0.0237254
@@ -2820,25 +2821,25 @@ Propagated TSOS global position: ------   (-45.4478,-74.8827,-165.266)
 Looping Over Tracjectory measurements----
 ---------------------------- Raw ID: 470079180
 ---------------------------TSOS position before Update:   (-45.4478,-74.8827,-165.266) 
----------------------------TSOS momentum after Update:   (-15.2016,-26.1522,-59.8461) 
+---------------------------TSOS momentum before Update:   (-15.2016,-26.1522,-59.8461) 
 ---------------------------TSOS after update Position:  (-42.4821,-70.5487,-165.266) 
 ---------------------------TSOS after update Momentum:  (-15.3095,-26.1171,-58.6701) 
 DeltaR before and after update(used in seed)0.0187443
 ---------------------------- Raw ID: 470079180
 ---------------------------TSOS position before Update:   (-45.4478,-74.8827,-165.266) 
----------------------------TSOS momentum after Update:   (-15.2016,-26.1522,-59.8461) 
+---------------------------TSOS momentum before Update:   (-15.2016,-26.1522,-59.8461) 
 ---------------------------TSOS after update Position:  (-40.2792,-71.7531,-165.266) 
 ---------------------------TSOS after update Momentum:  (-14.2764,-23.4081,-53.133) 
 DeltaR before and after update(used in seed)0.0280389
 ---------------------------- Raw ID: 470079180
 ---------------------------TSOS position before Update:   (-45.4478,-74.8827,-165.266) 
----------------------------TSOS momentum after Update:   (-15.2016,-26.1522,-59.8461) 
+---------------------------TSOS momentum before Update:   (-15.2016,-26.1522,-59.8461) 
 ---------------------------TSOS after update Position:  (-37.9709,-72.9761,-165.266) 
 ---------------------------TSOS after update Momentum:  (-13.3909,-21.0853,-48.3792) 
 DeltaR before and after update(used in seed)0.0435892
 ---------------------------- Raw ID: 470079180
 ---------------------------TSOS position before Update:   (-45.4478,-74.8827,-165.266) 
----------------------------TSOS momentum after Update:   (-15.2016,-26.1522,-59.8461) 
+---------------------------TSOS momentum before Update:   (-15.2016,-26.1522,-59.8461) 
 ---------------------------TSOS after update Position:  (-36.3556,-73.8085,-165.266) 
 ---------------------------TSOS after update Momentum:  (-12.8633,-19.7013,-45.5431) 
 DeltaR before and after update(used in seed)0.055417
@@ -2860,19 +2861,19 @@ Propagated TSOS global position: ------   (-41.8838,-68.7697,-151.267)
 Looping Over Tracjectory measurements----
 ---------------------------- Raw ID: 470062796
 ---------------------------TSOS position before Update:   (-41.8838,-68.7697,-151.267) 
----------------------------TSOS momentum after Update:   (-15.27,-26.1122,-59.8459) 
+---------------------------TSOS momentum before Update:   (-15.27,-26.1122,-59.8459) 
 ---------------------------TSOS after update Position:  (-42.2991,-70.0685,-151.267) 
 ---------------------------TSOS after update Momentum:  (-15.0612,-25.6477,-59.1547) 
 DeltaR before and after update(used in seed)0.00504307
 ---------------------------- Raw ID: 470062796
 ---------------------------TSOS position before Update:   (-41.8838,-68.7697,-151.267) 
----------------------------TSOS momentum after Update:   (-15.27,-26.1122,-59.8459) 
+---------------------------TSOS momentum before Update:   (-15.27,-26.1122,-59.8459) 
 ---------------------------TSOS after update Position:  (-38.9108,-71.91,-151.268) 
 ---------------------------TSOS after update Momentum:  (-13.5504,-21.7054,-50.8773) 
 DeltaR before and after update(used in seed)0.0292736
 ---------------------------- Raw ID: 470062796
 ---------------------------TSOS position before Update:   (-41.8838,-68.7697,-151.267) 
----------------------------TSOS momentum after Update:   (-15.27,-26.1122,-59.8459) 
+---------------------------TSOS momentum before Update:   (-15.27,-26.1122,-59.8459) 
 ---------------------------TSOS after update Position:  (-38.51,-72.1227,-151.268) 
 ---------------------------TSOS after update Momentum:  (-13.4001,-21.3131,-50.0527) 
 DeltaR before and after update(used in seed)0.0324157
@@ -2956,139 +2957,139 @@ Propagated TSOS global position: ------   (-37.3972,-61.1264,-133.732)
 Looping Over Tracjectory measurements----
 ---------------------------- Raw ID: 470046380
 ---------------------------TSOS position before Update:   (-37.3972,-61.1264,-133.732) 
----------------------------TSOS momentum after Update:   (-15.3571,-26.0647,-59.8521) 
+---------------------------TSOS momentum before Update:   (-15.3571,-26.0647,-59.8521) 
 ---------------------------TSOS after update Position:  (-34.9045,-61.0832,-133.733) 
 ---------------------------TSOS after update Momentum:  (-14.4727,-23.7547,-54.7726) 
 DeltaR before and after update(used in seed)0.015357
 ---------------------------- Raw ID: 470046380
 ---------------------------TSOS position before Update:   (-37.3972,-61.1264,-133.732) 
----------------------------TSOS momentum after Update:   (-15.3571,-26.0647,-59.8521) 
+---------------------------TSOS momentum before Update:   (-15.3571,-26.0647,-59.8521) 
 ---------------------------TSOS after update Position:  (-33.9451,-59.4046,-133.733) 
 ---------------------------TSOS after update Momentum:  (-14.5738,-23.9147,-54.7434) 
 DeltaR before and after update(used in seed)0.0183431
 ---------------------------- Raw ID: 470046380
 ---------------------------TSOS position before Update:   (-37.3972,-61.1264,-133.732) 
----------------------------TSOS momentum after Update:   (-15.3571,-26.0647,-59.8521) 
+---------------------------TSOS momentum before Update:   (-15.3571,-26.0647,-59.8521) 
 ---------------------------TSOS after update Position:  (-38.2501,-57.6056,-133.732) 
 ---------------------------TSOS after update Momentum:  (-16.8815,-29.7703,-67.0087) 
 DeltaR before and after update(used in seed)0.0190003
 ---------------------------- Raw ID: 470046380
 ---------------------------TSOS position before Update:   (-37.3972,-61.1264,-133.732) 
----------------------------TSOS momentum after Update:   (-15.3571,-26.0647,-59.8521) 
+---------------------------TSOS momentum before Update:   (-15.3571,-26.0647,-59.8521) 
 ---------------------------TSOS after update Position:  (-33.4767,-57.908,-133.734) 
 ---------------------------TSOS after update Momentum:  (-14.7959,-24.3988,-55.4572) 
 DeltaR before and after update(used in seed)0.0203149
 ---------------------------- Raw ID: 470046380
 ---------------------------TSOS position before Update:   (-37.3972,-61.1264,-133.732) 
----------------------------TSOS momentum after Update:   (-15.3571,-26.0647,-59.8521) 
+---------------------------TSOS momentum before Update:   (-15.3571,-26.0647,-59.8521) 
 ---------------------------TSOS after update Position:  (-39.404,-57.2043,-133.732) 
 ---------------------------TSOS after update Momentum:  (-17.6529,-31.7335,-71.1391) 
 DeltaR before and after update(used in seed)0.0262858
 ---------------------------- Raw ID: 470046380
 ---------------------------TSOS position before Update:   (-37.3972,-61.1264,-133.732) 
----------------------------TSOS momentum after Update:   (-15.3571,-26.0647,-59.8521) 
+---------------------------TSOS momentum before Update:   (-15.3571,-26.0647,-59.8521) 
 ---------------------------TSOS after update Position:  (-41.6732,-60.4995,-133.731) 
 ---------------------------TSOS after update Momentum:  (-17.601,-31.8752,-72.4146) 
 DeltaR before and after update(used in seed)0.0283
 ---------------------------- Raw ID: 470046380
 ---------------------------TSOS position before Update:   (-37.3972,-61.1264,-133.732) 
----------------------------TSOS momentum after Update:   (-15.3571,-26.0647,-59.8521) 
+---------------------------TSOS momentum before Update:   (-15.3571,-26.0647,-59.8521) 
 ---------------------------TSOS after update Position:  (-32.599,-56.3896,-133.734) 
 ---------------------------TSOS after update Momentum:  (-14.885,-24.5365,-55.4116) 
 DeltaR before and after update(used in seed)0.0252083
 ---------------------------- Raw ID: 470046380
 ---------------------------TSOS position before Update:   (-37.3972,-61.1264,-133.732) 
----------------------------TSOS momentum after Update:   (-15.3571,-26.0647,-59.8521) 
+---------------------------TSOS momentum before Update:   (-15.3571,-26.0647,-59.8521) 
 ---------------------------TSOS after update Position:  (-32.9085,-62.3167,-133.733) 
 ---------------------------TSOS after update Momentum:  (-13.5896,-21.5223,-50.1297) 
 DeltaR before and after update(used in seed)0.0310366
 ---------------------------- Raw ID: 470046380
 ---------------------------TSOS position before Update:   (-37.3972,-61.1264,-133.732) 
----------------------------TSOS momentum after Update:   (-15.3571,-26.0647,-59.8521) 
+---------------------------TSOS momentum before Update:   (-15.3571,-26.0647,-59.8521) 
 ---------------------------TSOS after update Position:  (-42.3277,-60.5364,-133.731) 
 ---------------------------TSOS after update Momentum:  (-17.9716,-32.8461,-74.5507) 
 DeltaR before and after update(used in seed)0.032296
 ---------------------------- Raw ID: 470046380
 ---------------------------TSOS position before Update:   (-37.3972,-61.1264,-133.732) 
----------------------------TSOS momentum after Update:   (-15.3571,-26.0647,-59.8521) 
+---------------------------TSOS momentum before Update:   (-15.3571,-26.0647,-59.8521) 
 ---------------------------TSOS after update Position:  (-39.1378,-55.9732,-133.733) 
 ---------------------------TSOS after update Momentum:  (-18.0092,-32.5517,-72.543) 
 DeltaR before and after update(used in seed)0.0300092
 ---------------------------- Raw ID: 470046380
 ---------------------------TSOS position before Update:   (-37.3972,-61.1264,-133.732) 
----------------------------TSOS momentum after Update:   (-15.3571,-26.0647,-59.8521) 
+---------------------------TSOS momentum before Update:   (-15.3571,-26.0647,-59.8521) 
 ---------------------------TSOS after update Position:  (-40.1729,-56.7563,-133.732) 
 ---------------------------TSOS after update Momentum:  (-18.3014,-33.3719,-74.5414) 
 DeltaR before and after update(used in seed)0.032109
 ---------------------------- Raw ID: 470046380
 ---------------------------TSOS position before Update:   (-37.3972,-61.1264,-133.732) 
----------------------------TSOS momentum after Update:   (-15.3571,-26.0647,-59.8521) 
+---------------------------TSOS momentum before Update:   (-15.3571,-26.0647,-59.8521) 
 ---------------------------TSOS after update Position:  (-39.7473,-56.0098,-133.732) 
 ---------------------------TSOS after update Momentum:  (-18.3665,-33.4756,-74.5393) 
 DeltaR before and after update(used in seed)0.0328593
 ---------------------------- Raw ID: 470046380
 ---------------------------TSOS position before Update:   (-37.3972,-61.1264,-133.732) 
----------------------------TSOS momentum after Update:   (-15.3571,-26.0647,-59.8521) 
+---------------------------TSOS momentum before Update:   (-15.3571,-26.0647,-59.8521) 
 ---------------------------TSOS after update Position:  (-34.1724,-65.3934,-133.732) 
 ---------------------------TSOS after update Momentum:  (-13.2913,-20.9113,-49.4153) 
 DeltaR before and after update(used in seed)0.0345067
 ---------------------------- Raw ID: 470046412
 ---------------------------TSOS position before Update:   (-38.3043,-62.6671,-137.269) 
----------------------------TSOS momentum after Update:   (-15.3398,-26.0749,-59.8521) 
+---------------------------TSOS momentum before Update:   (-15.3398,-26.0749,-59.8521) 
 ---------------------------TSOS after update Position:  (-42.1118,-69.6375,-137.269) 
 ---------------------------TSOS after update Momentum:  (-14.8073,-25.1614,-59.5743) 
 DeltaR before and after update(used in seed)0.027687
 ---------------------------- Raw ID: 470046412
 ---------------------------TSOS position before Update:   (-38.3043,-62.6671,-137.269) 
----------------------------TSOS momentum after Update:   (-15.3398,-26.0749,-59.8521) 
+---------------------------TSOS momentum before Update:   (-15.3398,-26.0749,-59.8521) 
 ---------------------------TSOS after update Position:  (-42.0072,-69.6955,-137.269) 
 ---------------------------TSOS after update Momentum:  (-14.7534,-25.0211,-59.2722) 
 DeltaR before and after update(used in seed)0.0277105
 ---------------------------- Raw ID: 470046412
 ---------------------------TSOS position before Update:   (-38.3043,-62.6671,-137.269) 
----------------------------TSOS momentum after Update:   (-15.3398,-26.0749,-59.8521) 
+---------------------------TSOS momentum before Update:   (-15.3398,-26.0749,-59.8521) 
 ---------------------------TSOS after update Position:  (-41.8815,-69.7652,-137.269) 
 ---------------------------TSOS after update Momentum:  (-14.6894,-24.8545,-58.9137) 
 DeltaR before and after update(used in seed)0.0277724
 ---------------------------- Raw ID: 470046412
 ---------------------------TSOS position before Update:   (-38.3043,-62.6671,-137.269) 
----------------------------TSOS momentum after Update:   (-15.3398,-26.0749,-59.8521) 
+---------------------------TSOS momentum before Update:   (-15.3398,-26.0749,-59.8521) 
 ---------------------------TSOS after update Position:  (-41.7762,-69.8235,-137.269) 
 ---------------------------TSOS after update Momentum:  (-14.6364,-24.7166,-58.6165) 
 DeltaR before and after update(used in seed)0.0278518
 ---------------------------- Raw ID: 470046380
 ---------------------------TSOS position before Update:   (-37.3972,-61.1264,-133.732) 
----------------------------TSOS momentum after Update:   (-15.3571,-26.0647,-59.8521) 
+---------------------------TSOS momentum before Update:   (-15.3571,-26.0647,-59.8521) 
 ---------------------------TSOS after update Position:  (-37.1505,-53.1303,-133.734) 
 ---------------------------TSOS after update Momentum:  (-18.0292,-32.3718,-71.3364) 
 DeltaR before and after update(used in seed)0.0343244
 ---------------------------- Raw ID: 470046380
 ---------------------------TSOS position before Update:   (-37.3972,-61.1264,-133.732) 
----------------------------TSOS momentum after Update:   (-15.3571,-26.0647,-59.8521) 
+---------------------------TSOS momentum before Update:   (-15.3571,-26.0647,-59.8521) 
 ---------------------------TSOS after update Position:  (-37.3114,-52.7125,-133.734) 
 ---------------------------TSOS after update Momentum:  (-18.304,-33.0402,-72.6351) 
 DeltaR before and after update(used in seed)0.0366463
 ---------------------------- Raw ID: 470046380
 ---------------------------TSOS position before Update:   (-37.3972,-61.1264,-133.732) 
----------------------------TSOS momentum after Update:   (-15.3571,-26.0647,-59.8521) 
+---------------------------TSOS momentum before Update:   (-15.3571,-26.0647,-59.8521) 
 ---------------------------TSOS after update Position:  (-34.195,-51.4971,-133.735) 
 ---------------------------TSOS after update Momentum:  (-17.0554,-29.7663,-65.3732) 
 DeltaR before and after update(used in seed)0.0354855
 ---------------------------- Raw ID: 470046380
 ---------------------------TSOS position before Update:   (-37.3972,-61.1264,-133.732) 
----------------------------TSOS momentum after Update:   (-15.3571,-26.0647,-59.8521) 
+---------------------------TSOS momentum before Update:   (-15.3571,-26.0647,-59.8521) 
 ---------------------------TSOS after update Position:  (-36.9489,-52.0653,-133.734) 
 ---------------------------TSOS after update Momentum:  (-18.3626,-33.1373,-72.6534) 
 DeltaR before and after update(used in seed)0.0382894
 ---------------------------- Raw ID: 470046380
 ---------------------------TSOS position before Update:   (-37.3972,-61.1264,-133.732) 
----------------------------TSOS momentum after Update:   (-15.3571,-26.0647,-59.8521) 
+---------------------------TSOS momentum before Update:   (-15.3571,-26.0647,-59.8521) 
 ---------------------------TSOS after update Position:  (-35.5161,-50.1754,-133.735) 
 ---------------------------TSOS after update Momentum:  (-18.3035,-32.837,-71.48) 
 DeltaR before and after update(used in seed)0.0426433
 ---------------------------- Raw ID: 470046380
 ---------------------------TSOS position before Update:   (-37.3972,-61.1264,-133.732) 
----------------------------TSOS momentum after Update:   (-15.3571,-26.0647,-59.8521) 
+---------------------------TSOS momentum before Update:   (-15.3571,-26.0647,-59.8521) 
 ---------------------------TSOS after update Position:  (-35.1906,-49.587,-133.735) 
 ---------------------------TSOS after update Momentum:  (-18.3582,-32.9298,-71.5086) 
 DeltaR before and after update(used in seed)0.0444253
@@ -3951,5 +3952,3 @@ Tight id and Isolated reco muon, px,py,pz:  -17.327, -27.881, -64.0845
 Num of L3OI muon cands: 2
 L3 OI cand pt, eta, phi:  62.9322  :  -1.7754  : 1.48156
 L3 OI cand pt, eta, phi:  38.5201  :  -1.40606  : -2.02023
-
- 
