@@ -1,0 +1,1252 @@
+L2 Muon pt,eta, phi:   62.838 , -1.77748 , 1.48199
+L2 Muon px,py, pz:   5.573 , 62.5904 , -180.53
+---------------------------------------------------------finding seed................TOBip
+Before entering the hitbased seed function with the det: TOBip
+dets found  in this layer:  0
+Looping Over Tracjectory measurements----
+after...Entering the hitbased seed function with the det: 
+---------------------------------------------------------finding seed................TOBip
+Before entering the hitbased seed function with the det: TOBip
+dets found  in this layer:  0
+Looping Over Tracjectory measurements----
+after...Entering the hitbased seed function with the det: 
+---------------------------------------------------------finding seed................TOBip
+Before entering the hitbased seed function with the det: TOBip
+dets found  in this layer:  0
+Looping Over Tracjectory measurements----
+after...Entering the hitbased seed function with the det: 
+---------------------------------------------------------finding seed................TOBip
+Before entering the hitbased seed function with the det: TOBip
+dets found  in this layer:  0
+Looping Over Tracjectory measurements----
+after...Entering the hitbased seed function with the det: 
+---------------------------------------------------------finding seed................TOBip
+Before entering the hitbased seed function with the det: TOBip
+dets found  in this layer:  0
+Looping Over Tracjectory measurements----
+after...Entering the hitbased seed function with the det: 
+---------------------------------------------------------finding seed................TOBip
+Before entering the hitbased seed function with the det: TOBip
+dets found  in this layer:  0
+Looping Over Tracjectory measurements----
+after...Entering the hitbased seed function with the det: 
+---------------------------------------------------------finding seed................TOBmus
+Before entering the hitbased seed function with the det: TOBmus
+dets found  in this layer:  0
+Looping Over Tracjectory measurements----
+after...Entering the hitbased seed function with the det: 
+---------------------------------------------------------finding seed................TOBmus
+Before entering the hitbased seed function with the det: TOBmus
+dets found  in this layer:  0
+Looping Over Tracjectory measurements----
+after...Entering the hitbased seed function with the det: 
+---------------------------------------------------------finding seed................TOBmus
+Before entering the hitbased seed function with the det: TOBmus
+dets found  in this layer:  0
+Looping Over Tracjectory measurements----
+after...Entering the hitbased seed function with the det: 
+---------------------------------------------------------finding seed................TOBmus
+Before entering the hitbased seed function with the det: TOBmus
+dets found  in this layer:  0
+Looping Over Tracjectory measurements----
+after...Entering the hitbased seed function with the det: 
+---------------------------------------------------------finding seed................TOBmus
+Before entering the hitbased seed function with the det: TOBmus
+dets found  in this layer:  0
+Looping Over Tracjectory measurements----
+after...Entering the hitbased seed function with the det: 
+---------------------------------------------------------finding seed................TOBmus
+Before entering the hitbased seed function with the det: TOBmus
+dets found  in this layer:  0
+Looping Over Tracjectory measurements----
+after...Entering the hitbased seed function with the det: 
+---------------------------------------------------------finding seed................TEC-ip
+Before entering the hitbased seed function with the det: TEC-ip
+dets found  in this layer:  1
+WheelNumber of this det: ----  9
+Propagated TSOS global position: ------   (8.80693,90.8388,-261.705) 
+----raw Id of recHit :  470180848
+------RecHit globalposition:  (7.24539,98.7907,-261.706) 
+------Estimate: 8.92132
+----raw Id of recHit :  470180848
+------RecHit globalposition:  (9.95584,98.5773,-261.708) 
+------Estimate: 1.26637
+----raw Id of recHit :  470180848
+------RecHit globalposition:  (9.59658,98.6056,-261.708) 
+------Estimate: 0.936174
+----raw Id of recHit :  470180848
+------RecHit globalposition:  (9.21896,98.6353,-261.707) 
+------Estimate: 1.02771
+Looping Over Tracjectory measurements----
+---------------------------- Raw ID: 470180848
+---------------------------TSOS position before Update:   (8.80693,90.8388,-261.705) 
+---------------------------TSOS momentum after Update:   (6.61003,62.4887,-180.528) 
+---------------------------TSOS after update Position:  (9.19326,94.463,-261.706) 
+---------------------------TSOS after update Momentum:  (7.08911,67.2693,-197.928) 
+DeltaR before and after update(used in seed)0.0173397
+---------------------------- Raw ID: 470180848
+---------------------------TSOS position before Update:   (8.80693,90.8388,-261.705) 
+---------------------------TSOS momentum after Update:   (6.61003,62.4887,-180.528) 
+---------------------------TSOS after update Position:  (8.84836,94.6717,-261.706) 
+---------------------------TSOS after update Momentum:  (5.43214,51.4435,-151.515) 
+DeltaR before and after update(used in seed)0.0182638
+---------------------------- Raw ID: 470180848
+---------------------------TSOS position before Update:   (8.80693,90.8388,-261.705) 
+---------------------------TSOS momentum after Update:   (6.61003,62.4887,-180.528) 
+---------------------------TSOS after update Position:  (9.51273,94.1939,-261.706) 
+---------------------------TSOS after update Momentum:  (9.96092,94.692,-278.249) 
+DeltaR before and after update(used in seed)0.0161231
+---------------------------- Raw ID: 470180848
+---------------------------TSOS position before Update:   (8.80693,90.8388,-261.705) 
+---------------------------TSOS momentum after Update:   (6.61003,62.4887,-180.528) 
+---------------------------TSOS after update Position:  (6.93184,94.481,-261.705) 
+---------------------------TSOS after update Momentum:  (2.45956,23.0253,-67.7284) 
+DeltaR before and after update(used in seed)0.0169526
+after...Entering the hitbased seed function with the det: 
+---------------------------------------------------------finding seed................TEC-ip
+Before entering the hitbased seed function with the det: TEC-ip
+dets found  in this layer:  1
+WheelNumber of this det: ----  8
+Propagated TSOS global position: ------   (8.11111,84.2225,-242.592) 
+----raw Id of recHit :  470164428
+------RecHit globalposition:  (3.61321,81.8022,-242.592) 
+------Estimate: 31.4602
+----raw Id of recHit :  470164428
+------RecHit globalposition:  (4.47347,81.7539,-242.592) 
+------Estimate: 20.3781
+----raw Id of recHit :  470164428
+------RecHit globalposition:  (5.15779,81.7155,-242.592) 
+------Estimate: 13.2148
+----raw Id of recHit :  470164428
+------RecHit globalposition:  (6.25029,81.6542,-242.593) 
+------Estimate: 4.51631
+----raw Id of recHit :  470164428
+------RecHit globalposition:  (7.88743,81.5623,-242.593) 
+------Estimate: 0.115094
+----raw Id of recHit :  470164428
+------RecHit globalposition:  (8.86259,81.5075,-242.594) 
+------Estimate: 1.78594
+----raw Id of recHit :  470164428
+------RecHit globalposition:  (9.23217,81.4868,-242.594) 
+------Estimate: 3.25722
+Looping Over Tracjectory measurements----
+---------------------------- Raw ID: 470164428
+---------------------------TSOS position before Update:   (8.11111,84.2225,-242.592) 
+---------------------------TSOS momentum after Update:   (6.5344,62.4964,-180.528) 
+---------------------------TSOS after update Position:  (8.00434,82.7717,-242.593) 
+---------------------------TSOS after update Momentum:  (6.61072,63.154,-181.146) 
+DeltaR before and after update(used in seed)0.00666509
+---------------------------- Raw ID: 470164428
+---------------------------TSOS position before Update:   (8.11111,84.2225,-242.592) 
+---------------------------TSOS momentum after Update:   (6.5344,62.4964,-180.528) 
+---------------------------TSOS after update Position:  (8.90956,81.9402,-242.593) 
+---------------------------TSOS after update Momentum:  (25.4191,243.253,-695.124) 
+DeltaR before and after update(used in seed)0.0101773
+---------------------------- Raw ID: 470164428
+---------------------------TSOS position before Update:   (8.11111,84.2225,-242.592) 
+---------------------------TSOS momentum after Update:   (6.5344,62.4964,-180.528) 
+---------------------------TSOS after update Position:  (9.23089,81.4761,-242.594) 
+---------------------------TSOS after update Momentum:  (553.027,5294.98,-15098.7) 
+DeltaR before and after update(used in seed)0.0121861
+---------------------------- Raw ID: 470164428
+---------------------------TSOS position before Update:   (8.11111,84.2225,-242.592) 
+---------------------------TSOS momentum after Update:   (6.5344,62.4964,-180.528) 
+---------------------------TSOS after update Position:  (6.45172,82.7985,-242.592) 
+---------------------------TSOS after update Momentum:  (3.03671,28.9007,-82.8706) 
+DeltaR before and after update(used in seed)0.0070164
+---------------------------- Raw ID: 470164428
+---------------------------TSOS position before Update:   (8.11111,84.2225,-242.592) 
+---------------------------TSOS momentum after Update:   (6.5344,62.4964,-180.528) 
+---------------------------TSOS after update Position:  (5.16646,81.8506,-242.592) 
+---------------------------TSOS after update Momentum:  (2.15142,20.4003,-58.2094) 
+DeltaR before and after update(used in seed)0.011711
+---------------------------- Raw ID: 470164428
+---------------------------TSOS position before Update:   (8.11111,84.2225,-242.592) 
+---------------------------TSOS momentum after Update:   (6.5344,62.4964,-180.528) 
+---------------------------TSOS after update Position:  (4.43914,80.8824,-242.592) 
+---------------------------TSOS after update Momentum:  (1.86695,17.6623,-50.1539) 
+DeltaR before and after update(used in seed)0.0162991
+---------------------------- Raw ID: 470164428
+---------------------------TSOS position before Update:   (8.11111,84.2225,-242.592) 
+---------------------------TSOS momentum after Update:   (6.5344,62.4964,-180.528) 
+---------------------------TSOS after update Position:  (3.51153,79.2732,-242.593) 
+---------------------------TSOS after update Momentum:  (1.61217,15.2051,-42.8363) 
+DeltaR before and after update(used in seed)0.0237861
+after...Entering the hitbased seed function with the det: 
+---------------------------------------------------------finding seed................TEC-ip
+---------------------------------------------------------finding seed................TEC-ip
+---------------------------------------------------------finding seed................TEC-ip
+---------------------------------------------------------finding seed................TEC-ip
+---------------------------------------------------------finding seed................TEC-ip
+---------------------------------------------------------finding seed................TEC-ip
+---------------------------------------------------------finding seed................TEC-ip
+---------------------------------------------------------finding seed................TEC-mus
+Before entering the hitbased seed function with the det: TEC-mus
+dets found  in this layer:  1
+WheelNumber of this det: ----  9
+Propagated TSOS global position: ------   (8.31815,90.9315,-261.705) 
+----raw Id of recHit :  470180848
+------RecHit globalposition:  (7.24537,98.7906,-261.706) 
+------Estimate: 0.999047
+----raw Id of recHit :  470180848
+------RecHit globalposition:  (9.95582,98.5772,-261.708) 
+------Estimate: 0.867514
+----raw Id of recHit :  470180848
+------RecHit globalposition:  (9.59656,98.6055,-261.708) 
+------Estimate: 0.83099
+----raw Id of recHit :  470180848
+------RecHit globalposition:  (9.21894,98.6352,-261.707) 
+------Estimate: 0.810365
+Looping Over Tracjectory measurements----
+---------------------------- Raw ID: 470180848
+---------------------------TSOS position before Update:   (8.31815,90.9315,-261.705) 
+---------------------------TSOS momentum after Update:   (18.3436,159.227,-460.48) 
+---------------------------TSOS after update Position:  (8.88016,95.012,-261.706) 
+---------------------------TSOS after update Momentum:  (12.9656,114.689,-338.703) 
+DeltaR before and after update(used in seed)0.0201588
+---------------------------- Raw ID: 470180848
+---------------------------TSOS position before Update:   (8.31815,90.9315,-261.705) 
+---------------------------TSOS momentum after Update:   (18.3436,159.227,-460.48) 
+---------------------------TSOS after update Position:  (9.24307,94.9747,-261.707) 
+---------------------------TSOS after update Momentum:  (6.80621,64.2799,-189.676) 
+DeltaR before and after update(used in seed)0.0220158
+---------------------------- Raw ID: 470180848
+---------------------------TSOS position before Update:   (8.31815,90.9315,-261.705) 
+---------------------------TSOS momentum after Update:   (18.3436,159.227,-460.48) 
+---------------------------TSOS after update Position:  (9.58793,94.9361,-261.707) 
+---------------------------TSOS after update Momentum:  (4.49327,45.3505,-133.712) 
+DeltaR before and after update(used in seed)0.0254918
+---------------------------- Raw ID: 470180848
+---------------------------TSOS position before Update:   (8.31815,90.9315,-261.705) 
+---------------------------TSOS momentum after Update:   (18.3436,159.227,-460.48) 
+---------------------------TSOS after update Position:  (6.97823,95.1491,-261.705) 
+---------------------------TSOS after update Momentum:  (5.54347,36.7946,-109.101) 
+DeltaR before and after update(used in seed)0.0397988
+after...Entering the hitbased seed function with the det: 
+---------------------------------------------------------finding seed................TEC-mus
+Before entering the hitbased seed function with the det: TEC-mus
+dets found  in this layer:  1
+WheelNumber of this det: ----  8
+Propagated TSOS global position: ------   (7.55828,84.3224,-242.592) 
+----raw Id of recHit :  470164428
+------RecHit globalposition:  (0.711222,81.9649,-242.591) 
+------Estimate: 2.52855
+----raw Id of recHit :  470164428
+------RecHit globalposition:  (3.61319,81.802,-242.592) 
+------Estimate: 0.875771
+----raw Id of recHit :  470164428
+------RecHit globalposition:  (5.15777,81.7153,-242.592) 
+------Estimate: 0.371321
+----raw Id of recHit :  470164428
+------RecHit globalposition:  (9.23215,81.4866,-242.594) 
+------Estimate: 0.30106
+----raw Id of recHit :  470164428
+------RecHit globalposition:  (4.47345,81.7537,-242.592) 
+------Estimate: 0.562438
+----raw Id of recHit :  470164428
+------RecHit globalposition:  (7.88742,81.5621,-242.593) 
+------Estimate: 0.122171
+----raw Id of recHit :  470164428
+------RecHit globalposition:  (8.86257,81.5074,-242.594) 
+------Estimate: 0.232109
+----raw Id of recHit :  470164428
+------RecHit globalposition:  (6.25027,81.654,-242.593) 
+------Estimate: 0.172873
+Looping Over Tracjectory measurements----
+---------------------------- Raw ID: 470164428
+---------------------------TSOS position before Update:   (7.55828,84.3224,-242.592) 
+---------------------------TSOS momentum after Update:   (18.271,159.236,-460.48) 
+---------------------------TSOS after update Position:  (7.9916,82.6399,-242.593) 
+---------------------------TSOS after update Momentum:  (6.40614,61.8365,-177.16) 
+DeltaR before and after update(used in seed)0.0134172
+---------------------------- Raw ID: 470164428
+---------------------------TSOS position before Update:   (7.55828,84.3224,-242.592) 
+---------------------------TSOS momentum after Update:   (18.271,159.236,-460.48) 
+---------------------------TSOS after update Position:  (6.3372,82.7572,-242.592) 
+---------------------------TSOS after update Momentum:  (12.2778,91.8618,-264.02) 
+DeltaR before and after update(used in seed)0.0202643
+---------------------------- Raw ID: 470164428
+---------------------------TSOS position before Update:   (7.55828,84.3224,-242.592) 
+---------------------------TSOS momentum after Update:   (18.271,159.236,-460.48) 
+---------------------------TSOS after update Position:  (8.97496,82.5415,-242.593) 
+---------------------------TSOS after update Momentum:  (2.66205,31.0373,-88.7408) 
+DeltaR before and after update(used in seed)0.0297773
+---------------------------- Raw ID: 470164428
+---------------------------TSOS position before Update:   (7.55828,84.3224,-242.592) 
+---------------------------TSOS momentum after Update:   (18.271,159.236,-460.48) 
+---------------------------TSOS after update Position:  (9.34676,82.4986,-242.593) 
+---------------------------TSOS after update Momentum:  (2.06476,26.1238,-74.633) 
+DeltaR before and after update(used in seed)0.036314
+---------------------------- Raw ID: 470164428
+---------------------------TSOS position before Update:   (7.55828,84.3224,-242.592) 
+---------------------------TSOS momentum after Update:   (18.271,159.236,-460.48) 
+---------------------------TSOS after update Position:  (5.22636,82.8024,-242.592) 
+---------------------------TSOS after update Momentum:  (5.28942,34.3758,-98.994) 
+DeltaR before and after update(used in seed)0.0394289
+---------------------------- Raw ID: 470164428
+---------------------------TSOS position before Update:   (7.55828,84.3224,-242.592) 
+---------------------------TSOS momentum after Update:   (18.271,159.236,-460.48) 
+---------------------------TSOS after update Position:  (4.53195,82.8169,-242.592) 
+---------------------------TSOS after update Momentum:  (4.11329,24.702,-71.2183) 
+DeltaR before and after update(used in seed)0.0516573
+---------------------------- Raw ID: 470164428
+---------------------------TSOS position before Update:   (7.55828,84.3224,-242.592) 
+---------------------------TSOS momentum after Update:   (18.271,159.236,-460.48) 
+---------------------------TSOS after update Position:  (3.65843,82.8202,-242.591) 
+---------------------------TSOS after update Momentum:  (3.32749,18.2397,-52.6598) 
+DeltaR before and after update(used in seed)0.0670831
+---------------------------- Raw ID: 470164428
+---------------------------TSOS position before Update:   (7.55828,84.3224,-242.592) 
+---------------------------TSOS momentum after Update:   (18.271,159.236,-460.48) 
+---------------------------TSOS after update Position:  (0.717683,82.7092,-242.59) 
+---------------------------TSOS after update Momentum:  (2.28735,9.69166,-28.0942) 
+DeltaR before and after update(used in seed)0.118769
+after...Entering the hitbased seed function with the det: 
+---------------------------------------------------------finding seed................TEC-mus
+---------------------------------------------------------finding seed................TEC-mus
+---------------------------------------------------------finding seed................TEC-mus
+---------------------------------------------------------finding seed................TEC-mus
+---------------------------------------------------------finding seed................TEC-mus
+---------------------------------------------------------finding seed................TEC-mus
+---------------------------------------------------------finding seed................TEC-mus
+numStereo: 0
+      Number of hitless seeds: 4
+      Number of hitbased seeds: 23
+L2 Muon pt,eta, phi:   30.1693 , -1.42909 , -2.13084
+L2 Muon px,py, pz:   -16.0266 , -25.5604 , -59.3637
+---------------------------------------------------------finding seed................TOBip
+Before entering the hitbased seed function with the det: TOBip
+dets found  in this layer:  1
+LayerNumber of this det: ----  6
+Propagated TSOS global position: ------   (-54.7069,-91.1746,-204.667) 
+Looping Over Tracjectory measurements----
+after...Entering the hitbased seed function with the det: 
+---------------------------------------------------------finding seed................TOBip
+Before entering the hitbased seed function with the det: TOBip
+dets found  in this layer:  0
+Looping Over Tracjectory measurements----
+after...Entering the hitbased seed function with the det: 
+---------------------------------------------------------finding seed................TOBip
+Before entering the hitbased seed function with the det: TOBip
+dets found  in this layer:  0
+Looping Over Tracjectory measurements----
+after...Entering the hitbased seed function with the det: 
+---------------------------------------------------------finding seed................TOBip
+Before entering the hitbased seed function with the det: TOBip
+dets found  in this layer:  0
+Looping Over Tracjectory measurements----
+after...Entering the hitbased seed function with the det: 
+---------------------------------------------------------finding seed................TOBip
+Before entering the hitbased seed function with the det: TOBip
+dets found  in this layer:  0
+Looping Over Tracjectory measurements----
+after...Entering the hitbased seed function with the det: 
+---------------------------------------------------------finding seed................TOBip
+Before entering the hitbased seed function with the det: TOBip
+dets found  in this layer:  0
+Looping Over Tracjectory measurements----
+after...Entering the hitbased seed function with the det: 
+---------------------------------------------------------finding seed................TOBmus
+Before entering the hitbased seed function with the det: TOBmus
+dets found  in this layer:  0
+Looping Over Tracjectory measurements----
+after...Entering the hitbased seed function with the det: 
+---------------------------------------------------------finding seed................TOBmus
+Before entering the hitbased seed function with the det: TOBmus
+dets found  in this layer:  0
+Looping Over Tracjectory measurements----
+after...Entering the hitbased seed function with the det: 
+---------------------------------------------------------finding seed................TOBmus
+Before entering the hitbased seed function with the det: TOBmus
+dets found  in this layer:  0
+Looping Over Tracjectory measurements----
+after...Entering the hitbased seed function with the det: 
+---------------------------------------------------------finding seed................TOBmus
+Before entering the hitbased seed function with the det: TOBmus
+dets found  in this layer:  0
+Looping Over Tracjectory measurements----
+after...Entering the hitbased seed function with the det: 
+---------------------------------------------------------finding seed................TOBmus
+Before entering the hitbased seed function with the det: TOBmus
+dets found  in this layer:  0
+Looping Over Tracjectory measurements----
+after...Entering the hitbased seed function with the det: 
+---------------------------------------------------------finding seed................TOBmus
+Before entering the hitbased seed function with the det: TOBmus
+dets found  in this layer:  0
+Looping Over Tracjectory measurements----
+after...Entering the hitbased seed function with the det: 
+---------------------------------------------------------finding seed................TEC-ip
+Before entering the hitbased seed function with the det: TEC-ip
+dets found  in this layer:  3
+WheelNumber of this det: ----  9
+Propagated TSOS global position: ------   (-69.0803,-116.618,-262.168) 
+----raw Id of recHit :  470181604
+------RecHit globalposition:  (-58.053,-80.2459,-262.197) 
+------Estimate: 15.3736
+----raw Id of recHit :  470181604
+------RecHit globalposition:  (-57.3422,-80.7624,-262.197) 
+------Estimate: 14.1862
+WheelNumber of this det: ----  9
+Propagated TSOS global position: ------   (-70.736,-119.592,-268.865) 
+----raw Id of recHit :  470177520
+------RecHit globalposition:  (-45.5222,-87.9837,-268.863) 
+------Estimate: 10.6699
+WheelNumber of this det: ----  9
+Propagated TSOS global position: ------   (-70.8581,-119.811,-269.36) 
+----raw Id of recHit :  470177524
+------RecHit globalposition:  (-55.1437,-82.3863,-269.358) 
+------Estimate: 13.2124
+----raw Id of recHit :  470177524
+------RecHit globalposition:  (-50.959,-84.9508,-269.367) 
+------Estimate: 10.1317
+----raw Id of recHit :  470177524
+------RecHit globalposition:  (-50.1436,-85.4505,-269.369) 
+------Estimate: 9.89377
+----raw Id of recHit :  470177524
+------RecHit globalposition:  (-50.0003,-85.5383,-269.369) 
+------Estimate: 9.86414
+Looping Over Tracjectory measurements----
+---------------------------- Raw ID: 470177524
+---------------------------TSOS position before Update:   (-70.8581,-119.811,-269.36) 
+---------------------------TSOS momentum after Update:   (-14.6564,-26.3689,-59.3619) 
+---------------------------TSOS after update Position:  (-54.3581,-92.9934,-269.367) 
+---------------------------TSOS after update Momentum:  (-13.0774,-23.6135,-47.6498) 
+DeltaR before and after update(used in seed)0.0956516
+after...Entering the hitbased seed function with the det: 
+---------------------------------------------------------finding seed................TEC-ip
+Before entering the hitbased seed function with the det: TEC-ip
+dets found  in this layer:  3
+WheelNumber of this det: ----  8
+Propagated TSOS global position: ------   (-63.7436,-107.094,-240.686) 
+----raw Id of recHit :  470165220
+------RecHit globalposition:  (-61.1333,-78.024,-240.701) 
+------Estimate: 16.0163
+----raw Id of recHit :  470165220
+------RecHit globalposition:  (-57.7718,-80.466,-240.699) 
+------Estimate: 9.67579
+----raw Id of recHit :  470165220
+------RecHit globalposition:  (-59.703,-79.0631,-240.7) 
+------Estimate: 13.0599
+WheelNumber of this det: ----  8
+Propagated TSOS global position: ------   (-65.4097,-110.058,-247.376) 
+----raw Id of recHit :  470161136
+------RecHit globalposition:  (-45.4965,-87.9999,-247.368) 
+------Estimate: 6.22209
+----raw Id of recHit :  470161136
+------RecHit globalposition:  (-47.3181,-87.0718,-247.367) 
+------Estimate: 5.22818
+----raw Id of recHit :  470161136
+------RecHit globalposition:  (-46.7279,-87.3725,-247.367) 
+------Estimate: 5.4935
+WheelNumber of this det: ----  8
+Propagated TSOS global position: ------   (-65.5239,-110.261,-247.835) 
+----raw Id of recHit :  470161140
+------RecHit globalposition:  (-49.5942,-85.7839,-247.863) 
+------Estimate: 4.84911
+Looping Over Tracjectory measurements----
+---------------------------- Raw ID: 470161140
+---------------------------TSOS position before Update:   (-65.5239,-110.261,-247.835) 
+---------------------------TSOS momentum after Update:   (-14.7653,-26.3076,-59.361) 
+---------------------------TSOS after update Position:  (-52.5001,-90.8098,-247.858) 
+---------------------------TSOS after update Momentum:  (-15.8087,-28.3909,-58.8457) 
+DeltaR before and after update(used in seed)0.0734511
+after...Entering the hitbased seed function with the det: 
+---------------------------------------------------------finding seed................TEC-ip
+Before entering the hitbased seed function with the det: TEC-ip
+dets found  in this layer:  3
+WheelNumber of this det: ----  7
+Propagated TSOS global position: ------   (-58.6173,-98.0319,-220.199) 
+----raw Id of recHit :  470148836
+------RecHit globalposition:  (-59.722,-79.0518,-220.201) 
+------Estimate: 9.86091
+----raw Id of recHit :  470148836
+------RecHit globalposition:  (-57.8672,-80.3992,-220.202) 
+------Estimate: 6.71442
+----raw Id of recHit :  470148836
+------RecHit globalposition:  (-58.3258,-80.0661,-220.202) 
+------Estimate: 7.42944
+WheelNumber of this det: ----  7
+Propagated TSOS global position: ------   (-60.2941,-100.987,-226.885) 
+----raw Id of recHit :  470144752
+------RecHit globalposition:  (-47.2184,-87.1074,-226.876) 
+------Estimate: 2.62554
+WheelNumber of this det: ----  7
+Propagated TSOS global position: ------   (-60.4165,-101.203,-227.373) 
+----raw Id of recHit :  470144756
+------RecHit globalposition:  (-54.6555,-82.6749,-227.364) 
+------Estimate: 3.74868
+Looping Over Tracjectory measurements----
+---------------------------- Raw ID: 470144752
+---------------------------TSOS position before Update:   (-60.2941,-100.987,-226.885) 
+---------------------------TSOS momentum after Update:   (-14.8712,-26.2477,-59.3608) 
+---------------------------TSOS after update Position:  (-48.6099,-89.6745,-226.877) 
+---------------------------TSOS after update Momentum:  (-48.7457,-89.1445,-188.791) 
+DeltaR before and after update(used in seed)0.0529451
+after...Entering the hitbased seed function with the det: 
+---------------------------------------------------------finding seed................TEC-ip
+Before entering the hitbased seed function with the det: TEC-ip
+dets found  in this layer:  3
+WheelNumber of this det: ----  6
+Propagated TSOS global position: ------   (-53.8339,-89.6501,-201.21) 
+----raw Id of recHit :  470132452
+------RecHit globalposition:  (-60.8382,-78.2528,-201.206) 
+------Estimate: 10.5177
+----raw Id of recHit :  470132452
+------RecHit globalposition:  (-60.08,-78.8038,-201.207) 
+------Estimate: 8.99874
+----raw Id of recHit :  470132452
+------RecHit globalposition:  (-60.1865,-78.7264,-201.207) 
+------Estimate: 9.20588
+WheelNumber of this det: ----  6
+Propagated TSOS global position: ------   (-55.5145,-92.5868,-207.868) 
+----raw Id of recHit :  470128368
+------RecHit globalposition:  (-42.5181,-89.5068,-207.881) 
+------Estimate: 6.23363
+----raw Id of recHit :  470128368
+------RecHit globalposition:  (-43.4339,-89.0401,-207.88) 
+------Estimate: 5.03852
+----raw Id of recHit :  470128368
+------RecHit globalposition:  (-45.976,-87.7447,-207.878) 
+------Estimate: 2.41141
+----raw Id of recHit :  470128368
+------RecHit globalposition:  (-48.4995,-86.4587,-207.876) 
+------Estimate: 0.853183
+----raw Id of recHit :  470128368
+------RecHit globalposition:  (-43.9629,-88.7705,-207.879) 
+------Estimate: 4.40717
+WheelNumber of this det: ----  6
+Propagated TSOS global position: ------   (-55.6413,-92.8087,-208.371) 
+----raw Id of recHit :  470128372
+------RecHit globalposition:  (-53.0287,-83.6849,-208.376) 
+------Estimate: 0.958461
+----raw Id of recHit :  470128372
+------RecHit globalposition:  (-48.9571,-86.1802,-208.374) 
+------Estimate: 0.701957
+----raw Id of recHit :  470128372
+------RecHit globalposition:  (-50.1418,-85.4541,-208.375) 
+------Estimate: 0.448196
+----raw Id of recHit :  470128372
+------RecHit globalposition:  (-50.3361,-85.335,-208.375) 
+------Estimate: 0.432158
+----raw Id of recHit :  470128372
+------RecHit globalposition:  (-50.4123,-85.2884,-208.375) 
+------Estimate: 0.427845
+----raw Id of recHit :  470128372
+------RecHit globalposition:  (-50.7704,-85.0689,-208.375) 
+------Estimate: 0.422493
+----raw Id of recHit :  470128372
+------RecHit globalposition:  (-50.2675,-85.3771,-208.375) 
+------Estimate: 0.436998
+----raw Id of recHit :  470128372
+------RecHit globalposition:  (-50.6517,-85.1416,-208.375) 
+------Estimate: 0.421537
+Looping Over Tracjectory measurements----
+---------------------------- Raw ID: 470128372
+---------------------------TSOS position before Update:   (-55.6413,-92.8087,-208.371) 
+---------------------------TSOS momentum after Update:   (-14.9644,-26.1941,-59.3598) 
+---------------------------TSOS after update Position:  (-51.474,-86.5236,-208.374) 
+---------------------------TSOS after update Momentum:  (-15.3615,-26.9624,-59.4016) 
+DeltaR before and after update(used in seed)0.0245049
+after...Entering the hitbased seed function with the det: 
+---------------------------------------------------------finding seed................TEC-ip
+Before entering the hitbased seed function with the det: TEC-ip
+dets found  in this layer:  1
+WheelNumber of this det: ----  5
+Propagated TSOS global position: ------   (-51.2183,-85.0968,-190.878) 
+----raw Id of recHit :  470111988
+------RecHit globalposition:  (-53.9494,-83.1206,-190.876) 
+------Estimate: 0.844064
+----raw Id of recHit :  470111988
+------RecHit globalposition:  (-49.0253,-86.138,-190.879) 
+------Estimate: 0.42823
+----raw Id of recHit :  470111988
+------RecHit globalposition:  (-50.9073,-84.9847,-190.878) 
+------Estimate: 0.00330358
+----raw Id of recHit :  470111988
+------RecHit globalposition:  (-50.9698,-84.9464,-190.878) 
+------Estimate: 0.0015206
+----raw Id of recHit :  470111988
+------RecHit globalposition:  (-52.9709,-83.7201,-190.876) 
+------Estimate: 0.366787
+Looping Over Tracjectory measurements----
+---------------------------- Raw ID: 470111988
+---------------------------TSOS position before Update:   (-51.2183,-85.0968,-190.878) 
+---------------------------TSOS momentum after Update:   (-15.0527,-26.1438,-59.3603) 
+---------------------------TSOS after update Position:  (-50.9864,-84.9741,-190.878) 
+---------------------------TSOS after update Momentum:  (-15.4797,-26.9311,-61.0716) 
+DeltaR before and after update(used in seed)0.00103858
+after...Entering the hitbased seed function with the det: 
+---------------------------------------------------------finding seed................TEC-ip
+Before entering the hitbased seed function with the det: TEC-ip
+dets found  in this layer:  2
+WheelNumber of this det: ----  4
+Propagated TSOS global position: ------   (-46.3143,-76.6159,-171.601) 
+----raw Id of recHit :  470099652
+------RecHit globalposition:  (-50.4097,-64.6369,-171.598) 
+------Estimate: 8.63644
+----raw Id of recHit :  470099652
+------RecHit globalposition:  (-50.2877,-64.7235,-171.598) 
+------Estimate: 8.39134
+----raw Id of recHit :  470099652
+------RecHit globalposition:  (-46.104,-67.6921,-171.6) 
+------Estimate: 2.12988
+----raw Id of recHit :  470099652
+------RecHit globalposition:  (-45.2919,-68.2683,-171.6) 
+------Estimate: 1.41742
+----raw Id of recHit :  470099652
+------RecHit globalposition:  (-48.1715,-66.2251,-171.599) 
+------Estimate: 4.69312
+WheelNumber of this det: ----  4
+Propagated TSOS global position: ------   (-47.6616,-78.9386,-176.884) 
+----raw Id of recHit :  470095604
+------RecHit globalposition:  (-52.9038,-83.7643,-176.88) 
+------Estimate: 0.469985
+----raw Id of recHit :  470095604
+------RecHit globalposition:  (-51.0107,-84.9244,-176.879) 
+------Estimate: 0.22888
+----raw Id of recHit :  470095604
+------RecHit globalposition:  (-52.082,-84.2679,-176.88) 
+------Estimate: 0.269554
+Looping Over Tracjectory measurements----
+---------------------------- Raw ID: 470095604
+---------------------------TSOS position before Update:   (-47.6616,-78.9386,-176.884) 
+---------------------------TSOS momentum after Update:   (-15.1231,-26.1033,-59.3605) 
+---------------------------TSOS after update Position:  (-50.4288,-83.9558,-176.88) 
+---------------------------TSOS after update Momentum:  (-16.414,-28.4567,-66.0262) 
+DeltaR before and after update(used in seed)0.0190401
+after...Entering the hitbased seed function with the det: 
+---------------------------------------------------------finding seed................TEC-ip
+Before entering the hitbased seed function with the det: TEC-ip
+dets found  in this layer:  2
+WheelNumber of this det: ----  3
+Propagated TSOS global position: ------   (-42.7326,-70.4672,-157.599) 
+----raw Id of recHit :  470083268
+------RecHit globalposition:  (-49.9101,-64.9893,-157.602) 
+------Estimate: 7.41406
+----raw Id of recHit :  470083268
+------RecHit globalposition:  (-49.5818,-65.2222,-157.601) 
+------Estimate: 6.77764
+----raw Id of recHit :  470083268
+------RecHit globalposition:  (-47.6339,-66.6043,-157.601) 
+------Estimate: 3.56558
+----raw Id of recHit :  470083268
+------RecHit globalposition:  (-49.0886,-65.5721,-157.601) 
+------Estimate: 5.87245
+----raw Id of recHit :  470083268
+------RecHit globalposition:  (-45.9571,-67.7939,-157.6) 
+------Estimate: 1.60364
+----raw Id of recHit :  470083268
+------RecHit globalposition:  (-45.3617,-68.2164,-157.6) 
+------Estimate: 1.09127
+----raw Id of recHit :  470083268
+------RecHit globalposition:  (-47.1199,-66.9689,-157.601) 
+------Estimate: 2.88364
+----raw Id of recHit :  470083268
+------RecHit globalposition:  (-44.7987,-68.6158,-157.6) 
+------Estimate: 0.696721
+----raw Id of recHit :  470083268
+------RecHit globalposition:  (-46.1539,-67.6543,-157.6) 
+------Estimate: 1.79441
+WheelNumber of this det: ----  3
+Propagated TSOS global position: ------   (-44.696,-73.8329,-165.266) 
+----raw Id of recHit :  470079180
+------RecHit globalposition:  (-36.2191,-73.5314,-165.266) 
+------Estimate: 4.28944
+----raw Id of recHit :  470079180
+------RecHit globalposition:  (-37.804,-72.6555,-165.266) 
+------Estimate: 2.41757
+----raw Id of recHit :  470079180
+------RecHit globalposition:  (-40.0798,-71.3978,-165.266) 
+------Estimate: 0.671916
+----raw Id of recHit :  470079180
+------RecHit globalposition:  (-42.2659,-70.1897,-165.266) 
+------Estimate: 0.0874328
+Looping Over Tracjectory measurements----
+---------------------------- Raw ID: 470079180
+---------------------------TSOS position before Update:   (-44.696,-73.8329,-165.266) 
+---------------------------TSOS momentum after Update:   (-15.1809,-26.0684,-59.3583) 
+---------------------------TSOS after update Position:  (-42.5529,-70.6662,-165.266) 
+---------------------------TSOS after update Momentum:  (-15.6125,-26.8721,-60.316) 
+DeltaR before and after update(used in seed)0.0122977
+after...Entering the hitbased seed function with the det: 
+---------------------------------------------------------finding seed................TEC-ip
+Before entering the hitbased seed function with the det: TEC-ip
+dets found  in this layer:  2
+WheelNumber of this det: ----  2
+Propagated TSOS global position: ------   (-39.1357,-64.3305,-143.602) 
+----raw Id of recHit :  470066884
+------RecHit globalposition:  (-51.0061,-64.2038,-143.602) 
+------Estimate: 10.2447
+----raw Id of recHit :  470066884
+------RecHit globalposition:  (-49.8084,-65.0536,-143.602) 
+------Estimate: 7.5833
+----raw Id of recHit :  470066884
+------RecHit globalposition:  (-47.502,-66.6899,-143.602) 
+------Estimate: 3.55631
+----raw Id of recHit :  470066884
+------RecHit globalposition:  (-47.6932,-66.5542,-143.602) 
+------Estimate: 3.83262
+----raw Id of recHit :  470066884
+------RecHit globalposition:  (-47.8297,-66.4574,-143.602) 
+------Estimate: 4.03629
+----raw Id of recHit :  470066884
+------RecHit globalposition:  (-45.8182,-67.8846,-143.602) 
+------Estimate: 1.58512
+----raw Id of recHit :  470066884
+------RecHit globalposition:  (-46.6951,-67.2624,-143.602) 
+------Estimate: 2.50683
+----raw Id of recHit :  470066884
+------RecHit globalposition:  (-43.6353,-69.4334,-143.602) 
+------Estimate: 0.300677
+----raw Id of recHit :  470066884
+------RecHit globalposition:  (-46.1894,-67.6212,-143.602) 
+------Estimate: 1.94721
+----raw Id of recHit :  470066884
+------RecHit globalposition:  (-45.8599,-67.855,-143.602) 
+------Estimate: 1.62378
+WheelNumber of this det: ----  2
+Propagated TSOS global position: ------   (-41.1073,-67.6895,-151.266) 
+----raw Id of recHit :  470062796
+------RecHit globalposition:  (-38.5736,-72.2421,-151.268) 
+------Estimate: 2.02985
+----raw Id of recHit :  470062796
+------RecHit globalposition:  (-42.3509,-70.1543,-151.267) 
+------Estimate: 0.0405014
+----raw Id of recHit :  470062796
+------RecHit globalposition:  (-38.9715,-72.0221,-151.268) 
+------Estimate: 1.6579
+Looping Over Tracjectory measurements----
+---------------------------- Raw ID: 470062796
+---------------------------TSOS position before Update:   (-41.1073,-67.6895,-151.266) 
+---------------------------TSOS momentum after Update:   (-15.2511,-26.0276,-59.3586) 
+---------------------------TSOS after update Position:  (-42.1661,-69.8481,-151.267) 
+---------------------------TSOS after update Momentum:  (-16.2823,-27.9136,-64.1421) 
+DeltaR before and after update(used in seed)0.00801114
+after...Entering the hitbased seed function with the det: 
+---------------------------------------------------------finding seed................TEC-ip
+Before entering the hitbased seed function with the det: TEC-ip
+dets found  in this layer:  2
+WheelNumber of this det: ----  1
+Propagated TSOS global position: ------   (-36.5893,-60.0089,-133.733) 
+----raw Id of recHit :  470046380
+------RecHit globalposition:  (-34.1734,-65.3956,-133.732) 
+------Estimate: 2.82911
+----raw Id of recHit :  470046380
+------RecHit globalposition:  (-35.1907,-49.587,-133.735) 
+------Estimate: 2.68126
+----raw Id of recHit :  470046380
+------RecHit globalposition:  (-40.1732,-56.7569,-133.732) 
+------Estimate: 2.59406
+----raw Id of recHit :  470046380
+------RecHit globalposition:  (-39.7474,-56.0099,-133.732) 
+------Estimate: 2.65361
+----raw Id of recHit :  470046380
+------RecHit globalposition:  (-41.6739,-60.5006,-133.731) 
+------Estimate: 1.87657
+----raw Id of recHit :  470046380
+------RecHit globalposition:  (-32.9094,-62.3187,-133.733) 
+------Estimate: 2.14651
+----raw Id of recHit :  470046380
+------RecHit globalposition:  (-37.3118,-52.7131,-133.734) 
+------Estimate: 2.51023
+----raw Id of recHit :  470046380
+------RecHit globalposition:  (-42.329,-60.5383,-133.731) 
+------Estimate: 2.40468
+----raw Id of recHit :  470046380
+------RecHit globalposition:  (-36.9491,-52.0655,-133.734) 
+------Estimate: 2.59904
+----raw Id of recHit :  470046380
+------RecHit globalposition:  (-33.9446,-59.4031,-133.734) 
+------Estimate: 0.426572
+----raw Id of recHit :  470046380
+------RecHit globalposition:  (-39.4046,-57.2054,-133.732) 
+------Estimate: 1.71905
+----raw Id of recHit :  470046380
+------RecHit globalposition:  (-32.5998,-56.3912,-133.734) 
+------Estimate: 0.348446
+----raw Id of recHit :  470046380
+------RecHit globalposition:  (-37.1508,-53.1306,-133.734) 
+------Estimate: 2.13723
+----raw Id of recHit :  470046380
+------RecHit globalposition:  (-38.2508,-57.6067,-133.733) 
+------Estimate: 0.832798
+----raw Id of recHit :  470046380
+------RecHit globalposition:  (-39.1383,-55.9739,-133.733) 
+------Estimate: 2.14713
+----raw Id of recHit :  470046380
+------RecHit globalposition:  (-33.4764,-57.9076,-133.734) 
+------Estimate: 0.305234
+----raw Id of recHit :  470046380
+------RecHit globalposition:  (-34.1956,-51.4981,-133.735) 
+------Estimate: 1.09333
+----raw Id of recHit :  470046380
+------RecHit globalposition:  (-34.9047,-61.0835,-133.733) 
+------Estimate: 0.45341
+----raw Id of recHit :  470046380
+------RecHit globalposition:  (-35.5164,-50.1758,-133.735) 
+------Estimate: 2.57931
+WheelNumber of this det: ----  1
+Propagated TSOS global position: ------   (-37.5028,-61.557,-137.269) 
+----raw Id of recHit :  470046412
+------RecHit globalposition:  (-42.0674,-70.3103,-137.269) 
+------Estimate: 0.482124
+----raw Id of recHit :  470046412
+------RecHit globalposition:  (-42.1735,-70.2517,-137.269) 
+------Estimate: 0.461828
+----raw Id of recHit :  470046412
+------RecHit globalposition:  (-42.3001,-70.1817,-137.269) 
+------Estimate: 0.441706
+----raw Id of recHit :  470046412
+------RecHit globalposition:  (-42.4056,-70.1234,-137.269) 
+------Estimate: 0.42832
+Looping Over Tracjectory measurements----
+---------------------------- Raw ID: 470046380
+---------------------------TSOS position before Update:   (-36.5893,-60.0089,-133.733) 
+---------------------------TSOS momentum after Update:   (-15.3373,-25.9732,-59.3524) 
+---------------------------TSOS after update Position:  (-33.4772,-57.909,-133.734) 
+---------------------------TSOS after update Momentum:  (-25.9649,-45.4415,-101.776) 
+DeltaR before and after update(used in seed)0.017725
+after...Entering the hitbased seed function with the det: 
+---------------------------------------------------------finding seed................TEC-mus
+Before entering the hitbased seed function with the det: TEC-mus
+dets found  in this layer:  0
+Looping Over Tracjectory measurements----
+after...Entering the hitbased seed function with the det: 
+---------------------------------------------------------finding seed................TEC-mus
+Before entering the hitbased seed function with the det: TEC-mus
+dets found  in this layer:  0
+Looping Over Tracjectory measurements----
+after...Entering the hitbased seed function with the det: 
+---------------------------------------------------------finding seed................TEC-mus
+Before entering the hitbased seed function with the det: TEC-mus
+dets found  in this layer:  0
+Looping Over Tracjectory measurements----
+after...Entering the hitbased seed function with the det: 
+---------------------------------------------------------finding seed................TEC-mus
+Before entering the hitbased seed function with the det: TEC-mus
+dets found  in this layer:  1
+WheelNumber of this det: ----  6
+Propagated TSOS global position: ------   (-56.3207,-93.7627,-208.37) 
+----raw Id of recHit :  470128372
+------RecHit globalposition:  (-48.9565,-86.179,-208.374) 
+------Estimate: 0.388065
+----raw Id of recHit :  470128372
+------RecHit globalposition:  (-53.0281,-83.6837,-208.376) 
+------Estimate: 0.384654
+----raw Id of recHit :  470128372
+------RecHit globalposition:  (-50.1412,-85.4529,-208.375) 
+------Estimate: 0.333908
+----raw Id of recHit :  470128372
+------RecHit globalposition:  (-50.3355,-85.3339,-208.375) 
+------Estimate: 0.329191
+----raw Id of recHit :  470128372
+------RecHit globalposition:  (-50.4116,-85.2872,-208.375) 
+------Estimate: 0.327662
+----raw Id of recHit :  470128372
+------RecHit globalposition:  (-50.6511,-85.1405,-208.375) 
+------Estimate: 0.324029
+----raw Id of recHit :  470128372
+------RecHit globalposition:  (-50.2668,-85.3759,-208.375) 
+------Estimate: 0.330723
+----raw Id of recHit :  470128372
+------RecHit globalposition:  (-50.7697,-85.0678,-208.375) 
+------Estimate: 0.32289
+Looping Over Tracjectory measurements----
+---------------------------- Raw ID: 470128372
+---------------------------TSOS position before Update:   (-56.3207,-93.7627,-208.37) 
+---------------------------TSOS momentum after Update:   (-14.9901,-26.2732,-59.8447) 
+---------------------------TSOS after update Position:  (-51.3283,-86.0037,-208.374) 
+---------------------------TSOS after update Momentum:  (-15.3366,-26.5692,-58.41) 
+DeltaR before and after update(used in seed)0.0344639
+after...Entering the hitbased seed function with the det: 
+---------------------------------------------------------finding seed................TEC-mus
+Before entering the hitbased seed function with the det: TEC-mus
+dets found  in this layer:  1
+WheelNumber of this det: ----  5
+Propagated TSOS global position: ------   (-51.9266,-86.0903,-190.878) 
+----raw Id of recHit :  470111988
+------RecHit globalposition:  (-53.9533,-83.1271,-190.876) 
+------Estimate: 0.109829
+----raw Id of recHit :  470111988
+------RecHit globalposition:  (-49.0292,-86.1445,-190.879) 
+------Estimate: 0.0674851
+----raw Id of recHit :  470111988
+------RecHit globalposition:  (-50.9112,-84.9912,-190.878) 
+------Estimate: 0.00699196
+----raw Id of recHit :  470111988
+------RecHit globalposition:  (-50.9737,-84.9529,-190.878) 
+------Estimate: 0.00661071
+----raw Id of recHit :  470111988
+------RecHit globalposition:  (-52.9749,-83.7267,-190.876) 
+------Estimate: 0.0497212
+Looping Over Tracjectory measurements----
+---------------------------- Raw ID: 470111988
+---------------------------TSOS position before Update:   (-51.9266,-86.0903,-190.878) 
+---------------------------TSOS momentum after Update:   (-15.0758,-26.2238,-59.8441) 
+---------------------------TSOS after update Position:  (-51.0483,-85.0772,-190.878) 
+---------------------------TSOS after update Momentum:  (-15.044,-26.0422,-59.1811) 
+DeltaR before and after update(used in seed)0.0052511
+after...Entering the hitbased seed function with the det: 
+---------------------------------------------------------finding seed................TEC-mus
+Before entering the hitbased seed function with the det: TEC-mus
+dets found  in this layer:  1
+WheelNumber of this det: ----  4
+Propagated TSOS global position: ------   (-48.3932,-79.9625,-176.883) 
+----raw Id of recHit :  470095604
+------RecHit globalposition:  (-52.9039,-83.7645,-176.88) 
+------Estimate: 0.115391
+----raw Id of recHit :  470095604
+------RecHit globalposition:  (-51.0108,-84.9246,-176.879) 
+------Estimate: 0.0851254
+----raw Id of recHit :  470095604
+------RecHit globalposition:  (-52.0821,-84.268,-176.88) 
+------Estimate: 0.0917514
+Looping Over Tracjectory measurements----
+---------------------------- Raw ID: 470095604
+---------------------------TSOS position before Update:   (-48.3932,-79.9625,-176.883) 
+---------------------------TSOS momentum after Update:   (-15.1443,-26.1842,-59.8439) 
+---------------------------TSOS after update Position:  (-50.7402,-84.4741,-176.879) 
+---------------------------TSOS after update Momentum:  (-14.7603,-25.479,-59.4864) 
+DeltaR before and after update(used in seed)0.0187064
+after...Entering the hitbased seed function with the det: 
+---------------------------------------------------------finding seed................TEC-mus
+Before entering the hitbased seed function with the det: TEC-mus
+dets found  in this layer:  1
+WheelNumber of this det: ----  3
+Propagated TSOS global position: ------   (-45.4478,-74.8827,-165.266) 
+----raw Id of recHit :  470079180
+------RecHit globalposition:  (-36.2192,-73.5315,-165.266) 
+------Estimate: 0.514605
+----raw Id of recHit :  470079180
+------RecHit globalposition:  (-37.8041,-72.6556,-165.266) 
+------Estimate: 0.326998
+----raw Id of recHit :  470079180
+------RecHit globalposition:  (-40.0799,-71.398,-165.266) 
+------Estimate: 0.15059
+----raw Id of recHit :  470079180
+------RecHit globalposition:  (-42.266,-70.1898,-165.266) 
+------Estimate: 0.084631
+Looping Over Tracjectory measurements----
+---------------------------- Raw ID: 470079180
+---------------------------TSOS position before Update:   (-45.4478,-74.8827,-165.266) 
+---------------------------TSOS momentum after Update:   (-15.2016,-26.1522,-59.8461) 
+---------------------------TSOS after update Position:  (-42.4821,-70.5487,-165.266) 
+---------------------------TSOS after update Momentum:  (-15.3095,-26.1171,-58.6701) 
+DeltaR before and after update(used in seed)0.0187443
+after...Entering the hitbased seed function with the det: 
+---------------------------------------------------------finding seed................TEC-mus
+Before entering the hitbased seed function with the det: TEC-mus
+dets found  in this layer:  1
+WheelNumber of this det: ----  2
+Propagated TSOS global position: ------   (-41.8838,-68.7697,-151.267) 
+----raw Id of recHit :  470062796
+------RecHit globalposition:  (-38.5735,-72.242,-151.268) 
+------Estimate: 0.159884
+----raw Id of recHit :  470062796
+------RecHit globalposition:  (-42.3509,-70.1543,-151.267) 
+------Estimate: 0.00578308
+----raw Id of recHit :  470062796
+------RecHit globalposition:  (-38.9715,-72.022,-151.268) 
+------Estimate: 0.130899
+Looping Over Tracjectory measurements----
+---------------------------- Raw ID: 470062796
+---------------------------TSOS position before Update:   (-41.8838,-68.7697,-151.267) 
+---------------------------TSOS momentum after Update:   (-15.27,-26.1122,-59.8459) 
+---------------------------TSOS after update Position:  (-42.2991,-70.0685,-151.267) 
+---------------------------TSOS after update Momentum:  (-15.0612,-25.6477,-59.1547) 
+DeltaR before and after update(used in seed)0.00504307
+after...Entering the hitbased seed function with the det: 
+---------------------------------------------------------finding seed................TEC-mus
+Before entering the hitbased seed function with the det: TEC-mus
+dets found  in this layer:  2
+WheelNumber of this det: ----  1
+Propagated TSOS global position: ------   (-38.3043,-62.6671,-137.269) 
+----raw Id of recHit :  470046412
+------RecHit globalposition:  (-42.0674,-70.3102,-137.269) 
+------Estimate: 0.173685
+----raw Id of recHit :  470046412
+------RecHit globalposition:  (-42.1735,-70.2516,-137.269) 
+------Estimate: 0.17279
+----raw Id of recHit :  470046412
+------RecHit globalposition:  (-42.3001,-70.1816,-137.269) 
+------Estimate: 0.171972
+----raw Id of recHit :  470046412
+------RecHit globalposition:  (-42.4056,-70.1233,-137.269) 
+------Estimate: 0.171499
+WheelNumber of this det: ----  1
+Propagated TSOS global position: ------   (-37.3972,-61.1264,-133.732) 
+----raw Id of recHit :  470046380
+------RecHit globalposition:  (-35.1901,-49.5861,-133.735) 
+------Estimate: 0.411347
+----raw Id of recHit :  470046380
+------RecHit globalposition:  (-35.5158,-50.1748,-133.735) 
+------Estimate: 0.374094
+----raw Id of recHit :  470046380
+------RecHit globalposition:  (-37.3112,-52.7121,-133.734) 
+------Estimate: 0.249819
+----raw Id of recHit :  470046380
+------RecHit globalposition:  (-36.9485,-52.0646,-133.734) 
+------Estimate: 0.27944
+----raw Id of recHit :  470046380
+------RecHit globalposition:  (-42.3283,-60.5373,-133.731) 
+------Estimate: 0.14241
+----raw Id of recHit :  470046380
+------RecHit globalposition:  (-39.1376,-55.9728,-133.733) 
+------Estimate: 0.14249
+----raw Id of recHit :  470046380
+------RecHit globalposition:  (-37.1501,-53.1296,-133.734) 
+------Estimate: 0.221284
+----raw Id of recHit :  470046380
+------RecHit globalposition:  (-39.7468,-56.009,-133.732) 
+------Estimate: 0.165317
+----raw Id of recHit :  470046380
+------RecHit globalposition:  (-34.1949,-51.497,-133.735) 
+------Estimate: 0.27734
+----raw Id of recHit :  470046380
+------RecHit globalposition:  (-33.4756,-57.906,-133.734) 
+------Estimate: 0.0753902
+----raw Id of recHit :  470046380
+------RecHit globalposition:  (-39.404,-57.2043,-133.732) 
+------Estimate: 0.104175
+----raw Id of recHit :  470046380
+------RecHit globalposition:  (-34.9038,-61.0818,-133.733) 
+------Estimate: 0.0330999
+----raw Id of recHit :  470046380
+------RecHit globalposition:  (-32.9085,-62.3167,-133.733) 
+------Estimate: 0.132356
+----raw Id of recHit :  470046380
+------RecHit globalposition:  (-38.2501,-57.6055,-133.733) 
+------Estimate: 0.0586518
+----raw Id of recHit :  470046380
+------RecHit globalposition:  (-40.1726,-56.7558,-133.732) 
+------Estimate: 0.152192
+----raw Id of recHit :  470046380
+------RecHit globalposition:  (-33.9437,-59.4014,-133.734) 
+------Estimate: 0.0538885
+----raw Id of recHit :  470046380
+------RecHit globalposition:  (-32.599,-56.3896,-133.734) 
+------Estimate: 0.124101
+----raw Id of recHit :  470046380
+------RecHit globalposition:  (-41.6732,-60.4995,-133.731) 
+------Estimate: 0.109304
+----raw Id of recHit :  470046380
+------RecHit globalposition:  (-34.1724,-65.3934,-133.732) 
+------Estimate: 0.169269
+Looping Over Tracjectory measurements----
+---------------------------- Raw ID: 470046380
+---------------------------TSOS position before Update:   (-37.3972,-61.1264,-133.732) 
+---------------------------TSOS momentum after Update:   (-15.3571,-26.0647,-59.8521) 
+---------------------------TSOS after update Position:  (-34.9045,-61.0832,-133.733) 
+---------------------------TSOS after update Momentum:  (-14.4727,-23.7547,-54.7726) 
+DeltaR before and after update(used in seed)0.015357
+after...Entering the hitbased seed function with the det: 
+numStereo: 0
+      Number of hitless seeds: 12
+      Number of hitbased seeds: 0
+gen muon found: pt: 65.9761 eta: -1.77539 phi: 1.48152
+gen muon found: pt: 32.9259 eta: -1.42197 phi: -2.12695
+--------------------------------------------------------------------------------------------------------------RecHit
+reco::Track muon pt,eta,phi63.7468, -1.77536, 1.48156
+Offline RecHit RawID:   470049644
+Offline RecHit WheelNumber:   1
+Offline RecHit GP:   (6.99905,44.191,-127.147) 
+Offline RecHit RawID:   470066028
+Offline RecHit WheelNumber:   2
+Offline RecHit GP:   (6.99905,44.1917,-141.146) 
+Offline RecHit RawID:   470082444
+Offline RecHit WheelNumber:   3
+Offline RecHit GP:   (3.14963,56.0877,-157.674) 
+Offline RecHit RawID:   470098828
+Offline RecHit WheelNumber:   4
+Offline RecHit GP:   (3.14979,56.0894,-171.673) 
+Offline RecHit RawID:   470115241
+is stereo module
+Offline RecHit WheelNumber:   5
+Offline RecHit GP:   (5.3364,67.4766,-182.41) 
+Offline RecHit RawID:   470115242
+Offline RecHit WheelNumber:   5
+Offline RecHit GP:   (5.31064,67.4784,-182.723) 
+Offline RecHit RawID:   470131625
+is stereo module
+Offline RecHit WheelNumber:   6
+Offline RecHit GP:   (5.33614,67.4752,-199.907) 
+Offline RecHit RawID:   470131626
+Offline RecHit WheelNumber:   6
+Offline RecHit GP:   (5.31081,67.4816,-200.221) 
+Offline RecHit RawID:   470148044
+Offline RecHit WheelNumber:   7
+Offline RecHit GP:   (4.59086,81.7502,-222.094) 
+Offline RecHit RawID:   470164428
+Offline RecHit WheelNumber:   8
+Offline RecHit GP:   (4.59046,81.745,-242.592) 
+Offline RecHit RawID:   470180848
+Offline RecHit WheelNumber:   9
+Offline RecHit GP:   (7.77198,98.75,-261.706) 
+--------------------------------------------------------------------------------------------------------------RecHit
+reco::Track muon pt,eta,phi32.7065, -1.42206, -2.12685
+Offline RecHit RawID:   470046412
+Offline RecHit WheelNumber:   1
+Offline RecHit GP:   (-39.609,-71.6663,-137.269) 
+Offline RecHit RawID:   470062796
+Offline RecHit WheelNumber:   2
+Offline RecHit GP:   (-39.6114,-71.6711,-151.268) 
+Offline RecHit RawID:   470079180
+Offline RecHit WheelNumber:   3
+Offline RecHit GP:   (-39.6058,-71.6609,-165.266) 
+Offline RecHit RawID:   470095604
+Offline RecHit WheelNumber:   4
+Offline RecHit GP:   (-51.7607,-84.4655,-176.879) 
+Offline RecHit RawID:   470111988
+Offline RecHit WheelNumber:   5
+Offline RecHit GP:   (-51.761,-84.4655,-190.877) 
+Offline RecHit RawID:   470128372
+Offline RecHit WheelNumber:   6
+Offline RecHit GP:   (-51.7607,-84.4655,-208.375) 
++++++++++++++++++++++++++++++++++++++++++++++++++++++++matching seedhit rechit
+reco::Track muon pt,eta,phi63.7468, -1.77536, 1.48156
+Offline RecHit RawID:   470180848
+Offline RecHit WheelNumber:   9
+Offline RecHit GP:   (7.77198,98.75,-261.706) 
+Seed Hit GP: (9.59658, 98.6056,  -261.708)
+ Local Distance (Offrechit-seedhit)1.8303
+ Global Distance (Offrechit-seedhit)1.8303
+Offline RecHit RawID:   470180848
+Offline RecHit WheelNumber:   9
+Offline RecHit GP:   (7.77198,98.75,-261.706) 
+Seed Hit GP: (9.21896, 98.6353,  -261.707)
+ Local Distance (Offrechit-seedhit)1.45151
+ Global Distance (Offrechit-seedhit)1.45151
+Offline RecHit RawID:   470180848
+Offline RecHit WheelNumber:   9
+Offline RecHit GP:   (7.77198,98.75,-261.706) 
+Seed Hit GP: (9.95584, 98.5773,  -261.708)
+ Local Distance (Offrechit-seedhit)2.19067
+ Global Distance (Offrechit-seedhit)2.19067
+Offline RecHit RawID:   470180848
+Offline RecHit WheelNumber:   9
+Offline RecHit GP:   (7.77198,98.75,-261.706) 
+Seed Hit GP: (7.24539, 98.7907,  -261.706)
+ Local Distance (Offrechit-seedhit)0.528169
+ Global Distance (Offrechit-seedhit)0.528169
+Offline RecHit RawID:   470164428
+Offline RecHit WheelNumber:   8
+Offline RecHit GP:   (4.59046,81.745,-242.592) 
+Seed Hit GP: (7.88743, 81.5623,  -242.593)
+ Local Distance (Offrechit-seedhit)3.30204
+ Global Distance (Offrechit-seedhit)3.30204
+Offline RecHit RawID:   470164428
+Offline RecHit WheelNumber:   8
+Offline RecHit GP:   (4.59046,81.745,-242.592) 
+Seed Hit GP: (8.86259, 81.5075,  -242.594)
+ Local Distance (Offrechit-seedhit)4.27872
+ Global Distance (Offrechit-seedhit)4.27872
+Offline RecHit RawID:   470164428
+Offline RecHit WheelNumber:   8
+Offline RecHit GP:   (4.59046,81.745,-242.592) 
+Seed Hit GP: (9.23217, 81.4868,  -242.594)
+ Local Distance (Offrechit-seedhit)4.64889
+ Global Distance (Offrechit-seedhit)4.64889
+Offline RecHit RawID:   470164428
+Offline RecHit WheelNumber:   8
+Offline RecHit GP:   (4.59046,81.745,-242.592) 
+Seed Hit GP: (6.25029, 81.6542,  -242.593)
+ Local Distance (Offrechit-seedhit)1.66232
+ Global Distance (Offrechit-seedhit)1.66232
+Offline RecHit RawID:   470164428
+Offline RecHit WheelNumber:   8
+Offline RecHit GP:   (4.59046,81.745,-242.592) 
+Seed Hit GP: (5.15779, 81.7155,  -242.592)
+ Local Distance (Offrechit-seedhit)0.568101
+ Global Distance (Offrechit-seedhit)0.568101
+Offline RecHit RawID:   470164428
+Offline RecHit WheelNumber:   8
+Offline RecHit GP:   (4.59046,81.745,-242.592) 
+Seed Hit GP: (4.47347, 81.7539,  -242.592)
+ Local Distance (Offrechit-seedhit)0.117329
+ Global Distance (Offrechit-seedhit)0.117329
+Offline RecHit RawID:   470164428
+Offline RecHit WheelNumber:   8
+Offline RecHit GP:   (4.59046,81.745,-242.592) 
+Seed Hit GP: (3.61321, 81.8022,  -242.592)
+ Local Distance (Offrechit-seedhit)0.978916
+ Global Distance (Offrechit-seedhit)0.978916
+Offline RecHit RawID:   470180848
+Offline RecHit WheelNumber:   9
+Offline RecHit GP:   (7.77198,98.75,-261.706) 
+Seed Hit GP: (9.21894, 98.6352,  -261.707)
+ Local Distance (Offrechit-seedhit)1.4515
+ Global Distance (Offrechit-seedhit)1.4515
+Offline RecHit RawID:   470180848
+Offline RecHit WheelNumber:   9
+Offline RecHit GP:   (7.77198,98.75,-261.706) 
+Seed Hit GP: (9.59656, 98.6055,  -261.708)
+ Local Distance (Offrechit-seedhit)1.83029
+ Global Distance (Offrechit-seedhit)1.83029
+Offline RecHit RawID:   470180848
+Offline RecHit WheelNumber:   9
+Offline RecHit GP:   (7.77198,98.75,-261.706) 
+Seed Hit GP: (9.95582, 98.5772,  -261.708)
+ Local Distance (Offrechit-seedhit)2.19066
+ Global Distance (Offrechit-seedhit)2.19066
+Offline RecHit RawID:   470180848
+Offline RecHit WheelNumber:   9
+Offline RecHit GP:   (7.77198,98.75,-261.706) 
+Seed Hit GP: (7.24537, 98.7906,  -261.706)
+ Local Distance (Offrechit-seedhit)0.528178
+ Global Distance (Offrechit-seedhit)0.528178
+Offline RecHit RawID:   470164428
+Offline RecHit WheelNumber:   8
+Offline RecHit GP:   (4.59046,81.745,-242.592) 
+Seed Hit GP: (7.88742, 81.5621,  -242.593)
+ Local Distance (Offrechit-seedhit)3.30203
+ Global Distance (Offrechit-seedhit)3.30203
+Offline RecHit RawID:   470164428
+Offline RecHit WheelNumber:   8
+Offline RecHit GP:   (4.59046,81.745,-242.592) 
+Seed Hit GP: (6.25027, 81.654,  -242.593)
+ Local Distance (Offrechit-seedhit)1.66231
+ Global Distance (Offrechit-seedhit)1.66231
+Offline RecHit RawID:   470164428
+Offline RecHit WheelNumber:   8
+Offline RecHit GP:   (4.59046,81.745,-242.592) 
+Seed Hit GP: (8.86257, 81.5074,  -242.594)
+ Local Distance (Offrechit-seedhit)4.27872
+ Global Distance (Offrechit-seedhit)4.27872
+Offline RecHit RawID:   470164428
+Offline RecHit WheelNumber:   8
+Offline RecHit GP:   (4.59046,81.745,-242.592) 
+Seed Hit GP: (9.23215, 81.4866,  -242.594)
+ Local Distance (Offrechit-seedhit)4.64888
+ Global Distance (Offrechit-seedhit)4.64888
+Offline RecHit RawID:   470164428
+Offline RecHit WheelNumber:   8
+Offline RecHit GP:   (4.59046,81.745,-242.592) 
+Seed Hit GP: (5.15777, 81.7153,  -242.592)
+ Local Distance (Offrechit-seedhit)0.568091
+ Global Distance (Offrechit-seedhit)0.568091
+Offline RecHit RawID:   470164428
+Offline RecHit WheelNumber:   8
+Offline RecHit GP:   (4.59046,81.745,-242.592) 
+Seed Hit GP: (4.47345, 81.7537,  -242.592)
+ Local Distance (Offrechit-seedhit)0.117334
+ Global Distance (Offrechit-seedhit)0.117334
+Offline RecHit RawID:   470164428
+Offline RecHit WheelNumber:   8
+Offline RecHit GP:   (4.59046,81.745,-242.592) 
+Seed Hit GP: (3.61319, 81.802,  -242.592)
+ Local Distance (Offrechit-seedhit)0.978925
+ Global Distance (Offrechit-seedhit)0.978924
+Offline RecHit RawID:   470164428
+Offline RecHit WheelNumber:   8
+Offline RecHit GP:   (4.59046,81.745,-242.592) 
+Seed Hit GP: (0.711222, 81.9649,  -242.591)
+ Local Distance (Offrechit-seedhit)3.88546
+ Global Distance (Offrechit-seedhit)3.88546
+reco::Track muon pt,eta,phi32.7065, -1.42206, -2.12685
+Tight id and Isolated reco muon, pt,eta,phi:  63.6629, -1.77535, 1.48156
+Tight id and Isolated reco muon, px,py,pz:  5.67327, 63.4096, -182.488
+Tight id and Isolated reco muon, pt,eta,phi:  32.8264, -1.42206, -2.12685
+Tight id and Isolated reco muon, px,py,pz:  -17.327, -27.881, -64.0845
+Num of L3OI muon cands: 1
+L3 OI cand pt, eta, phi:  62.9322  :  -1.7754  : 1.48156
