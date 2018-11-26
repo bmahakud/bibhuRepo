@@ -1,0 +1,77 @@
+[bmahakud@lxplus052 crab]$ python heppy_crab.py --cfg-file ../run_susyMultilepton_cfg.py --storage-site T2_US_Purdue --output-dir heppyTrees -v ProdTest -l ProdTest --option analysis="susy" --dryrun
+Enter GRID pass phrase for this identity:
+Contacting voms2.cern.ch:15002 [/DC=ch/DC=cern/OU=computers/CN=voms2.cern.ch] "cms"...
+Remote VOMS server contacted succesfully.
+
+
+Created proxy in /tmp/x509up_u38616.
+
+Your proxy is valid until Tue Dec 04 00:15:06 CET 2018
+loading FWLite.
+Using analysis type: susy
+Component                                               | N(files)      N(k ev) | N(jobs) | file/job    k ev/job | lumi eq [1/fb]
+------------------------------------------------------- | -------- ------------ | ------- | -------- ----------- | -----------
+WZTo3LNu_amcatnlo                                       |      125    10881.896 |     125 |     1.00      87.000 |    2332.168 
+------------------------------------------------------- | -------- ------------ | ------- | -------- ----------- | -----------
+TOTAL                                                   |      125    10881.896 |     125 |     1.00      87.055 |
+Component                                               | N(files)      N(k ev) | N(jobs) | file/job    k ev/job | lumi eq [1/fb]
+------------------------------------------------------- | -------- ------------ | ------- | -------- ----------- | -----------
+WZTo3LNu_amcatnlo                                       |      125    10881.896 |     125 |     1.00      87.000 |    2332.168 
+------------------------------------------------------- | -------- ------------ | ------- | -------- ----------- | -----------
+TOTAL                                                   |      125    10881.896 |     125 |     1.00      87.055 |
+Loading FW Lite
+Will use CRAB configuration file heppy_crab_config_env.py
+Will send dataset WZTo3LNu_amcatnlo with 125 jobs
+Importing CMSSW configuration heppy_crab_fake_pset.py
+Finished importing CMSSW configuration heppy_crab_fake_pset.py
+Sending the request to the server
+Success: Your task has been delivered to the CRAB3 server.
+Waiting for task to be processed
+Checking task status
+Task status: NEW
+Please wait...
+Task status: QUEUED
+Please wait...
+Task status: QUEUED
+Please wait...
+Task status: SUBMITFAILED
+Error: The submission of your task has failed.
+Failure message:	Failed to upload dry run tarball for 181126_231647:bmahakud_crab_WZTo3LNu_amcatnlo_ProdTest; '<!DOCTYPE html PUBLIC
+			"-//W3C//DTD XHTML 1.0 Transitional//EN"
+			"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+			<html>
+			<head>
+			    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"></meta>
+			    <title>400 Bad Request</title>
+			    <style type="text/css">
+			    #powered_by {
+			        margin-top: 20px;
+			        border-top: 2px solid black;
+			        font-style: italic;
+			    }
+			
+			    #traceback {
+			        color: red;
+			    }
+			    </style>
+			</head>
+			    <body>
+			        <h2>400 Bad Request</h2>
+			        <p>Invalid input parameter</p>
+			        <pre id="traceback"></pre>
+			    <div id="powered_by">
+			      <span>
+			        Powered by <a href="http://www.cherrypy.org">CherryPy unknown</a>
+			      </span>
+			    </div>
+			    </body>
+			</html>
+			'
+
+Creating temporary directory for dry run sandbox in /tmp/bmahakud/tmp8VamLe
+ERROR: RuntimeError: Reading https://cmsweb.cern.ch/crabcache/logfile?name=dry-run-sandbox.tar.gz failed with code 400
+
+	Please email hn-cms-computing-tools@cern.ch for support with the crab.log file or crab.log URL.
+	Client Version: 3.3.1809
+	The log file /afs/cern.ch/work/b/bmahakud/PostDocWork/ElectroWeakSUSY/SetUpCarloNov22_2018/CMSSW_9_4_4/src/CMGTools/TTHAnalysis/cfg/crab/crab_WZTo3LNu_amcatnlo_ProdTest/crab_WZTo3LNu_amcatnlo_ProdTest/crab.log has been uploaded automatically to the CRAB cache.
+	Please email the following URL 'https://cmsweb.cern.ch/crabcache/logfile?name=2018-11-27_001823_crab.log&username=bmahakud' to hn-cms-computing-tools@cern.ch if you need help from Analysis Operations.
