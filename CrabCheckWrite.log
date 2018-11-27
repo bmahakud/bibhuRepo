@@ -1,0 +1,34 @@
+[bmahakud@lxplus016 crab]$ crab checkwrite --site T3_US_FNALLPC
+Will check write permission in the default location /store/user/<username>
+Retrieving DN from proxy...
+DN is: /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=bmahakud/CN=739938/CN=Bibhuprasad Mahakud
+Retrieving username from SiteDB...
+Username is: bmahakud
+Validating LFN /store/user/bmahakud...
+LFN /store/user/bmahakud is valid.
+Will use `gfal-copy`, `gfal-rm` commands for checking write permissions
+Will check write permission in /store/user/bmahakud on site T3_US_FNALLPC
+
+Attempting to create (dummy) directory crab3checkwrite_20181127_111344 and copy (dummy) file crab3checkwrite_20181127_111344.tmp to /store/user/bmahakud
+
+Executing command: which scram >/dev/null 2>&1 && eval `scram unsetenv -sh`; gfal-copy -p -v -t 180 file:///afs/cern.ch/work/b/bmahakud/PostDocWork/ElectroWeakSUSY/SetUpCarloNov22_2018/CMSSW_9_4_4/src/CMGTools/TTHAnalysis/cfg/crab/crab3checkwrite_20181127_111344.tmp 'srm://cmseos.fnal.gov:8443/srm/v2/server?SFN=/eos/uscms/store/user/bmahakud/crab3checkwrite_20181127_111344/crab3checkwrite_20181127_111344.tmp'
+Please wait...
+
+Successfully created directory crab3checkwrite_20181127_111344 and copied file crab3checkwrite_20181127_111344.tmp to /store/user/bmahakud
+
+Attempting to delete file srm://cmseos.fnal.gov:8443/srm/v2/server?SFN=/eos/uscms/store/user/bmahakud/crab3checkwrite_20181127_111344/crab3checkwrite_20181127_111344.tmp
+
+Executing command: which scram >/dev/null 2>&1 && eval `scram unsetenv -sh`; gfal-rm -v -t 180 'srm://cmseos.fnal.gov:8443/srm/v2/server?SFN=/eos/uscms/store/user/bmahakud/crab3checkwrite_20181127_111344/crab3checkwrite_20181127_111344.tmp'
+Please wait...
+
+Successfully deleted file srm://cmseos.fnal.gov:8443/srm/v2/server?SFN=/eos/uscms/store/user/bmahakud/crab3checkwrite_20181127_111344/crab3checkwrite_20181127_111344.tmp
+
+Attempting to delete directory srm://cmseos.fnal.gov:8443/srm/v2/server?SFN=/eos/uscms/store/user/bmahakud/crab3checkwrite_20181127_111344/
+
+Executing command: which scram >/dev/null 2>&1 && eval `scram unsetenv -sh`; gfal-rm -r -v -t 180 'srm://cmseos.fnal.gov:8443/srm/v2/server?SFN=/eos/uscms/store/user/bmahakud/crab3checkwrite_20181127_111344/'
+Please wait...
+
+Successfully deleted directory srm://cmseos.fnal.gov:8443/srm/v2/server?SFN=/eos/uscms/store/user/bmahakud/crab3checkwrite_20181127_111344/
+
+Checkwrite Result:
+Success: Able to write in /store/user/bmahakud on site T3_US_FNALLPC
