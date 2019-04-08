@@ -1,0 +1,484 @@
+Begin processing the 2nd record. Run 1, Event 5, LumiSection 1 on stream 0 at 08-Apr-2019 12:23:03.976 CDT
+For offline muon with pt, eta, phi: 100.318, 0.63505, 1.54761
+dimension: 1
+rawId of offline muon : 369124470
+offline globalPosition:   (0.018019,23.7863,16.9092) 
+dimension: 1
+rawId of offline muon : 369124469
+offline globalPosition:   (-0.0177561,24.0135,16.9093) 
+dimension: 1
+rawId of offline muon : 369140890
+offline globalPosition:   (0.0180784,32.1863,23.889) 
+dimension: 1
+rawId of offline muon : 369140889
+offline globalPosition:   (-0.0179417,32.4135,23.8889) 
+dimension: 1
+rawId of offline muon : 369158344
+offline globalPosition:   (0.00184414,43.4373,30.1468) 
+dimension: 1
+rawId of offline muon : 369174760
+offline globalPosition:   (2.88278,51.3063,37.7864) 
+dimension: 1
+rawId of offline muon : 436232558
+offline globalPosition:   (-1.11328,59.515,45.969) 
+dimension: 1
+rawId of offline muon : 436232557
+offline globalPosition:   (-1.12269,59.9481,45.9695) 
+dimension: 1
+rawId of offline muon : 436249005
+offline globalPosition:   (-2.519,66.7924,45.0604) 
+dimension: 1
+rawId of offline muon : 436249006
+offline globalPosition:   (-2.53697,67.2253,45.0606) 
+dimension: 1
+rawId of offline muon : 436248973
+offline globalPosition:   (6.51818,69.7362,45.0604) 
+dimension: 1
+rawId of offline muon : 436248974
+offline globalPosition:   (6.55744,70.1674,45.0608) 
+dimension: 1
+rawId of offline muon : 436265388
+offline globalPosition:   (5.06784,79.7642,45.9677) 
+dimension: 1
+rawId of offline muon : 436298288
+offline globalPosition:   (-0.44106,97.7716,63.3757) 
+dimension: 1
+rawId of offline muon : 436314736
+offline globalPosition:   (1.96336,106.706,63.3761) 
+L3 muon RawID : 303050772
+global position L3 muon:  (0.0905023,3.3551,1.27255) 
+L3 muon RawID : 304115732
+global position L3 muon:  (0.181906,7.22111,3.89988) 
+L3 muon RawID : 306249752
+global position L3 muon:  (0.405066,16.4165,10.1411) 
+L3 muon RawID : 369124468
+global position L3 muon:  (0.600047,23.995,15.2772) 
+L3 muon RawID : 369140888
+global position L3 muon:  (0.822283,32.4301,20.8922) 
+L3 muon RawID : 369158344
+global position L3 muon:  (1.13103,43.6162,30.1469) 
+L3 muon RawID : 369174760
+global position L3 muon:  (1.34777,51.1507,37.7863) 
+L3 muon RawID : 436232556
+global position L3 muon:  (1.59181,59.7823,39.4812) 
+L3 muon RawID : 436249004
+global position L3 muon:  (1.81853,67.1727,44.6619) 
+L3 muon RawID : 436248972
+global position L3 muon:  (1.92639,70.3826,46.783) 
+L3 muon RawID : 436265388
+global position L3 muon:  (2.23026,79.9441,45.9675) 
+L3 muon RawID : 436298288
+global position L3 muon:  (2.82236,97.7865,63.3759) 
+L3 muon RawID : 436314736
+global position L3 muon:  (3.12989,106.685,63.3767) 
+Shared Fraction: 0.333333
+Begin processing the 3rd record. Run 1, Event 2, LumiSection 1 on stream 0 at 08-Apr-2019 12:23:04.223 CDT
+Begin processing the 4th record. Run 1, Event 1, LumiSection 1 on stream 0 at 08-Apr-2019 12:23:04.405 CDT
+Begin processing the 5th record. Run 1, Event 8, LumiSection 1 on stream 0 at 08-Apr-2019 12:23:04.460 CDT
+Begin processing the 6th record. Run 1, Event 4, LumiSection 1 on stream 0 at 08-Apr-2019 12:23:04.856 CDT
+For offline muon with pt, eta, phi: 98.1194, -1.93944, 1.30584
+Begin processing the 7th record. Run 1, Event 11, LumiSection 1 on stream 0 at 08-Apr-2019 12:23:05.075 CDT
+Begin processing the 8th record. Run 1, Event 10, LumiSection 1 on stream 0 at 08-Apr-2019 12:23:05.396 CDT
+Begin processing the 9th record. Run 1, Event 9, LumiSection 1 on stream 0 at 08-Apr-2019 12:23:05.704 CDT
+Begin processing the 10th record. Run 1, Event 6, LumiSection 1 on stream 0 at 08-Apr-2019 12:23:06.872 CDT
+For offline muon with pt, eta, phi: 100.298, 0.430313, -2.13588
+dimension: 1
+rawId of offline muon : 369124646
+offline globalPosition:   (-11.0701,-21.0534,16.9049) 
+dimension: 1
+rawId of offline muon : 369124645
+offline globalPosition:   (-11.1443,-21.2712,16.905) 
+dimension: 1
+rawId of offline muon : 369141114
+offline globalPosition:   (-16.9593,-27.3559,23.8834) 
+dimension: 1
+rawId of offline muon : 369141113
+offline globalPosition:   (-17.0475,-27.5683,23.8834) 
+dimension: 1
+rawId of offline muon : 369158648
+offline globalPosition:   (-22.5712,-37.1131,30.1382) 
+dimension: 1
+rawId of offline muon : 369174072
+offline globalPosition:   (-24.9399,-41.2605,24.737) 
+dimension: 1
+rawId of offline muon : 436233098
+offline globalPosition:   (-33.7645,-51.5713,27.3017) 
+dimension: 1
+rawId of offline muon : 436233097
+offline globalPosition:   (-34.0008,-51.9343,27.3017) 
+dimension: 1
+rawId of offline muon : 436249613
+offline globalPosition:   (-40.5133,-57.1352,45.0529) 
+dimension: 1
+rawId of offline muon : 436249614
+offline globalPosition:   (-40.7631,-57.4889,45.0526) 
+dimension: 1
+rawId of offline muon : 436266124
+offline globalPosition:   (-38.7115,-66.2444,45.9587) 
+dimension: 1
+rawId of offline muon : 436299148
+offline globalPosition:   (-51.12,-80.3414,45.9574) 
+dimension: 1
+rawId of offline muon : 436315692
+offline globalPosition:   (-61.004,-86.7769,45.0472) 
+L3 muon RawID : 304164888
+global position L3 muon:  (-3.72748,-5.85017,8.90248) 
+L3 muon RawID : 305258520
+global position L3 muon:  (-5.7629,-9.05111,10.5913) 
+L3 muon RawID : 306360344
+global position L3 muon:  (-8.49301,-13.347,12.8456) 
+L3 muon RawID : 369124644
+global position L3 muon:  (-13.0563,-20.5031,16.6092) 
+L3 muon RawID : 369141112
+global position L3 muon:  (-17.3956,-27.2977,20.2177) 
+L3 muon RawID : 369158648
+global position L3 muon:  (-23.4667,-36.7457,30.1381) 
+L3 muon RawID : 369174072
+global position L3 muon:  (-26.0469,-40.8098,24.737) 
+L3 muon RawID : 436233096
+global position L3 muon:  (-33.3264,-52.117,33.3308) 
+L3 muon RawID : 436249612
+global position L3 muon:  (-37.9114,-59.2448,37.0674) 
+L3 muon RawID : 436266124
+global position L3 muon:  (-41.409,-64.6681,45.9589) 
+L3 muon RawID : 436299148
+global position L3 muon:  (-51.4361,-80.1402,45.9573) 
+L3 muon RawID : 436315692
+global position L3 muon:  (-57.401,-89.3092,45.0471) 
+Shared Fraction: 0.384615
+Begin processing the 11th record. Run 1, Event 12, LumiSection 1 on stream 0 at 08-Apr-2019 12:23:07.737 CDT
+Begin processing the 12th record. Run 1, Event 13, LumiSection 1 on stream 0 at 08-Apr-2019 12:23:08.438 CDT
+Begin processing the 13th record. Run 1, Event 15, LumiSection 1 on stream 0 at 08-Apr-2019 12:23:08.718 CDT
+Begin processing the 14th record. Run 1, Event 17, LumiSection 1 on stream 0 at 08-Apr-2019 12:23:09.098 CDT
+For offline muon with pt, eta, phi: 101.059, 0.570868, 2.57439
+dimension: 1
+rawId of offline muon : 369124534
+offline globalPosition:   (-19.5656,13.5267,16.9063) 
+dimension: 1
+rawId of offline muon : 369124533
+offline globalPosition:   (-19.7728,13.6266,16.9063) 
+dimension: 1
+rawId of offline muon : 369140970
+offline globalPosition:   (-25.6744,19.4108,23.8853) 
+dimension: 1
+rawId of offline muon : 369140969
+offline globalPosition:   (-25.8774,19.5191,23.8853) 
+dimension: 1
+rawId of offline muon : 369158456
+offline globalPosition:   (-35.4862,25.0505,30.1416) 
+dimension: 1
+rawId of offline muon : 369173864
+offline globalPosition:   (-41.2599,24.9401,24.7414) 
+dimension: 1
+rawId of offline muon : 436232782
+offline globalPosition:   (-54.8992,30.3414,45.9686) 
+dimension: 1
+rawId of offline muon : 436249229
+offline globalPosition:   (-57.1341,40.513,45.0571) 
+dimension: 1
+rawId of offline muon : 436249230
+offline globalPosition:   (-57.4882,40.7627,45.0573) 
+dimension: 1
+rawId of offline muon : 436282156
+offline globalPosition:   (-70.0134,47.974,45.0547) 
+dimension: 1
+rawId of offline muon : 436298608
+offline globalPosition:   (-79.8998,56.3529,63.3717) 
+dimension: 1
+rawId of offline muon : 436315120
+offline globalPosition:   (-89.8355,57.6165,63.3712) 
+L3 muon RawID : 303058964
+global position L3 muon:  (-2.60145,1.70678,1.49289) 
+L3 muon RawID : 304136212
+global position L3 muon:  (-5.52647,3.57203,3.58694) 
+L3 muon RawID : 305209364
+global position L3 muon:  (-9.02973,5.80789,6.0885) 
+L3 muon RawID : 305213460
+global position L3 muon:  (-9.30733,5.98174,6.28629) 
+L3 muon RawID : 306294808
+global position L3 muon:  (-13.3162,8.5445,9.15127) 
+L3 muon RawID : 369124534
+global position L3 muon:  (-19.9157,12.7967,16.9063) 
+L3 muon RawID : 369124533
+global position L3 muon:  (-20.2399,12.6524,16.7978) 
+L3 muon RawID : 369140970
+global position L3 muon:  (-26.847,17.2112,23.8853) 
+L3 muon RawID : 369140969
+global position L3 muon:  (-26.7966,17.7945,24.0814) 
+L3 muon RawID : 369158456
+global position L3 muon:  (-36.3375,23.322,30.1415) 
+L3 muon RawID : 369173864
+global position L3 muon:  (-40.759,26.1701,24.7415) 
+L3 muon RawID : 436232782
+global position L3 muon:  (-52.875,34.0042,45.9684) 
+L3 muon RawID : 436249229
+global position L3 muon:  (-59.1288,37.6997,44.7114) 
+L3 muon RawID : 436249230
+global position L3 muon:  (-59.3272,38.1692,45.0572) 
+L3 muon RawID : 436282156
+global position L3 muon:  (-71.3709,45.993,45.0543) 
+L3 muon RawID : 436298608
+global position L3 muon:  (-82.2204,53.0628,63.3721) 
+L3 muon RawID : 436315120
+global position L3 muon:  (-89.6464,57.9115,63.3712) 
+Shared Fraction: 1
+Begin processing the 15th record. Run 1, Event 14, LumiSection 1 on stream 0 at 08-Apr-2019 12:23:09.438 CDT
+Begin processing the 16th record. Run 1, Event 18, LumiSection 1 on stream 0 at 08-Apr-2019 12:23:09.883 CDT
+Begin processing the 17th record. Run 1, Event 16, LumiSection 1 on stream 0 at 08-Apr-2019 12:23:10.365 CDT
+For offline muon with pt, eta, phi: 96.6204, -1.15036, -2.39526
+dimension: 1
+rawId of offline muon : 369121593
+offline globalPosition:   (-20.0675,-18.0433,-39.4913) 
+dimension: 1
+rawId of offline muon : 369121594
+offline globalPosition:   (-20.2121,-18.2221,-39.4908) 
+dimension: 1
+rawId of offline muon : 369154524
+offline globalPosition:   (-31.7475,-29.6456,-60.5481) 
+dimension: 1
+rawId of offline muon : 436228950
+offline globalPosition:   (-47.4665,-39.3238,-80.4741) 
+dimension: 1
+rawId of offline muon : 436228949
+offline globalPosition:   (-47.7997,-39.6003,-80.4746) 
+dimension: 1
+rawId of offline muon : 436245465
+offline globalPosition:   (-53.9223,-44.6978,-98.9829) 
+dimension: 1
+rawId of offline muon : 436245466
+offline globalPosition:   (-54.2553,-44.9738,-98.9836) 
+dimension: 1
+rawId of offline muon : 436261944
+offline globalPosition:   (-61.4984,-51.0465,-98.9755) 
+dimension: 2
+rawId of offline muon : 470050544
+offline globalPosition:   (-75.3288,-64.3263,-127.214) 
+dimension: 2
+rawId of offline muon : 470066928
+offline globalPosition:   (-75.3299,-64.326,-141.21) 
+L3 muon RawID : 304160780
+global position L3 muon:  (-4.85556,-4.45413,-7.82095) 
+L3 muon RawID : 305250312
+global position L3 muon:  (-7.88705,-7.25447,-13.682) 
+L3 muon RawID : 306348036
+global position L3 muon:  (-11.8809,-10.9348,-21.4026) 
+L3 muon RawID : 369121592
+global position L3 muon:  (-19.9071,-18.3213,-36.8992) 
+L3 muon RawID : 369154524
+global position L3 muon:  (-32.0259,-29.4282,-60.5479) 
+L3 muon RawID : 436228948
+global position L3 muon:  (-45.6386,-41.8709,-86.5779) 
+L3 muon RawID : 436245464
+global position L3 muon:  (-51.8588,-47.5257,-98.3964) 
+L3 muon RawID : 470050544
+global position L3 muon:  (-73.154,-66.8753,-127.212) 
+L3 muon RawID : 470066928
+global position L3 muon:  (-73.184,-66.8424,-141.209) 
+Shared Fraction: 0.3
+dimension: 1
+rawId of offline muon : 369121593
+offline globalPosition:   (-20.0675,-18.0433,-39.4913) 
+dimension: 1
+rawId of offline muon : 369121594
+offline globalPosition:   (-20.2121,-18.2221,-39.4908) 
+dimension: 1
+rawId of offline muon : 369154524
+offline globalPosition:   (-31.7475,-29.6456,-60.5481) 
+dimension: 1
+rawId of offline muon : 436228950
+offline globalPosition:   (-47.4665,-39.3238,-80.4741) 
+dimension: 1
+rawId of offline muon : 436228949
+offline globalPosition:   (-47.7997,-39.6003,-80.4746) 
+dimension: 1
+rawId of offline muon : 436245465
+offline globalPosition:   (-53.9223,-44.6978,-98.9829) 
+dimension: 1
+rawId of offline muon : 436245466
+offline globalPosition:   (-54.2553,-44.9738,-98.9836) 
+dimension: 1
+rawId of offline muon : 436261944
+offline globalPosition:   (-61.4984,-51.0465,-98.9755) 
+dimension: 2
+rawId of offline muon : 470050544
+offline globalPosition:   (-75.3288,-64.3263,-127.214) 
+dimension: 2
+rawId of offline muon : 470066928
+offline globalPosition:   (-75.3299,-64.326,-141.21) 
+L3 muon RawID : 303063064
+global position L3 muon:  (-2.65084,0.689353,6.90216) 
+L3 muon RawID : 304140320
+global position L3 muon:  (-6.77566,1.60665,23.93) 
+L3 muon RawID : 352630788
+global position L3 muon:  (-9.15516,2.0972,33.7884) 
+L3 muon RawID : 353006596
+global position L3 muon:  (-10.4738,2.3525,39.2095) 
+L3 muon RawID : 353007620
+global position L3 muon:  (-10.52,2.36217,39.3909) 
+L3 muon RawID : 353268740
+global position L3 muon:  (-12.784,2.7816,48.7105) 
+L3 muon RawID : 402674329
+global position L3 muon:  (-28.1376,4.71666,93.2295) 
+L3 muon RawID : 402674330
+global position L3 muon:  (-28.2746,5.26269,93.4745) 
+L3 muon RawID : 402676377
+global position L3 muon:  (-28.1128,4.87012,106.178) 
+L3 muon RawID : 402676378
+global position L3 muon:  (-28.3373,5.03111,106.423) 
+L3 muon RawID : 470312262
+global position L3 muon:  (-36.2571,5.84509,130.575) 
+L3 muon RawID : 470312261
+global position L3 muon:  (-36.3733,5.47644,130.904) 
+L3 muon RawID : 470328646
+global position L3 muon:  (-36.3008,5.51748,144.572) 
+L3 muon RawID : 470328645
+global position L3 muon:  (-36.3722,5.52785,144.902) 
+L3 muon RawID : 470345060
+global position L3 muon:  (-44.2853,6.42387,155.141) 
+L3 muon RawID : 470345030
+global position L3 muon:  (-36.3437,5.19167,158.57) 
+L3 muon RawID : 470345029
+global position L3 muon:  (-36.3733,5.50292,158.899) 
+L3 muon RawID : 470361444
+global position L3 muon:  (-44.3489,6.02357,169.138) 
+L3 muon RawID : 470377828
+global position L3 muon:  (-44.4144,5.61932,183.135) 
+L3 muon RawID : 470394212
+global position L3 muon:  (-44.4989,5.08885,200.63) 
+L3 muon RawID : 470394244
+global position L3 muon:  (-55.9099,6.33253,203.159) 
+L3 muon RawID : 470394248
+global position L3 muon:  (-55.9164,6.30749,203.659) 
+L3 muon RawID : 470410632
+global position L3 muon:  (-55.9537,5.61305,222.654) 
+L3 muon RawID : 470427016
+global position L3 muon:  (-55.997,4.85798,243.149) 
+L3 muon RawID : 470443429
+global position L3 muon:  (-67.4845,5.27933,261.617) 
+L3 muon RawID : 470443430
+global position L3 muon:  (-67.5072,5.02588,261.928) 
+Shared Fraction: 0
+dimension: 1
+rawId of offline muon : 369121593
+offline globalPosition:   (-20.0675,-18.0433,-39.4913) 
+dimension: 1
+rawId of offline muon : 369121594
+offline globalPosition:   (-20.2121,-18.2221,-39.4908) 
+dimension: 1
+rawId of offline muon : 369154524
+offline globalPosition:   (-31.7475,-29.6456,-60.5481) 
+dimension: 1
+rawId of offline muon : 436228950
+offline globalPosition:   (-47.4665,-39.3238,-80.4741) 
+dimension: 1
+rawId of offline muon : 436228949
+offline globalPosition:   (-47.7997,-39.6003,-80.4746) 
+dimension: 1
+rawId of offline muon : 436245465
+offline globalPosition:   (-53.9223,-44.6978,-98.9829) 
+dimension: 1
+rawId of offline muon : 436245466
+offline globalPosition:   (-54.2553,-44.9738,-98.9836) 
+dimension: 1
+rawId of offline muon : 436261944
+offline globalPosition:   (-61.4984,-51.0465,-98.9755) 
+dimension: 2
+rawId of offline muon : 470050544
+offline globalPosition:   (-75.3288,-64.3263,-127.214) 
+dimension: 2
+rawId of offline muon : 470066928
+offline globalPosition:   (-75.3299,-64.326,-141.21) 
+L3 muon RawID : 304095236
+global position L3 muon:  (6.29633,1.93795,-26.5325) 
+L3 muon RawID : 344204292
+global position L3 muon:  (7.60246,2.29874,-32.2867) 
+L3 muon RawID : 344466436
+global position L3 muon:  (9.41255,2.79098,-40.1986) 
+L3 muon RawID : 344822788
+global position L3 muon:  (11.1357,3.23663,-47.6829) 
+L3 muon RawID : 402668164
+global position L3 muon:  (24.6819,6.1756,-106.302) 
+L3 muon RawID : 470049060
+global position L3 muon:  (29.6472,6.99681,-127.289) 
+L3 muon RawID : 470065476
+global position L3 muon:  (33.6933,7.56421,-144.739) 
+L3 muon RawID : 470081860
+global position L3 muon:  (37.0422,7.97714,-158.737) 
+L3 muon RawID : 470098276
+global position L3 muon:  (43.8583,9.13526,-169.142) 
+L3 muon RawID : 470098244
+global position L3 muon:  (40.4083,8.32264,-172.735) 
+L3 muon RawID : 470114660
+global position L3 muon:  (43.9205,8.7392,-183.139) 
+L3 muon RawID : 470131044
+global position L3 muon:  (43.9968,8.25613,-200.636) 
+L3 muon RawID : 470147460
+global position L3 muon:  (55.3531,9.62121,-222.161) 
+L3 muon RawID : 470163844
+global position L3 muon:  (55.4731,8.90068,-242.657) 
+L3 muon RawID : 470180260
+global position L3 muon:  (61.632,9.14741,-261.788) 
+Shared Fraction: 0
+Begin processing the 18th record. Run 1, Event 3, LumiSection 1 on stream 0 at 08-Apr-2019 12:23:11.326 CDT
+For offline muon with pt, eta, phi: 99.4771, 1.76066, -2.01933
+Begin processing the 19th record. Run 1, Event 21, LumiSection 1 on stream 0 at 08-Apr-2019 12:23:11.495 CDT
+Begin processing the 20th record. Run 1, Event 22, LumiSection 1 on stream 0 at 08-Apr-2019 12:23:11.638 CDT
+Begin processing the 21st record. Run 1, Event 20, LumiSection 1 on stream 0 at 08-Apr-2019 12:23:11.991 CDT
+Begin processing the 22nd record. Run 1, Event 19, LumiSection 1 on stream 0 at 08-Apr-2019 12:23:12.679 CDT
+For offline muon with pt, eta, phi: 99.6494, 1.05918, -0.164296
+dimension: 1
+rawId of offline muon : 369125866
+offline globalPosition:   (27.0659,-2.82627,31.0916) 
+dimension: 1
+rawId of offline muon : 369141294
+offline globalPosition:   (32.0469,-2.98646,44.776) 
+dimension: 1
+rawId of offline muon : 369141293
+offline globalPosition:   (32.2764,-2.97236,44.776) 
+dimension: 1
+rawId of offline muon : 369158876
+offline globalPosition:   (42.5279,-8.83783,52.7918) 
+dimension: 1
+rawId of offline muon : 369175420
+offline globalPosition:   (50.66,-8.60767,60.5526) 
+dimension: 1
+rawId of offline muon : 436233526
+offline globalPosition:   (58.2693,-12.1556,82.2372) 
+dimension: 1
+rawId of offline muon : 436233525
+offline globalPosition:   (58.6931,-12.2438,82.2378) 
+dimension: 1
+rawId of offline muon : 436250137
+offline globalPosition:   (70.8146,-6.61457,98.9825) 
+dimension: 1
+rawId of offline muon : 436266680
+offline globalPosition:   (78.6852,-9.61442,98.9701) 
+dimension: 2
+rawId of offline muon : 470311396
+offline globalPosition:   (97.843,-15.4906,127.714) 
+L3 muon RawID : 303087636
+global position L3 muon:  (2.72131,-0.407821,3.5746) 
+L3 muon RawID : 304201752
+global position L3 muon:  (6.50808,-1.03826,8.45695) 
+L3 muon RawID : 305311772
+global position L3 muon:  (10.9108,-1.77248,14.1109) 
+L3 muon RawID : 369125864
+global position L3 muon:  (27.0207,-4.47895,30.9203) 
+L3 muon RawID : 369141292
+global position L3 muon:  (32.3169,-5.37499,41.6325) 
+L3 muon RawID : 369158876
+global position L3 muon:  (42.6096,-7.12898,52.7918) 
+L3 muon RawID : 369175420
+global position L3 muon:  (50.6612,-8.50484,60.5528) 
+L3 muon RawID : 436233524
+global position L3 muon:  (58.9539,-9.93471,75.9262) 
+L3 muon RawID : 436250136
+global position L3 muon:  (70.6158,-11.0699,99.7049) 
+L3 muon RawID : 436266680
+global position L3 muon:  (78.2364,-13.2899,98.9717) 
+L3 muon RawID : 470311396
+global position L3 muon:  (97.6503,-16.7151,127.709) 
+Shared Fraction: 0.4
+Begin processing the 23rd record. Run 1, Event 23, LumiSection 1 on stream 0 at 08-Apr-2019 12:23:12.991 CDT
+Begin processing the 24th record. Run 1, Event 25, LumiSection 1 on stream 0 at 08-Apr-2019 12:23:13.294 CDT
+For offline muon with pt, eta,
