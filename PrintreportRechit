@@ -1,484 +1,2406 @@
-Begin processing the 2nd record. Run 1, Event 5, LumiSection 1 on stream 0 at 08-Apr-2019 12:23:03.976 CDT
+Begin processing the 1st record. Run 1, Event 7, LumiSection 1 on stream 0 at 09-Apr-2019 08:49:20.891 CDT
+Begin processing the 2nd record. Run 1, Event 5, LumiSection 1 on stream 0 at 09-Apr-2019 08:49:21.901 CDT
 For offline muon with pt, eta, phi: 100.318, 0.63505, 1.54761
-dimension: 1
-rawId of offline muon : 369124470
-offline globalPosition:   (0.018019,23.7863,16.9092) 
-dimension: 1
-rawId of offline muon : 369124469
-offline globalPosition:   (-0.0177561,24.0135,16.9093) 
-dimension: 1
-rawId of offline muon : 369140890
-offline globalPosition:   (0.0180784,32.1863,23.889) 
-dimension: 1
-rawId of offline muon : 369140889
-offline globalPosition:   (-0.0179417,32.4135,23.8889) 
-dimension: 1
-rawId of offline muon : 369158344
-offline globalPosition:   (0.00184414,43.4373,30.1468) 
-dimension: 1
-rawId of offline muon : 369174760
-offline globalPosition:   (2.88278,51.3063,37.7864) 
-dimension: 1
-rawId of offline muon : 436232558
-offline globalPosition:   (-1.11328,59.515,45.969) 
-dimension: 1
-rawId of offline muon : 436232557
-offline globalPosition:   (-1.12269,59.9481,45.9695) 
-dimension: 1
-rawId of offline muon : 436249005
-offline globalPosition:   (-2.519,66.7924,45.0604) 
-dimension: 1
-rawId of offline muon : 436249006
-offline globalPosition:   (-2.53697,67.2253,45.0606) 
-dimension: 1
-rawId of offline muon : 436248973
-offline globalPosition:   (6.51818,69.7362,45.0604) 
-dimension: 1
-rawId of offline muon : 436248974
-offline globalPosition:   (6.55744,70.1674,45.0608) 
-dimension: 1
-rawId of offline muon : 436265388
-offline globalPosition:   (5.06784,79.7642,45.9677) 
-dimension: 1
-rawId of offline muon : 436298288
-offline globalPosition:   (-0.44106,97.7716,63.3757) 
-dimension: 1
-rawId of offline muon : 436314736
-offline globalPosition:   (1.96336,106.706,63.3761) 
-L3 muon RawID : 303050772
-global position L3 muon:  (0.0905023,3.3551,1.27255) 
-L3 muon RawID : 304115732
-global position L3 muon:  (0.181906,7.22111,3.89988) 
-L3 muon RawID : 306249752
-global position L3 muon:  (0.405066,16.4165,10.1411) 
-L3 muon RawID : 369124468
-global position L3 muon:  (0.600047,23.995,15.2772) 
-L3 muon RawID : 369140888
-global position L3 muon:  (0.822283,32.4301,20.8922) 
-L3 muon RawID : 369158344
-global position L3 muon:  (1.13103,43.6162,30.1469) 
-L3 muon RawID : 369174760
-global position L3 muon:  (1.34777,51.1507,37.7863) 
-L3 muon RawID : 436232556
-global position L3 muon:  (1.59181,59.7823,39.4812) 
-L3 muon RawID : 436249004
-global position L3 muon:  (1.81853,67.1727,44.6619) 
-L3 muon RawID : 436248972
-global position L3 muon:  (1.92639,70.3826,46.783) 
-L3 muon RawID : 436265388
-global position L3 muon:  (2.23026,79.9441,45.9675) 
-L3 muon RawID : 436298288
-global position L3 muon:  (2.82236,97.7865,63.3759) 
-L3 muon RawID : 436314736
-global position L3 muon:  (3.12989,106.685,63.3767) 
-Shared Fraction: 0.333333
-Begin processing the 3rd record. Run 1, Event 2, LumiSection 1 on stream 0 at 08-Apr-2019 12:23:04.223 CDT
-Begin processing the 4th record. Run 1, Event 1, LumiSection 1 on stream 0 at 08-Apr-2019 12:23:04.405 CDT
-Begin processing the 5th record. Run 1, Event 8, LumiSection 1 on stream 0 at 08-Apr-2019 12:23:04.460 CDT
-Begin processing the 6th record. Run 1, Event 4, LumiSection 1 on stream 0 at 08-Apr-2019 12:23:04.856 CDT
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 303050772
+Offline Global position     :  (0.797134,3.17769,3.34986) 
+Offline Rechit dimension online: 2
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 304115732
+Offline Global position     :  (0.688819,7.17231,3.34999) 
+Offline Rechit dimension online: 2
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 306249752
+Offline Global position     :  (0.820861,16.3958,10.0496) 
+Offline Rechit dimension online: 2
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 369124470
+Offline Global position     :  (0.018019,23.7863,16.9092) 
+Offline Rechit dimension online: 1
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 369124469
+Offline Global position     :  (-0.0177561,24.0135,16.9093) 
+Offline Rechit dimension online: 1
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 369140890
+Offline Global position     :  (0.0180784,32.1863,23.889) 
+Offline Rechit dimension online: 1
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 369140889
+Offline Global position     :  (-0.0179417,32.4135,23.8889) 
+Offline Rechit dimension online: 1
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 369158344
+Offline Global position     :  (0.00184414,43.4373,30.1468) 
+Offline Rechit dimension online: 1
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 369174760
+Offline Global position     :  (2.88278,51.3063,37.7864) 
+Offline Rechit dimension online: 1
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 436232558
+Offline Global position     :  (-1.11328,59.515,45.969) 
+Offline Rechit dimension online: 1
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 436232557
+Offline Global position     :  (-1.12269,59.9481,45.9695) 
+Offline Rechit dimension online: 1
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 436249005
+Offline Global position     :  (-2.519,66.7924,45.0604) 
+Offline Rechit dimension online: 1
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 436249006
+Offline Global position     :  (-2.53697,67.2253,45.0606) 
+Offline Rechit dimension online: 1
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 436248973
+Offline Global position     :  (6.51818,69.7362,45.0604) 
+Offline Rechit dimension online: 1
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 436248974
+Offline Global position     :  (6.55744,70.1674,45.0608) 
+Offline Rechit dimension online: 1
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 436265388
+Offline Global position     :  (5.06784,79.7642,45.9677) 
+Offline Rechit dimension online: 1
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 436298288
+Offline Global position     :  (-0.44106,97.7716,63.3757) 
+Offline Rechit dimension online: 1
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 436314736
+Offline Global position     :  (1.96336,106.706,63.3761) 
+Offline Rechit dimension online: 1
+Online muon (pt,eta,phi): 100.874, 0.6352, 1.54759
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 303050772
+Online Global position  :  (0.0905023,3.3551,1.27255) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 304115732
+Online Global position  :  (0.181906,7.22111,3.89988) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 306249752
+Online Global position  :  (0.405066,16.4165,10.1411) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 4
+Online  muon RawID      : 369124468
+Online Global position  :  (0.600047,23.995,15.2772) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 4
+Online  muon RawID      : 369140888
+Online Global position  :  (0.822283,32.4301,20.8922) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 369158344
+Online Global position  :  (1.13103,43.6162,30.1469) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 369174760
+Online Global position  :  (1.34777,51.1507,37.7863) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 4
+Online  muon RawID      : 436232556
+Online Global position  :  (1.59181,59.7823,39.4812) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 4
+Online  muon RawID      : 436249004
+Online Global position  :  (1.81853,67.1727,44.6619) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 4
+Online  muon RawID      : 436248972
+Online Global position  :  (1.92639,70.3826,46.783) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 436265388
+Online Global position  :  (2.23026,79.9441,45.9675) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 436298288
+Online Global position  :  (2.82236,97.7865,63.3759) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 436314736
+Online Global position  :  (3.12989,106.685,63.3767) 
+Online Rechit dimension : 2
+Shared Fraction: 0.444444
+Begin processing the 3rd record. Run 1, Event 2, LumiSection 1 on stream 0 at 09-Apr-2019 08:49:22.193 CDT
+Begin processing the 4th record. Run 1, Event 1, LumiSection 1 on stream 0 at 09-Apr-2019 08:49:22.387 CDT
+Begin processing the 5th record. Run 1, Event 8, LumiSection 1 on stream 0 at 09-Apr-2019 08:49:22.504 CDT
+Begin processing the 6th record. Run 1, Event 4, LumiSection 1 on stream 0 at 09-Apr-2019 08:49:22.812 CDT
 For offline muon with pt, eta, phi: 98.1194, -1.93944, 1.30584
-Begin processing the 7th record. Run 1, Event 11, LumiSection 1 on stream 0 at 08-Apr-2019 12:23:05.075 CDT
-Begin processing the 8th record. Run 1, Event 10, LumiSection 1 on stream 0 at 08-Apr-2019 12:23:05.396 CDT
-Begin processing the 9th record. Run 1, Event 9, LumiSection 1 on stream 0 at 08-Apr-2019 12:23:05.704 CDT
-Begin processing the 10th record. Run 1, Event 6, LumiSection 1 on stream 0 at 08-Apr-2019 12:23:06.872 CDT
+Begin processing the 7th record. Run 1, Event 11, LumiSection 1 on stream 0 at 09-Apr-2019 08:49:22.942 CDT
+Begin processing the 8th record. Run 1, Event 10, LumiSection 1 on stream 0 at 09-Apr-2019 08:49:23.132 CDT
+Begin processing the 9th record. Run 1, Event 9, LumiSection 1 on stream 0 at 09-Apr-2019 08:49:23.347 CDT
+Begin processing the 10th record. Run 1, Event 6, LumiSection 1 on stream 0 at 09-Apr-2019 08:49:23.792 CDT
 For offline muon with pt, eta, phi: 100.298, 0.430313, -2.13588
-dimension: 1
-rawId of offline muon : 369124646
-offline globalPosition:   (-11.0701,-21.0534,16.9049) 
-dimension: 1
-rawId of offline muon : 369124645
-offline globalPosition:   (-11.1443,-21.2712,16.905) 
-dimension: 1
-rawId of offline muon : 369141114
-offline globalPosition:   (-16.9593,-27.3559,23.8834) 
-dimension: 1
-rawId of offline muon : 369141113
-offline globalPosition:   (-17.0475,-27.5683,23.8834) 
-dimension: 1
-rawId of offline muon : 369158648
-offline globalPosition:   (-22.5712,-37.1131,30.1382) 
-dimension: 1
-rawId of offline muon : 369174072
-offline globalPosition:   (-24.9399,-41.2605,24.737) 
-dimension: 1
-rawId of offline muon : 436233098
-offline globalPosition:   (-33.7645,-51.5713,27.3017) 
-dimension: 1
-rawId of offline muon : 436233097
-offline globalPosition:   (-34.0008,-51.9343,27.3017) 
-dimension: 1
-rawId of offline muon : 436249613
-offline globalPosition:   (-40.5133,-57.1352,45.0529) 
-dimension: 1
-rawId of offline muon : 436249614
-offline globalPosition:   (-40.7631,-57.4889,45.0526) 
-dimension: 1
-rawId of offline muon : 436266124
-offline globalPosition:   (-38.7115,-66.2444,45.9587) 
-dimension: 1
-rawId of offline muon : 436299148
-offline globalPosition:   (-51.12,-80.3414,45.9574) 
-dimension: 1
-rawId of offline muon : 436315692
-offline globalPosition:   (-61.004,-86.7769,45.0472) 
-L3 muon RawID : 304164888
-global position L3 muon:  (-3.72748,-5.85017,8.90248) 
-L3 muon RawID : 305258520
-global position L3 muon:  (-5.7629,-9.05111,10.5913) 
-L3 muon RawID : 306360344
-global position L3 muon:  (-8.49301,-13.347,12.8456) 
-L3 muon RawID : 369124644
-global position L3 muon:  (-13.0563,-20.5031,16.6092) 
-L3 muon RawID : 369141112
-global position L3 muon:  (-17.3956,-27.2977,20.2177) 
-L3 muon RawID : 369158648
-global position L3 muon:  (-23.4667,-36.7457,30.1381) 
-L3 muon RawID : 369174072
-global position L3 muon:  (-26.0469,-40.8098,24.737) 
-L3 muon RawID : 436233096
-global position L3 muon:  (-33.3264,-52.117,33.3308) 
-L3 muon RawID : 436249612
-global position L3 muon:  (-37.9114,-59.2448,37.0674) 
-L3 muon RawID : 436266124
-global position L3 muon:  (-41.409,-64.6681,45.9589) 
-L3 muon RawID : 436299148
-global position L3 muon:  (-51.4361,-80.1402,45.9573) 
-L3 muon RawID : 436315692
-global position L3 muon:  (-57.401,-89.3092,45.0471) 
-Shared Fraction: 0.384615
-Begin processing the 11th record. Run 1, Event 12, LumiSection 1 on stream 0 at 08-Apr-2019 12:23:07.737 CDT
-Begin processing the 12th record. Run 1, Event 13, LumiSection 1 on stream 0 at 08-Apr-2019 12:23:08.438 CDT
-Begin processing the 13th record. Run 1, Event 15, LumiSection 1 on stream 0 at 08-Apr-2019 12:23:08.718 CDT
-Begin processing the 14th record. Run 1, Event 17, LumiSection 1 on stream 0 at 08-Apr-2019 12:23:09.098 CDT
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 304164888
+Offline Global position     :  (-3.59261,-5.93187,10.0499) 
+Offline Rechit dimension online: 2
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 305258520
+Offline Global position     :  (-5.15102,-9.38693,10.05) 
+Offline Rechit dimension online: 2
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 306360344
+Offline Global position     :  (-8.14335,-13.5574,10.0501) 
+Offline Rechit dimension online: 2
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 369124646
+Offline Global position     :  (-11.0701,-21.0534,16.9049) 
+Offline Rechit dimension online: 1
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 369124645
+Offline Global position     :  (-11.1443,-21.2712,16.905) 
+Offline Rechit dimension online: 1
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 369141114
+Offline Global position     :  (-16.9593,-27.3559,23.8834) 
+Offline Rechit dimension online: 1
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 369141113
+Offline Global position     :  (-17.0475,-27.5683,23.8834) 
+Offline Rechit dimension online: 1
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 369158648
+Offline Global position     :  (-22.5712,-37.1131,30.1382) 
+Offline Rechit dimension online: 1
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 369174072
+Offline Global position     :  (-24.9399,-41.2605,24.737) 
+Offline Rechit dimension online: 1
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 436233098
+Offline Global position     :  (-33.7645,-51.5713,27.3017) 
+Offline Rechit dimension online: 1
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 436233097
+Offline Global position     :  (-34.0008,-51.9343,27.3017) 
+Offline Rechit dimension online: 1
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 436249613
+Offline Global position     :  (-40.5133,-57.1352,45.0529) 
+Offline Rechit dimension online: 1
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 436249614
+Offline Global position     :  (-40.7631,-57.4889,45.0526) 
+Offline Rechit dimension online: 1
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 436266124
+Offline Global position     :  (-38.7115,-66.2444,45.9587) 
+Offline Rechit dimension online: 1
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 436299148
+Offline Global position     :  (-51.12,-80.3414,45.9574) 
+Offline Rechit dimension online: 1
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 436315692
+Offline Global position     :  (-61.004,-86.7769,45.0472) 
+Offline Rechit dimension online: 1
+Online muon (pt,eta,phi): 101.054, 0.430348, -2.13591
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 304164888
+Online Global position  :  (-3.72748,-5.85017,8.90248) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 305258520
+Online Global position  :  (-5.7629,-9.05111,10.5913) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 306360344
+Online Global position  :  (-8.49301,-13.347,12.8456) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 4
+Online  muon RawID      : 369124644
+Online Global position  :  (-13.0563,-20.5031,16.6092) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 4
+Online  muon RawID      : 369141112
+Online Global position  :  (-17.3956,-27.2977,20.2177) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 369158648
+Online Global position  :  (-23.4667,-36.7457,30.1381) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 369174072
+Online Global position  :  (-26.0469,-40.8098,24.737) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 4
+Online  muon RawID      : 436233096
+Online Global position  :  (-33.3264,-52.117,33.3308) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 4
+Online  muon RawID      : 436249612
+Online Global position  :  (-37.9114,-59.2448,37.0674) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 436266124
+Online Global position  :  (-41.409,-64.6681,45.9589) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 436299148
+Online Global position  :  (-51.4361,-80.1402,45.9573) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 436315692
+Online Global position  :  (-57.401,-89.3092,45.0471) 
+Online Rechit dimension : 2
+Shared Fraction: 0.5
+Begin processing the 11th record. Run 1, Event 12, LumiSection 1 on stream 0 at 09-Apr-2019 08:49:24.335 CDT
+Begin processing the 12th record. Run 1, Event 13, LumiSection 1 on stream 0 at 09-Apr-2019 08:49:24.855 CDT
+Begin processing the 13th record. Run 1, Event 15, LumiSection 1 on stream 0 at 09-Apr-2019 08:49:25.358 CDT
+Begin processing the 14th record. Run 1, Event 17, LumiSection 1 on stream 0 at 09-Apr-2019 08:49:25.727 CDT
 For offline muon with pt, eta, phi: 101.059, 0.570868, 2.57439
-dimension: 1
-rawId of offline muon : 369124534
-offline globalPosition:   (-19.5656,13.5267,16.9063) 
-dimension: 1
-rawId of offline muon : 369124533
-offline globalPosition:   (-19.7728,13.6266,16.9063) 
-dimension: 1
-rawId of offline muon : 369140970
-offline globalPosition:   (-25.6744,19.4108,23.8853) 
-dimension: 1
-rawId of offline muon : 369140969
-offline globalPosition:   (-25.8774,19.5191,23.8853) 
-dimension: 1
-rawId of offline muon : 369158456
-offline globalPosition:   (-35.4862,25.0505,30.1416) 
-dimension: 1
-rawId of offline muon : 369173864
-offline globalPosition:   (-41.2599,24.9401,24.7414) 
-dimension: 1
-rawId of offline muon : 436232782
-offline globalPosition:   (-54.8992,30.3414,45.9686) 
-dimension: 1
-rawId of offline muon : 436249229
-offline globalPosition:   (-57.1341,40.513,45.0571) 
-dimension: 1
-rawId of offline muon : 436249230
-offline globalPosition:   (-57.4882,40.7627,45.0573) 
-dimension: 1
-rawId of offline muon : 436282156
-offline globalPosition:   (-70.0134,47.974,45.0547) 
-dimension: 1
-rawId of offline muon : 436298608
-offline globalPosition:   (-79.8998,56.3529,63.3717) 
-dimension: 1
-rawId of offline muon : 436315120
-offline globalPosition:   (-89.8355,57.6165,63.3712) 
-L3 muon RawID : 303058964
-global position L3 muon:  (-2.60145,1.70678,1.49289) 
-L3 muon RawID : 304136212
-global position L3 muon:  (-5.52647,3.57203,3.58694) 
-L3 muon RawID : 305209364
-global position L3 muon:  (-9.02973,5.80789,6.0885) 
-L3 muon RawID : 305213460
-global position L3 muon:  (-9.30733,5.98174,6.28629) 
-L3 muon RawID : 306294808
-global position L3 muon:  (-13.3162,8.5445,9.15127) 
-L3 muon RawID : 369124534
-global position L3 muon:  (-19.9157,12.7967,16.9063) 
-L3 muon RawID : 369124533
-global position L3 muon:  (-20.2399,12.6524,16.7978) 
-L3 muon RawID : 369140970
-global position L3 muon:  (-26.847,17.2112,23.8853) 
-L3 muon RawID : 369140969
-global position L3 muon:  (-26.7966,17.7945,24.0814) 
-L3 muon RawID : 369158456
-global position L3 muon:  (-36.3375,23.322,30.1415) 
-L3 muon RawID : 369173864
-global position L3 muon:  (-40.759,26.1701,24.7415) 
-L3 muon RawID : 436232782
-global position L3 muon:  (-52.875,34.0042,45.9684) 
-L3 muon RawID : 436249229
-global position L3 muon:  (-59.1288,37.6997,44.7114) 
-L3 muon RawID : 436249230
-global position L3 muon:  (-59.3272,38.1692,45.0572) 
-L3 muon RawID : 436282156
-global position L3 muon:  (-71.3709,45.993,45.0543) 
-L3 muon RawID : 436298608
-global position L3 muon:  (-82.2204,53.0628,63.3721) 
-L3 muon RawID : 436315120
-global position L3 muon:  (-89.6464,57.9115,63.3712) 
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 303058964
+Offline Global position     :  (-2.19518,2.12612,3.35009) 
+Offline Rechit dimension online: 2
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 304136212
+Offline Global position     :  (-5.62622,3.40749,3.35007) 
+Offline Rechit dimension online: 2
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 305209364
+Offline Global position     :  (-8.55859,6.43467,3.35024) 
+Offline Rechit dimension online: 2
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 305213460
+Offline Global position     :  (-9.67602,5.30965,3.34995) 
+Offline Rechit dimension online: 2
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 306294808
+Offline Global position     :  (-13.5575,8.14342,10.0503) 
+Offline Rechit dimension online: 2
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 369124534
+Offline Global position     :  (-19.5656,13.5267,16.9063) 
+Offline Rechit dimension online: 1
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 369124533
+Offline Global position     :  (-19.7728,13.6266,16.9063) 
+Offline Rechit dimension online: 1
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 369140970
+Offline Global position     :  (-25.6744,19.4108,23.8853) 
+Offline Rechit dimension online: 1
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 369140969
+Offline Global position     :  (-25.8774,19.5191,23.8853) 
+Offline Rechit dimension online: 1
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 369158456
+Offline Global position     :  (-35.4862,25.0505,30.1416) 
+Offline Rechit dimension online: 1
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 369173864
+Offline Global position     :  (-41.2599,24.9401,24.7414) 
+Offline Rechit dimension online: 1
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 436232782
+Offline Global position     :  (-54.8992,30.3414,45.9686) 
+Offline Rechit dimension online: 1
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 436249229
+Offline Global position     :  (-57.1341,40.513,45.0571) 
+Offline Rechit dimension online: 1
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 436249230
+Offline Global position     :  (-57.4882,40.7627,45.0573) 
+Offline Rechit dimension online: 1
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 436282156
+Offline Global position     :  (-70.0134,47.974,45.0547) 
+Offline Rechit dimension online: 1
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 436298608
+Offline Global position     :  (-79.8998,56.3529,63.3717) 
+Offline Rechit dimension online: 1
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 436315120
+Offline Global position     :  (-89.8355,57.6165,63.3712) 
+Offline Rechit dimension online: 1
+Online muon (pt,eta,phi): 99.7816, 0.570902, 2.57449
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 303058964
+Online Global position  :  (-2.60145,1.70678,1.49289) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 304136212
+Online Global position  :  (-5.52647,3.57203,3.58694) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 305209364
+Online Global position  :  (-9.02973,5.80789,6.0885) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 305213460
+Online Global position  :  (-9.30733,5.98174,6.28629) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 306294808
+Online Global position  :  (-13.3162,8.5445,9.15127) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 369124534
+Online Global position  :  (-19.9157,12.7967,16.9063) 
+Online Rechit dimension : 1
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 369124533
+Online Global position  :  (-20.2399,12.6524,16.7978) 
+Online Rechit dimension : 1
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 369140970
+Online Global position  :  (-26.847,17.2112,23.8853) 
+Online Rechit dimension : 1
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 369140969
+Online Global position  :  (-26.7966,17.7945,24.0814) 
+Online Rechit dimension : 1
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 369158456
+Online Global position  :  (-36.3375,23.322,30.1415) 
+Online Rechit dimension : 1
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 369173864
+Online Global position  :  (-40.759,26.1701,24.7415) 
+Online Rechit dimension : 1
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 436232782
+Online Global position  :  (-52.875,34.0042,45.9684) 
+Online Rechit dimension : 1
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 436249229
+Online Global position  :  (-59.1288,37.6997,44.7114) 
+Online Rechit dimension : 1
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 436249230
+Online Global position  :  (-59.3272,38.1692,45.0572) 
+Online Rechit dimension : 1
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 436282156
+Online Global position  :  (-71.3709,45.993,45.0543) 
+Online Rechit dimension : 1
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 436298608
+Online Global position  :  (-82.2204,53.0628,63.3721) 
+Online Rechit dimension : 1
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 436315120
+Online Global position  :  (-89.6464,57.9115,63.3712) 
+Online Rechit dimension : 1
 Shared Fraction: 1
-Begin processing the 15th record. Run 1, Event 14, LumiSection 1 on stream 0 at 08-Apr-2019 12:23:09.438 CDT
-Begin processing the 16th record. Run 1, Event 18, LumiSection 1 on stream 0 at 08-Apr-2019 12:23:09.883 CDT
-Begin processing the 17th record. Run 1, Event 16, LumiSection 1 on stream 0 at 08-Apr-2019 12:23:10.365 CDT
+Begin processing the 15th record. Run 1, Event 14, LumiSection 1 on stream 0 at 09-Apr-2019 08:49:26.136 CDT
+Begin processing the 16th record. Run 1, Event 18, LumiSection 1 on stream 0 at 09-Apr-2019 08:49:26.395 CDT
+Begin processing the 17th record. Run 1, Event 16, LumiSection 1 on stream 0 at 09-Apr-2019 08:49:26.704 CDT
 For offline muon with pt, eta, phi: 96.6204, -1.15036, -2.39526
-dimension: 1
-rawId of offline muon : 369121593
-offline globalPosition:   (-20.0675,-18.0433,-39.4913) 
-dimension: 1
-rawId of offline muon : 369121594
-offline globalPosition:   (-20.2121,-18.2221,-39.4908) 
-dimension: 1
-rawId of offline muon : 369154524
-offline globalPosition:   (-31.7475,-29.6456,-60.5481) 
-dimension: 1
-rawId of offline muon : 436228950
-offline globalPosition:   (-47.4665,-39.3238,-80.4741) 
-dimension: 1
-rawId of offline muon : 436228949
-offline globalPosition:   (-47.7997,-39.6003,-80.4746) 
-dimension: 1
-rawId of offline muon : 436245465
-offline globalPosition:   (-53.9223,-44.6978,-98.9829) 
-dimension: 1
-rawId of offline muon : 436245466
-offline globalPosition:   (-54.2553,-44.9738,-98.9836) 
-dimension: 1
-rawId of offline muon : 436261944
-offline globalPosition:   (-61.4984,-51.0465,-98.9755) 
-dimension: 2
-rawId of offline muon : 470050544
-offline globalPosition:   (-75.3288,-64.3263,-127.214) 
-dimension: 2
-rawId of offline muon : 470066928
-offline globalPosition:   (-75.3299,-64.326,-141.21) 
-L3 muon RawID : 304160780
-global position L3 muon:  (-4.85556,-4.45413,-7.82095) 
-L3 muon RawID : 305250312
-global position L3 muon:  (-7.88705,-7.25447,-13.682) 
-L3 muon RawID : 306348036
-global position L3 muon:  (-11.8809,-10.9348,-21.4026) 
-L3 muon RawID : 369121592
-global position L3 muon:  (-19.9071,-18.3213,-36.8992) 
-L3 muon RawID : 369154524
-global position L3 muon:  (-32.0259,-29.4282,-60.5479) 
-L3 muon RawID : 436228948
-global position L3 muon:  (-45.6386,-41.8709,-86.5779) 
-L3 muon RawID : 436245464
-global position L3 muon:  (-51.8588,-47.5257,-98.3964) 
-L3 muon RawID : 470050544
-global position L3 muon:  (-73.154,-66.8753,-127.212) 
-L3 muon RawID : 470066928
-global position L3 muon:  (-73.184,-66.8424,-141.209) 
-Shared Fraction: 0.3
-dimension: 1
-rawId of offline muon : 369121593
-offline globalPosition:   (-20.0675,-18.0433,-39.4913) 
-dimension: 1
-rawId of offline muon : 369121594
-offline globalPosition:   (-20.2121,-18.2221,-39.4908) 
-dimension: 1
-rawId of offline muon : 369154524
-offline globalPosition:   (-31.7475,-29.6456,-60.5481) 
-dimension: 1
-rawId of offline muon : 436228950
-offline globalPosition:   (-47.4665,-39.3238,-80.4741) 
-dimension: 1
-rawId of offline muon : 436228949
-offline globalPosition:   (-47.7997,-39.6003,-80.4746) 
-dimension: 1
-rawId of offline muon : 436245465
-offline globalPosition:   (-53.9223,-44.6978,-98.9829) 
-dimension: 1
-rawId of offline muon : 436245466
-offline globalPosition:   (-54.2553,-44.9738,-98.9836) 
-dimension: 1
-rawId of offline muon : 436261944
-offline globalPosition:   (-61.4984,-51.0465,-98.9755) 
-dimension: 2
-rawId of offline muon : 470050544
-offline globalPosition:   (-75.3288,-64.3263,-127.214) 
-dimension: 2
-rawId of offline muon : 470066928
-offline globalPosition:   (-75.3299,-64.326,-141.21) 
-L3 muon RawID : 303063064
-global position L3 muon:  (-2.65084,0.689353,6.90216) 
-L3 muon RawID : 304140320
-global position L3 muon:  (-6.77566,1.60665,23.93) 
-L3 muon RawID : 352630788
-global position L3 muon:  (-9.15516,2.0972,33.7884) 
-L3 muon RawID : 353006596
-global position L3 muon:  (-10.4738,2.3525,39.2095) 
-L3 muon RawID : 353007620
-global position L3 muon:  (-10.52,2.36217,39.3909) 
-L3 muon RawID : 353268740
-global position L3 muon:  (-12.784,2.7816,48.7105) 
-L3 muon RawID : 402674329
-global position L3 muon:  (-28.1376,4.71666,93.2295) 
-L3 muon RawID : 402674330
-global position L3 muon:  (-28.2746,5.26269,93.4745) 
-L3 muon RawID : 402676377
-global position L3 muon:  (-28.1128,4.87012,106.178) 
-L3 muon RawID : 402676378
-global position L3 muon:  (-28.3373,5.03111,106.423) 
-L3 muon RawID : 470312262
-global position L3 muon:  (-36.2571,5.84509,130.575) 
-L3 muon RawID : 470312261
-global position L3 muon:  (-36.3733,5.47644,130.904) 
-L3 muon RawID : 470328646
-global position L3 muon:  (-36.3008,5.51748,144.572) 
-L3 muon RawID : 470328645
-global position L3 muon:  (-36.3722,5.52785,144.902) 
-L3 muon RawID : 470345060
-global position L3 muon:  (-44.2853,6.42387,155.141) 
-L3 muon RawID : 470345030
-global position L3 muon:  (-36.3437,5.19167,158.57) 
-L3 muon RawID : 470345029
-global position L3 muon:  (-36.3733,5.50292,158.899) 
-L3 muon RawID : 470361444
-global position L3 muon:  (-44.3489,6.02357,169.138) 
-L3 muon RawID : 470377828
-global position L3 muon:  (-44.4144,5.61932,183.135) 
-L3 muon RawID : 470394212
-global position L3 muon:  (-44.4989,5.08885,200.63) 
-L3 muon RawID : 470394244
-global position L3 muon:  (-55.9099,6.33253,203.159) 
-L3 muon RawID : 470394248
-global position L3 muon:  (-55.9164,6.30749,203.659) 
-L3 muon RawID : 470410632
-global position L3 muon:  (-55.9537,5.61305,222.654) 
-L3 muon RawID : 470427016
-global position L3 muon:  (-55.997,4.85798,243.149) 
-L3 muon RawID : 470443429
-global position L3 muon:  (-67.4845,5.27933,261.617) 
-L3 muon RawID : 470443430
-global position L3 muon:  (-67.5072,5.02588,261.928) 
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 303071248
+Offline Global position     :  (-1.90536,-1.96727,-3.35001) 
+Offline Rechit dimension online: 2
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 304160780
+Offline Global position     :  (-4.57376,-4.72682,-10.0496) 
+Offline Rechit dimension online: 2
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 305250312
+Offline Global position     :  (-7.58706,-7.55565,-16.7499) 
+Offline Rechit dimension online: 2
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 306348036
+Offline Global position     :  (-11.974,-10.8317,-23.4495) 
+Offline Rechit dimension online: 2
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 369121593
+Offline Global position     :  (-20.0675,-18.0433,-39.4913) 
+Offline Rechit dimension online: 1
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 369121594
+Offline Global position     :  (-20.2121,-18.2221,-39.4908) 
+Offline Rechit dimension online: 1
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 369154524
+Offline Global position     :  (-31.7475,-29.6456,-60.5481) 
+Offline Rechit dimension online: 1
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 436228950
+Offline Global position     :  (-47.4665,-39.3238,-80.4741) 
+Offline Rechit dimension online: 1
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 436228949
+Offline Global position     :  (-47.7997,-39.6003,-80.4746) 
+Offline Rechit dimension online: 1
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 436245465
+Offline Global position     :  (-53.9223,-44.6978,-98.9829) 
+Offline Rechit dimension online: 1
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 436245466
+Offline Global position     :  (-54.2553,-44.9738,-98.9836) 
+Offline Rechit dimension online: 1
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 436261944
+Offline Global position     :  (-61.4984,-51.0465,-98.9755) 
+Offline Rechit dimension online: 1
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 470050544
+Offline Global position     :  (-75.3288,-64.3263,-127.214) 
+Offline Rechit dimension online: 2
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 470066928
+Offline Global position     :  (-75.3299,-64.326,-141.21) 
+Offline Rechit dimension online: 2
+Online muon (pt,eta,phi): 93.8648, -1.15019, -2.39515
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 304160780
+Online Global position  :  (-4.85556,-4.45413,-7.82095) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 305250312
+Online Global position  :  (-7.88705,-7.25447,-13.682) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 306348036
+Online Global position  :  (-11.8809,-10.9348,-21.4026) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 4
+Online  muon RawID      : 369121592
+Online Global position  :  (-19.9071,-18.3213,-36.8992) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 369154524
+Online Global position  :  (-32.0259,-29.4282,-60.5479) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 4
+Online  muon RawID      : 436228948
+Online Global position  :  (-45.6386,-41.8709,-86.5779) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 4
+Online  muon RawID      : 436245464
+Online Global position  :  (-51.8588,-47.5257,-98.3964) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 470050544
+Online Global position  :  (-73.154,-66.8753,-127.212) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 470066928
+Online Global position  :  (-73.184,-66.8424,-141.209) 
+Online Rechit dimension : 2
+Shared Fraction: 0.428571
+Online muon (pt,eta,phi): 2.15322, 2.10197, 2.89697
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 303063064
+Online Global position  :  (-2.65084,0.689353,6.90216) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 304140320
+Online Global position  :  (-6.77566,1.60665,23.93) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 352630788
+Online Global position  :  (-9.15516,2.0972,33.7884) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 353006596
+Online Global position  :  (-10.4738,2.3525,39.2095) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 353007620
+Online Global position  :  (-10.52,2.36217,39.3909) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 353268740
+Online Global position  :  (-12.784,2.7816,48.7105) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 402674329
+Online Global position  :  (-28.1376,4.71666,93.2295) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 402674330
+Online Global position  :  (-28.2746,5.26269,93.4745) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 402676377
+Online Global position  :  (-28.1128,4.87012,106.178) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 402676378
+Online Global position  :  (-28.3373,5.03111,106.423) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 470312262
+Online Global position  :  (-36.2571,5.84509,130.575) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 470312261
+Online Global position  :  (-36.3733,5.47644,130.904) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 470328646
+Online Global position  :  (-36.3008,5.51748,144.572) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 470328645
+Online Global position  :  (-36.3722,5.52785,144.902) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 470345060
+Online Global position  :  (-44.2853,6.42387,155.141) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 470345030
+Online Global position  :  (-36.3437,5.19167,158.57) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 470345029
+Online Global position  :  (-36.3733,5.50292,158.899) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 470361444
+Online Global position  :  (-44.3489,6.02357,169.138) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 470377828
+Online Global position  :  (-44.4144,5.61932,183.135) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 470394212
+Online Global position  :  (-44.4989,5.08885,200.63) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 470394244
+Online Global position  :  (-55.9099,6.33253,203.159) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 470394248
+Online Global position  :  (-55.9164,6.30749,203.659) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 470410632
+Online Global position  :  (-55.9537,5.61305,222.654) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 470427016
+Online Global position  :  (-55.997,4.85798,243.149) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 470443429
+Online Global position  :  (-67.4845,5.27933,261.617) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 470443430
+Online Global position  :  (-67.5072,5.02588,261.928) 
+Online Rechit dimension : 2
 Shared Fraction: 0
-dimension: 1
-rawId of offline muon : 369121593
-offline globalPosition:   (-20.0675,-18.0433,-39.4913) 
-dimension: 1
-rawId of offline muon : 369121594
-offline globalPosition:   (-20.2121,-18.2221,-39.4908) 
-dimension: 1
-rawId of offline muon : 369154524
-offline globalPosition:   (-31.7475,-29.6456,-60.5481) 
-dimension: 1
-rawId of offline muon : 436228950
-offline globalPosition:   (-47.4665,-39.3238,-80.4741) 
-dimension: 1
-rawId of offline muon : 436228949
-offline globalPosition:   (-47.7997,-39.6003,-80.4746) 
-dimension: 1
-rawId of offline muon : 436245465
-offline globalPosition:   (-53.9223,-44.6978,-98.9829) 
-dimension: 1
-rawId of offline muon : 436245466
-offline globalPosition:   (-54.2553,-44.9738,-98.9836) 
-dimension: 1
-rawId of offline muon : 436261944
-offline globalPosition:   (-61.4984,-51.0465,-98.9755) 
-dimension: 2
-rawId of offline muon : 470050544
-offline globalPosition:   (-75.3288,-64.3263,-127.214) 
-dimension: 2
-rawId of offline muon : 470066928
-offline globalPosition:   (-75.3299,-64.326,-141.21) 
-L3 muon RawID : 304095236
-global position L3 muon:  (6.29633,1.93795,-26.5325) 
-L3 muon RawID : 344204292
-global position L3 muon:  (7.60246,2.29874,-32.2867) 
-L3 muon RawID : 344466436
-global position L3 muon:  (9.41255,2.79098,-40.1986) 
-L3 muon RawID : 344822788
-global position L3 muon:  (11.1357,3.23663,-47.6829) 
-L3 muon RawID : 402668164
-global position L3 muon:  (24.6819,6.1756,-106.302) 
-L3 muon RawID : 470049060
-global position L3 muon:  (29.6472,6.99681,-127.289) 
-L3 muon RawID : 470065476
-global position L3 muon:  (33.6933,7.56421,-144.739) 
-L3 muon RawID : 470081860
-global position L3 muon:  (37.0422,7.97714,-158.737) 
-L3 muon RawID : 470098276
-global position L3 muon:  (43.8583,9.13526,-169.142) 
-L3 muon RawID : 470098244
-global position L3 muon:  (40.4083,8.32264,-172.735) 
-L3 muon RawID : 470114660
-global position L3 muon:  (43.9205,8.7392,-183.139) 
-L3 muon RawID : 470131044
-global position L3 muon:  (43.9968,8.25613,-200.636) 
-L3 muon RawID : 470147460
-global position L3 muon:  (55.3531,9.62121,-222.161) 
-L3 muon RawID : 470163844
-global position L3 muon:  (55.4731,8.90068,-242.657) 
-L3 muon RawID : 470180260
-global position L3 muon:  (61.632,9.14741,-261.788) 
+Online muon (pt,eta,phi): 2.11417, -2.15035, 0.311495
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 304095236
+Online Global position  :  (6.29633,1.93795,-26.5325) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 344204292
+Online Global position  :  (7.60246,2.29874,-32.2867) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 344466436
+Online Global position  :  (9.41255,2.79098,-40.1986) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 344822788
+Online Global position  :  (11.1357,3.23663,-47.6829) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 4
+Online  muon RawID      : 402668164
+Online Global position  :  (24.6819,6.1756,-106.302) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 4
+Online  muon RawID      : 470049060
+Online Global position  :  (29.6472,6.99681,-127.289) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 4
+Online  muon RawID      : 470065476
+Online Global position  :  (33.6933,7.56421,-144.739) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 4
+Online  muon RawID      : 470081860
+Online Global position  :  (37.0422,7.97714,-158.737) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 470098276
+Online Global position  :  (43.8583,9.13526,-169.142) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 4
+Online  muon RawID      : 470098244
+Online Global position  :  (40.4083,8.32264,-172.735) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 470114660
+Online Global position  :  (43.9205,8.7392,-183.139) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 470131044
+Online Global position  :  (43.9968,8.25613,-200.636) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 470147460
+Online Global position  :  (55.3531,9.62121,-222.161) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 470163844
+Online Global position  :  (55.4731,8.90068,-242.657) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 4
+Online  muon RawID      : 470180260
+Online Global position  :  (61.632,9.14741,-261.788) 
+Online Rechit dimension : 2
 Shared Fraction: 0
-Begin processing the 18th record. Run 1, Event 3, LumiSection 1 on stream 0 at 08-Apr-2019 12:23:11.326 CDT
+Begin processing the 18th record. Run 1, Event 3, LumiSection 1 on stream 0 at 09-Apr-2019 08:49:27.327 CDT
 For offline muon with pt, eta, phi: 99.4771, 1.76066, -2.01933
-Begin processing the 19th record. Run 1, Event 21, LumiSection 1 on stream 0 at 08-Apr-2019 12:23:11.495 CDT
-Begin processing the 20th record. Run 1, Event 22, LumiSection 1 on stream 0 at 08-Apr-2019 12:23:11.638 CDT
-Begin processing the 21st record. Run 1, Event 20, LumiSection 1 on stream 0 at 08-Apr-2019 12:23:11.991 CDT
-Begin processing the 22nd record. Run 1, Event 19, LumiSection 1 on stream 0 at 08-Apr-2019 12:23:12.679 CDT
+Begin processing the 19th record. Run 1, Event 21, LumiSection 1 on stream 0 at 09-Apr-2019 08:49:27.462 CDT
+Begin processing the 20th record. Run 1, Event 22, LumiSection 1 on stream 0 at 09-Apr-2019 08:49:27.607 CDT
+Begin processing the 21st record. Run 1, Event 20, LumiSection 1 on stream 0 at 09-Apr-2019 08:49:27.959 CDT
+Begin processing the 22nd record. Run 1, Event 19, LumiSection 1 on stream 0 at 09-Apr-2019 08:49:28.680 CDT
 For offline muon with pt, eta, phi: 99.6494, 1.05918, -0.164296
-dimension: 1
-rawId of offline muon : 369125866
-offline globalPosition:   (27.0659,-2.82627,31.0916) 
-dimension: 1
-rawId of offline muon : 369141294
-offline globalPosition:   (32.0469,-2.98646,44.776) 
-dimension: 1
-rawId of offline muon : 369141293
-offline globalPosition:   (32.2764,-2.97236,44.776) 
-dimension: 1
-rawId of offline muon : 369158876
-offline globalPosition:   (42.5279,-8.83783,52.7918) 
-dimension: 1
-rawId of offline muon : 369175420
-offline globalPosition:   (50.66,-8.60767,60.5526) 
-dimension: 1
-rawId of offline muon : 436233526
-offline globalPosition:   (58.2693,-12.1556,82.2372) 
-dimension: 1
-rawId of offline muon : 436233525
-offline globalPosition:   (58.6931,-12.2438,82.2378) 
-dimension: 1
-rawId of offline muon : 436250137
-offline globalPosition:   (70.8146,-6.61457,98.9825) 
-dimension: 1
-rawId of offline muon : 436266680
-offline globalPosition:   (78.6852,-9.61442,98.9701) 
-dimension: 2
-rawId of offline muon : 470311396
-offline globalPosition:   (97.843,-15.4906,127.714) 
-L3 muon RawID : 303087636
-global position L3 muon:  (2.72131,-0.407821,3.5746) 
-L3 muon RawID : 304201752
-global position L3 muon:  (6.50808,-1.03826,8.45695) 
-L3 muon RawID : 305311772
-global position L3 muon:  (10.9108,-1.77248,14.1109) 
-L3 muon RawID : 369125864
-global position L3 muon:  (27.0207,-4.47895,30.9203) 
-L3 muon RawID : 369141292
-global position L3 muon:  (32.3169,-5.37499,41.6325) 
-L3 muon RawID : 369158876
-global position L3 muon:  (42.6096,-7.12898,52.7918) 
-L3 muon RawID : 369175420
-global position L3 muon:  (50.6612,-8.50484,60.5528) 
-L3 muon RawID : 436233524
-global position L3 muon:  (58.9539,-9.93471,75.9262) 
-L3 muon RawID : 436250136
-global position L3 muon:  (70.6158,-11.0699,99.7049) 
-L3 muon RawID : 436266680
-global position L3 muon:  (78.2364,-13.2899,98.9717) 
-L3 muon RawID : 470311396
-global position L3 muon:  (97.6503,-16.7151,127.709) 
-Shared Fraction: 0.4
-Begin processing the 23rd record. Run 1, Event 23, LumiSection 1 on stream 0 at 08-Apr-2019 12:23:12.991 CDT
-Begin processing the 24th record. Run 1, Event 25, LumiSection 1 on stream 0 at 08-Apr-2019 12:23:13.294 CDT
-For offline muon with pt, eta,
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 303087636
+Offline Global position     :  (2.65642,-0.666301,3.34976) 
+Offline Rechit dimension online: 2
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 304201752
+Offline Global position     :  (6.54739,-0.628566,10.0497) 
+Offline Rechit dimension online: 2
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 305311772
+Offline Global position     :  (10.7799,-2.36804,16.75) 
+Offline Rechit dimension online: 2
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 369125866
+Offline Global position     :  (27.0659,-2.82627,31.0916) 
+Offline Rechit dimension online: 1
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 369141294
+Offline Global position     :  (32.0469,-2.98646,44.776) 
+Offline Rechit dimension online: 1
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 369141293
+Offline Global position     :  (32.2764,-2.97236,44.776) 
+Offline Rechit dimension online: 1
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 369158876
+Offline Global position     :  (42.5279,-8.83783,52.7918) 
+Offline Rechit dimension online: 1
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 369175420
+Offline Global position     :  (50.66,-8.60767,60.5526) 
+Offline Rechit dimension online: 1
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 436233526
+Offline Global position     :  (58.2693,-12.1556,82.2372) 
+Offline Rechit dimension online: 1
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 436233525
+Offline Global position     :  (58.6931,-12.2438,82.2378) 
+Offline Rechit dimension online: 1
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 436250137
+Offline Global position     :  (70.8146,-6.61457,98.9825) 
+Offline Rechit dimension online: 1
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 436266680
+Offline Global position     :  (78.6852,-9.61442,98.9701) 
+Offline Rechit dimension online: 1
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 470311396
+Offline Global position     :  (97.843,-15.4906,127.714) 
+Offline Rechit dimension online: 2
+Online muon (pt,eta,phi): 101.358, 1.05935, -0.164313
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 303087636
+Online Global position  :  (2.72131,-0.407821,3.5746) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 304201752
+Online Global position  :  (6.50808,-1.03826,8.45695) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 305311772
+Online Global position  :  (10.9108,-1.77248,14.1109) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 3
+Online  muon RawID      : 369125864
+Online Global position  :  (27.0207,-4.47895,30.9203) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 4
+Online  muon RawID      : 369141292
+Online Global position  :  (32.3169,-5.37499,41.6325) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 369158876
+Online Global position  :  (42.6096,-7.12898,52.7918) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 369175420
+Online Global position  :  (50.6612,-8.50484,60.5528) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 4
+Online  muon RawID      : 436233524
+Online Global position  :  (58.9539,-9.93471,75.9262) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 2
+Online  muon RawID      : 436250136
+Online Global position  :  (70.6158,-11.0699,99.7049) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 436266680
+Online Global position  :  (78.2364,-13.2899,98.9717) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 470311396
+Online Global position  :  (97.6503,-16.7151,127.709) 
+Online Rechit dimension : 2
+Shared Fraction: 0.538462
+Begin processing the 23rd record. Run 1, Event 23, LumiSection 1 on stream 0 at 09-Apr-2019 08:49:28.974 CDT
+Begin processing the 24th record. Run 1, Event 25, LumiSection 1 on stream 0 at 09-Apr-2019 08:49:29.290 CDT
+For offline muon with pt, eta, phi: 99.9775, -0.866453, -2.975
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 303067152
+Offline Global position     :  (-2.9388,-0.837969,-3.34996) 
+Offline Rechit dimension online: 2
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 304148492
+Offline Global position     :  (-6.87771,-0.889698,-10.0496) 
+Offline Rechit dimension online: 2
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 305233928
+Offline Global position     :  (-10.4676,-2.25429,-16.7498) 
+Offline Rechit dimension online: 2
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 306323464
+Offline Global position     :  (-15.9735,-2.35629,-16.749) 
+Offline Rechit dimension online: 2
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 369120490
+Offline Global position     :  (-23.615,-2.84879,-24.2728) 
+Offline Rechit dimension online: 1
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 369120489
+Offline Global position     :  (-23.8362,-2.91185,-24.2732) 
+Offline Rechit dimension online: 1
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 369136938
+Offline Global position     :  (-32.0505,-2.95093,-38.9277) 
+Offline Rechit dimension online: 1
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 369136937
+Offline Global position     :  (-32.2732,-3.00807,-38.9272) 
+Offline Rechit dimension online: 1
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 369153420
+Offline Global position     :  (-39.3414,-8.55898,-45.6192) 
+Offline Rechit dimension online: 1
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 369170924
+Offline Global position     :  (-50.6612,-8.60397,-53.1778) 
+Offline Rechit dimension online: 1
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 436228818
+Offline Global position     :  (-62.4511,-5.85391,-63.3857) 
+Offline Rechit dimension online: 1
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 436228817
+Offline Global position     :  (-62.8818,-5.89444,-63.386) 
+Offline Rechit dimension online: 1
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 436245329
+Offline Global position     :  (-69.0474,-11.7501,-63.3883) 
+Offline Rechit dimension online: 1
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 436245330
+Offline Global position     :  (-69.4739,-11.8236,-63.3887) 
+Offline Rechit dimension online: 1
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 436245333
+Offline Global position     :  (-70.1171,-11.9306,-82.2472) 
+Offline Rechit dimension online: 1
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 436245334
+Offline Global position     :  (-70.5435,-12.0044,-82.2478) 
+Offline Rechit dimension online: 1
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 436261780
+Offline Global position     :  (-75.604,-8.42935,-80.4697) 
+Offline Rechit dimension online: 1
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 436278292
+Offline Global position     :  (-87.9493,-11.7001,-82.2419) 
+Offline Rechit dimension online: 1
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 436294776
+Offline Global position     :  (-97.3595,-14.4403,-98.9807) 
+Offline Rechit dimension online: 1
+Online muon (pt,eta,phi): 98.5065, -0.866694, -2.97496
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 303067152
+Online Global position  :  (-3.04387,-0.469329,-6.27312) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 304148492
+Online Global position  :  (-6.84908,-1.11111,-10.0425) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 305233928
+Online Global position  :  (-10.5804,-1.73091,-13.7583) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 4
+Online  muon RawID      : 369120488
+Online Global position  :  (-23.4434,-3.87071,-26.4959) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 4
+Online  muon RawID      : 369136936
+Online Global position  :  (-31.5937,-5.21227,-34.6201) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 369153420
+Online Global position  :  (-40.1012,-6.60581,-45.619) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 369170924
+Online Global position  :  (-50.7487,-8.34454,-53.1775) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 4
+Online  muon RawID      : 436228816
+Online Global position  :  (-62.2636,-10.1784,-64.8617) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 4
+Online  muon RawID      : 436245332
+Online Global position  :  (-70.4103,-11.4949,-73.1417) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 436261780
+Online Global position  :  (-75.1778,-12.2543,-80.4696) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 436278292
+Online Global position  :  (-87.6131,-14.2294,-82.2422) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 436294776
+Online Global position  :  (-97.1683,-15.7343,-98.9807) 
+Online Rechit dimension : 2
+Shared Fraction: 0.421053
+Begin processing the 25th record. Run 1, Event 26, LumiSection 1 on stream 0 at 09-Apr-2019 08:49:29.515 CDT
+Begin processing the 26th record. Run 1, Event 24, LumiSection 1 on stream 0 at 09-Apr-2019 08:49:29.747 CDT
+Begin processing the 27th record. Run 1, Event 27, LumiSection 1 on stream 0 at 09-Apr-2019 08:49:30.032 CDT
+For offline muon with pt, eta, phi: 99.91, -1.69743, 0.314763
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 303042572
+Offline Global position     :  (2.93892,0.838367,-10.0499) 
+Offline Rechit dimension online: 2
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 304095240
+Offline Global position     :  (6.17211,2.27469,-16.7504) 
+Offline Rechit dimension online: 2
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 344298500
+Offline Global position     :  (12.0898,4.17737,-30.4888) 
+Offline Rechit dimension online: 2
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 344560644
+Offline Global position     :  (12.09,4.17772,-37.9893) 
+Offline Rechit dimension online: 2
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 402664069
+Offline Global position     :  (27.6973,7.42209,-80.2815) 
+Offline Rechit dimension online: 2
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 402664070
+Offline Global position     :  (27.697,7.42218,-80.5264) 
+Offline Rechit dimension online: 2
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 470045068
+Offline Global position     :  (53.9851,15.5518,-137.342) 
+Offline Rechit dimension online: 2
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 470094253
+Offline Global position     :  (65.8273,15.7765,-175.574) 
+Offline Rechit dimension online: 2
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 470094254
+Offline Global position     :  (65.8212,15.8012,-175.887) 
+Offline Rechit dimension online: 2
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 470094249
+Offline Global position     :  (62.5508,25.8802,-176.308) 
+Offline Rechit dimension online: 2
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 470094250
+Offline Global position     :  (62.5397,25.9031,-176.621) 
+Offline Rechit dimension online: 2
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 470110637
+Offline Global position     :  (65.8252,15.7769,-189.57) 
+Offline Rechit dimension online: 2
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 470110638
+Offline Global position     :  (65.8227,15.8027,-189.884) 
+Offline Rechit dimension online: 2
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 470110668
+Offline Global position     :  (78.6872,22.6653,-193.258) 
+Offline Rechit dimension online: 2
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 470127052
+Offline Global position     :  (78.6882,22.667,-210.753) 
+Offline Rechit dimension online: 2
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 470143436
+Offline Global position     :  (78.687,22.6683,-229.746) 
+Offline Rechit dimension online: 2
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 470159856
+Offline Global position     :  (94.2218,30.6089,-247.346) 
+Offline Rechit dimension online: 2
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 470176240
+Offline Global position     :  (94.2307,30.6138,-268.841) 
+Offline Rechit dimension online: 2
+Online muon (pt,eta,phi): 88.2415, -1.69742, 0.315173
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 303042572
+Online Global position  :  (2.89889,0.97858,-8.22738) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 304095240
+Online Global position  :  (6.24758,2.06993,-17.5197) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 344298500
+Online Global position  :  (10.9392,3.59211,-30.5362) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 344560644
+Online Global position  :  (13.6668,4.47551,-38.0955) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 4
+Online  muon RawID      : 402664068
+Online Global position  :  (28.9823,9.42082,-80.4039) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 470045068
+Online Global position  :  (53.4881,17.2782,-137.342) 
+Online Rechit dimension : 2
+Shared Fraction: 0.277778
+Begin processing the 28th record. Run 1, Event 28, LumiSection 1 on stream 0 at 09-Apr-2019 08:49:30.600 CDT
+For offline muon with pt, eta, phi: 102.147, 1.7566, 2.74018
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 303063060
+Offline Global position     :  (-2.65644,0.666577,3.35007) 
+Offline Rechit dimension online: 2
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 304140316
+Offline Global position     :  (-6.58239,2.17915,16.7511) 
+Offline Rechit dimension online: 2
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 352740356
+Offline Global position     :  (-11.7485,5.05816,31.4888) 
+Offline Rechit dimension online: 2
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 353002500
+Offline Global position     :  (-11.7486,5.05823,38.9896) 
+Offline Rechit dimension online: 2
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 402672410
+Offline Global position     :  (-24.8331,14.3371,77.6708) 
+Offline Rechit dimension online: 2
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 402672409
+Offline Global position     :  (-24.8335,14.337,77.916) 
+Offline Rechit dimension online: 2
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 402674458
+Offline Global position     :  (-24.8328,14.337,90.6196) 
+Offline Rechit dimension online: 2
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 402674457
+Offline Global position     :  (-24.833,14.3369,90.8646) 
+Offline Rechit dimension online: 2
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 402674970
+Offline Global position     :  (-31.7917,18.3543,94.1195) 
+Offline Rechit dimension online: 2
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 402674969
+Offline Global position     :  (-31.7924,18.3543,94.3643) 
+Offline Rechit dimension online: 2
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 402677018
+Offline Global position     :  (-31.7915,18.3543,107.068) 
+Offline Rechit dimension online: 2
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 402677017
+Offline Global position     :  (-31.7919,18.3542,107.313) 
+Offline Rechit dimension online: 2
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 470307940
+Offline Global position     :  (-39.8682,20.313,134.31) 
+Offline Rechit dimension online: 2
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 470324360
+Offline Global position     :  (-51.9052,21.4983,150.837) 
+Offline Rechit dimension online: 2
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 470340744
+Offline Global position     :  (-51.9041,21.498,164.833) 
+Offline Rechit dimension online: 2
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 470357161
+Offline Global position     :  (-62.5493,25.879,176.304) 
+Offline Rechit dimension online: 2
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 470357162
+Offline Global position     :  (-62.5386,25.9018,176.617) 
+Offline Rechit dimension online: 2
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 470373545
+Offline Global position     :  (-62.547,25.8779,190.301) 
+Offline Rechit dimension online: 2
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 470373546
+Offline Global position     :  (-62.5411,25.903,190.613) 
+Offline Rechit dimension online: 2
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 470389929
+Offline Global position     :  (-62.5479,25.8787,207.795) 
+Offline Rechit dimension online: 2
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 470389930
+Offline Global position     :  (-62.5384,25.9021,208.109) 
+Offline Rechit dimension online: 2
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 470389960
+Offline Global position     :  (-75.6504,31.3315,210.247) 
+Offline Rechit dimension online: 2
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 470406344
+Offline Global position     :  (-75.6508,31.3317,229.243) 
+Offline Rechit dimension online: 2
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 470422764
+Offline Global position     :  (-91.5296,37.9065,247.843) 
+Offline Rechit dimension online: 2
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 470422728
+Offline Global position     :  (-75.6553,31.3339,249.735) 
+Offline Rechit dimension online: 2
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 470439148
+Offline Global position     :  (-91.5314,37.9074,269.34) 
+Offline Rechit dimension online: 2
+Online muon (pt,eta,phi): 102.128, 1.7566, 2.74022
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 303063060
+Online Global position  :  (-2.54099,1.12679,5.84755) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 352740356
+Online Global position  :  (-10.9316,4.6952,31.4731) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 353002500
+Online Global position  :  (-13.3992,5.74673,39.0056) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 4
+Online  muon RawID      : 402672408
+Online Global position  :  (-26.0548,11.1578,77.7934) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 4
+Online  muon RawID      : 402674456
+Online Global position  :  (-30.3544,12.9977,90.7421) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 4
+Online  muon RawID      : 402674968
+Online Global position  :  (-31.4824,13.4822,94.2419) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 4
+Online  muon RawID      : 402677016
+Online Global position  :  (-35.8319,15.3375,107.191) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 470307940
+Online Global position  :  (-41.2148,17.6699,134.31) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 470324360
+Online Global position  :  (-51.6347,22.1516,150.837) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 470340744
+Online Global position  :  (-51.6323,22.1547,164.833) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 4
+Online  muon RawID      : 470357160
+Online Global position  :  (-58.4064,25.0844,176.459) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 4
+Online  muon RawID      : 470373544
+Online Global position  :  (-61.484,26.4015,190.457) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 4
+Online  muon RawID      : 470389928
+Online Global position  :  (-68.2985,29.3354,207.948) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 470389960
+Online Global position  :  (-75.2287,32.3549,210.247) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 470406344
+Online Global position  :  (-75.2172,32.3728,229.242) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 470422764
+Online Global position  :  (-91.0012,39.1981,247.839) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 470422728
+Online Global position  :  (-75.2068,32.4079,249.734) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 470439148
+Online Global position  :  (-90.9786,39.2316,269.334) 
+Online Rechit dimension : 2
+Shared Fraction: 0.423077
+Begin processing the 29th record. Run 1, Event 29, LumiSection 1 on stream 0 at 09-Apr-2019 08:49:30.974 CDT
+Begin processing the 30th record. Run 1, Event 32, LumiSection 1 on stream 0 at 09-Apr-2019 08:49:31.209 CDT
+For offline muon with pt, eta, phi: 102.499, 0.0516745, 2.35129
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 303058964
+Offline Global position     :  (-2.19518,2.12612,3.35009) 
+Offline Rechit dimension online: 2
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 304132116
+Offline Global position     :  (-4.98399,4.8227,3.35025) 
+Offline Rechit dimension online: 2
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 305205268
+Offline Global position     :  (-7.78817,7.82054,3.35011) 
+Offline Rechit dimension online: 2
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 306282516
+Offline Global position     :  (-10.8317,11.9738,3.34991) 
+Offline Rechit dimension online: 2
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 369125573
+Offline Global position     :  (-20.0425,18.071,7.57496) 
+Offline Rechit dimension online: 1
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 369125574
+Offline Global position     :  (-20.2353,18.196,7.575) 
+Offline Rechit dimension online: 1
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 369140950
+Offline Global position     :  (-21.6701,23.7981,2.93436) 
+Offline Rechit dimension online: 1
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 369140949
+Offline Global position     :  (-21.8498,23.9416,2.9345) 
+Offline Rechit dimension online: 1
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 369158436
+Offline Global position     :  (-31.7439,29.6498,7.4556) 
+Offline Rechit dimension online: 1
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 369173828
+Offline Global position     :  (-34.0918,34.0898,3.35006) 
+Offline Rechit dimension online: 1
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 436232710
+Offline Global position     :  (-43.5165,45.1744,9.22348) 
+Offline Rechit dimension online: 1
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 436232709
+Offline Global position     :  (-43.8173,45.4855,9.22415) 
+Offline Rechit dimension online: 1
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 436249189
+Offline Global position     :  (-49.009,45.4499,9.21742) 
+Offline Rechit dimension online: 1
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 436249190
+Offline Global position     :  (-49.3278,45.7424,9.21764) 
+Offline Rechit dimension online: 1
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 436265604
+Offline Global position     :  (-52.3554,56.0849,9.22135) 
+Offline Rechit dimension online: 1
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 436282084
+Offline Global position     :  (-58.508,61.4821,9.22135) 
+Offline Rechit dimension online: 1
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 436315012
+Offline Global position     :  (-74.1439,80.2674,9.22115) 
+Offline Rechit dimension online: 1
+Online muon (pt,eta,phi): 103.398, 0.0516694, 2.35125
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 303058964
+Online Global position  :  (-2.12459,2.19899,4.30259) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 304132116
+Online Global position  :  (-4.85532,4.95563,4.49772) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 305205268
+Online Global position  :  (-7.73571,7.87304,4.70761) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 306282516
+Online Global position  :  (-11.3352,11.5191,4.98489) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 4
+Online  muon RawID      : 369125572
+Online Global position  :  (-19.23,19.5328,5.51957) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 4
+Online  muon RawID      : 369140948
+Online Global position  :  (-22.5487,22.8837,5.67635) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 369158436
+Online Global position  :  (-30.6941,31.2034,7.45566) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 369173828
+Online Global position  :  (-33.8506,34.4216,3.35007) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 4
+Online  muon RawID      : 436232708
+Online Global position  :  (-44.1077,44.9061,7.43759) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 4
+Online  muon RawID      : 436249188
+Online Global position  :  (-47.0298,47.9023,7.6207) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 436265604
+Online Global position  :  (-53.7386,54.7934,9.22126) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 436282084
+Online Global position  :  (-59.4171,60.617,9.22129) 
+Online Rechit dimension : 2
+Shared Fraction: 0.470588
+Begin processing the 31st record. Run 1, Event 30, LumiSection 1 on stream 0 at 09-Apr-2019 08:49:31.410 CDT
+Begin processing the 32nd record. Run 1, Event 33, LumiSection 1 on stream 0 at 09-Apr-2019 08:49:31.770 CDT
+Begin processing the 33rd record. Run 1, Event 34, LumiSection 1 on stream 0 at 09-Apr-2019 08:49:31.961 CDT
+Begin processing the 34th record. Run 1, Event 36, LumiSection 1 on stream 0 at 09-Apr-2019 08:49:32.163 CDT
+Begin processing the 35th record. Run 1, Event 31, LumiSection 1 on stream 0 at 09-Apr-2019 08:49:32.423 CDT
+Begin processing the 36th record. Run 1, Event 38, LumiSection 1 on stream 0 at 09-Apr-2019 08:49:32.760 CDT
+For offline muon with pt, eta, phi: 96.3097, -1.44356, -2.67528
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 304152584
+Offline Global position     :  (-6.17159,-2.27413,-16.7494) 
+Offline Rechit dimension online: 2
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 305242116
+Offline Global position     :  (-9.40819,-5.11191,-23.4496) 
+Offline Rechit dimension online: 2
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 344369156
+Offline Global position     :  (-11.7586,-5.03111,-30.336) 
+Offline Rechit dimension online: 2
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 344372228
+Offline Global position     :  (-11.1161,-6.32696,-30.7382) 
+Offline Rechit dimension online: 2
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 369121581
+Offline Global position     :  (-23.3805,-13.4764,-60.5491) 
+Offline Rechit dimension online: 1
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 369121582
+Offline Global position     :  (-23.5587,-13.6217,-60.5483) 
+Offline Rechit dimension online: 1
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 402664738
+Offline Global position     :  (-31.7911,-18.3529,-81.1692) 
+Offline Rechit dimension online: 2
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 402664737
+Offline Global position     :  (-31.7916,-18.353,-81.4141) 
+Offline Rechit dimension online: 2
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 402667184
+Offline Global position     :  (-39.8689,-20.3118,-89.773) 
+Offline Rechit dimension online: 2
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 402669232
+Offline Global position     :  (-39.8675,-20.3114,-102.721) 
+Offline Rechit dimension online: 2
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 470046121
+Offline Global position     :  (-62.5466,-25.875,-134.307) 
+Offline Rechit dimension online: 2
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 470046122
+Offline Global position     :  (-62.5365,-25.8986,-134.619) 
+Offline Rechit dimension online: 2
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 470062505
+Offline Global position     :  (-62.5434,-25.8737,-148.302) 
+Offline Rechit dimension online: 2
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 470062506
+Offline Global position     :  (-62.5399,-25.9005,-148.615) 
+Offline Rechit dimension online: 2
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 470062532
+Offline Global position     :  (-71.6685,-39.6021,-151.253) 
+Offline Rechit dimension online: 2
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 470078916
+Offline Global position     :  (-71.6667,-39.6014,-165.248) 
+Offline Rechit dimension online: 2
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 470095300
+Offline Global position     :  (-71.667,-39.6018,-179.241) 
+Offline Rechit dimension online: 2
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 470111720
+Offline Global position     :  (-88.2749,-44.9675,-190.348) 
+Offline Rechit dimension online: 2
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 470128104
+Offline Global position     :  (-88.2811,-44.9713,-207.835) 
+Offline Rechit dimension online: 2
+Online muon (pt,eta,phi): 95.5085, -1.44342, -2.67533
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 304152584
+Online Global position  :  (-5.92582,-2.94106,-18.0068) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 305242116
+Online Global position  :  (-9.58823,-4.78071,-26.2029) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 344369156
+Online Global position  :  (-11.3176,-5.6476,-30.069) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 4
+Online  muon RawID      : 369121580
+Online Global position  :  (-24.5166,-12.2552,-59.5293) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 4
+Online  muon RawID      : 402664736
+Online Global position  :  (-34.1863,-17.0698,-81.2916) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 402667184
+Online Global position  :  (-40.0378,-19.9801,-89.773) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 402669232
+Online Global position  :  (-40.0495,-19.9541,-102.721) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 4
+Online  muon RawID      : 470046120
+Online Global position  :  (-58.1042,-28.9292,-134.463) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 4
+Online  muon RawID      : 470062504
+Online Global position  :  (-64.2732,-31.9626,-148.458) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 470062532
+Online Global position  :  (-73.3915,-36.4857,-151.254) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 470078916
+Online Global position  :  (-73.4024,-36.4643,-165.248) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 470095300
+Online Global position  :  (-73.4308,-36.4035,-179.24) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 470111720
+Online Global position  :  (-88.7619,-44.0166,-190.348) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 470128104
+Online Global position  :  (-88.7839,-43.979,-207.836) 
+Online Rechit dimension : 2
+Shared Fraction: 0.526316
+Begin processing the 37th record. Run 1, Event 39, LumiSection 1 on stream 0 at 09-Apr-2019 08:49:33.138 CDT
+Begin processing the 38th record. Run 1, Event 35, LumiSection 1 on stream 0 at 09-Apr-2019 08:49:33.326 CDT
+Begin processing the 39th record. Run 1, Event 37, LumiSection 1 on stream 0 at 09-Apr-2019 08:49:33.849 CDT
+For offline muon with pt, eta, phi: 99.7662, -0.122394, 0.121197
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 303042576
+Offline Global position     :  (2.9389,0.838142,-3.35009) 
+Offline Rechit dimension online: 2
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 305139728
+Offline Global position     :  (11.0107,0.7647,-3.35022) 
+Offline Rechit dimension online: 2
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 306192400
+Offline Global position     :  (15.9741,2.35434,-3.35032) 
+Offline Rechit dimension online: 2
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 369120278
+Offline Global position     :  (23.6153,2.84896,-3.7017) 
+Offline Rechit dimension online: 1
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 369120277
+Offline Global position     :  (23.8365,2.91183,-3.70108) 
+Offline Rechit dimension online: 1
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 369137685
+Offline Global position     :  (35.267,2.90476,-8.37268) 
+Offline Rechit dimension online: 1
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 369137686
+Offline Global position     :  (35.4906,2.9588,-8.37203) 
+Offline Rechit dimension online: 1
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 369153044
+Offline Global position     :  (40.1598,2.8738,-3.61966) 
+Offline Rechit dimension online: 1
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 369170468
+Offline Global position     :  (50.6623,8.60509,-7.61237) 
+Offline Rechit dimension online: 1
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 436228134
+Offline Global position     :  (58.1859,5.45644,-9.22972) 
+Offline Rechit dimension online: 1
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 436228133
+Offline Global position     :  (58.6169,5.49561,-9.23011) 
+Offline Rechit dimension online: 1
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 436260900
+Offline Global position     :  (78.7857,8.78733,-9.22665) 
+Offline Rechit dimension online: 1
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 436277316
+Offline Global position     :  (87.951,11.7034,-9.22631) 
+Offline Rechit dimension online: 1
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 436293700
+Offline Global position     :  (93.5503,13.879,-9.22698) 
+Offline Rechit dimension online: 1
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 436310084
+Offline Global position     :  (109.276,11.953,-9.22679) 
+Offline Rechit dimension online: 1
+Online muon (pt,eta,phi): 100.375, -0.122421, 0.121138
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 303042576
+Online Global position  :  (3.06,0.413564,-0.762586) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 305139728
+Online Global position  :  (10.9684,1.3692,-1.7452) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 306192400
+Online Global position  :  (16.0294,1.97703,-2.36781) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 4
+Online  muon RawID      : 369120276
+Online Global position  :  (23.7222,2.89388,-3.32827) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 4
+Online  muon RawID      : 369137684
+Online Global position  :  (35.059,4.2399,-4.73975) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 369153044
+Online Global position  :  (39.7155,4.7839,-3.6197) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 369170468
+Online Global position  :  (51.4886,6.15593,-7.61227) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 4
+Online  muon RawID      : 436228132
+Online Global position  :  (58.2643,6.93979,-7.61035) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 436260900
+Online Global position  :  (78.7318,9.27059,-9.22661) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 436277316
+Online Global position  :  (88.136,10.3108,-9.22612) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 436293700
+Online Global position  :  (93.9817,10.9652,-9.22681) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 436310084
+Online Global position  :  (109.201,12.6432,-9.22686) 
+Online Rechit dimension : 2
+Shared Fraction: 0.6
+Begin processing the 40th record. Run 1, Event 41, LumiSection 1 on stream 0 at 09-Apr-2019 08:49:34.264 CDT
+For offline muon with pt, eta, phi: 100.554, 0.751665, 1.12502
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 303050772
+Offline Global position     :  (0.797134,3.17769,3.34986) 
+Offline Rechit dimension online: 2
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 304107540
+Offline Global position     :  (3.59275,5.93255,3.35011) 
+Offline Rechit dimension online: 2
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 305168408
+Offline Global position     :  (5.15082,9.38742,10.05) 
+Offline Rechit dimension online: 2
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 306233368
+Offline Global position     :  (6.91702,14.5897,10.05) 
+Offline Rechit dimension online: 2
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 369124438
+Offline Global position     :  (11.0697,21.0536,16.9101) 
+Offline Rechit dimension online: 1
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 369124437
+Offline Global position     :  (11.1434,21.2714,16.9101) 
+Offline Rechit dimension online: 1
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 369140858
+Offline Global position     :  (11.644,30.0063,23.8902) 
+Offline Rechit dimension online: 1
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 369140857
+Offline Global position     :  (11.6925,30.2311,23.89) 
+Offline Rechit dimension online: 1
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 369158296
+Offline Global position     :  (17.3069,39.8408,30.1474) 
+Offline Rechit dimension online: 1
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 369174696
+Offline Global position     :  (24.8587,44.9747,37.7881) 
+Offline Rechit dimension online: 1
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 369174712
+Offline Global position     :  (19.6665,47.4752,37.7875) 
+Offline Rechit dimension online: 1
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 436232462
+Offline Global position     :  (26.1535,57.0132,45.9705) 
+Offline Rechit dimension online: 1
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 436232461
+Offline Global position     :  (26.333,57.4073,45.9711) 
+Offline Rechit dimension online: 1
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 436248877
+Offline Global position     :  (31.2144,59.1047,45.059) 
+Offline Rechit dimension online: 1
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 436248878
+Offline Global position     :  (31.4163,59.4875,45.0594) 
+Offline Rechit dimension online: 1
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 436248881
+Offline Global position     :  (31.7201,60.0644,63.3766) 
+Offline Rechit dimension online: 1
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 436248882
+Offline Global position     :  (31.9226,60.4469,63.3769) 
+Offline Rechit dimension online: 1
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 436265296
+Offline Global position     :  (30.498,69.6925,63.3769) 
+Offline Rechit dimension online: 1
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 436281712
+Offline Global position     :  (40.7024,75.2193,63.376) 
+Offline Rechit dimension online: 1
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 436298132
+Offline Global position     :  (43.2507,84.8361,82.2359) 
+Offline Rechit dimension online: 1
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 436314580
+Offline Global position     :  (46.8318,98.7287,80.4648) 
+Offline Rechit dimension online: 1
+Online muon (pt,eta,phi): 101.617, 0.752, 1.12498
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 303050772
+Online Global position  :  (1.43364,3.01802,1.11662) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 304107540
+Online Global position  :  (3.00062,6.29076,4.11134) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 305168408
+Online Global position  :  (4.62276,9.67725,7.21084) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 306233368
+Online Global position  :  (6.96664,14.5663,11.6808) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 369124438
+Online Global position  :  (10.2255,21.3392,16.91) 
+Online Rechit dimension : 1
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 369124437
+Online Global position  :  (10.4434,21.5083,16.8359) 
+Online Rechit dimension : 1
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 369140858
+Online Global position  :  (14.1392,29.4679,23.8903) 
+Online Rechit dimension : 1
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 369140857
+Online Global position  :  (14.0606,29.7201,23.6471) 
+Online Rechit dimension : 1
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 369158296
+Online Global position  :  (18.9506,39.4164,30.1475) 
+Online Rechit dimension : 1
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 369174696
+Online Global position  :  (22.1208,45.9673,37.7883) 
+Online Rechit dimension : 1
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 369174712
+Online Global position  :  (22.5172,46.7909,37.7877) 
+Online Rechit dimension : 1
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 436232462
+Online Global position  :  (27.244,56.513,45.9706) 
+Online Rechit dimension : 1
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 436232461
+Online Global position  :  (27.0203,57.092,45.8952) 
+Online Rechit dimension : 1
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 436248877
+Online Global position  :  (29.8208,59.8407,44.9003) 
+Online Rechit dimension : 1
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 436248878
+Online Global position  :  (29.2534,60.6298,45.0596) 
+Online Rechit dimension : 1
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 436248881
+Online Global position  :  (28.7683,61.6234,63.0417) 
+Online Rechit dimension : 1
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 436248882
+Online Global position  :  (29.7297,61.605,63.3767) 
+Online Rechit dimension : 1
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 436265296
+Online Global position  :  (33.1047,68.5517,63.3768) 
+Online Rechit dimension : 1
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 436281712
+Online Global position  :  (37.2822,77.0699,63.3759) 
+Online Rechit dimension : 1
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 436298132
+Online Global position  :  (41.5189,85.7191,82.2355) 
+Online Rechit dimension : 1
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 436314580
+Online Global position  :  (47.7166,98.3089,80.4639) 
+Online Rechit dimension : 1
+Shared Fraction: 1
+Begin processing the 41st record. Run 1, Event 40, LumiSection 1 on stream 0 at 09-Apr-2019 08:49:34.594 CDT
+Begin processing the 42nd record. Run 1, Event 43, LumiSection 1 on stream 0 at 09-Apr-2019 08:49:34.863 CDT
+Begin processing the 43rd record. Run 1, Event 42, LumiSection 1 on stream 0 at 09-Apr-2019 08:49:35.060 CDT
+Begin processing the 44th record. Run 1, Event 46, LumiSection 1 on stream 0 at 09-Apr-2019 08:49:35.417 CDT
+Begin processing the 45th record. Run 1, Event 45, LumiSection 1 on stream 0 at 09-Apr-2019 08:49:35.594 CDT
+Begin processing the 46th record. Run 1, Event 48, LumiSection 1 on stream 0 at 09-Apr-2019 08:49:35.890 CDT
+Begin processing the 47th record. Run 1, Event 44, LumiSection 1 on stream 0 at 09-Apr-2019 08:49:36.037 CDT
+For offline muon with pt, eta, phi: 104.508, -0.23023, -2.37681
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 304160784
+Offline Global position     :  (-4.57385,-4.72685,-3.34982) 
+Offline Rechit dimension online: 2
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 306348044
+Offline Global position     :  (-11.9741,-10.8321,-10.0498) 
+Offline Rechit dimension online: 2
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 369121589
+Offline Global position     :  (-20.0672,-18.0437,-16.0235) 
+Offline Rechit dimension online: 1
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 369121590
+Offline Global position     :  (-20.212,-18.2225,-16.0233) 
+Offline Rechit dimension online: 1
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 369138053
+Offline Global position     :  (-26.0466,-23.9536,-8.3657) 
+Offline Rechit dimension online: 1
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 369138054
+Offline Global position     :  (-26.1898,-24.1334,-8.36578) 
+Offline Rechit dimension online: 1
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 369154516
+Offline Global position     :  (-31.7474,-29.6466,-15.2433) 
+Offline Rechit dimension online: 1
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 369170996
+Offline Global position     :  (-38.3182,-34.2405,-7.6039) 
+Offline Rechit dimension online: 1
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 436228934
+Offline Global position     :  (-47.4657,-39.3266,-9.23535) 
+Offline Rechit dimension online: 1
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 436261960
+Offline Global position     :  (-52.9465,-55.5285,-27.313) 
+Offline Rechit dimension online: 1
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 436278472
+Offline Global position     :  (-63.8018,-60.7136,-27.3137) 
+Offline Rechit dimension online: 1
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 436294952
+Offline Global position     :  (-74.0939,-64.7875,-27.3132) 
+Offline Rechit dimension online: 1
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 436311528
+Offline Global position     :  (-74.7923,-75.2154,-27.3142) 
+Offline Rechit dimension online: 1
+Online muon (pt,eta,phi): 103.781, -0.230237, -2.37678
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 304160784
+Online Global position  :  (-4.76589,-4.54113,-5.69732) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 306348044
+Online Global position  :  (-11.6783,-11.1586,-7.92016) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 4
+Online  muon RawID      : 369121588
+Online Global position  :  (-19.513,-18.6405,-10.4506) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 4
+Online  muon RawID      : 369138052
+Online Global position  :  (-25.6068,-24.4484,-12.3815) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 369154516
+Online Global position  :  (-31.3753,-29.937,-15.2433) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 3
+Online  muon RawID      : 436228932
+Online Global position  :  (-44.8999,-42.7632,-9.28596) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 436261960
+Online Global position  :  (-55.6556,-52.9454,-27.3129) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 436278472
+Online Global position  :  (-63.8564,-60.6561,-27.3137) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 436294952
+Online Global position  :  (-71.457,-67.8033,-27.3134) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 436311528
+Online Global position  :  (-77.0071,-73.0124,-27.3143) 
+Online Rechit dimension : 2
+Shared Fraction: 0.538462
+Begin processing the 48th record. Run 1, Event 49, LumiSection 1 on stream 0 at 09-Apr-2019 08:49:36.409 CDT
+For offline muon with pt, eta, phi: 101.484, 0.966726, -1.46747
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 304177176
+Offline Global position     :  (0.843887,-6.52308,10.05) 
+Offline Rechit dimension online: 2
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 305274908
+Offline Global position     :  (0.741727,-10.6816,16.75) 
+Offline Rechit dimension online: 2
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 306389024
+Offline Global position     :  (2.3541,-15.9734,23.4499) 
+Offline Rechit dimension online: 2
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 369125753
+Offline Global position     :  (-0.0182886,-26.9861,31.0875) 
+Offline Rechit dimension online: 1
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 369125754
+Offline Global position     :  (0.0182056,-27.2132,31.0875) 
+Offline Rechit dimension online: 1
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 369141182
+Offline Global position     :  (5.89643,-31.6411,44.771) 
+Offline Rechit dimension online: 1
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 369141181
+Offline Global position     :  (5.97378,-31.8576,44.7712) 
+Offline Rechit dimension online: 1
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 369158732
+Offline Global position     :  (5.91338,-43.0325,52.7871) 
+Offline Rechit dimension online: 1
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 369175228
+Offline Global position     :  (2.87992,-51.306,60.5429) 
+Offline Rechit dimension online: 1
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 436233266
+Offline Global position     :  (9.79004,-57.6141,63.3726) 
+Offline Rechit dimension online: 1
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 436233265
+Offline Global position     :  (9.86357,-58.0407,63.3726) 
+Offline Rechit dimension online: 1
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 436249781
+Offline Global position     :  (2.51992,-66.7923,80.4576) 
+Offline Rechit dimension online: 1
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 436249782
+Offline Global position     :  (2.53759,-67.2247,80.4574) 
+Offline Rechit dimension online: 1
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 436266296
+Offline Global position     :  (4.19319,-79.1609,98.9598) 
+Offline Rechit dimension online: 1
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 436282872
+Offline Global position     :  (11.2853,-84.776,98.9605) 
+Offline Rechit dimension online: 1
+Offline Rechit type         : 0
+Offline rTTI                : 1
+Offline rechit RawID        : 470312944
+Offline Global position     :  (7.77711,-98.7577,127.218) 
+Offline Rechit dimension online: 2
+Online muon (pt,eta,phi): 102.74, 0.96676, -1.46749
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 304177176
+Online Global position  :  (0.690839,-6.5428,12.4916) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 305274908
+Online Global position  :  (1.11409,-10.6557,17.1418) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 306389024
+Online Global position  :  (1.66671,-16.0745,23.2662) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 4
+Online  muon RawID      : 369125752
+Online Global position  :  (2.7366,-26.666,35.2262) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 4
+Online  muon RawID      : 369141180
+Online Global position  :  (3.34133,-32.6725,42.0437) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 369158732
+Online Global position  :  (4.41632,-43.4853,52.7872) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 369175228
+Online Global position  :  (5.13948,-50.8168,60.543) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 4
+Online  muon RawID      : 436233264
+Online Global position  :  (5.88338,-58.4978,71.2305) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 4
+Online  muon RawID      : 436249780
+Online Global position  :  (6.67747,-66.8516,80.4571) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 436266296
+Online Global position  :  (7.85623,-78.9667,98.9594) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 436282872
+Online Global position  :  (8.44109,-85.1548,98.9611) 
+Online Rechit dimension : 2
+Online rechit type      : 0
+Online rTTI             : 1
+Online  muon RawID      : 470312944
+Online Global position  :  (9.63155,-98.6141,127.218) 
+Online Rechit dimension : 2
+Shared Fraction: 0.5
