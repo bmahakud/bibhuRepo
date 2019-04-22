@@ -1,0 +1,44 @@
+Begin processing the 3rd record. Run 1, Event 3, LumiSection 1 on stream 0 at 22-Apr-2019 12:43:21.360 CEST
+%MSG-w SiPixelPhase1TrackClusters:   SiPixelPhase1TrackClusters:hltSiPixelPhase1TrackClustersAnalyzer  22-Apr-2019 12:43:21 CEST Run: 1 Event: 3
+muon eta: 1.21559
+effective area: 0.0562
+correction: 0
+MiniIsolation Values: 0
+Begin processing the 4th record. Run 1, Event 4, LumiSection 1 on stream 0 at 22-Apr-2019 12:43:31.918 CEST
+%MSG-w SiPixelPhase1TrackClusters:   SiPixelPhase1TrackClusters:hltSiPixelPhase1TrackClustersAnalyzer  22-Apr-2019 12:43:32 CEST Run: 1 Event: 4
+muon eta: 1.28408
+effective area: 0.0562
+correction: 0.0161235
+MiniIsolation Values: 4.77343
+Begin processing the 5th record. Run 1, Event 5, LumiSection 1 on stream 0 at 22-Apr-2019 12:43:35.140 CEST
+%MSG-w SiPixelPhase1TrackClusters:   SiPixelPhase1TrackClusters:hltSiPixelPhase1TrackClustersAnalyzer  22-Apr-2019 12:43:35 CEST Run: 1 Event: 5
+Begin processing the 6th record. Run 1, Event 6, LumiSection 1 on stream 0 at 22-Apr-2019 12:43:36.807 CEST
+%MSG-w SiPixelPhase1TrackClusters:   SiPixelPhase1TrackClusters:hltSiPixelPhase1TrackClustersAnalyzer  22-Apr-2019 12:43:36 CEST Run: 1 Event: 6
+muon eta: 0.548205
+effective area: 0.0566
+correction: 0.0217369
+MiniIsolation Values: 3.47708
+Begin processing the 7th record. Run 1, Event 7, LumiSection 1 on stream 0 at 22-Apr-2019 12:43:40.097 CEST
+%MSG-w SiPixelPhase1TrackClusters:   SiPixelPhase1TrackClusters:hltSiPixelPhase1TrackClustersAnalyzer  22-Apr-2019 12:43:40 CEST Run: 1 Event: 7
+Begin processing the 8th record. Run 1, Event 8, LumiSection 1 on stream 0 at 22-Apr-2019 12:43:41.438 CEST
+%MSG-w SiPixelPhase1TrackClusters:   SiPixelPhase1TrackClusters:hltSiPixelPhase1TrackClustersAnalyzer  22-Apr-2019 12:43:41 CEST Run: 1 Event: 8
+muon eta: 1.14103
+effective area: 0.0562
+correction: 0
+MiniIsolation Values: 0
+Begin processing the 9th record. Run 1, Event 9, LumiSection 1 on stream 0 at 22-Apr-2019 12:43:43.512 CEST
+%MSG-w SiPixelPhase1TrackClusters:   SiPixelPhase1TrackClusters:hltSiPixelPhase1TrackClustersAnalyzer  22-Apr-2019 12:43:43 CEST Run: 1 Event: 9
+muon eta: 1.86837
+effective area: 0.0363
+correction: 0.00429542
+MiniIsolation Values: 2.44772
+Begin processing the 10th record. Run 1, Event 10, LumiSection 1 on stream 0 at 22-Apr-2019 12:43:45.738 CEST
+%MSG-w SiPixelPhase1TrackClusters:   SiPixelPhase1TrackClusters:hltSiPixelPhase1TrackClustersAnalyzer  22-Apr-2019 12:43:45 CEST Run: 1 Event: 10
+muon eta: 0.391973
+effective area: 0.0566
+correction: 0
+MiniIsolation Values: 0
+muon eta: 0.113587
+effective area: 0.0566
+correction: 0
+MiniIsolation Values: 0.0232943
