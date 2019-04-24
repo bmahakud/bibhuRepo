@@ -1,0 +1,120 @@
+
+----------------------------------------------
+offline hit number: 1
+Offline Rechit type         : 0
+Offline RTTI                : 1
+Offline rechit RawID        : 303087636
+Offline Global   position: (2.65642,-0.666301,3.34976) 
+Offline Global    R/z/phi: 2.73871, 3.34976, -0.245757
+Offline Rechit dimension : 2
+Offline Pixel position: 106.021, 194.021
+----------------------------------------------
+offline hit number: 2
+Offline Rechit type         : 0
+Offline RTTI                : 1
+Offline rechit RawID        : 304201752
+Offline Global   position: (6.54739,-0.628566,10.0497) 
+Offline Global    R/z/phi: 6.57749, 10.0497, -0.0957092
+Offline Rechit dimension : 2
+Offline Pixel position: 40.3021, 311.156
+----------------------------------------------
+offline hit number: 3
+Offline Rechit type         : 0
+Offline RTTI                : 1
+Offline rechit RawID        : 305311772
+Offline Global   position: (10.7799,-2.36804,16.75) 
+Offline Global    R/z/phi: 11.037, 16.75, -0.216236
+Offline Rechit dimension : 2
+Offline Pixel position: 20.5, 376.923
+----------------------------------------------
+offline hit number: 4
+Offline Rechit type         : 0
+Offline RTTI                : 1
+Offline rechit RawID        : 369125866
+Offline Global   position: (27.0659,-2.82627,31.0916) 
+Offline Global    R/z/phi: 27.213, 31.0916, -0.104045
+Offline Rechit dimension : 1
+Offline StripCluster 1D:  592
+----------------------------------------------
+offline hit number: 5
+Offline Rechit type         : 0
+Offline RTTI                : 1
+Offline rechit RawID        : 369141294
+Offline Global   position: (32.0469,-2.98646,44.776) 
+Offline Global    R/z/phi: 32.1857, 44.776, -0.092922
+Offline Rechit dimension : 1
+Offline StripCluster 1D:  86
+----------------------------------------------
+offline hit number: 6
+Offline Rechit type         : 0
+Offline RTTI                : 1
+Offline rechit RawID        : 369141293
+Offline Global   position: (32.2764,-2.97236,44.776) 
+Offline Global    R/z/phi: 32.413, 44.776, -0.0918319
+Offline Rechit dimension : 1
+Offline StripCluster 1D:  721
+----------------------------------------------
+offline hit number: 7
+Offline Rechit type         : 0
+Offline RTTI                : 1
+Offline rechit RawID        : 369158876
+Offline Global   position: (42.5279,-8.83783,52.7918) 
+Offline Global    R/z/phi: 43.4365, 52.7918, -0.204896
+Offline Rechit dimension : 1
+Offline StripCluster 1D:  112
+----------------------------------------------
+offline hit number: 8
+Offline Rechit type         : 0
+Offline RTTI                : 1
+Offline rechit RawID        : 369175420
+Offline Global   position: (50.66,-8.60767,60.5526) 
+Offline Global    R/z/phi: 51.3861, 60.5526, -0.168303
+Offline Rechit dimension : 1
+Offline StripCluster 1D:  263
+----------------------------------------------
+offline hit number: 9
+Offline Rechit type         : 0
+Offline RTTI                : 1
+Offline rechit RawID        : 436233526
+Offline Global   position: (58.2693,-12.1556,82.2372) 
+Offline Global    R/z/phi: 59.5237, 82.2372, -0.205662
+Offline Rechit dimension : 1
+Offline StripCluster 1D:  128
+----------------------------------------------
+offline hit number: 10
+Offline Rechit type         : 0
+Offline RTTI                : 1
+Offline rechit RawID        : 436233525
+Offline Global   position: (58.6931,-12.2438,82.2378) 
+Offline Global    R/z/phi: 59.9566, 82.2378, -0.205658
+Offline Rechit dimension : 1
+Offline StripCluster 1D:  347
+----------------------------------------------
+offline hit number: 11
+Offline Rechit type         : 0
+Offline RTTI                : 1
+Offline rechit RawID        : 436250137
+Offline Global   position: (70.8146,-6.61457,98.9825) 
+Offline Global    R/z/phi: 71.1228, 98.9825, -0.0931367
+Offline Rechit dimension : 1
+Offline StripCluster 1D:  499
+----------------------------------------------
+offline hit number: 12
+Offline Rechit type         : 0
+Offline RTTI                : 1
+Offline rechit RawID        : 436266680
+Offline Global   position: (78.6852,-9.61442,98.9701) 
+Offline Global    R/z/phi: 79.2704, 98.9701, -0.121586
+Offline Rechit dimension : 1
+Offline StripCluster 1D:  52
+----------------------------------------------
+offline hit number: 13
+Offline Rechit type         : 0
+Offline RTTI                : 1
+Offline rechit RawID        : 470311396
+Offline Global   position: (97.843,-15.4906,127.714) 
+Offline Global    R/z/phi: 99.0616, 127.714, -0.157017
+Offline Rechit dimension : 2
+Offline Strip cluster 2D: 175
+Shared Fraction: 0.846154
+------------------------------------
