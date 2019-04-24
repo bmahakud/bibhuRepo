@@ -1,0 +1,119 @@
+Begin processing the 22nd record. Run 1, Event 19, LumiSection 1 on stream 0 at 22-Apr-2019 08:24:29.296 CDT
+For offline muon with pt, eta, phi: 99.6494, 1.05918, -0.164296
+Online muon (pt,eta,phi): 101.358, 1.05935, -0.164313
+hit number: 1
+Online rechit type      : 0
+Online RTTI             : 1
+Online  muon RawID      : 303087636
+Online Global   position: (2.72131,-0.407821,3.5746) 
+Online Global    R/z/phi: 2.7517, 3.5746, -0.148755
+Online Rechit dimension : 2
+Online Pixel position: 106.007, 194.007
+-------------------------------------------------------------
+
+hit number: 2
+Online rechit type      : 0
+Online RTTI             : 1
+Online  muon RawID      : 304201752
+Online Global   position: (6.50808,-1.03826,8.45695) 
+Online Global    R/z/phi: 6.59038, 8.45695, -0.158201
+Online Rechit dimension : 2
+Online Pixel position: 40.3062, 311.189
+-------------------------------------------------------------
+
+hit number: 3
+Online rechit type      : 0
+Online RTTI             : 1
+Online  muon RawID      : 305311772
+Online Global   position: (10.9108,-1.77248,14.1109) 
+Online Global    R/z/phi: 11.0538, 14.1109, -0.161045
+Online Rechit dimension : 2
+Online Pixel position: 20.5, 376.912
+-------------------------------------------------------------
+
+hit number: 4
+Online rechit type      : 0
+Online RTTI             : 3
+Online  muon RawID      : 369125864
+Online Global   position: (27.0207,-4.47895,30.9203) 
+Online Global    R/z/phi: 27.3894, 30.9203, -0.164266
+Online Rechit dimension : 2
+Online StripculsterProj2D: 592
+-------------------------------------------------------------
+
+hit number: 5
+Online rechit type      : 0
+Online RTTI             : 4
+Online  muon RawID      : 369141292
+Online Global   position: (32.3169,-5.37499,41.6325) 
+Online Global    R/z/phi: 32.7609, 41.6325, -0.164812
+Online Rechit dimension : 2
+Online SiStrip MatchedRecHit2D: 2
+Online SiStrip StereoHit:  2
+Online SiStrip MatchedRecHit2D: StereoId: 369141293
+Online SiStrip MatchedRecHit2D: MonoId: 369141294
+-------------------------------------------------------------
+
+hit number: 6
+Online rechit type      : 0
+Online RTTI             : 1
+Online  muon RawID      : 369158876
+Online Global   position: (42.6096,-7.12898,52.7918) 
+Online Global    R/z/phi: 43.2018, 52.7918, -0.165774
+Online Rechit dimension : 2
+Online Strip cluster 2D: 112
+-------------------------------------------------------------
+
+hit number: 7
+Online rechit type      : 0
+Online RTTI             : 1
+Online  muon RawID      : 369175420
+Online Global   position: (50.6612,-8.50484,60.5528) 
+Online Global    R/z/phi: 51.3701, 60.5528, -0.166326
+Online Rechit dimension : 2
+Online Strip cluster 2D: 263
+-------------------------------------------------------------
+
+hit number: 8
+Online rechit type      : 0
+Online RTTI             : 4
+Online  muon RawID      : 436233524
+Online Global   position: (58.9539,-9.93471,75.9262) 
+Online Global    R/z/phi: 59.7851, 75.9262, -0.166948
+Online Rechit dimension : 2
+Online SiStrip MatchedRecHit2D: 2
+Online SiStrip StereoHit:  2
+Online SiStrip MatchedRecHit2D: StereoId: 436233525
+Online SiStrip MatchedRecHit2D: MonoId: 436233526
+-------------------------------------------------------------
+
+hit number: 9
+Online rechit type      : 0
+Online RTTI             : 2
+Online  muon RawID      : 436250136
+Online Global   position: (70.6158,-11.0699,99.7049) 
+Online Global    R/z/phi: 71.4782, 99.7049, -0.155497
+Online Rechit dimension : 2
+Online StripculsterProj2D: 499
+-------------------------------------------------------------
+
+hit number: 10
+Online rechit type      : 0
+Online RTTI             : 1
+Online  muon RawID      : 436266680
+Online Global   position: (78.2364,-13.2899,98.9717) 
+Online Global    R/z/phi: 79.3572, 98.9717, -0.168262
+Online Rechit dimension : 2
+Online Strip cluster 2D: 52
+-------------------------------------------------------------
+
+hit number: 11
+Online rechit type      : 0
+Online RTTI             : 1
+Online  muon RawID      : 470311396
+Online Global   position: (97.6503,-16.7151,127.709) 
+Online Global    R/z/phi: 99.0706, 127.709, -0.16953
+Online Rechit dimension : 2
+Online Strip cluster 2D: 175
+-------------------------------------------------------------
+
