@@ -61,7 +61,7 @@ process.configurationMetadata = cms.untracked.PSet(
 
 # Output definition
 
-OutFile = 'file:/eos/user/b/bimahaku/BstoMuMu_NanoAOD/BstoMuMuFile-RunIIAutumn18_NanoAOD_test_1.root'#%(str(num))
+OutFile = 'file:BstoMuMuFile-RunIIAutumn18_NanoAOD_Tuple.root'#%(str(num))
 
 process.NANOAODSIMoutput = cms.OutputModule("NanoAODOutputModule",
     compressionAlgorithm = cms.untracked.string('LZMA'),
@@ -103,13 +103,13 @@ from PhysicsTools.NanoAOD.nano_cff import nanoAOD_customizeMC
 process = nanoAOD_customizeMC(process)
 
 # Automatic addition of the customisation function from Bmm5.NanoAOD.nano_cff
-from Bmm5.NanoAOD.nano_cff import nanoAOD_customizeBxToMuMu, nanoAOD_customizeV0ForMuonFake 
+#from Bmm5.NanoAOD.nano_cff import nanoAOD_customizeBxToMuMu, nanoAOD_customizeV0ForMuonFake 
 
 #call to customisation function nanoAOD_customizeBxToMuMu imported from Bmm5.NanoAOD.nano_cff
-process = nanoAOD_customizeBxToMuMu(process)
+#process = nanoAOD_customizeBxToMuMu(process)
 
 #call to customisation function nanoAOD_customizeV0ForMuonFake imported from Bmm5.NanoAOD.nano_cff
-process = nanoAOD_customizeV0ForMuonFake(process)
+#process = nanoAOD_customizeV0ForMuonFake(process)
 
 # End of customisation functions
 
