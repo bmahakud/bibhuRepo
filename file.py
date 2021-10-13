@@ -1,3 +1,7 @@
+dictr={"Short":'T',"Buy":'B',"Sell":'S'}
+
+
+
 def solution(hrt_trades, market_trades):
     missing_trades = []
     HRTArr=[]
@@ -18,11 +22,20 @@ def solution(hrt_trades, market_trades):
              if itr2[1]==idtotest:
                  #print("found id")
                  #check these following
-                 if itr1[0] !=itr2[4] or itr1[1] !=itr2[5] or itr1[2] != itr2[3] or itr1[3][0] != itr2[2]:
+                 appnd="no"
+                 print (dictr.get(str(itr1[3])))
+                 if itr1[0] !=itr2[4]:
+                     appnd="yes"
+                 if  itr1[1] !=itr2[5]:
+                     appnd="yes"
+                 if itr1[2] != itr2[3]:
+                     appnd="yes"
+                 if  dictr.get(str(itr1[3])) != itr2[2]:
+                     appnd="yes"
+                 if itr1[5] != itr1[0]: 
+                     appnd="yes"
 
-                    #print("found problem")
-                    missing_trades.append(itr1)
-                    missing_trades.append(itr2)
+                 missing_trades.append(itr2)
 
 
 
@@ -30,3 +43,5 @@ def solution(hrt_trades, market_trades):
     return missing_trades
 
 print (solution(hrt_trades, market_trades))
+
+print (len(solution(hrt_trades, market_trades)))
