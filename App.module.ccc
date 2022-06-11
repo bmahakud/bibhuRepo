@@ -1,0 +1,25 @@
+
+.app{
+
+border-style: solid;
+border-color: red;
+height:98vh;
+overflow-y: scroll;
+}
+
+
+.header{
+border-style:solid ;
+height:50px;
+background-color: lightgrey;
+display:flex;
+justify-content: center;
+}
+
+
+.body{
+
+border-style: solid;
+height: 1400px;
+background-color: white;
+}
